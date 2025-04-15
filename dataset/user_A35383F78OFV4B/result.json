@@ -1,0 +1,48 @@
+[
+  {
+    "title": "e.l.f. 3 Piece Lipstain Set, 0.234 Ounce",
+    "description": "Get beautiful precision color that lasts for hours with this pigment rich lip stain marker. The pen-like tip lets you draw on color easily for a streak and smudge free professional look. Infused with nourishing vitamin e to hydrate and moisturize lips.",
+    "itemID": "B00FLKP5UO",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 146780
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Lips",
+        "Lip Stains"
+      ]
+    ],
+    "price": NaN,
+    "brand": NaN
+  },
+  {
+    "title": "e.l.f. Studio Mineral Infused Face Primer, Radiant Glow, 0.48 Oz.",
+    "description": "Developed to combat against excess oil, flaky dryness, enlarged pores and fine lines. This clear multipurpose skin primer will prepare your skin so makeup goes on evenly for a long lasting satin finish.",
+    "itemID": "B00ACOHI7W",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 6899
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Foundation Primers"
+      ]
+    ],
+    "price": 7.04,
+    "brand": "e.l.f. Cosmetics"
+  }
+]

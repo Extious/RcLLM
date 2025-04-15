@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Olay Regenerist Targeted Tone Enhancer, 1 Ounce",
+    "description": "Renew the outer layer of your skin for a more youthful glow.    Regenerist Targeted Tone Enhancer uses an exclusive amino-peptide complex combined with pro-retinol to renew the outer layer of your skin for a more youthful brightness. It allows you to target damaged cells by diminishing the appearance of age spots and discoloration without drastic measures.**  The results? Beautifully regenerated skin - the appearance of age spots and discoloration diminished.  **Results not equal to medical procedures. Dermatologist and ophthalmologist tested. Non-comedogenic (won't clog pores). Oil free. Color free.  Fragrance free./* Table of Contents: global page Structure nav headings link Styles text Styles inline Imgs extras */ /* -----------------------------------*/ /* ---------->>> =global <<<-----------*/ /* -----------------------------------*/ * {margin: 0; padding: 0; outline: none;} ul {list-style: none;} a {border: none; outline: none;} img {border: none;} a { padding-bottom: 0; color: #138299; text-decoration: none; } a:hover { padding-bottom: 0; color: #333333!important; } sup { vertical-align: top; } hr { border: 1px solid #d6dfe3; margin: 10px 0 14px 0; *margin: 0 0 9px 0; border-width:1px 0 0; } .clear { clear:both; } .hidden {display:none;} #disclaimer {font-size:9px; color:#888888; line-height: 9px;text-indent:-6px; } /* -----------------------------------*/ /* ---->>> =General page structure <<<--------*/ /* -----------------------------------*/ body { background-color:#FFFFFF; font: 12px Helvetica, Arial, sans-serif; color: #282628; } #wrap { width: 1045px; /*height: 1095px; * height: 1123px;*/ margin: 20px auto; text-align:left; } #header_PG { float: left; background-color:#000000; width: 1045px; margin: 10px 0 11px 0;  height: 62px; } #header_PG h3 { color:#910D24; font-size:18px; margin:20px 0 0 24px; } #headerImage { clear:both; width: 1045px; } #headerImage img{ margin: 19px 0 0 907px; } .disc{ margin-top: 60px; font-size: 9px !important; } #headerImage p { line-height: 19px; font-weight: bold; font-size: 13px; display: none; } #headline_PG { margin-top: 7px; } #content_PG { margin: 40px 43px 50px 53px;} #total #content_PG { margin-bottom: 0;} #mainPage { line-height: 18.7px; } #mainPage p{ padding-bottom: 10px; } #panel_PG { background:#000000 url(http://images.amazon.com/images/G/01/hpc/detail-page/panTop.gif) no-repeat; margin: 20px 10px 25px 10px; width: 406px; } #panel_PG ul{ list-style: inside; list-style-type: none; padding: 18px 0 14px 30px; color: #e8cb90; line-height: 25px; } #panBot { background:#000000 url(http://images.amazon.com/images/G/01/hpc/detail-page/panBot.gif) no-repeat; height: 10px; } #mainLeft { float:left; width: 450px; margin-right: 55px; margin-bottom: 20px; } #mainLeft ul{ padding-left: 15px; margin-top: -3px; } #mainRight { float:left; width: 440px; word-spacing: -0.09em; margin-bottom: 20px; *margin-bottom: 0px; } #mainRight img { float: left; margin-top:8px; padding-right: 17px; padding-bottom: 15px; } #ofyDiv { background:#FFFFFF url(http://images.amazon.com/images/G/01/hpc/detail-page/ofyLinkBot.jpg) no-repeat scroll center top; border-style: dotted; border-color:#a7905e; border-width: 0 0 1px 0; height:134px; color:#FFFFFF; } #ofyDiv h2, #ofyDiv p, #ofyDiv h3{ color:#59513a; margin: 0; padding:0; text-indent: -2999px; } #ofyDiv p span{ color:#e1c480; } #ofyLink { margin: 16px 0 0 628px; cursor: pointer; } @media screen and (-webkit-min-device-pixel-ratio:0){ #ofyLink { margin: 17px 0 0 628px; } } /* -----------------------------------*/ /* ---->>> =headings <<<--------*/ /* -----------------------------------*/ h1 { color: #FFFFFF; font: Helvetica, Arial, sans-serif } h2 { font-size: 1.5em; font-weight: bold; word-spacing: 1.5px; padding-bottom: 12px; } .headTop {padding-top: 15px;} .pad {padding-top: 6px;} img + h2 {padding-top: 10px;} h3 { font:  1.7em  Helvetica,Arial, sans-serif; color: #e0cc97; margin: 17px 0 0 23px; letter-spacing: 0.4px; } h4 { font: 1em Helvetica, Arial, sans-serif; font-weight:bold; margin-top: 2px; } /* -----------------------------------*/ /* ---->>> =pages styles <<<--------*/ /* -----------------------------------*/ #def #header_PG {background-color:#313043;} #cle #header_PG {background-color:#3ca4b1;} #total #headerImage{background:#FFFFFF url(http://images.amazon.com/images/G/01/hpc/detail-page/headerImage.jpg) no-repeat;height: 394px;} #reg #headerImage{background:#FFFFFF url(http://images.amazon.com/images/G/01/hpc/detail-page/regHeaderImage.jpg) no-repeat;height: 452px;} #def #headerImage{background:#FFFFFF url(http://images.amazon.com/images/G/01/hpc/detail-page/defHeaderImage.jpg) no-repeat;height: 453px;} #cle #headerImage{background:#FFFFFF url(http://images.amazon.com/images/G/01/hpc/detail-page/cleHeaderImage.jpg) no-repeat;height: 452px;} #def #headerImage img{padding-top: 19px;} #def #recall {padding-bottom:0;} #total #headerImage p {padding:180px 0 0 700px; *padding:160px 0 0 700px; width:290px;} #reg #headerImage p {text-align:right; margin-right:25px; padding:11px 0 0 420px; width:600px; color:#FFFFFF; font-size:12px;} #def #headerImage p {color:#FFFFFF; padding:2px 0 0 525px; width:500px; text-indent: -2999px;} #cle #headerImage p {color:#333333; padding:42px 0 0 33px; width:350px;} #def #content_PG {margin: 40px 35px 50px 32px;} #def #mainLeft {margin-right: 73px;width: 410px;} #def #mainLeft ul li{background: url(http://images.amazon.com/images/G/01/hpc/detail-page/bullet.gif) no-repeat 0 50%; padding-left: 8px;} #def #mainRight {width: 490px;} #total h1 {text-indent: -1999px;} #reg h1 {padding: 50px 0 0 487px; font-size: 2.5em; font-weight: bold; line-height: 1.3em;display:none;} #reg h1 span{padding-left: 120px;} #def h1 {padding: 205px 0 0 550px; font-size: 1.8em; font-weight:bolder; line-height: 1.3em; text-indent: -2999px;} #def #mainLeft h1,#def #mainRight h1 {margin: 0px; padding:0px; color: #6d6a68; text-indent: 0px; font-size: 2em;} #total #headerImage h1 {text-indent: -2999px;} #cle #headerImage h1 {text-indent: -2999px;} #total h2 {color: #a58c5a;} #reg h2 {color: #c60110;} #def h2 {color: #6d6a68;} #reg h3{color: #a8000d;} #def h3{color: #dcd9de;} #cle h3{color: #dcd9de;}",
+    "itemID": "B000F63OG6",
+    "helpful": [
+      2,
+      2
+    ],
+    "overall": 1.0,
+    "salesRank": {
+      "Beauty": 114074
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face"
+      ]
+    ],
+    "price": 16.24,
+    "brand": "Olay"
+  },
+  {
+    "title": "Andis 67690 1-Inch Nano-Silver Tourmaline Wet or Dry Ceramic Flat Iron",
+    "description": "This high style 1 inch Wet / Dry Flat Iron is perfect for all hair and styles. The Nano-Silver technology with real silver has anti-bacterial properties. Crushed from precious gemstones, the tourmaline crystals emit negative ions that quickly seal the cuticle layer and eliminate frizz for smoother, silkier hair. The ceramic plates preserve moisture, creating luster and shine. You can use this flat iron on wet or dry hair; eliminate the need for blow drying! You can straighten, flip, shape, control, and smooth hair with a single product. The maximum temperature of 400 degrees allows you to really lock in the style and create professional results at home. A closing lock for easy storage, auto shut off for safety, tangle free cord and fast heat up are features that all women need in their styling appliances. For over 80 years, Andis has provided the barber and beauty industry with the finest quality of hair styling equipment to assure the highest level of professional results and now we are making this technology available for home use with the Andis at Home line of products. Designed and engineered in the United States, Andis also offers a complete line of quality clippers and trimmers for animal grooming as well as a full line of wall mounted hair dryers for the hotel industry. Andis warrants its retail products to the original purchaser against defective material or workmanship for five years from the date of purchase. All implied warranties are also limited to five years. Andis will replace the product without cost to the consumer. The defective unit must be returned to: The Andis Co., 1800 Renaissance Blvd., Sturtevant, WI 53177. To reach a customer service representative, please call 1-800-558-9441.",
+    "itemID": "B000U0C65C",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 172960
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Irons",
+        "Flattening Irons"
+      ]
+    ],
+    "price": NaN,
+    "brand": NaN
+  },
+  {
+    "title": "Dial White Antibacterial Soap, 4-Ounces Bars, 10 Count (Pack of 3)",
+    "description": "Experience a pure feeling of clean, and long-lasting deodorant protection. White and bright, it delivers the clean Dial is famous for, with a fragrance as fresh as a new morning.",
+    "itemID": "B005JRGH0G",
+    "helpful": [
+      4,
+      7
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Health & Personal Care": 12057
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Cleansers",
+        "Soaps"
+      ]
+    ],
+    "price": 27.49,
+    "brand": "Dial"
+  }
+]

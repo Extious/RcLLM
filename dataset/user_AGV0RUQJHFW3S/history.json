@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Axe Detailer Shower Tool-Colors May Vary, 1 Count (Pack of 4)",
+    "description": "",
+    "itemID": "B0017TZD7S",
+    "helpful": [
+      0,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 2280
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Cleansers",
+        "Body Washes"
+      ]
+    ],
+    "price": 15.87,
+    "brand": "AXE"
+  },
+  {
+    "title": "Suave Professionals Moroccan Infusion Color Care Shampoo 28 oz",
+    "description": "",
+    "itemID": "B00A0IWRRG",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 94620
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 5.99,
+    "brand": "Suave"
+  },
+  {
+    "title": "Hydroxatone 90 Second Wrinkle Reducer",
+    "description": "",
+    "itemID": "B005FPWORC",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 53483
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Creams & Moisturizers",
+        "Fluids & Lotions",
+        "Lotions"
+      ]
+    ],
+    "price": 27.77,
+    "brand": "Hydroxatone"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "title": "BaByliss Pro - Porcelain Plate Ceramic Flat Iron - 1 Inch - model: BABP9557",
+    "description": "Commercial grade porcelain ceramic creates shiny, smooth finish. Porcelain emits negative ions that smooth and relax hair while generating far-infrared heat to protect hair's luster.",
+    "itemID": "B003H0U5BY",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 690
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Irons",
+        "Flattening Irons"
+      ]
+    ],
+    "price": 35.5,
+    "brand": "Babyliss Pro"
+  },
+  {
+    "title": "BaByliss PRO Nano Titanium Mini Straightening Iron (1 inch)",
+    "description": "Babyliss Nano Titanium 1 inch mini straightening iron.",
+    "itemID": "B002N0U37A",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 2887
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Irons",
+        "Flattening Irons"
+      ]
+    ],
+    "price": 22.5,
+    "brand": "BaBylissPRO"
+  }
+]

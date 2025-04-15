@@ -1,0 +1,73 @@
+[
+  {
+    "title": "Eucerin Lotion, Intensive Repair, 16.9 Ounce Bottle",
+    "description": "",
+    "itemID": "B000XY9LT4",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 15542
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Lotions"
+      ]
+    ],
+    "price": 14.5,
+    "brand": "Eucerin"
+  },
+  {
+    "title": "Nature's Gate Glow Lotion, medium skin tones, 16 Ounce Bottle",
+    "description": "Nature's Gate Glow Lotion for medium skin tones provides a gradual, even and natural looking glow while hydrating and nourishing skin. Skin protecting antioxidants are combined with 7 skin conditioning moisturizers, leaving skin supple and touchably soft. Use daily for healthy looking, sun-kissed skin year round.",
+    "itemID": "B003I4BCXE",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 3039
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Lotions"
+      ]
+    ],
+    "price": 9.49,
+    "brand": "Nature&#39;s Gate"
+  },
+  {
+    "title": "Garnier Olia Oil Powered Permanent Haircolor, 7.0 Dark Blonde",
+    "description": "Unlike traditional hair color, olia uses an exclusive 60% oil blend, with natural flower oils in the colorant. The unique oil-based formula propels colorants deep into the hair without ammonia, for pure, vivid, long-lasting color. Olia achieves maximum color performance while the oils help reverse roughness and dullness, visibly improving and restoring hair.",
+    "itemID": "B00BEWW7AO",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 83831
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Hair Color",
+        "Chemical Hair Dyes"
+      ]
+    ],
+    "price": 4.99,
+    "brand": "Garnier"
+  }
+]

@@ -1,0 +1,48 @@
+[
+  {
+    "title": "Eucerin Baby Eczema Relief Body Creme, 5 Ounce",
+    "description": "Your skin is much more than your body's protective shield. For over 100 years Eucerin has pioneered skincare innovation and today we are recognized by dermatologists as one of the leading and most recommended brands. Our products are designated to protect, repair, and enhance the health of skin &#x2013; Giving the feeling of confidence that comes from radiant, healthy looking skin. This unique formula with Oatmeal, Ceramide-3 and Licochalcone intensively moisturizes and helps relieve dry, irritated skin and itching due to eczema. Clinically proven immediate and long-lasting relief of itchy, dry, irritated skin due to eczema.",
+    "itemID": "B00GMZUS2M",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 4132
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Creams"
+      ]
+    ],
+    "price": 6.74,
+    "brand": "Eucerin"
+  },
+  {
+    "title": "Suave Professionals Natural Infusion Macadamia Oil and White Orchid Shampoo, 12.6 Ounce",
+    "description": "",
+    "itemID": "B00HSNWZFU",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 13653
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 7.0,
+    "brand": "Suave"
+  }
+]

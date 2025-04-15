@@ -1,0 +1,93 @@
+[
+  {
+    "title": "Pantene Pro-V Curly Hair Series Light Conditioning Hair Detangler 8.5 Fl Oz (Pack of 3)",
+    "description": "",
+    "itemID": "B003EGZZ1G",
+    "helpful": [
+      2,
+      3
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 70721
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": NaN,
+    "brand": NaN
+  },
+  {
+    "title": "OPI Lacquer Thinner, 2 Fluid Ounce",
+    "description": "Extend the life of your favorite nail polishes with this nail lacquer thinner. Formulated with a carefully selected blend of solvents to rejuvenate overworked polish and maintain proper nail lacquer consistency. Specialized dropper bottle is ideal for careful, drop-by-drop application. May also be used to clean OPI Nail Lacquer brushes.",
+    "itemID": "B000PZ8E62",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 2891
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Nails",
+        "Nail Polish"
+      ]
+    ],
+    "price": 7.0,
+    "brand": "OPI"
+  },
+  {
+    "title": "Conair 61118z Conair Foam Rollers, 48 Pack",
+    "description": "Conair 48-pack of foam rollers with built in quick clips is easy to use on damp or dry hair. use with or without styling solution to produce tight, defined curls. soft, comfortable curlers are easy to sleep on. foam construction helps prevent breakage and splitting due to grabbing caused by other rollers. assorted sizes are color coded to produce curls of the same shape and size.",
+    "itemID": "B001KYS930",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 2818
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Hair Rollers"
+      ]
+    ],
+    "price": 12.54,
+    "brand": "Conair"
+  },
+  {
+    "title": "INM Out The Door Top Coat, 0.5 Ounce",
+    "description": "Out the door's long wearing, high gloss finish will not yellow. Use alone or over any polish to accelerate the drying time.",
+    "itemID": "B000EVGQ8U",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 3501
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Nails",
+        "Top & Base Coats"
+      ]
+    ],
+    "price": 3.93,
+    "brand": "INM"
+  }
+]

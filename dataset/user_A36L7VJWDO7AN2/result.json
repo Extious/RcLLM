@@ -1,0 +1,48 @@
+[
+  {
+    "title": "Axe 2 in 1 Shampoo Plus Conditioner Apollo, 12 Ounce",
+    "description": "",
+    "itemID": "B00AE07B9O",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 34581
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 15.95,
+    "brand": "AXE"
+  },
+  {
+    "title": "Banana Boat Sport Coolzone Sunscreen Lotion Spf 50, 6 Ounce",
+    "description": "Sunscreen lotion that instantly cools and refreshes the skin while also providing broad spectrum protection.",
+    "itemID": "B009FKNGGQ",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 12731
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Sun",
+        "Skin Protection",
+        "Sports"
+      ]
+    ],
+    "price": 6.75,
+    "brand": "Banana Boat"
+  }
+]

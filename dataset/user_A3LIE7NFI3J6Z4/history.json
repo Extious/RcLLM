@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Now Foods: Tea Tree Oil, 4 oz",
+    "description": "Tea tree oil has been a favorite among Australians for centuries. Only in recent years however, has it gained popularity in aromatherapy. With strong antiseptic and germicidal properties, Tea Tree is now used for a number of applications ranging from cosm",
+    "itemID": "B000ELP5KA",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Health & Personal Care": 240
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Oils"
+      ]
+    ],
+    "price": 17.15,
+    "brand": "Now Foods"
+  },
+  {
+    "title": "Gold 'N Hot Jet Bonnet Dryer Attachment",
+    "description": "The Gold 'N Hot Jet Bonnet Dryer Attachement from Belson is ideal for conditioning treatments and quick roller sets.",
+    "itemID": "B000YC3VHS",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 78335
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Diffusers"
+      ]
+    ],
+    "price": 8.99,
+    "brand": "Gold N Hot"
+  },
+  {
+    "title": "Wild Growth Hair Care System",
+    "description": "Both Wild Growth Hair Oil and Wild Growth Light Oil Moisturizer are made from plant derived oils, vitamins and minerals. There are no petroleum by-products, and no animal by products and there are no synthetic colors, fragrances or preservatives.",
+    "itemID": "B001U403NY",
+    "helpful": [
+      0,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 16533
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Hair Loss Products",
+        "Hair Regrowth Treatments"
+      ]
+    ],
+    "price": 13.25,
+    "brand": "Wild Growth"
+  }
+]

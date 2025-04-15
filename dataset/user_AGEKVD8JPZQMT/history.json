@@ -1,0 +1,73 @@
+[
+  {
+    "title": "Gillette Venus Spa Breeze Razor",
+    "description": "",
+    "itemID": "B001JQLNFA",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Health & Personal Care": 67241
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Oils"
+      ]
+    ],
+    "price": 12.99,
+    "brand": NaN
+  },
+  {
+    "title": "Olay 2-In-1 Advanced Ribbons Tone Brightening + Advanced Moisture Body Wash 18 Oz (Pack of 3)",
+    "description": "",
+    "itemID": "B001JQLNJ6",
+    "helpful": [
+      0,
+      1
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Health & Personal Care": 8783
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Cleansers",
+        "Body Washes"
+      ]
+    ],
+    "price": 24.99,
+    "brand": "Olay"
+  },
+  {
+    "title": "Dove Men and Care Body and Face Wash, Clean Comfort, 18 Ounce (Pack of 3)",
+    "description": "",
+    "itemID": "B002TSA916",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 3565
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Cleansers",
+        "Washes"
+      ]
+    ],
+    "price": 9.75,
+    "brand": "Dove"
+  }
+]

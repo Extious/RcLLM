@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Everyone Lotion for Everyone and Every Body, Citrus and Mint, 32 Fluid Ounce -1 each",
+    "description": "Everyone lotion for everyone and every body. An ultra moisturizing lotion made with pure essential oils and herbal extracts to keep your skin soft and smooth.",
+    "itemID": "B0070TSNO4",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 28715
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Lotions"
+      ]
+    ],
+    "price": 10.34,
+    "brand": "Everyone"
+  },
+  {
+    "title": "Hollywood Beauty Tea Tree Oil 2 oz.",
+    "description": "Hollywood Beauty Tea Tree Oil is a natural preventative, for mild cases of Anhydrosis (dry skin), its natural ingredients are widely believed to have healing and restorative properties. For treatment of toe or finger nails mix tea tree oil with warm water and soak for five minutes. Hollywood Beauty Tea Tree Oil has vitamin E and aloe vera that will leave your skin, scalp and nails soft and clean.",
+    "itemID": "B000A3V1XC",
+    "helpful": [
+      2,
+      3
+    ],
+    "overall": 1.0,
+    "salesRank": {
+      "Beauty": 56863
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Hair & Scalp Treatments"
+      ]
+    ],
+    "price": 5.88,
+    "brand": "Hollywood"
+  },
+  {
+    "title": "Fundamental Shampoo - 12 Oz. - Chemical Free Shampoo - SLS Free - Natural Shampoo - Made in USA",
+    "description": "Fundamental Shampoo is a truly chemical free shampoo with many organic ingredients. This amazing natural shampoo is SLS Free and will naturally restore body and shine as it protects and revitalizes your hair.",
+    "itemID": "B005I8RH78",
+    "helpful": [
+      3,
+      3
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 4277
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Scrubs & Body Treatments",
+        "Body Scrubs"
+      ]
+    ],
+    "price": 15.61,
+    "brand": "Fundamental Earth"
+  }
+]

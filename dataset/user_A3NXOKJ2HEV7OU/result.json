@@ -1,0 +1,45 @@
+[
+  {
+    "title": "John Frieda Sheer Blonde Go Blonder Controlled Lightening Spray, 3.5 Ounce",
+    "description": "Versatile, patent-pending formula with citrus and chamomile works with styling heat to gradually lighten and brighten for a natural-looking, blonder blonde. Contains thermo-protectant. Patent-pending technology combines fixative and conditioning polymers that retain hydrogen peroxide, allowing for control of lightening. Visibly lightens in 3-5 uses.",
+    "itemID": "B004DK7DVC",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": NaN,
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Hair Sprays"
+      ]
+    ],
+    "price": 6.99,
+    "brand": "John Frieda"
+  },
+  {
+    "title": "John Frieda Sheer Blonde Go Blonder Lightening Conditioner, 8.45 Fluid Ounce (Pack of 2)",
+    "description": "John frieda go blonder lightening conditioner-8.45 fluid ounce gradually lightens blonde while nourishing hair to reveal an ideal sun-kissed look all year long.",
+    "itemID": "B005MIFIQG",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 2682
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Conditioners"
+      ]
+    ],
+    "price": 14.84,
+    "brand": "John Frieda"
+  }
+]

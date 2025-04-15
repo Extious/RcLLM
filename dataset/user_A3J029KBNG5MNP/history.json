@@ -1,0 +1,67 @@
+[
+  {
+    "title": "Pantene Pro-V Smooth Shampoo 12.6 Fl Oz (Pack of 6)",
+    "description": "",
+    "itemID": "B003JA3KSW",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 342582
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 26.08,
+    "brand": "Pantene"
+  },
+  {
+    "title": "CLEAR SCALP &amp; HAIR BEAUTY Moisturizing Dry Scalp Nourishing Conditioner, 12.7 Fluid Ounce",
+    "description": "",
+    "itemID": "B007RTR8T8",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 82195
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Conditioners"
+      ]
+    ],
+    "price": 5.99,
+    "brand": "Clear"
+  },
+  {
+    "title": "CLEAR SCALP &amp; HAIR BEAUTY Damage &amp; Color Repair Nourishing Conditioner, 12.7 Fluid Ounce",
+    "description": "",
+    "itemID": "B007RTR8TS",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 40820
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care"
+      ]
+    ],
+    "price": 4.25,
+    "brand": "Clear"
+  }
+]

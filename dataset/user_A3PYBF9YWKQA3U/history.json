@@ -1,0 +1,70 @@
+[
+  {
+    "title": "Agadir  Argan Oil Hair Treatment, 4-Ounce",
+    "description": "Leave in, daily hair treatment that's super enriched with vitamin E. Leaves hair with radiant shine!",
+    "itemID": "B001U9M2EW",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 140
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Hair & Scalp Treatments"
+      ]
+    ],
+    "price": 15.6,
+    "brand": "Agadir"
+  },
+  {
+    "title": "one 'n only Argan Oil Curl Cream Derived from Moroccan Argan Tress, 10 Ounce",
+    "description": "The one 'n only Argan Oil Curl Cream helps define beautiful curls. The rich formula helps eliminate frizz and is humidity resistant. The Argan oil used in the formula, moisturizes and revives damaged hair.",
+    "itemID": "B004SP12LE",
+    "helpful": [
+      4,
+      4
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 5238
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Curl Enhancers"
+      ]
+    ],
+    "price": 10.87,
+    "brand": "one &#39;n only"
+  },
+  {
+    "title": "Macadamia Natural Oil Reviving Curl Cream for Unisex, 8.5 Ounce",
+    "description": "Natural oil reviving curl cream by Macadamia for unisex 8.5 ounce cream. Natural oil reviving curl cream was launched by the design house of Macadamia. It is recommended for daily use. Please store in a cool dry place. 8.5 ounce cream.",
+    "itemID": "B005HJ4474",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 1.0,
+    "salesRank": {
+      "Beauty": 13745
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Creams, Gels & Lotions"
+      ]
+    ],
+    "price": 11.48,
+    "brand": "Macadamia"
+  }
+]

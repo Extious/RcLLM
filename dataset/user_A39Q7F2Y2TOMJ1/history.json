@@ -1,0 +1,69 @@
+[
+  {
+    "title": "One With Nature Dead Sea Mineral Soap, Lavender, 7-Ounces (Pack of 6)",
+    "description": "All-natural Dead Sea bar soaps, liquid soaps, body washes, and lotions. Truly natural skin care products with the renowned therapeutic qualities of the Dead Sea to relax muscles, stimulate circulation, and restore the skin&#x2019;s natural pH.",
+    "itemID": "B001E5D0L6",
+    "helpful": [
+      2,
+      3
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Beauty": 77434
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Cleansers",
+        "Soaps"
+      ]
+    ],
+    "price": 34.26,
+    "brand": "One With Nature"
+  },
+  {
+    "title": "Dove Damage Therapy Cool Moisture Shampoo, Cucumber/Green Tea, 25.4Fluid Ounces (750 ml) (Pack of 2)",
+    "description": "",
+    "itemID": "B001ET7KC2",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 97475
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 24.89,
+    "brand": "Dove"
+  },
+  {
+    "title": "Garnier Conditioner, Sleek and Shine, 13 Fluid Ounce",
+    "description": "Smoothes for long lasting frizz control and shine. Stay 10x smoother, with intense heat protection, even in 97% humidity.",
+    "itemID": "B005GQ6F4I",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 12474
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Conditioners"
+      ]
+    ],
+    "price": 10.0,
+    "brand": "Garnier"
+  }
+]

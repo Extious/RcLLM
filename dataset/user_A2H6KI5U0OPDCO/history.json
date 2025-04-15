@@ -1,0 +1,69 @@
+[
+  {
+    "title": NaN,
+    "description": NaN,
+    "itemID": "B001MP0T2Q",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": NaN,
+    "categories": [
+      [
+        "Beauty",
+        "Tools & Accessories",
+        "Nail Tools",
+        "Nail Brushes"
+      ]
+    ],
+    "price": NaN,
+    "brand": NaN
+  },
+  {
+    "title": "Shellac Cream Puff .25 oz.",
+    "description": "A UV-cured color coat featuring UV3 technology: on like polish; wears like gel; off in minutes. Provides a long-lasting color layer to nails.",
+    "itemID": "B003OGQYC0",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 10894
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Nails",
+        "Nail Polish"
+      ]
+    ],
+    "price": 12.55,
+    "brand": "CND Cosmetics"
+  },
+  {
+    "title": "Shellac Romantique .25 oz.",
+    "description": "A UV-cured color coat featuring UV3 technology: on like polish; wears like gel; off in minutes. Provides a long-lasting color layer to nails.",
+    "itemID": "B003OGSX4M",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 3127
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Nails",
+        "Nail Polish"
+      ]
+    ],
+    "price": 15.64,
+    "brand": "CND Cosmetics"
+  }
+]

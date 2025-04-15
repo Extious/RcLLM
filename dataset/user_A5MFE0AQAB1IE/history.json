@@ -1,0 +1,69 @@
+[
+  {
+    "title": "Sigma F80 - Flat Kabuki TM",
+    "description": "Unique Feature: Dense and flat head\nFunction: Buffed foundation application\nRecommended Use: Blend liquid or cream products onto flat areas of the face such as the forehead and cheeks.\nBristle Type: Synthetic Sigmax\n\n 2013 Sigma Enterprises, LLC",
+    "itemID": "B003UH0528",
+    "helpful": [
+      0,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 103
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Tools & Accessories",
+        "Makeup Brushes & Tools",
+        "Brushes & Applicators"
+      ]
+    ],
+    "price": 24.0,
+    "brand": "Sigma Beauty"
+  },
+  {
+    "title": "Sigma E25 - Blending",
+    "description": "Unique Feature: Wide and slightly flat, firmer bristle blender\nFunction: Controlled blending\nRecommended Use: Blend colors together onto the lid with added control. Buff out harsh lines for a well-blended effect.\n\n 2013 Sigma Enterprises, LLC",
+    "itemID": "B005OZF1S2",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 1135
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Tools & Accessories",
+        "Makeup Brushes & Tools",
+        "Brushes & Applicators"
+      ]
+    ],
+    "price": 14.0,
+    "brand": "Sigma Beauty"
+  },
+  {
+    "title": "Sigma F25 - Tapered Face",
+    "description": "Unique Feature: Large and tapered with a precise tip\nFunction: Exact product placement onto cheeks\nRecommended Use: Apply powder, blush or contour shades onto the cheeks and temples. Tapered shape gives exact placement of product.\nBristle Type: Natural\n\n 2012 Sigma Enterprises, LLC",
+    "itemID": "B005P00JRE",
+    "helpful": [
+      2,
+      2
+    ],
+    "overall": 5.0,
+    "salesRank": NaN,
+    "categories": [
+      [
+        "Beauty",
+        "Tools & Accessories",
+        "Makeup Brushes & Tools",
+        "Brushes & Applicators"
+      ]
+    ],
+    "price": 26.85,
+    "brand": "Sigma Beauty"
+  }
+]

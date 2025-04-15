@@ -1,0 +1,70 @@
+[
+  {
+    "title": "Maybelline New York Volum' Express One By One Washable Mascara, 255 Blackest Black, 0.3 Fluid Ounce",
+    "description": "Finally, bold volume without any of the bulk. Patented lash catcher brush has 3 bristles per lash to make every lash count. It catches, coats and de clumps each lash to make them all fatter and flirtier. Instant clump free volume. Contact lens safe and ophthalmologist tested. Washable; also available in waterproof formula.",
+    "itemID": "B0046797WK",
+    "helpful": [
+      26,
+      29
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 27077
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Eyes",
+        "Mascara"
+      ]
+    ],
+    "price": 11.35,
+    "brand": "Maybelline"
+  },
+  {
+    "title": "ProLinc Cuticle Eliminator, 4 Fluid Ounce",
+    "description": "Thick, overgrown cuticles? No problem. With Cuticle Eliminator you can avoid nipping and cutting and it saves you time. It is ideal for manicures, pedicures and artificial nails. It also removes \"build up\" under free edge of fingernails and toenails.",
+    "itemID": "B009Y2117G",
+    "helpful": [
+      6,
+      7
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 7170
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Hands & Nails",
+        "Cuticle Care",
+        "Cuticle Removers"
+      ]
+    ],
+    "price": 6.42,
+    "brand": "ProLinc"
+  },
+  {
+    "title": "Aveeno Active Naturals Skin Relief Hand Cream, 3.5 Ounce",
+    "description": "This unique, non-greasy and fragrance free hand cream is specially formulated with ntense Relief Hand Cream and rich emollients to help heal dry skin and form a protective glove against the elements. Unlike ordinary hand creams, Aveeno Intense Relief Hand Cream protects and moisturizes skin for 24 hours and even lasts through hand washing.",
+    "itemID": "B00008J2XQ",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": NaN,
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Hands & Nails",
+        "Hand Creams & Lotions"
+      ]
+    ],
+    "price": 7.32,
+    "brand": "Aveeno"
+  }
+]

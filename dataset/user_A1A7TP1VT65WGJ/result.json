@@ -1,0 +1,49 @@
+[
+  {
+    "title": "La Roche-Posay Effaclar Purifying Foaming Gel, 6.76-Ounce Tube",
+    "description": "This daily use gel cleanser eliminates excess sebum and tightens the pores of oily and thickened skin without causing dryness.",
+    "itemID": "B002P3L99G",
+    "helpful": [
+      2,
+      3
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 947
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Cleansers",
+        "Gels"
+      ]
+    ],
+    "price": 13.34,
+    "brand": "La Roche-Posay"
+  },
+  {
+    "title": "OPI Gel Nail Color, Expert Touch Removal Wraps, 250 Count",
+    "description": "OPI Expert Touch Removal Wraps easily removes Gel Color. Simply saturate pad with Expert Touch Lacquer Remover and wrap nail. Ideal for removing soak-off gels, acrylics, wraps, glitter nail lacquer and nail art.",
+    "itemID": "B0073KABJ0",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 2726
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Nails",
+        "Nail Polish Remover"
+      ]
+    ],
+    "price": 24.7,
+    "brand": "OPI"
+  }
+]

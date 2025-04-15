@@ -1,0 +1,70 @@
+[
+  {
+    "title": "BareMinerals Well-cared for Brush Conditioning Shampoo, Large 4oz. Tube",
+    "description": "Bare Escentuals id Well-Cared for Brush Conditioning Shampoo 4 fl ozProlong your brushes' lives by regularly using this rich foaming conditioning cleanser containing nourishing ingredients.Well-Cared For Brush Conditioning Shampoo washes away all traces of dirt, makeup, oil, and debris and conditions the hair and fibers to a soft finish. }",
+    "itemID": "B001VD8DDG",
+    "helpful": [
+      2,
+      2
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 17868
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 12.95,
+    "brand": "Bare Escentuals"
+  },
+  {
+    "title": "Peter Thomas Roth Oily Problem Skin Instant Mineral SPF 30, 0.15 Ounce",
+    "description": "Oil-free, oil absorbing matte finish translucent brush on powder with SPF 30 protection. A silky smooth mineral powder with SPF 30 protection is perfectly suited for oily and acne prone skin. Packaged in an easy-to-use, retractable brush, it fits conveniently in your pocket or makeup case to allow for mess-free touch-ups throughout the day. Leaves a transparent, matte, residue-free layer of sun protection to help skin look flawless and blemish free.",
+    "itemID": "B002C0338W",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 6135
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Powder"
+      ]
+    ],
+    "price": 24.75,
+    "brand": "Peter Thomas Roth"
+  },
+  {
+    "title": "Murad - Rapid Age Spot and Pigment Lightening Serum 1.0 fl oz",
+    "description": "This anti aging gel works in two ways. First, it lightens age spots with Hydroquinone, the strongest skin lightening agent available without a prescription. Then it exfoliates using AHAs.",
+    "itemID": "B00703EITY",
+    "helpful": [
+      0,
+      4
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Health & Personal Care": 3113
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Treatments & Masks"
+      ]
+    ],
+    "price": 36.25,
+    "brand": "Murad"
+  }
+]

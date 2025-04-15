@@ -1,0 +1,46 @@
+[
+  {
+    "title": "Garnier Conditioner, Sleek and Shine, 13 Fluid Ounce",
+    "description": "Smoothes for long lasting frizz control and shine. Stay 10x smoother, with intense heat protection, even in 97% humidity.",
+    "itemID": "B005GQ6F4I",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 12474
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Conditioners"
+      ]
+    ],
+    "price": 10.0,
+    "brand": "Garnier"
+  },
+  {
+    "title": "Garnier Sleek and Shine Shampoo, 25.4 Fluid Ounce",
+    "description": "Smoothes for long lasting frizz control and shine. Fights frizz for 48 hours. Stay 10x smoother, with intense heat protection, even in 97% humidity.",
+    "itemID": "B005GQ6FYS",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 10728
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 6.12,
+    "brand": "Garnier"
+  }
+]

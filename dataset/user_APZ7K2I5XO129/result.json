@@ -1,0 +1,48 @@
+[
+  {
+    "title": "The Wet Brush Detangling Shower Brush, Colors Vary",
+    "description": "Eliminate tangles quickly and painlessly with Luxor Professional's The Wet Brush Detangling Shower Brush. This brush comb can be used on wet or dry hair and is perfect for all hair types. It features a soft, rubberized non-slip grip for a secure, comforta",
+    "itemID": "B000L596FE",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 282
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Brushes"
+      ]
+    ],
+    "price": 8.97,
+    "brand": "Luxor Pro"
+  },
+  {
+    "title": "Clarisonic Gentle Hydro Cleanser for Sensitive Skin, 6.0 Fluid Ounce",
+    "description": "Naturally scented with cucumber, this pH balanced, gentle, non foaming sensitive skin cleanser is a full body hydrogel that removes impurities while soothing and comforting. Contains natural ingredients and is paraben free.",
+    "itemID": "B008DROBOS",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 3031
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Cleansers"
+      ]
+    ],
+    "price": 23.99,
+    "brand": NaN
+  }
+]

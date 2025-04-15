@@ -1,0 +1,49 @@
+[
+  {
+    "title": "L'Oreal Paris Telescopic Shocking Extensions Mascara, Black, 0.29 Ounces",
+    "description": "L'Oreal introduces liquid extensions in a bottle, with new telescopic shocking extensions mascara, a new generation of lash length. In one motion lashes are separated, intensified, and look shockingly lengthened for an intense make-up result.",
+    "itemID": "B00AUFS3L8",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 104046
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Eyes",
+        "Mascara"
+      ]
+    ],
+    "price": 5.71,
+    "brand": "L&#39;Oreal Paris"
+  },
+  {
+    "title": "Glytone Acne Gel (10% Benzoyl Peroxide), 2-Ounce Package",
+    "description": "Acne GelTo treat. Helps control blemishes with 10% benzoyl peroxide.",
+    "itemID": "B002D48QNO",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Beauty": 1881
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Cleansers",
+        "Gels"
+      ]
+    ],
+    "price": 13.0,
+    "brand": "Glytone"
+  }
+]

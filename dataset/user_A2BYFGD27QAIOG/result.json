@@ -1,0 +1,95 @@
+[
+  {
+    "title": "Cetaphil Gentle Skin Cleansing Cloths, 25 Count",
+    "description": "Thoroughly removes dirt and makeup without irritation. Ultra soft and gentle for even the most sensitive skin. Dermatologist developed and tested. Great for travel.",
+    "itemID": "B00GZ18LL8",
+    "helpful": [
+      1,
+      2
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 21965
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Cleansers",
+        "Cloths & Towelettes"
+      ]
+    ],
+    "price": 10.24,
+    "brand": "Cetaphil"
+  },
+  {
+    "title": "Suave Professionals Natural Infusion Awapuhi Ginger and Honeysuckle Shampoo, 12.6 Ounce",
+    "description": "",
+    "itemID": "B00GTBZXA6",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 8818
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 7.94,
+    "brand": "Suave"
+  },
+  {
+    "title": "Nexxus Titanium Plated Flat Iron, 1-Inch",
+    "description": "",
+    "itemID": "B00I49QWPG",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 79789
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Irons",
+        "Flattening Irons"
+      ]
+    ],
+    "price": 32.38,
+    "brand": NaN
+  },
+  {
+    "title": "UBU Super Softy Extra Large and Soft Powder Brush",
+    "description": "Extra large, extra soft powder brush. No time for cuddles on the couch with this brush, super softy is one dynamite of a lady. Use her extra large and extra soft head to apply powder foundation and blusher, bronzer and shimmer, super sized and super soft brush. Perfect for powder, blusher, bronzer and shimmer. Natural bristles for flawless results and economic use of powder.",
+    "itemID": "B00HE88JMC",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 244703
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Tools & Accessories",
+        "Makeup Brushes & Tools",
+        "Brushes & Applicators"
+      ]
+    ],
+    "price": 9.99,
+    "brand": NaN
+  }
+]

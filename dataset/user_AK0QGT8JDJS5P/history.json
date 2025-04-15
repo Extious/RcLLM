@@ -1,0 +1,71 @@
+[
+  {
+    "title": "La Roche-Posay Anthelios 40 Suncreen Cream UVA Protection with Mexoryl SX, 1.7-Ounce Tube",
+    "description": "Anthelios 40 is a unique sunscreen that combines Parsol 1789 (avobenzone) and an innovative ingredient, Mexoryl SX (ecamsule) to help provide UVA and broad UVA/UVB protection",
+    "itemID": "B001DK9RQE",
+    "helpful": [
+      9,
+      9
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 8238
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Sun",
+        "Skin Protection"
+      ]
+    ],
+    "price": 33.82,
+    "brand": "La Roche-Posay"
+  },
+  {
+    "title": "Remington Ac2015 Tstudio Salon Collection Pearl Ceramic Hair Dryer",
+    "description": "",
+    "itemID": "B003V264WW",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Beauty": 504
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Hair Dryers"
+      ]
+    ],
+    "price": 28.69,
+    "brand": "Remington"
+  },
+  {
+    "title": "Conair Infiniti Pro Dryer AC Motor / Salon Performance Styling Tool, Purple",
+    "description": "Get professional results at home with the infiniti pro by Conair AC motor/salon performance styling tool. The AC motor delivers a powerful airflow for fast drying and a longer life. It features ceramic technology that safely dries and promotes healthy looking hair and ionic technology for less frizz. The included true cold shot button locks in curls, waves and styles. Rocker switches toggle 3 heat and 2 speed settings for heat and airflow control. It includes a removable filter that prevents damaging lint build-up and extends motor life. It includes 2 concentrator attachments.",
+    "itemID": "B00FU574H2",
+    "helpful": [
+      1,
+      3
+    ],
+    "overall": 1.0,
+    "salesRank": {
+      "Beauty": 9423
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Hair Dryers"
+      ]
+    ],
+    "price": 31.0,
+    "brand": "Conair"
+  }
+]

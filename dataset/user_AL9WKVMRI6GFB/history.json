@@ -1,0 +1,69 @@
+[
+  {
+    "title": "CLEAR MEN SCALP THERAPY AntiDandruff Shampoo, Clean &amp; Refresh, 12.9 Fluid Ounce",
+    "description": "",
+    "itemID": "B007JT7ARQ",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 12812
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 6.99,
+    "brand": "Clear"
+  },
+  {
+    "title": "Motions At Home Moisture Plus Conditioner, 13 Ounce Bottle",
+    "description": "Motions At Home Moisture Plus Conditioner",
+    "itemID": "B000YZGPKU",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 25537
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Conditioners"
+      ]
+    ],
+    "price": 8.27,
+    "brand": "Motions"
+  },
+  {
+    "title": "Axe Waterless Dry Shampoo Foam Reset, 5.07 Ounce",
+    "description": "",
+    "itemID": "B00AE07CRA",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 78460
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Scrubs & Body Treatments",
+        "Body Scrubs"
+      ]
+    ],
+    "price": 4.5,
+    "brand": "AXE"
+  }
+]

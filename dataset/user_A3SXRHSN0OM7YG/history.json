@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Revlon Grow Luscious By Fabulash, 001 Blackest Black, 0.38-Ounce",
+    "description": "Grow Luscious Mascara is a first-to-market, all-in-one mascara and lash enhancer. The lash enhancing phyto-peptide formula complements the natural growth cycle of the lashes to improve the overall appearance and condition of lashes with each use. The jumbo, oversized brush with lash extending fibers instantly lengthens and plumps lashes. The result, longer, fuller lashes that grow stronger day after day.",
+    "itemID": "B0039XT498",
+    "helpful": [
+      5,
+      6
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 13723
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Eyes",
+        "Mascara"
+      ]
+    ],
+    "price": 1.95,
+    "brand": "Revlon"
+  },
+  {
+    "title": "Sally Hansen Salon Effects, Fly with Me, 16 Count",
+    "description": "Sally knows nails are the best accessory. Introducing Sally Hansen salon effects, real nail polish strips that gives you a salon fashion manicure anytime, any place. It wears like nail polish because it is nail polish. There is no dry time so you're ready to go. Salon effects lasts up to 10 days and removes easily with nail polish remover. Just peel, apply and file. Accessorize your nails with neons, glitters, and high fashion patterns with salon effects-24 fashion-forward styles to choose from.",
+    "itemID": "B004KRVE22",
+    "helpful": [
+      1,
+      2
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 23467
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Nails",
+        "Nail Polish"
+      ]
+    ],
+    "price": 3.99,
+    "brand": "Sally Hansen"
+  },
+  {
+    "title": "Neutrogena Oil-Free Acne Wash Daily Scrub, 4.2 Ounce",
+    "description": "Cleans deep into pores and helps stop breakouts before they start. This breakthrough formula features MicroClear a powerful technology clinically shown to boost delivery of acne medicine, clear congested pores and speed treatment deep to the source. MicroClear and gentle microbeads work together to cut through oil, dissolving dirt and impurities without overdrying or irritation. Skin is left clear and smooth.",
+    "itemID": "B000NWDSAE",
+    "helpful": [
+      3,
+      5
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 4837
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Exfoliators & Scrubs",
+        "Scrubs"
+      ]
+    ],
+    "price": 6.17,
+    "brand": "Neutrogena"
+  }
+]

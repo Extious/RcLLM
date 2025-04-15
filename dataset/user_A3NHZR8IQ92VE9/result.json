@@ -1,0 +1,46 @@
+[
+  {
+    "title": "L'Oreal Paris EverCurl Hydracharge Shampoo, 8.5 Fluid Ounce",
+    "description": "Quenches and softens perfecting each curl's shape. Infuses hydrating nourishment without weigh-down. Curls are softer, more manageable without frizz. Its rich lather and natural aromatic properties help invigorate the senses.",
+    "itemID": "B00AREI3S0",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 1843
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 5.0,
+    "brand": "L&#39;Oreal Paris"
+  },
+  {
+    "title": "L'Oreal Paris EverCurl Hydracharge Conditioner, 8.5 Fluid Ounce",
+    "description": "Quenches and nourishes perfecting each curl's shape. Infuses hydrating nourishment without weigh-down. Curls are softer, more manageable without unwanted frizz. Natural aromatic properties help invigorate the senses.",
+    "itemID": "B00AZIZJIA",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 2030
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Conditioners"
+      ]
+    ],
+    "price": 5.85,
+    "brand": "L&#39;Oreal Paris"
+  }
+]

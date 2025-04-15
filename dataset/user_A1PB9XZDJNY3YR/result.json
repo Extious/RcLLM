@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Dove Men+Care Cool Silver Antiperspirant  2.7 Oz",
+    "description": "",
+    "itemID": "B00AO379NE",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Health & Personal Care": 77914
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Oils"
+      ]
+    ],
+    "price": 4.55,
+    "brand": "Dove"
+  },
+  {
+    "title": "Suave Naturals 2 In 1 Almond Verbena Shampoo, 22.5 Ounce",
+    "description": "",
+    "itemID": "B00GTBZ85Q",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 6745
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 8.49,
+    "brand": "Suave"
+  },
+  {
+    "title": "Axe Harmony Shower Gel, 16 Fluid Ounce",
+    "description": "",
+    "itemID": "B00GTC1JVM",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 7714
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Cleansers",
+        "Body Washes"
+      ]
+    ],
+    "price": 9.99,
+    "brand": "AXE"
+  }
+]

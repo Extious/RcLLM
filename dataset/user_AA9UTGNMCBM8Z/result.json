@@ -1,0 +1,49 @@
+[
+  {
+    "title": "Sedu Revolution Tourmaline Ionic Styling Iron 1&quot; - Black",
+    "description": "Sedu Revolution Styling Iron features revolutionary technologies that allow you to create any hairstyle imaginable with half of the time and virtually no damage. Sedu Revolution's Ultra Smooth 1 inch plates leave your hair shiny and healthy.",
+    "itemID": "B003AJJTXM",
+    "helpful": [
+      17,
+      20
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 6021
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Irons",
+        "Flattening Irons"
+      ]
+    ],
+    "price": 159.99,
+    "brand": "Sedu"
+  },
+  {
+    "title": "Crack Styling Leave-In Treatment with UV and Thermal Protection, 2.5 Fluid Ounce",
+    "description": "Crack is a leave-in hair cream made with acai extract and silk protein this addictive multitasker moisturizes from the hair cuticles to the ends of the hair. Protects hair from dryness.",
+    "itemID": "B004DHYZU2",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 2963
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Creams, Gels & Lotions"
+      ]
+    ],
+    "price": 11.45,
+    "brand": "Crack"
+  }
+]

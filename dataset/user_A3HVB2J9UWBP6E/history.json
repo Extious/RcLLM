@@ -1,0 +1,69 @@
+[
+  {
+    "title": "MAC Satin Lipstick - Rebel",
+    "description": "I ONLY SHIP IN THE USA AND PUERTO RICO. NO INTERNATIONAL SHIPPING. I SHIP SAME DAY 6 DAYS A WEEK  please check my website  innovationdiscounts com",
+    "itemID": "B0006LNJ56",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 17535
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Lips",
+        "Lipstick"
+      ]
+    ],
+    "price": 17.99,
+    "brand": "M.A.C"
+  },
+  {
+    "title": "O'Keeffe's Working Hands Cream, 3.4 oz.",
+    "description": NaN,
+    "itemID": "B00121UVU0",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": NaN,
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Hands & Nails",
+        "Hand Creams & Lotions"
+      ]
+    ],
+    "price": 7.32,
+    "brand": "O&#39;Keeffe&#39;s Company"
+  },
+  {
+    "title": "BH Cosmetics 88 Color Eye Shadow Palette, Matte",
+    "description": "You'll fall in love with this irresistible matte eye shadow palette from BH Cosmetics. BH Cosmetics offers quality professional makeup products at amazing prices. Featuring the most brilliantly pigmented colors available. Highest quality ingredients for professional makeup products. 88 color palette.",
+    "itemID": "B002TTN7RS",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Beauty": 10045
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Eyes",
+        "Eye Shadow"
+      ]
+    ],
+    "price": 18.95,
+    "brand": "BHCosmetics"
+  }
+]

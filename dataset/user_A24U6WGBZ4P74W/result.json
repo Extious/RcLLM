@@ -1,0 +1,610 @@
+[
+  {
+    "title": "Biore Deep Cleansing Pore Strips, 24 Count",
+    "description": "Tag team help for your blackheads: Here's a special two-pack to tackle dirt and oil that can cause blackheads on your nose - and the rest of your face. In just one use, these two different strips (for your face and nose or chin) are twice as effective as the leading pore cleanser at removing pore-clogging build-up that can lead to blackheads. And, they can even help reduce the appearance of pores with regular use.",
+    "itemID": "B006RFZ66K",
+    "helpful": [
+      9,
+      11
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 43
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Treatments & Masks",
+        "Pore Cleansing Strips"
+      ]
+    ],
+    "price": 7.7,
+    "brand": "Biore"
+  },
+  {
+    "title": "Axe Spiking Glue Spiked Up Look, 3.2 Ounce",
+    "description": "",
+    "itemID": "B00AE07BDU",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 24839
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Creams, Gels & Lotions"
+      ]
+    ],
+    "price": 6.97,
+    "brand": "AXE"
+  },
+  {
+    "title": "Dove Men + Care Body and Face Bar, Extra Fresh, 4 Ounce, 8 Count",
+    "description": "",
+    "itemID": "B002TSA90M",
+    "helpful": [
+      1,
+      2
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 7627
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Cleansers",
+        "Soaps"
+      ]
+    ],
+    "price": 8.91,
+    "brand": "Dove"
+  },
+  {
+    "title": "Axe Styling Gum Messy Look, 3.2 Ounce",
+    "description": "",
+    "itemID": "B00AE07BMQ",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 9336
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Creams, Gels & Lotions"
+      ]
+    ],
+    "price": 4.36,
+    "brand": "AXE"
+  },
+  {
+    "title": "Axe Energizing Face Wash, Boost, 5 Ounce",
+    "description": "",
+    "itemID": "B00A0J084Y",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Beauty": 173872
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Oils & Serums"
+      ]
+    ],
+    "price": 5.0,
+    "brand": "AXE"
+  },
+  {
+    "title": "Schick Hydro Silk Disposable Razor, 3 Count",
+    "description": "",
+    "itemID": "B00AHF1GTM",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Health & Personal Care": 25629
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Oils"
+      ]
+    ],
+    "price": 9.95,
+    "brand": "Schick"
+  },
+  {
+    "title": "Just For Me Hair Milk Shampoo, 13.5-Ounce Bottle",
+    "description": "",
+    "itemID": "B002MO780W",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 17243
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 6.95,
+    "brand": "Just For Me"
+  },
+  {
+    "title": "Just For Me Hair Milk Conditioner, 13.5-Ounce Bottle",
+    "description": "",
+    "itemID": "B002MO9BW0",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 14376
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Conditioners"
+      ]
+    ],
+    "price": 4.99,
+    "brand": "Just For Me"
+  },
+  {
+    "title": "Toni&amp;Guy Cleanse Shampoo for Damaged Hair, 8.5 Fluid Ounce",
+    "description": "",
+    "itemID": "B006L6A06Q",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 60061
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 11.36,
+    "brand": "Toni &amp; Guy"
+  },
+  {
+    "title": "Toni&amp;Guy Casual Sea Salt Texturising Spray, 6.8 Fluid Ounce",
+    "description": "",
+    "itemID": "B006L6A9NK",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 2530
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Hair Sprays"
+      ]
+    ],
+    "price": 14.97,
+    "brand": "Toni &amp; Guy"
+  },
+  {
+    "title": "Toni&amp;Guy Prep Leave in Conditioner, 3.38 Fluid Ounce",
+    "description": "",
+    "itemID": "B006L6AA8Y",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 28352
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Conditioners"
+      ]
+    ],
+    "price": 8.0,
+    "brand": "Toni &amp; Guy"
+  },
+  {
+    "title": "Suave Naturals 2 In 1 Almond Verbena Shampoo, 22.5 Ounce",
+    "description": "",
+    "itemID": "B00GTBZ85Q",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 6745
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 8.49,
+    "brand": "Suave"
+  },
+  {
+    "title": "Suave Kids 2 In 1 Shampoo Conditioner, Peach, 12 Ounce",
+    "description": "",
+    "itemID": "B00GTBZHUW",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 3192
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 6.59,
+    "brand": "Suave"
+  },
+  {
+    "title": "Suave Kids 3 In 1 Shampoo Conditioner and Body Wash, Pineapple, 22.5 Ounce",
+    "description": "",
+    "itemID": "B00GTBZN4C",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 1810
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 8.39,
+    "brand": "Suave"
+  },
+  {
+    "title": "Suave Professionals Natural Infusion Macadamia Oil and White Orchid Conditioner, 12.6 Ounce",
+    "description": "",
+    "itemID": "B00GTBZOVE",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 4823
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Conditioners"
+      ]
+    ],
+    "price": 1.88,
+    "brand": "Suave"
+  },
+  {
+    "title": "Suave Professionals Natural Infusion Awapuhi Ginger and Honeysuckle Conditioner, 12.6 Ounce",
+    "description": "",
+    "itemID": "B00GTBZWPW",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 13243
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Conditioners"
+      ]
+    ],
+    "price": 7.8,
+    "brand": "Suave"
+  },
+  {
+    "title": "Suave Professionals Natural Infusion Seaweed and Lotus Blossom Shampoo, 12.6 Ounce",
+    "description": "",
+    "itemID": "B00GTC03AU",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 51232
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 9.33,
+    "brand": "Suave"
+  },
+  {
+    "title": "Suave Professionals Natural Infusion Seaweed and Lotus Blossom Conditioner, 12.6 Ounce",
+    "description": "",
+    "itemID": "B00GTC03OG",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 52205
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Conditioners"
+      ]
+    ],
+    "price": 8.16,
+    "brand": "Suave"
+  },
+  {
+    "title": "Suave Professionals Split End Rescue Shampoo, 12.6 Ounce",
+    "description": "",
+    "itemID": "B00GTC0DFK",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 50073
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 3.69,
+    "brand": NaN
+  },
+  {
+    "title": "Suave Professionals Split End Rescue Conditioner, 12.6 Ounce",
+    "description": "",
+    "itemID": "B00GTC0DYQ",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 10400
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Conditioners"
+      ]
+    ],
+    "price": 1.98,
+    "brand": NaN
+  },
+  {
+    "title": "Toni&amp;Guy Nourish Conditioner for Damaged Hair, 8.5 Fluid Ounce",
+    "description": "",
+    "itemID": "B006L6A10G",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 16835
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Conditioners"
+      ]
+    ],
+    "price": 6.75,
+    "brand": "Toni &amp; Guy"
+  },
+  {
+    "title": "Fekkai Brilliant Glossing Creme 4 Oz",
+    "description": "",
+    "itemID": "B00FRDPMQC",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Health & Personal Care": 8542
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Creams, Gels & Lotions"
+      ]
+    ],
+    "price": 19.95,
+    "brand": "Frederic Fekkai"
+  },
+  {
+    "title": "Jergens BB Body Cream for All Medium-Deep Skin Tones, 7.5 Ounce",
+    "description": "",
+    "itemID": "B00GLS5DVQ",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 5097
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Lotions"
+      ]
+    ],
+    "price": 6.5,
+    "brand": "Jergens"
+  },
+  {
+    "title": "Axe Styling Messy Look Matte Gel, 6 Ounce",
+    "description": "",
+    "itemID": "B00GTC1HB4",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 20761
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Creams, Gels & Lotions"
+      ]
+    ],
+    "price": 9.98,
+    "brand": "AXE"
+  },
+  {
+    "title": "Axe Styling Spiked Up Look Gel, 6 Ounce",
+    "description": "",
+    "itemID": "B00GTC1HCI",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 39728
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Creams, Gels & Lotions"
+      ]
+    ],
+    "price": 10.95,
+    "brand": "AXE"
+  },
+  {
+    "title": "Dove Oxygen Moisture Shampoo, 12 Ounce",
+    "description": "",
+    "itemID": "B00HM6IXH2",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 12001
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 3.02,
+    "brand": "Dove"
+  },
+  {
+    "title": "Dove Oxygen Moisture Conditioner, 12 Ounce",
+    "description": "",
+    "itemID": "B00HM6JLNW",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 11391
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Conditioners"
+      ]
+    ],
+    "price": 9.9,
+    "brand": "Dove"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Tresemme Renewal Hair and Scalp Leave-In Conditioning Spray, 10 Ounce",
+    "description": "",
+    "itemID": "B00GYB1AUI",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 38653
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Conditioners"
+      ]
+    ],
+    "price": 1.66,
+    "brand": "TRESemme"
+  },
+  {
+    "title": "Suave Professionals Natural Infusion Seaweed and Lotus Blossom Leave-in Foam, 5 Ounce",
+    "description": "",
+    "itemID": "B00HSNX1AS",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 37951
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Mousses & Foams"
+      ]
+    ],
+    "price": 5.79,
+    "brand": NaN
+  }
+]

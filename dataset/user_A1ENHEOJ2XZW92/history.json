@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Egyptian Magic All Purpose Skin Cream Facial Treatment, 4 Ounce",
+    "description": "Kamitian folklore recalls the existence of a miraculous skin cream secretly used by the great sages, mystics, magicians and healers of ancient kamit (ancient egypt), used as an anti-aging skin rejuvenation to maintain radiant, healthy, smooth and glowing skin. This egyptian magic is our take on this legendary skin cream, designed to leave your skin feeling smooth.",
+    "itemID": "B000WNLFBI",
+    "helpful": [
+      2,
+      4
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 457
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Creams & Moisturizers"
+      ]
+    ],
+    "price": 25.45,
+    "brand": "Egyptian Magic"
+  },
+  {
+    "title": "Dove Strength and Shine Hairspray, Extra Hold, 7 Ounce",
+    "description": "",
+    "itemID": "B006T8BXC6",
+    "helpful": [
+      2,
+      2
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 68708
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Hair Sprays"
+      ]
+    ],
+    "price": 6.91,
+    "brand": "Dove"
+  },
+  {
+    "title": "Philosophy Purity Made Simple One-Step Facial Cleanser, 16 Ounces",
+    "description": "Our award-winning daily facial skin cleanser is formulated to gently cleanse, tone and melt away all face and eye makeup in one simple step, while lightly hydrating the skin.",
+    "itemID": "B00021C1LI",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 1055
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Cleansers",
+        "Washes"
+      ]
+    ],
+    "price": 31.0,
+    "brand": "Philosophy"
+  }
+]

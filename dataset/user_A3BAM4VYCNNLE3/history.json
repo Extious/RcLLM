@@ -1,0 +1,72 @@
+[
+  {
+    "title": "DHC Deep Cleansing Oil 6.7fl.oz./200ml",
+    "description": "Superstar. Try this amazing cleanser and you'll see why it's our most popular product worldwide. Dirt, excess oil, makeup-even waterproof mascara-and other pore-cloggers dissolve easily, leaving your face a grime-free zone that is soft to the touch. Its unique water-soluble formula rinses completely, so you'll never see a greasy residue. Olive oil and vitamin E help ensure you won't see dryness either",
+    "itemID": "B001UE60E0",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 696
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Cleansers"
+      ]
+    ],
+    "price": 18.95,
+    "brand": "DHC"
+  },
+  {
+    "title": "Mane 'N Tail Combo Deal Shampoo and Conditioner, 32-Ounce",
+    "description": "Original Mane 'n Tail Shampoo and Conditioner combo helps to revitalize and moisturize your hair. A complete system of hair care especially designed to help hair look and feel thicker and healthier.",
+    "itemID": "B0046KG8DS",
+    "helpful": [
+      4,
+      12
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Pet Supplies": 376
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoo & Conditioner Sets"
+      ]
+    ],
+    "price": 17.21,
+    "brand": "Mane &#39;n Tail"
+  },
+  {
+    "title": "The Body Shop Tea Tree Blemish Fade Night Lotion, 1.0-Fluid Ounce",
+    "description": "Improve the appearance of blemished damaged skin, and control oiliness while moisturizing skin while you sleep. A light, moisturizing yet non-oily lotion that sinks into skin. Our Tea tree range contains Lemon tea tree and Community Trade Tea tree oil which fight blemishes and help prevent new ones from forming. Tamanu oil has a soothing effect and helps to calm irritation and redness.",
+    "itemID": "B004O3BTKO",
+    "helpful": [
+      4,
+      5
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 10282
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Creams & Moisturizers",
+        "Fluids & Lotions",
+        "Lotions"
+      ]
+    ],
+    "price": 7.6,
+    "brand": "The Body Shop"
+  }
+]

@@ -1,0 +1,71 @@
+[
+  {
+    "title": "SKIN79 BB Cleanser with Skin Detox Effect",
+    "description": "SKIN79 BB Cleanser with Skin Detox Effect",
+    "itemID": "B006RWW7VU",
+    "helpful": [
+      0,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 2507
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Cleansers"
+      ]
+    ],
+    "price": 11.66,
+    "brand": "BB Cleanser with Skin Detox Effect"
+  },
+  {
+    "title": "WEN by Chaz Dean Six Thirteen Replenishing Treatment Mist 2 fl oz",
+    "description": "WEN Six Thirteen Ultra-Nourishing Replenishing Treatment Mist by Chaz Dean will give your hair, face, and body an instant pick-me-up with its rejuvenating and moisturizing properties. It can be used to revive and restyle hair in between cleansings and can also be used as a lightweight formulation in place of or mixed with your leave-in conditioner to create additional volume and body. Misting your hair with WEN Six Thirteen Ultra-Nourishing Replenishing Treatment Mist will aid in reviving dry or dehydrated hair. It can also be used for extra moisture on the face and body, absorbing instantly to leave your skin soft, supple, and hydrated.",
+    "itemID": "B00B7MUJR4",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Beauty": 4050
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Hair & Scalp Treatments"
+      ]
+    ],
+    "price": 13.95,
+    "brand": "WEN&reg; by Chaz Dean"
+  },
+  {
+    "title": "L'Oreal Paris Go 360 Clean Deep Exfoliating Scrub, 6.0 Fluid Ounce",
+    "description": "Go 360 Clean offers a complete range of four expertly formulated, high-foam cleansers that are perfectly calibrated to perform with the Scrublet. The Deep Exfoliating Scrub is a gentle yet effective scrub, which exfoliates skin with natural apricot seed powder and salicylic acid to reveal perfectly clean, smoother skin. With a rich lather and fruity, apricot fragrance, this exfoliating scrub is gentle enough for daily use.",
+    "itemID": "B002PBCAEQ",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 635
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Cleansers",
+        "Washes"
+      ]
+    ],
+    "price": 6.99,
+    "brand": "L&#39;Oreal Paris"
+  }
+]

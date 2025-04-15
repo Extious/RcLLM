@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Palty Hair Dye (Caramel Brown)",
+    "description": "Bitter, but cute brown called Caramel Brown. Colors your hair moist, shiny and beautiful. Fresh fruity floral scent. The hair color contains Camellia oil for shine, Silicon for smoothness, Votanical protein for protection from damage. Camellia oil hair essence conditions and moisturizes the color treated hair after coloring.",
+    "itemID": "B0015XNAS0",
+    "helpful": [
+      1,
+      2
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 145803
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Hair Color",
+        "Chemical Hair Dyes"
+      ]
+    ],
+    "price": 14.66,
+    "brand": "Palty"
+  },
+  {
+    "title": "Heritage Products Rosewater, Rose Petals, 8-Ounces (Pack of 3)",
+    "description": "Pure, natural essence. From European roses. Popular gourmet flavoring. Use as a perfume or body splash, add to your hair rinse or bath water, or try as a gourmet flavoring. You can also combine with therapeutic oils to make your own unique complexion formula. Certified by periodic laboratory test to be free of pesticide residues. More information on request. Seal of Approval: Not tested on animals. Atomizer mist sprayer. Experience the delicate floral scent of real roses any time of the year! Recommended in the Edgar Cayce readings.",
+    "itemID": "B001H54VJI",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 1254
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Toners & Astringents"
+      ]
+    ],
+    "price": 20.44,
+    "brand": "Heritage Store"
+  },
+  {
+    "title": "Biore SARASARA UV Bright Face Milk BIHADA Sunscreen 30ml SPF50+ PA+++ for Face",
+    "description": "Biore UV perfect face milk SPF 50 lotion sunscreen pink",
+    "itemID": "B0012WTI62",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Health & Personal Care": 36094
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Sunscreens & Self Tanners",
+        "Sunscreens"
+      ]
+    ],
+    "price": 12.5,
+    "brand": "Biore"
+  }
+]

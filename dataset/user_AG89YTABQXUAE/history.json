@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Black Opium - Auric Blends Perfume Oils",
+    "description": "Black Opium...\nAuric Blends Fine Perfume Oil...\n1/3 Oz Roll-on Bottle...",
+    "itemID": "B0000ZLEX2",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 12239
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Fragrance",
+        "Women's",
+        "Eau de Parfum"
+      ]
+    ],
+    "price": 7.99,
+    "brand": "Auric Blends"
+  },
+  {
+    "title": "Cabot Labs Musk Oil 1/2 oz.",
+    "description": "Musk Oil Perfume: It's Ability To Excite And Arouse Has Been Spoken Of For Centuries. You May Not Even Be Aware Of Its Fragrance, But Your Own Body Chemistry Is Releasing The Sensual Aroma Of Musk-And Its Working Its Magic On All Those Around You.",
+    "itemID": "B000OBJG6Y",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 75883
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Fragrance",
+        "Women's",
+        "Essential Oils"
+      ]
+    ],
+    "price": NaN,
+    "brand": NaN
+  },
+  {
+    "title": "Maybelline New York Superstay 10 hour Stain Gloss, Berry Heavenly, 0.35 Fluid Ounce",
+    "description": "Meet the first-ever stain gloss. MAYBELLINE's superstay 10 hour stain gloss stays vibrant and shiny, yet transparent, and won&#x2019;t fade. The weightless formula glides on wet and smooth, and feels fresh and fabulous all day.",
+    "itemID": "B006UEUHLC",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 28010
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Lips",
+        "Lip Glosses"
+      ]
+    ],
+    "price": 4.99,
+    "brand": "Maybelline"
+  }
+]

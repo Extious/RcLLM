@@ -1,0 +1,73 @@
+[
+  {
+    "title": "Paris Hilton Dazzle Women Eau De Parfum Spray, 4.2 Ounce",
+    "description": "Paris Hilton Dazzle Women Eau De Parfum Spray, 4.2 Ounce",
+    "itemID": "B008IU4WUS",
+    "helpful": [
+      6,
+      8
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 10808
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Lotions"
+      ]
+    ],
+    "price": 25.94,
+    "brand": "Paris Hilton"
+  },
+  {
+    "title": "Malibu Heat Body Lotion 8 Fl Oz",
+    "description": "Malibu Heat is the perfect west coast blend of juicy pineapple, California oranges and creamy coconut milk. Hydrating formula contains skin-loving shea butter to deliver long lasting moisture for the perfect everyday lotion and the softest way to fragrance!",
+    "itemID": "B0080SCRA0",
+    "helpful": [
+      2,
+      2
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Health & Personal Care": 137622
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Lotions"
+      ]
+    ],
+    "price": 3.75,
+    "brand": "Bath &amp; Body Works"
+  },
+  {
+    "title": "FOREVER AFTER ALL DAY MOISTURIZER 22 FL OZ AUSTRALIAN GOLD",
+    "description": "Australian Gold Forever After, Triple Action Anti-Aging and Slimming Formula is a triple action anti-aging, firming and slimming lipocare. The amplified moisture blend provides 24 hour moisturization. Ingredients include hemp seed extract and vanilla fragrance.",
+    "itemID": "B000Q7XDR4",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 609
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Body",
+        "Bronzing Powder"
+      ]
+    ],
+    "price": 11.81,
+    "brand": "Australian Gold"
+  }
+]

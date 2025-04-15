@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Maybelline New York Expert Eyes 100% Oil-Free Eye Makeup Remover, 2.3 Fl. Oz.",
+    "description": "This 100% oil free formula gently and effectively removes washable mascara and eye makeup without oily residue. Fragrance free. Hypoallergenic. dermatologist tested.",
+    "itemID": "B0000531GV",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 3868
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Makeup Remover",
+        "Eyes"
+      ]
+    ],
+    "price": 4.93,
+    "brand": "Maybelline"
+  },
+  {
+    "title": "NYX Matte Lipstick, Nude",
+    "description": "NYX matte lipsticks are highly pigmented, richly formulated lipsticks that glide on smoothly, stay put and impart a non-glossy, high-fashion matte finish as they envelop lips in brilliant color. From pure red to nude, matte lipstick is available in 22 rich, shades.",
+    "itemID": "B005FYJB92",
+    "helpful": [
+      0,
+      1
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Beauty": 3930
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Lips",
+        "Lipstick"
+      ]
+    ],
+    "price": 5.88,
+    "brand": "NYX"
+  },
+  {
+    "title": "L'Oreal Magic Lumi Primer, Full Size, 0.68 Ounce",
+    "description": "Instantly boosts skin's natural radiance with a light infusing luminizers. Skin texture is smoothed and toned to provide perfect canvas.",
+    "itemID": "B005EIIEQA",
+    "helpful": [
+      1,
+      3
+    ],
+    "overall": 1.0,
+    "salesRank": {
+      "Beauty": 3863
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Foundation Primers"
+      ]
+    ],
+    "price": 9.89,
+    "brand": "L&#39;Oreal Paris"
+  }
+]

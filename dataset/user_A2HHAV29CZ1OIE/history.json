@@ -1,0 +1,74 @@
+[
+  {
+    "title": "Aveeno Ageless Vitality Rejuvenating Day Treatment",
+    "description": "After 4 weeks, 100% of women showed improved skin vitality with increased firmness, smoother skin texture, reduced appearance of wrinkles or diminished look of age spots. See dramatic results with this 2-step daily treatment system while also protecting your skin from sun damage with SPF 30. When the naturally charged biomineral concentrate is combined with the rejuvenating moisturizer, formulated with Active Naturals blackberry leaf extract and dill, the 2-step treatment system activates to restore essential energy to elastin-deficient skin, restoring a more youthful, awakened look. You will begin to see the rejuvenating power of this breakthrough treatment system quickly and will experience even better results over time.",
+    "itemID": "B003156OJM",
+    "helpful": [
+      2,
+      3
+    ],
+    "overall": 1.0,
+    "salesRank": {
+      "Beauty": 217212
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Creams & Moisturizers",
+        "Day Creams"
+      ]
+    ],
+    "price": 69.99,
+    "brand": "Aveeno"
+  },
+  {
+    "title": "Remington CI95AC/2 Tstudio Salon Collection Pearl Digital Ceramic Curling Wand, 1/2 Inch - 1 Inch",
+    "description": "",
+    "itemID": "B003V265QW",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 73
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Irons",
+        "Curling Irons"
+      ]
+    ],
+    "price": 27.77,
+    "brand": "Remington"
+  },
+  {
+    "title": "Clearasil Ultra Acne + Marks Wash and Mask: 6.78 OZ",
+    "description": "",
+    "itemID": "B004MKEGWM",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 13334
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Treatments & Masks",
+        "Masks"
+      ]
+    ],
+    "price": 7.88,
+    "brand": "Clearasil"
+  }
+]

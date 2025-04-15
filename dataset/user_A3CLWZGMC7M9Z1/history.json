@@ -1,0 +1,71 @@
+[
+  {
+    "title": "CoverGirl LashBlast Fusion Mascara Black 865, 1 Tube",
+    "description": "",
+    "itemID": "B0039UTO3M",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 4320
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Eyes",
+        "Mascara"
+      ]
+    ],
+    "price": 4.99,
+    "brand": "COVERGIRL"
+  },
+  {
+    "title": "Surgi-wax Brazilian Waxing Kit For Private Parts, 4-Ounce Boxes (Pack of 3)",
+    "description": "Brazilian Waxing Kit for Private Parts - The Brazilian bare look - and we mean completely bare - is hot, hot, hot! Getting the Brazilian look is as easy as regular bikini waxing with the detailed step-by-step instructional guide and no muslin strips needed! Start with the best salon quality hard wax available and add Maple Honey to increase the grip on each hair for complete removal right from the root. Results are smooth and sexy with no need to worry about stubble for up to 6 weeks.  And with continued use, hair returns slower, finer and sparser.",
+    "itemID": "B001A43ELC",
+    "helpful": [
+      15,
+      19
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Health & Personal Care": 1881
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face"
+      ]
+    ],
+    "price": 21.0,
+    "brand": "Surgiwax"
+  },
+  {
+    "title": "Clearasil Ultra Acne Treatment Daily Face Wash, 6.78 Ounce (Pack of 3)",
+    "description": "",
+    "itemID": "B001U0ONNY",
+    "helpful": [
+      0,
+      1
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 3280
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Cleansers",
+        "Washes"
+      ]
+    ],
+    "price": 17.39,
+    "brand": "Clearasil"
+  }
+]

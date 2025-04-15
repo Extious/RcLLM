@@ -1,0 +1,73 @@
+[
+  {
+    "title": "MANGROOMER 1680XL-6 Professional Ionic Hair Dryer for Men",
+    "description": "",
+    "itemID": "B006BNFXHU",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 23430
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Hair Dryers"
+      ]
+    ],
+    "price": 44.0,
+    "brand": "MANGROOMER"
+  },
+  {
+    "title": "Hydroxatone Revitalizing Microdermabrasion, 1.7 oz.",
+    "description": "",
+    "itemID": "B0038T17WK",
+    "helpful": [
+      1,
+      2
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 81458
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Treatments & Masks",
+        "Microdermabrasion"
+      ]
+    ],
+    "price": 15.97,
+    "brand": "Hydroxatone"
+  },
+  {
+    "title": "Dove Men+Care Hydrate + Shave Gel",
+    "description": "",
+    "itemID": "B00A0J09C0",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 14582
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Oils"
+      ]
+    ],
+    "price": 7.09,
+    "brand": "Dove"
+  }
+]

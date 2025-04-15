@@ -1,0 +1,71 @@
+[
+  {
+    "title": "L'Oreal Natures Therapy Scalp Relief Leave-In Treatment - 4 0z.",
+    "description": "L'Oreal Nature's Therapy Scalp Relief Leave-In Treatment for relief of a sensitive, irritated scalp.",
+    "itemID": "B000CPJKK4",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 13808
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Hair & Scalp Treatments"
+      ]
+    ],
+    "price": 5.89,
+    "brand": "L&#39;Oreal Paris"
+  },
+  {
+    "title": "Biore Ultra Deep Cleansing Pore Strips, 6 Count",
+    "description": "Offer maximum pore cleansing power to combat headstrong pore-clogging dirt and oil around the nose area. Formulated with tea tree oil, menthol and witch hazel, you can feel the strips working as they deep clean, refresh and purify pores.",
+    "itemID": "B000H8UN3Y",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 2242
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Treatments & Masks",
+        "Pore Cleansing Strips"
+      ]
+    ],
+    "price": 4.51,
+    "brand": "Biore"
+  },
+  {
+    "title": "Cetaphil Gentle Cleansing Bar, 4.5-Ounce Bar (Pack of 6)",
+    "description": "",
+    "itemID": "B001I45ZFC",
+    "helpful": [
+      0,
+      2
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 170
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Cleansers",
+        "Soaps"
+      ]
+    ],
+    "price": 18.65,
+    "brand": "Cetaphil"
+  }
+]

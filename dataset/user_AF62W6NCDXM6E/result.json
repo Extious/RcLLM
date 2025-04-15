@@ -1,0 +1,71 @@
+[
+  {
+    "title": "MyChelle Dermaceuticals Perfect C Serum, 0.5 Fluid Ounce",
+    "description": "Perfect C Serum is a powerhouse of antioxidants combined with unprecedented 17% L-ascorbic acid and organic essential oils. Antioxidants mop up free radicals while L-ascorbic acid and glucosamine assist in healthy collagen production.",
+    "itemID": "B000MAOWP2",
+    "helpful": [
+      2,
+      8
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Beauty": 3191
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Oils & Serums"
+      ]
+    ],
+    "price": 18.9,
+    "brand": "MyChelle Dermaceuticals"
+  },
+  {
+    "title": "MyChelle Eye Cream, Fabulous, .5-Ounce Tube",
+    "description": "Fabulous Eye Cream is an exceptional eye cream that soothes fine lines and wrinkles leaving the eye area supple while reducing the visible signs of aging.  May be used effectively on those tiny creases above the lip.  Great reviews!",
+    "itemID": "B000MAQWA0",
+    "helpful": [
+      3,
+      3
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 8828
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Eyes",
+        "Creams"
+      ]
+    ],
+    "price": 16.8,
+    "brand": "MyChelle Dermaceuticals"
+  },
+  {
+    "title": "Better for Grownups Organic Reusable Cotton Face Rounds",
+    "description": "Reusing instead of consuming makes the future brighter. These rounds are a lush, soft way to make a difference in the world. That awareness and a desire to make a Reusable Revolution of it is what motivated us to pursue fully sustainable packaging. Our corrugated boxes are made locally from Water Resistant Cardboard which means they can sit in your bathroom, kitchen, bedroom, etc and be used over and over again. When you are done with them, they are fully recyclable or compostable (and worms love cardboard). Better For Grownups boxes were specifically designed to minimize packaging and are printed with water based inks using the latest technology using large format aqueous direct print for efficient and minimal use of materials, labor and energy. In addition to innovative, sustainable and reusable boxes, we encourage customers to buy refill packs as needed which gives them even more tissues, wipes or rounds at a great price but without the packaging. Our refill packaging sleeves are printed on 100% recycled paper by a small, earth conscious company in North Carolina. And because that isn't enough, we are currently working on a program to close the loop.",
+    "itemID": "B002RJOR7Y",
+    "helpful": [
+      4,
+      4
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 236289
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Tools & Accessories",
+        "Bags & Cases",
+        "Tote Bags"
+      ]
+    ],
+    "price": NaN,
+    "brand": NaN
+  }
+]

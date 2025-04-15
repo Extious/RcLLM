@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Dove Men+Care Sensitive + Face Wash, 5 Ounces",
+    "description": "",
+    "itemID": "B00A0J09G6",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 6095
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Cleansers",
+        "Washes"
+      ]
+    ],
+    "price": 6.69,
+    "brand": "Dove"
+  },
+  {
+    "title": "Axe 2 in 1 Shampoo Plus Conditioner Apollo, 12 Ounce",
+    "description": "",
+    "itemID": "B00AE07B9O",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 34581
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 15.95,
+    "brand": "AXE"
+  },
+  {
+    "title": "Old Spice High Endurance Pure Sport Scent Bar Soap Pack Of 6 - 24 Oz",
+    "description": "",
+    "itemID": "B00AFCP6F2",
+    "helpful": [
+      0,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Health & Personal Care": 25207
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Cleansers",
+        "Soaps"
+      ]
+    ],
+    "price": 6.0,
+    "brand": "Old Spice"
+  }
+]

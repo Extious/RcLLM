@@ -1,0 +1,48 @@
+[
+  {
+    "title": "Revlon Colorburst Lipgloss, Strawberry, 0.20-Ounce",
+    "description": "Gives you a pop of weightless color bursting with vivid, mirror-like shine",
+    "itemID": "B004510MT4",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 26153
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Lips",
+        "Lip Glosses"
+      ]
+    ],
+    "price": 1.5,
+    "brand": "Revlon"
+  },
+  {
+    "title": "Maybelline New York Dream Bouncy Blush, Fresh Pink, 0.19 Ounce",
+    "description": "Dream bouncy blush's unique bouncy texture gives you the freshest flush ever the revolutionary powder-gel formula is lightweight like a powder, yet it melts seamlessly into skin like a cream, for a sheer wash of bouncy fresh color that lasts.",
+    "itemID": "B006UETDGC",
+    "helpful": [
+      2,
+      4
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 7097
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Scrubs & Body Treatments",
+        "Body Scrubs"
+      ]
+    ],
+    "price": 6.44,
+    "brand": "Maybelline"
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "title": "Andis Ceramic Ionic Styler Hair Dryer (82105)",
+    "description": "",
+    "itemID": "B001UE7D2I",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 1516
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Hair Dryers"
+      ]
+    ],
+    "price": 19.65,
+    "brand": "Andis"
+  },
+  {
+    "title": "NARS Cream Eyeshadow, Carioca",
+    "description": NaN,
+    "itemID": "B000PUEGWS",
+    "helpful": [
+      2,
+      2
+    ],
+    "overall": 5.0,
+    "salesRank": NaN,
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Eyes",
+        "Eye Shadow"
+      ]
+    ],
+    "price": 25.0,
+    "brand": NaN
+  },
+  {
+    "title": "FusionBeauty LipFusion Micro-Injected Collagen Lip Plump Color Shine, Summer",
+    "description": "A collection of vibrant sexy shades with a moisturizing treatment gloss infused with LipFusion&#x2019;s revolutionary Micro-Injected Collagen plumping technology. Tiny, dehydrated, marine collagen micro spheres are instantly absorbed by the lips, and seek out the body's natural moisture. When spheres become re-hydrated, they plump and hold onto the moisture they've collected, creating a mild \"swelling\" of the lip tissue.",
+    "itemID": "B0002Z0UA8",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 58305
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Lips",
+        "Lip Plumpers"
+      ]
+    ],
+    "price": 24.5,
+    "brand": "Fusion Beauty"
+  }
+]

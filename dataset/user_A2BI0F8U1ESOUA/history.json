@@ -1,0 +1,74 @@
+[
+  {
+    "title": "Olay Regenerist Daily Regenerating Serum - Fragrance Free Moisturizer 1.7 Fl Oz",
+    "description": "",
+    "itemID": "B0000CC64W",
+    "helpful": [
+      2,
+      2
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 35
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Creams & Moisturizers",
+        "Fluids & Lotions",
+        "Fluids"
+      ]
+    ],
+    "price": 14.75,
+    "brand": "Olay"
+  },
+  {
+    "title": "The Body Shop Tea Tree Skin Clearing Facial Wash Regular, 8.4-Fluid Ounce",
+    "description": "Prevent blemishes and remove excess oil with our refreshing gel-based facial wash that won't over-dry your skin and is perfect for daily use. Our Tea tree range contains Lemon tea tree and Community Trade Tea tree oil which fight blemishes and help prevent new ones from forming. Tamanu oil has a soothing effect and helps to calm irritation and redness.",
+    "itemID": "B002K8W58K",
+    "helpful": [
+      1,
+      5
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 1073
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Cleansers",
+        "Washes"
+      ]
+    ],
+    "price": 5.15,
+    "brand": "The Body Shop"
+  },
+  {
+    "title": "Corn Huskers Oil-Free Hand Lotion -- 7 fl oz",
+    "description": "Corn Huskers Lotion provides fast penetrating action. Moisturizes and softens dry skin. Also, soothes the discomfort of irritated, chapped, or cracked skin.",
+    "itemID": "B000RO3EMA",
+    "helpful": [
+      2,
+      4
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 14807
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Hands & Nails",
+        "Hand Creams & Lotions"
+      ]
+    ],
+    "price": 5.97,
+    "brand": "Corn Huskers"
+  }
+]

@@ -1,0 +1,71 @@
+[
+  {
+    "title": "NYX Matte Lipstick, Nude",
+    "description": "NYX matte lipsticks are highly pigmented, richly formulated lipsticks that glide on smoothly, stay put and impart a non-glossy, high-fashion matte finish as they envelop lips in brilliant color. From pure red to nude, matte lipstick is available in 22 rich, shades.",
+    "itemID": "B005FYJB92",
+    "helpful": [
+      2,
+      2
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Beauty": 3930
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Lips",
+        "Lipstick"
+      ]
+    ],
+    "price": 5.88,
+    "brand": "NYX"
+  },
+  {
+    "title": "Ecco Bella Peach Frost Flowercolor Lipstick",
+    "description": "Plant-based lipsticks formulated to glide on creamy, not dry or greasy. Based on castor oil, vegetable wax and vitamin E, they smooth and protect lips all day. Their colors are made from iron oxides and carmine, leaving out the FD&C; dyes",
+    "itemID": "B000URVDJU",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 133469
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Lips",
+        "Lipstick"
+      ]
+    ],
+    "price": 14.35,
+    "brand": "Ecco Bella"
+  },
+  {
+    "title": "Maybelline New York Dream Smooth Mousse Foundation, Pure Beige, 0.49 Ounce",
+    "description": "Unique cream whipped foundation provides 100% baby smooth perfection. Skin looks and feels hydrated for 14 hours never rough or dry. Lightweight formula provides perfectly moisturizing coverage. Blends seamlessly and feels fresh all day. oil free, fragrance free, dermatologist tested, allergy tested, non comedogenic (won't clog pores), and safe for sensitive skin.",
+    "itemID": "B003RD1MV8",
+    "helpful": [
+      0,
+      1
+    ],
+    "overall": 1.0,
+    "salesRank": {
+      "Beauty": 38894
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Foundation"
+      ]
+    ],
+    "price": 4.92,
+    "brand": "Maybelline"
+  }
+]

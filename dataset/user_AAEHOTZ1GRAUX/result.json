@@ -1,0 +1,48 @@
+[
+  {
+    "title": "Irish Spring Gear Body Wash, Exfoliating, 15 Fl. Ounce",
+    "description": "",
+    "itemID": "B00I6CRX04",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 2101
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Cleansers",
+        "Body Washes"
+      ]
+    ],
+    "price": 5.49,
+    "brand": "Irish Spring"
+  },
+  {
+    "title": "Vidal Sassoon Pro Series Touch Control Digital Hair Dryer, 1875 Watt",
+    "description": "Introducing the all new Vidal Sassoon pro 1875 watt touch control hair dryer. Touch slider controls allow you to adjust the temperature setting to your exact styling preference with a touch of a finger. The temperature lock feature prevents accidental setting changes and memorizes previous setting. Hair dryer comes with a tourmaline and ceramic, cold shot button and concentrator attachment.",
+    "itemID": "B00JR4FOLA",
+    "helpful": [
+      0,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 275413
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Hair Dryers"
+      ]
+    ],
+    "price": 44.96,
+    "brand": NaN
+  }
+]

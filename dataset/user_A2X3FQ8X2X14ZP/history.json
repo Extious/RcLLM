@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Tigi After Party 3.4 fl oz",
+    "description": "TIGI Bed Head After The Party Creme is a softening cream that creates a natural and fresh look. TIGI Bed Head After The Party Creme gives you great shine and leaves hair feeling fuller, thicker with beautiful bounce. Join the party!",
+    "itemID": "B003GVCU62",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 7184
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Creams, Gels & Lotions"
+      ]
+    ],
+    "price": 9.6,
+    "brand": "Tigi"
+  },
+  {
+    "title": "Sigma F80 - Flat Kabuki TM",
+    "description": "Unique Feature: Dense and flat head\nFunction: Buffed foundation application\nRecommended Use: Blend liquid or cream products onto flat areas of the face such as the forehead and cheeks.\nBristle Type: Synthetic Sigmax\n\n 2013 Sigma Enterprises, LLC",
+    "itemID": "B003UH0528",
+    "helpful": [
+      1,
+      2
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 103
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Tools & Accessories",
+        "Makeup Brushes & Tools",
+        "Brushes & Applicators"
+      ]
+    ],
+    "price": 24.0,
+    "brand": "Sigma Beauty"
+  },
+  {
+    "title": "2 BOTTLES Seche Vite Dry Fast Top Coat .5 oz PROFESSIONAL Clear High Gloss 83005",
+    "description": "Seche ViteTM dry fast top coat is widely acknowledged as the world's finest top coat. Specially formulated to penetrate through nail lacquer to the base coat forming a single solid coating over the nail plate for a much more durable finish. Guaranteed not to yellow while leaving nails silky, stronger and resistant to chipping and peeling.\n\n    Easy to apply\n    Crack resistant\n    Dries quickly\n    Exciting, solid, clean color with a semi-gloss finish.",
+    "itemID": "B007U90J5U",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 130
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Nails",
+        "Nail Polish"
+      ]
+    ],
+    "price": 7.0,
+    "brand": "Seche"
+  }
+]

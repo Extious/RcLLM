@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Covergirl Clump Crusher Mascara By Lashblast, Very Black 800, 0.44 Ounce",
+    "description": "",
+    "itemID": "B0094GHGQM",
+    "helpful": [
+      296,
+      301
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 19665
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Eyes",
+        "Mascara"
+      ]
+    ],
+    "price": 8.86,
+    "brand": "COVERGIRL"
+  },
+  {
+    "title": "Dove Men+Care Sensitive + Face Wash, 5 Ounces",
+    "description": "",
+    "itemID": "B00A0J09G6",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 6095
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Cleansers",
+        "Washes"
+      ]
+    ],
+    "price": 6.69,
+    "brand": "Dove"
+  },
+  {
+    "title": "Epsoak Epsom Salt 19.75 Lbs",
+    "description": "Epsom Salt, a pure mineral compound (magnesium sulfate) in crystal form, packaged in a 19.75 pound re-sealable bulk bag. Color: natural/white Grain: Medium (standard)",
+    "itemID": "B004N7DQHA",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 214
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Bath",
+        "Minerals & Salts"
+      ]
+    ],
+    "price": 32.99,
+    "brand": NaN
+  }
+]

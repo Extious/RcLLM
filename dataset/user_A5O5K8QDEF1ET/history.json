@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Dermablend Cover Creme - Chroma 1 - Rose Beige, 1 oz",
+    "description": NaN,
+    "itemID": "B00014GT78",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 36877
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Concealers & Neutralizers"
+      ]
+    ],
+    "price": 24.3,
+    "brand": "Dermablend"
+  },
+  {
+    "title": "BaBylissPro Nano Titanium 1/2&quot; Mini Iron Blue",
+    "description": "BaByliss Pro Nano Titanium Flat Iron combines the power of nano technology, a new technological development that creates maximum efficiency, with the high heat conductivity of titanium and the heat resistant properties of Ryton. It is exceptionally resistant to chemical corrosion.",
+    "itemID": "B0038YW3BY",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Beauty": 2495
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Irons",
+        "Flattening Irons"
+      ]
+    ],
+    "price": 24.99,
+    "brand": "BaBylissPRO"
+  },
+  {
+    "title": "Aussie Instant Freeze Non-Aerosol Hairspray 8.5 Oz (Pack of 3)",
+    "description": "",
+    "itemID": "B003AYEFTK",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 54090
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 13.5,
+    "brand": "Aussie"
+  }
+]

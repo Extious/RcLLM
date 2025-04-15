@@ -1,0 +1,73 @@
+[
+  {
+    "title": "Palmer's Cocoa Butter Formula Massage Cream for Stretch Marks, 4.4 Ounce",
+    "description": "Palmer's Massage Cream helps prevent stretch marks with a therapeutic blend of vitamin E, collagen and elastin!  Great for baby's delicate skin too!",
+    "itemID": "B000056W5Y",
+    "helpful": [
+      2,
+      3
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 5945
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Creams"
+      ]
+    ],
+    "price": 5.27,
+    "brand": "Palmer&#39;s"
+  },
+  {
+    "title": "Palmer's Cocoa Butter Formula Moisturizing Body Oil with Vitamin E -- 8.5 fl oz",
+    "description": "Palmer's cocoa butter formula moisturizing body oil is a light oil specially formulated with pure cocoa butter and vitamin E to help soften and soothe rough, dry skin. It is light scented and fast absorbing.",
+    "itemID": "B000056W74",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 9038
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Body Butter"
+      ]
+    ],
+    "price": 3.52,
+    "brand": "Palmer&#39;s"
+  },
+  {
+    "title": "OPI: Lacquer Black Shatter, 0.5 oz",
+    "description": "Nothing completes a look more beautifully than nails wearing the seasons most significant colors. Changing a Nail Lacquer shade can change a womans entire look _ and her outlook. With over 200 shades, you are sure to find what you're looking for.",
+    "itemID": "B004N0ULSO",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 50177
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Nails",
+        "Nail Polish"
+      ]
+    ],
+    "price": 4.49,
+    "brand": "OPI"
+  }
+]

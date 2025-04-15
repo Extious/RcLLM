@@ -1,0 +1,47 @@
+[
+  {
+    "title": "L'Oreal Paris Colour Riche Lipcolour, Fairest Nude, 0.13 Ounces",
+    "description": "Indulge in the color of pure luxury. Color riche nurturing and protective lipcolour is now richer, creamier and more moisturizing than ever before. In addition to nourishing ingredients like omega 3 and vitamin E, the formula has been enriched with argan oil.",
+    "itemID": "B004BCT7G6",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 3583
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Lips",
+        "Lipstick"
+      ]
+    ],
+    "price": 5.93,
+    "brand": "L&#39;Oreal Paris"
+  },
+  {
+    "title": "Moroccanoil Treatment Light, 0.85 Ounce",
+    "description": "Moroccanoil treatment light is specifically formulated for the delicate needs of ultra-fine and light-colored (including white) hair. Inspired by the original formula that pioneered the oil-infused hair care category, creating the worldwide buzz on argan oil. A versatile and multitasking product, it is an essential foundation for hairstyling that can be used as a conditioning, styling and finishing tool. It even speeds up drying time and helps restore and revive hair damaged from chemicals found in shampoos, color processes and perms, as well as environmental factors. Infused with antioxidant-rich argan oil, strengthening proteins and shine-boosting vitamins. A completely transformative treatment that leaves the hair healthy, shiny and more manageable.",
+    "itemID": "B004EFG4BG",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 1025
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Hair & Scalp Treatments"
+      ]
+    ],
+    "price": 11.75,
+    "brand": "Moroccanoil"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Suave Professionals Keratin Infusion Dry Shampoo, 5 Ounce",
+    "description": "",
+    "itemID": "B005UBN2AO",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 3004
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 7.49,
+    "brand": "Suave"
+  },
+  {
+    "title": "Frizz Ease Heat Defeat Protective Styling Spray By JOHN FRIEDA, 6 Ounce",
+    "description": "Works with heat tools. Conditions and strengthens for up to 24 hours. ThermaGuard complex protects against damage. Defend straight styles to the end. This protective spray straightens strands for up to 24 hours. This helps block humidity and rehydrates.",
+    "itemID": "B006OHM11Y",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 1.0,
+    "salesRank": {
+      "Beauty": 1231
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Hair Sprays"
+      ]
+    ],
+    "price": 8.48,
+    "brand": "John Frieda"
+  }
+]

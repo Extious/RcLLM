@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Garnier Sleek and Shine Shampoo, 25.4 Fluid Ounce",
+    "description": "Smoothes for long lasting frizz control and shine. Fights frizz for 48 hours. Stay 10x smoother, with intense heat protection, even in 97% humidity.",
+    "itemID": "B005GQ6FYS",
+    "helpful": [
+      3,
+      4
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 10728
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 6.12,
+    "brand": "Garnier"
+  },
+  {
+    "title": "Coastal Scents 88 Original Palette",
+    "description": "",
+    "itemID": "B002QANC2A",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 4120
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Eyes",
+        "Eye Shadow"
+      ]
+    ],
+    "price": 17.92,
+    "brand": "Coastal Scents"
+  }
+]

@@ -1,0 +1,48 @@
+[
+  {
+    "title": "Clean &amp; Clear ESSENTIALS Dual Action Moisturizer, 4 Ounce",
+    "description": "Salicylic acid acne medication Moisturizes dry skin Treats & helps prevent pimples Active: Salicylic Acid 0.5%. For external use only.",
+    "itemID": "B000052YJM",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": NaN,
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Creams & Moisturizers",
+        "Fluids & Lotions",
+        "Fluids"
+      ]
+    ],
+    "price": 5.9,
+    "brand": "Clean &amp; Clear"
+  },
+  {
+    "title": "Alaffia Authentic African Black Soap, Peppermint 32 oz",
+    "description": "Authentic Black Soap is an \"all in one\" cleansing beauty product. It is safe for babies and ideal for shaving, shampooing, and as a general hand, face and body wash. Alaffia was created to help West African communities become sustainable through the fair trade of indigenous resources. One key to sustainability is empowerment of individuals within the communities. We encourage empowerment through our community projects, our women's cooperatives, and education and involvement in our customer communities.",
+    "itemID": "B007S0CM2Y",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 16220
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Cleansers",
+        "Soaps"
+      ]
+    ],
+    "price": 15.71,
+    "brand": "Alaffia"
+  }
+]

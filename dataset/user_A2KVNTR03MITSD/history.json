@@ -1,0 +1,82 @@
+[
+  {
+    "title": "Sally Hansen Salon Effects, Fly with Me, 16 Count",
+    "description": "Sally knows nails are the best accessory. Introducing Sally Hansen salon effects, real nail polish strips that gives you a salon fashion manicure anytime, any place. It wears like nail polish because it is nail polish. There is no dry time so you're ready to go. Salon effects lasts up to 10 days and removes easily with nail polish remover. Just peel, apply and file. Accessorize your nails with neons, glitters, and high fashion patterns with salon effects-24 fashion-forward styles to choose from.",
+    "itemID": "B004KRVE22",
+    "helpful": [
+      2,
+      3
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 23467
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Nails",
+        "Nail Polish"
+      ]
+    ],
+    "price": 3.99,
+    "brand": "Sally Hansen"
+  },
+  {
+    "title": "Scarecrow SMALL Realistic Deluxe Custom Fangs Box",
+    "description": NaN,
+    "itemID": "B000RUJJAU",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": NaN,
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Eyes",
+        "Eye Shadow"
+      ],
+      [
+        "Clothing, Shoes & Jewelry",
+        "Novelty, Costumes & More",
+        "Band & Music Fan",
+        "Accessories"
+      ],
+      [
+        "Clothing, Shoes & Jewelry",
+        "Novelty, Costumes & More",
+        "Exotic Apparel"
+      ]
+    ],
+    "price": 12.23,
+    "brand": "Scarecrow"
+  },
+  {
+    "title": "Neutrogena Rapid Clear Oil-Eliminating Foaming Cleanser, 6 Ounce",
+    "description": "Rapid Clear OilControl Foaming Cleanser is clinically proven to control oil for hours. Rich, creamy, oilfree cleanser foams up to rapidly and effectively remove oil and control shine. It clears surface oil without overdrying. Your skin feels completely clean, oilfree and refreshed. Get fresh skin with oilcontrol that lasts for hours.",
+    "itemID": "B000FH4T3M",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 4709
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Creams & Moisturizers",
+        "Fluids & Lotions",
+        "Lotions"
+      ]
+    ],
+    "price": 7.79,
+    "brand": "Neutrogena"
+  }
+]

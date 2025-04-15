@@ -1,0 +1,73 @@
+[
+  {
+    "title": "Remington S9520 Salon Collection Ceramic Hair Straightener with Pearl Infused Wide Plates, 2 Inch",
+    "description": "",
+    "itemID": "B003V21WO2",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 3380
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Irons",
+        "Flattening Irons"
+      ]
+    ],
+    "price": NaN,
+    "brand": NaN
+  },
+  {
+    "title": "Remington CI95AC/2 Tstudio Salon Collection Pearl Digital Ceramic Curling Wand, 1/2 Inch - 1 Inch",
+    "description": "",
+    "itemID": "B003V265QW",
+    "helpful": [
+      20,
+      29
+    ],
+    "overall": 1.0,
+    "salesRank": {
+      "Beauty": 73
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Irons",
+        "Curling Irons"
+      ]
+    ],
+    "price": 27.77,
+    "brand": "Remington"
+  },
+  {
+    "title": "First Aid Beauty Ultra Repair Cream-2 oz.",
+    "description": "A convenient 2 oz tube. This rich whipped cream hydrates deep down with exceptional penetration. With the help of colloidal oatmeal, shea butter, soothing eucalyptus oil and ceramides, FAB Ultra Repair Cream provides immediate relief and visible improvement for distressed skin and eczema. FAB Antioxidant Booster is there to defend skin from free radical damage. Ultra Repair Cream can be used all over the body and on the face.",
+    "itemID": "B004WC2H8A",
+    "helpful": [
+      0,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 18559
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Creams & Moisturizers"
+      ]
+    ],
+    "price": 12.0,
+    "brand": "First Aid Beauty"
+  }
+]

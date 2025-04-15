@@ -1,0 +1,72 @@
+[
+  {
+    "title": "OPI Nail Polish, Top Coat, 0.5-Ounce",
+    "description": "Buy OPI Nail & Cuticle Treatments - OPI Top Coat 15ml/0.5oz",
+    "itemID": "B00178VX50",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 1142
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Nails",
+        "Nail Polish"
+      ]
+    ],
+    "price": 6.1,
+    "brand": "OPI"
+  },
+  {
+    "title": "Nailtek Foundation No.2 Ridge-Filling Nail Strengthener Base Coat, 0.5 Fluid Ounce",
+    "description": "Nailtek foundation fills unsightly ridges and nail damage while strengthening the natural nail. This unique base coat is a special blend of strengtheners, conditioners, micro-fibers, and natural fillers, creating a superior surface that greatly increases polish adherence for a long-lasting manicure. Smoothes uneven nail surfaces and masks nail imperfections for healthy, beautiful nails.",
+    "itemID": "B0002DLEJG",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 16648
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Hands & Nails",
+        "Nail Treatments",
+        "Nail Strengthening"
+      ]
+    ],
+    "price": 6.0,
+    "brand": "Nail Tek"
+  },
+  {
+    "title": "Seche Vite Dry Fast Top Nail Coat, 0.5 Ounce",
+    "description": "Nailtiques nail varnishes are formulated with the same strengthening ingredients that the cult favorite protein formulas are enriched with. Giving your nail protein treatments an added boost, this luxurious nail polish allows the protein to penetrate through the polish, for maximum benefits.",
+    "itemID": "B00150LT40",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 29
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Nails",
+        "Top & Base Coats"
+      ]
+    ],
+    "price": 4.7,
+    "brand": "Seche"
+  }
+]

@@ -1,0 +1,73 @@
+[
+  {
+    "title": "vbeaut&eacute; It Kit",
+    "description": "",
+    "itemID": "B0060HOMHE",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 303479
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Cleansers"
+      ]
+    ],
+    "price": 116.49,
+    "brand": "vbeaut&eacute;"
+  },
+  {
+    "title": "Biore  Deep Cleansing Pore Strips , 14 Nose Strips",
+    "description": "Pore Perfect&reg;New! Custom FitUnclogs &amp; DiminishesPull the plug on clogged pores.&nbsp; Deep cleansing nose strips instantly remove dirt, oil and blackheads for cleans",
+    "itemID": "B0009EILKS",
+    "helpful": [
+      0,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 178
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Treatments & Masks",
+        "Pore Cleansing Strips"
+      ]
+    ],
+    "price": 6.66,
+    "brand": "Biore"
+  },
+  {
+    "title": "Own Products Refining Moisture Night Cream",
+    "description": "The Own Difference: To truly solve a problem, you need a new approach. In the fight against aging, the same companies, same formulas and ways of thinking have persisted. For years, we've seen products with impossible claims, read lists of unrecognizable toxic and harsh ingredients, and heard a false dichotomy between \"natural\" and \"effective\". The Entrepreneurial people behind Own saw a need for a new way of thinking. They couldn't find clinically proven, quality, good-for-you anti-aging treatments so they started Own and created the products that they wanted for themselves. Own is a San Francisco based skin-health company that believes in the holistic (complete) approach towards healthy skin. Own believes that there are too many chemicals that are in our everyday lives - in our food, in our environment, and even in our skincare products. Own's foundation is in developing unique, innovative formulas that are effective in improving skin's overall health, but without the need for harsh chemicals. Beyond products, Own advocates for lifestyle changes to make real improvements in their skin health. Using SF Bay Area technology, Own created the first-to-market aging analysis app that empowers people to see their current aging situation. Now armed with personalized information about wellness, nutrition and beauty, people can make wiser choices for their healthiest skin. Own is the NEW way of looking at OLD.",
+    "itemID": "B005KJ35D0",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 56383
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Creams & Moisturizers",
+        "Night Creams"
+      ]
+    ],
+    "price": 25.0,
+    "brand": "Own Products Inc"
+  }
+]

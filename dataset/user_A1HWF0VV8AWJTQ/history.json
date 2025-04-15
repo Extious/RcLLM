@@ -1,0 +1,70 @@
+[
+  {
+    "title": "CLEAR SCALP &amp; HAIR BEAUTY Total Care Nourishing Shampoo, 12.9 Fluid Ounce",
+    "description": "",
+    "itemID": "B007RTR898",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 11950
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 5.96,
+    "brand": "Clear"
+  },
+  {
+    "title": "Pond's luminous clean daily exfoliating cleanser, 5oz",
+    "description": "",
+    "itemID": "B0089JVEPO",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 17619
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Exfoliators & Scrubs",
+        "Scrubs"
+      ]
+    ],
+    "price": 6.64,
+    "brand": "Pond&#39;s"
+  },
+  {
+    "title": "L'Oreal Paris EverPure Sulfate-Free Color Care System Moisture Shampoo, 8.5 Fluid Ounce",
+    "description": "EverPure conditioners are creamy, protective formulas that help preserve and maintain color brilliance. Color-treated hair requires special care. The EverPure Sulfate-Free Color Care System protects and conditions hair for long-lasting color purity. The unique UV filters help protect color-treated hair against sun damage.",
+    "itemID": "B001P1ZELS",
+    "helpful": [
+      2,
+      2
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 725
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 8.41,
+    "brand": "L&#39;Oreal Paris"
+  }
+]

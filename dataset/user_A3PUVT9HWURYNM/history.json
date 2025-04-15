@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Starry USA - 36 Color Eyeshadow Palette",
+    "description": "Imagine all the different looks you can create with this multi color eyeshadow palette.\nA must have.",
+    "itemID": "B002Z684Q4",
+    "helpful": [
+      9,
+      9
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 215529
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Eyes",
+        "Eye Shadow"
+      ]
+    ],
+    "price": NaN,
+    "brand": NaN
+  },
+  {
+    "title": "Claudia Stevens Eye Prep Lid Primer",
+    "description": "Claudia Stevens Eye Prep Lid Primer creates a perfect base for eyeshadow.",
+    "itemID": "B003C1V814",
+    "helpful": [
+      4,
+      4
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Health & Personal Care": 275113
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Eyes",
+        "Concealer & Base"
+      ]
+    ],
+    "price": 5.49,
+    "brand": NaN
+  },
+  {
+    "title": "Doo Gro Medicated Hair Vitalizer Mega Thick Anti-Thinning Formula, 4 Ounce",
+    "description": "Helps thinning edges and temples. Promotes thick, strong, growing hair. Doo gro medicated hair vitalizer mega thick anti-thinning formula helps thicken and strengthen weak and damaged hair. Its special blend of vitamins, pure herbs, shea butter and botanical thickeners provides needed nourishment for strong, healthy, growing hair. Safe to use on all types of hair including natural, color treated, and relaxed. Works wonders on thinning edges and temple areas.",
+    "itemID": "B0009R5CMK",
+    "helpful": [
+      3,
+      5
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 21912
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Hair Loss Products",
+        "Hair Regrowth Treatments"
+      ]
+    ],
+    "price": 7.06,
+    "brand": "Doo Gro"
+  }
+]

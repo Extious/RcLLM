@@ -1,0 +1,72 @@
+[
+  {
+    "title": "CLEAR SCALP &amp; HAIR BEAUTY THERAPY Ultra Shea Nourishing Scalp &amp; Hair Oil, 3 Fluid Ounce",
+    "description": "",
+    "itemID": "B007RTR9G0",
+    "helpful": [
+      17,
+      20
+    ],
+    "overall": 1.0,
+    "salesRank": {
+      "Beauty": 26293
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Hair & Scalp Treatments"
+      ]
+    ],
+    "price": 4.98,
+    "brand": "Clear"
+  },
+  {
+    "title": "Pond's luminous clean daily exfoliating cleanser, 5oz",
+    "description": "",
+    "itemID": "B0089JVEPO",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 17619
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Exfoliators & Scrubs",
+        "Scrubs"
+      ]
+    ],
+    "price": 6.64,
+    "brand": "Pond&#39;s"
+  },
+  {
+    "title": "Simple Exfoliating Wipes, 25 Count (Pack of 2)",
+    "description": "",
+    "itemID": "B005TI7LD2",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 1.0,
+    "salesRank": {
+      "Beauty": 19169
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Cleansers",
+        "Cloths & Towelettes"
+      ]
+    ],
+    "price": 8.46,
+    "brand": "Simple"
+  }
+]

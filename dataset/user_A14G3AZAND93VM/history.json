@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Aveeno Ageless Vitality Rejuvenating Day Treatment",
+    "description": "After 4 weeks, 100% of women showed improved skin vitality with increased firmness, smoother skin texture, reduced appearance of wrinkles or diminished look of age spots. See dramatic results with this 2-step daily treatment system while also protecting your skin from sun damage with SPF 30. When the naturally charged biomineral concentrate is combined with the rejuvenating moisturizer, formulated with Active Naturals blackberry leaf extract and dill, the 2-step treatment system activates to restore essential energy to elastin-deficient skin, restoring a more youthful, awakened look. You will begin to see the rejuvenating power of this breakthrough treatment system quickly and will experience even better results over time.",
+    "itemID": "B003156OJM",
+    "helpful": [
+      0,
+      1
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 217212
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Creams & Moisturizers",
+        "Day Creams"
+      ]
+    ],
+    "price": 69.99,
+    "brand": "Aveeno"
+  },
+  {
+    "title": "Hydroxatone AM/PM Anti-Wrinkle Complex SPF 15",
+    "description": "",
+    "itemID": "B000R46I1O",
+    "helpful": [
+      0,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 7047
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face"
+      ]
+    ],
+    "price": 33.99,
+    "brand": "Hydroxatone"
+  },
+  {
+    "title": "Eclos Moisture Therapy Regenerative Cream, 2-Ounce",
+    "description": "The latest in Plant Stem Cell technology is believed to be the holy grail of anti-aging skin care. This remarkable facial cream containing high potency Plant Stem Cells is formulated specifically to help protect your own skin stem cells. As a result, it promotes the self-renewal capacity of the skin and helps slow the signs of aging. By revitalizing your skin stem cells, it helps tighten sagging skin and postpones wrinkling. The added benefits of Chamomile and Cucumber found in the powerhouse complex PhytoPlex24 provides the ultimate in soothing and defensive properties for the skin.New Hope for Aging Skin. Researcher have found that Plant Stem Cells extracted from a rare Swiss apple, (Uttwiler Spatlauber), show tremendous ability to stimulate skin stem cells, encouraging aging skin to behave like younger skin.PhytoPlex24, a proprietary complex of plant extracts, vitamins, and antioxidants known to work in synergy to minimize the appearance of fine lines, wrinkles, and tired skin while delivering a smooth and radiant complexion.",
+    "itemID": "B003JTF3VK",
+    "helpful": [
+      3,
+      5
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Beauty": 12439
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Creams & Moisturizers"
+      ]
+    ],
+    "price": 24.99,
+    "brand": "Eclos"
+  }
+]

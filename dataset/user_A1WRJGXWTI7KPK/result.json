@@ -1,0 +1,49 @@
+[
+  {
+    "title": "Bath &amp; Body Works Eucalyptus Spearmint 6.5 oz Aromatherapy Lotion",
+    "description": "Buy Bath & Body Works Body Creams & Body Lotions - Bath & Body Works Aromatherapy Stress Relief Eucalyptus Spearmint 6.5 oz Body Lotion. How-to-Use: Apply with a washcloth or sponge to create a rich, cleansing lather.",
+    "itemID": "B005IC3PMA",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 5691
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Lotions"
+      ]
+    ],
+    "price": 6.19,
+    "brand": "Bath &amp; Body Works"
+  },
+  {
+    "title": "Bath &amp; Body Works Eucalyptus Spearmint Stress Relieving Body Wash - 10 Oz",
+    "description": "Think clearly. Eucalyptus Essential Oil clears the mind to improve concentration. Spearmint Essential Oil is uplifting and helps the mind to focus.",
+    "itemID": "B006NKJSNQ",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 1749
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Cleansers",
+        "Body Washes"
+      ]
+    ],
+    "price": 9.49,
+    "brand": "BBW Aromatherapy"
+  }
+]

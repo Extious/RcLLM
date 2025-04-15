@@ -1,0 +1,73 @@
+[
+  {
+    "title": "Garnier Fructis Leave-In Anti-Frizz Serum for for fizzy, dry and unmanageable hair, Sleek &amp; Shine, 5.1 Fluid Ounce",
+    "description": "A conditioning leave-in serum for fizzy, dry and unmanageable hair",
+    "itemID": "B000GCTBNY",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 9250
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Hair Styling Serums"
+      ]
+    ],
+    "price": 3.95,
+    "brand": "Garnier"
+  },
+  {
+    "title": "L'Oreal Paris Voluminous Million Lashes Waterproof Mascara, Blackest Black, 0.32 Ounces",
+    "description": "Waterproof for all-day millionized lashes. The result: instantly thickened, sepaarated, and amplified lashes.",
+    "itemID": "B004Y9M4DE",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 3700
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Eyes",
+        "Mascara"
+      ]
+    ],
+    "price": 4.0,
+    "brand": "L&#39;Oreal Paris"
+  },
+  {
+    "title": "TONYMOLY Pocket Bunny Mist 2.11fl.oz./ 60ml Moist Mist",
+    "description": "spray mist all over your face",
+    "itemID": "B0055B08GA",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Health & Personal Care": 22978
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Creams & Moisturizers",
+        "Fluids & Lotions",
+        "Fluids"
+      ]
+    ],
+    "price": 4.08,
+    "brand": "TONYMOLY"
+  }
+]

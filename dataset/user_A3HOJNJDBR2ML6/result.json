@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Revlon Colorsilk Color Burgundy 48",
+    "description": "Revlon ColorSilk #48 Burgundy is formulated to penetrate every strand with its gentle, ammonia-free formula and after-color conditioner with nourishing silk proteins. Hair looks silkier, shinier and healthier than before you colored. 100% gray coverage. (2 Fl Oz)",
+    "itemID": "B000GCR6S6",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 164964
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Hair Color",
+        "Chemical Hair Dyes"
+      ]
+    ],
+    "price": 2.76,
+    "brand": "Revlon"
+  },
+  {
+    "title": "Fake Bake Self-Tanning Lotion, 6-Ounces",
+    "description": "Fake Bake Self-Tanning Lotion, 6oz",
+    "itemID": "B001183N8G",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 2963
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Sun",
+        "Self-Tanners & Bronzers"
+      ]
+    ],
+    "price": 12.0,
+    "brand": "Fake Bake"
+  },
+  {
+    "title": "Clairol Pure White 40 Volume 16 oz.",
+    "description": NaN,
+    "itemID": "B0009R35GA",
+    "helpful": [
+      2,
+      3
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 23953
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Hair Color",
+        "Chemical Hair Dyes"
+      ]
+    ],
+    "price": 3.59,
+    "brand": "Clairol"
+  }
+]

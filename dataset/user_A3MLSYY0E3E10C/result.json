@@ -1,0 +1,48 @@
+[
+  {
+    "title": "HERSTYLER GRANDE PROFESSIONAL (BLACK) 25mm CURLING IRON",
+    "description": "NOW YOU CAN CREATE CURLS, WAVES AND INCREDIBLE BODY TO YOUR HAIR. EASY AND FAST TO USE. THE PATENTED INSTANT TOURMALINE HEAT TECHNOLOGY ALLOWS YOU TO CURL YOUR HAIR ALMOST IMMEDIATELY AFTER TURNING YOUR IRON ON.",
+    "itemID": "B005GHMPE6",
+    "helpful": [
+      2,
+      2
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 17838
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Irons",
+        "Curling Irons"
+      ]
+    ],
+    "price": 18.5,
+    "brand": "HerStyler"
+  },
+  {
+    "title": "Moroccanoil Restorative Hair Mask 8.5 oz.",
+    "description": "This treatment penetrates deep into the hair to help restore elasticity and rebuild. Strength while repairing damage caused by chemicals and other environmental stresses. This unique formula is rich in vegetable proteins and will help bring out hair's inner health, leaving it incredibly moisturized with a brilliant shine.",
+    "itemID": "B002C4V3WG",
+    "helpful": [
+      0,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 5529
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Hair & Scalp Treatments"
+      ]
+    ],
+    "price": 25.99,
+    "brand": "Moroccanoil"
+  }
+]

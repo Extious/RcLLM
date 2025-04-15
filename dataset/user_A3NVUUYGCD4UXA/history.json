@@ -1,0 +1,70 @@
+[
+  {
+    "title": "Fake Bake Instant Self-Tanning Spray, 7.1-Ounces",
+    "description": "Fake Bake Instant Self-Tanning Spray, 7oz",
+    "itemID": "B001183N9K",
+    "helpful": [
+      6,
+      6
+    ],
+    "overall": 1.0,
+    "salesRank": {
+      "Health & Personal Care": 5724
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Sun",
+        "Self-Tanners & Bronzers"
+      ]
+    ],
+    "price": 13.4,
+    "brand": "Fake Bake"
+  },
+  {
+    "title": "Clairol Shimmer Lights Shampoo Blonde &amp; Silver 31.5oz",
+    "description": "Clairol Shimmer Lights Original Conditioning Shampoo brightens white and gray hair. Shampoos away yellow, and refreshes faded highlights.",
+    "itemID": "B000FVEKUU",
+    "helpful": [
+      8,
+      12
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 31761
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 16.95,
+    "brand": "Clairol"
+  },
+  {
+    "title": "Revlon Colorsilk Haircolor, Brown Black, 1-Count (Pack of 3)",
+    "description": "Revlon Colorsilk Radiant, long-lasting color. Leaves hair in better condition.Revlon Colorsilk gives you natural-looking, even color from root to tip that stays beautiful between colorings. It is formulated to penetrate every strand with its gentle, ammonia-free formula and after-color conditioner with nourishing silk proteins. Hair looks silkier, shinier and healthier than before you colored. 100% gray coverage. Leaves hair in better condition. Available in a range of 40 brilliant shades*Colorsilk permanent haircolor can be used on natural, color-treated, relaxed or permed hair. TIPS:Create silky, shiny haircolorWatch the Revlon ColorSilk how-to video to learn how easy it is to get natural-looking, even color from root to tip.",
+    "itemID": "B0039YQG3E",
+    "helpful": [
+      11,
+      14
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 46526
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Hair Color",
+        "Chemical Hair Dyes"
+      ]
+    ],
+    "price": 11.51,
+    "brand": "Revlon"
+  }
+]

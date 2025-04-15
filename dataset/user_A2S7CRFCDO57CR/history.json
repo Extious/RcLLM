@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Fake Bake Self-Tanning Lotion, 6-Ounces",
+    "description": "Fake Bake Self-Tanning Lotion, 6oz",
+    "itemID": "B001183N8G",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 2963
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Sun",
+        "Self-Tanners & Bronzers"
+      ]
+    ],
+    "price": 12.0,
+    "brand": "Fake Bake"
+  },
+  {
+    "title": "Hawaiian Tropic Silk Hydration SPF 30 Sunscreen Lotion, 6 Fluid Ounce",
+    "description": "",
+    "itemID": "B00639DLV2",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 2744
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Sun",
+        "Skin Protection",
+        "Sports"
+      ]
+    ],
+    "price": 2.9,
+    "brand": "Hawaiian Tropic"
+  },
+  {
+    "title": "Motions Naturally You, Hydrate My Curls Pudding 8 Ounce",
+    "description": "",
+    "itemID": "B0072XT8BA",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 14990
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Creams, Gels & Lotions"
+      ]
+    ],
+    "price": 5.49,
+    "brand": "Motions"
+  }
+]

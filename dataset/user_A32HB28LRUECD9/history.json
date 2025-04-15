@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Neutrogena Norwegian Formula Lip Moisturizer, SPF 15, 0.15 Ounce",
+    "description": "Conditions & Protects Dry, Chapped Lips Guards Against The Uva & Uvb Rays No Color, Fragrance Or Additives",
+    "itemID": "B0000Y3D4G",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 42049
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Oils"
+      ]
+    ],
+    "price": 4.31,
+    "brand": "Nuetrogena"
+  },
+  {
+    "title": "Sigma E20 - Short Shader",
+    "description": "Unique Feature: Soft and precise flat head\nFunction: Concentrated color application\nRecommended Use: Apply color onto small areas of the eye such as the outer eyelid. Also use to smudge the lower lash line.\n\n 2013 Sigma Enterprises, LLC",
+    "itemID": "B005OZEFKM",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 15037
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Tools & Accessories",
+        "Makeup Brushes & Tools",
+        "Brushes & Applicators"
+      ]
+    ],
+    "price": 7.51,
+    "brand": "Sigma Beauty"
+  },
+  {
+    "title": "Keratin Complex Color Care Shampoo &amp; Conditioner Duo 33.8oz Ea",
+    "description": "Keratin Complex Color Care Shampoo & Conditioner 33.8 oz ea\n\n (no longer under the brand of Coppola)",
+    "itemID": "B003LNCFPG",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 7894
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoo & Conditioner Sets"
+      ]
+    ],
+    "price": 59.45,
+    "brand": "Keratin Complex"
+  }
+]

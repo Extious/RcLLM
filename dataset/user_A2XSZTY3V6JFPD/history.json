@@ -1,0 +1,71 @@
+[
+  {
+    "title": "CND: Treatments/Prep Stickey Base Coat, 2.3 oz",
+    "description": "A soft, \"sticky\" base coat designed to anchor nail enamel to the nail. Acts as a gripping agent to prevent peeling and chipping. Ideal for both natural nails and enhancements.",
+    "itemID": "B0006PJSES",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 20922
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Hands & Nails",
+        "Nail Treatments"
+      ]
+    ],
+    "price": 10.1,
+    "brand": "CND Cosmetics"
+  },
+  {
+    "title": "elf Studio High Definition Loose Face Powder",
+    "description": "The e.l.f. High Definition Powder is a translucent, versatile loose powder that creates a flawless, \"soft focus\" effect to the skin. Masks fine lines and imperfections for a glowing, radiant complexion. This incredibly soft and invisible powder is ideal for everyday wear, either alone or over your favorite e.l.f. foundation. Our HD Powder is a makeup artist and e.l.f. customer favorite.",
+    "itemID": "B004DIXYUI",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 573
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Powder"
+      ]
+    ],
+    "price": 8.98,
+    "brand": "e.l.f. Cosmetics"
+  },
+  {
+    "title": "e.l.f. Matte Lip Color, Rich Red, 0.06 Ounce",
+    "description": "This convenient jumbo sized lip pencil creates exact color application with twist up ease so you never have to sharpen. The pigment rich color glides on effortlessly and easily to provide long lasting matte color. The enriched vitamin A, C and E formula moisturizes and hydrates lips for beautiful healthy looking lips.",
+    "itemID": "B007APTJ0U",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 60936
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Lips",
+        "Lipstick"
+      ]
+    ],
+    "price": 5.92,
+    "brand": "e.l.f. Cosmetics"
+  }
+]

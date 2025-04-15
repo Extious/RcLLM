@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Emerita Pro-gest Natural Balancing Cream, 2 Ounce",
+    "description": "It helps women find relief from issues that occur during perimenopause and menopause.",
+    "itemID": "B0001ZYLAO",
+    "helpful": [
+      1,
+      3
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Health & Personal Care": 75548
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Lotions"
+      ]
+    ],
+    "price": 16.78,
+    "brand": "Emerita"
+  },
+  {
+    "title": "Pantene Minoxidil Topical Solution Usp, 2% Hair Regrowth Treatment For Women 30 Day Supply 2 Fl Oz, 2.000-Fluid Ounce",
+    "description": "",
+    "itemID": "B00FF5B31U",
+    "helpful": [
+      0,
+      1
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 10860
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Hair Loss Products",
+        "Hair Regrowth Treatments"
+      ]
+    ],
+    "price": 17.5,
+    "brand": "Pantene"
+  },
+  {
+    "title": "Suave Kids 3 In 1 Shampoo Conditioner and Body Wash, Pineapple, 22.5 Ounce",
+    "description": "",
+    "itemID": "B00GTBZN4C",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 1810
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 8.39,
+    "brand": "Suave"
+  }
+]

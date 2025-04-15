@@ -1,0 +1,49 @@
+[
+  {
+    "title": "Swissco Tortoise Perm Comb Wide Tooth",
+    "description": "This Swissco comb will glide smoothly without hurting the scalp. Handmade in India.",
+    "itemID": "B000TBZJOM",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 31996
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Combs"
+      ]
+    ],
+    "price": 4.95,
+    "brand": "Swissco"
+  },
+  {
+    "title": "Upper Lower Lash Mascara Applicator Guide Eyelash Comb",
+    "description": "Material: plastic;\n\nColor: pink;\n\nPackage: 1 x Upper Lower Lash Applicator Guide",
+    "itemID": "B004UVRYQS",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 2551
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Tools & Accessories",
+        "Makeup Brushes & Tools",
+        "Eyelash Tools",
+        "Fake Eyelashes & Adhesives"
+      ]
+    ],
+    "price": 1.37,
+    "brand": "niceEshop"
+  }
+]

@@ -1,0 +1,95 @@
+[
+  {
+    "title": "Remington Ci96z1 Silk Ceramic Elliptical Waving Wand",
+    "description": "",
+    "itemID": "B00BB8ZHJY",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 55758
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Irons",
+        "Curling Irons"
+      ]
+    ],
+    "price": 25.32,
+    "brand": "Remington"
+  },
+  {
+    "title": "John Frieda Sheer Blonde Highlight Activating Enhancing Shampoo (for Lighter Blondes), 8.45 Ounces (Pack of 2)",
+    "description": "John Frieda Sheer Blonde&#174; Highlight Activating Enhancing Shampoo.London, Paris, New York.See contrast in 1 use.Brightens the full spectrum of blonde tones.For lighter blondes.8.45 fl oz (250ml).",
+    "itemID": "B0067YU6D4",
+    "helpful": [
+      1,
+      2
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 14746
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 4.99,
+    "brand": "John Frieda"
+  },
+  {
+    "title": "Dr. King's Natural Medicine Gout Symptom Formula, 2 Fluid Ounce",
+    "description": "For fast relief of pain in the great toe, heel, foot, joints including swelling, burning, itching, tingling, tearing pains, throbbing, cramps, shooting pains. Safe and natural homeopathic formulas. No alcohol, dairy, glutens, sugar or yeast. Taste free, odor free, pure water base.",
+    "itemID": "B001118AYU",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Health & Personal Care": 95225
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Lotions"
+      ]
+    ],
+    "price": 15.16,
+    "brand": "Dr. King&#39;s Natural Medicine"
+  },
+  {
+    "title": "John Frieda Precision Foam Hair Color, Glosser Cool Brunette, 6 Fluid Ounce",
+    "description": "An in-shower, non-damaging weekly color extending treatment that adds back lost color pigments for true to tone, salon-fresh color in-between colorings. Instantly restore vibrant salon-fresh color and shine. Adds deep espresso color to eliminate red-orange tones. An in-shower non-damaging weekly color extending treatment that adds back lost color pigments. Delivers true to tone salon-fresh color in-between colorings.",
+    "itemID": "B00GLS58OS",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 22088
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Hair Color",
+        "Highlights"
+      ]
+    ],
+    "price": 9.99,
+    "brand": "John Frieda"
+  }
+]

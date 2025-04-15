@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Gelish Foundation Gel",
+    "description": "GELISH FOUNDATION Base Gel - creates the adhesive bond between the nail plate and gel products. This product secures adhesion while not damaging the natural nail plate. FOUNDATION will work with Hand & Nail Harmony GELISH products as a base for GELISH STRUCTURE or GELISH Soak Off Gel Polish. GELISH FOUNDATION cures in 10 seconds in a LED Light or 30 seconds in an UV Light.",
+    "itemID": "B005L4ULCC",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Health & Personal Care": 34462
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Nails",
+        "Nail Polish"
+      ]
+    ],
+    "price": 13.99,
+    "brand": "Gelish"
+  },
+  {
+    "title": "Godefroy Instant Eyebrow Tint, Dark Brown",
+    "description": "Over 70 years of satisfied customers covering gray hair in eyebrows.",
+    "itemID": "B000S0CKRS",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 5184
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Eyes",
+        "Eyebrow Color"
+      ]
+    ],
+    "price": 8.09,
+    "brand": "Godefroy"
+  },
+  {
+    "title": "Revlon Perfect Heat 1-1/2inch Curling Iron",
+    "description": "When it comes to curling irons, structural extras are always  second to quick, effective heat. The Revlon Perfect Heat curling iron  doesn't have much in the way of frills, but it does deliver safe,  consistent heat with a minimal cooling period between uses. Ideal for  creating extra-large curls and volume, the 1-1/2-inch barrel on this  iron has a clamp with a wide, conveniently snug thumb lever and a  stay-cool tip for extra control during styling. In addition to the 60-second  heating time, the iron includes an automatic shutoff, a power indicator  light, and a built-in prop to keep the barrel off the bathroom counter.  The stand is somewhat shorter than on most irons and the cord doesn't  swivel, but the barrel is so maneuverable that these minor drawbacks  aren't much of a problem. Even better, Revlon builds this iron with  worldwide voltage, so travel is easy.--Emily Bedard",
+    "itemID": "B00005CDSP",
+    "helpful": [
+      4,
+      4
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 9493
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Irons",
+        "Curling Irons"
+      ]
+    ],
+    "price": 15.28,
+    "brand": "Revlon"
+  }
+]

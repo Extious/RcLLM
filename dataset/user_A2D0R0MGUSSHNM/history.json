@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Sebastian Shaper Plus Hairspray 3 Bottles (10.6 oz each)",
+    "description": "Sebastian Shaper PLUS Hairspray provides a touchable exra hold that holds shape even in damp, rainy weather. Shaper Plus Hair Spray is also humidity-resistant. Never sticky. Extra Control.",
+    "itemID": "B000O2TBEK",
+    "helpful": [
+      30,
+      30
+    ],
+    "overall": 1.0,
+    "salesRank": {
+      "Beauty": 1149
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Scrubs & Body Treatments",
+        "Body Scrubs"
+      ]
+    ],
+    "price": 26.01,
+    "brand": "SEBASTIAN"
+  },
+  {
+    "title": "Benefit Cosmetics Full-Finish Lipstick Espionage",
+    "description": "What it is:A full-finish lipstick.What it does:Your search for the perfect lipstick is over: Benefit Love Your Look Lipstick is a range of sumptuous shades for the lip that longs for full, rich color. Benefit's Love Your Look Makeup to Match Your Lifestyle collection takes the guesswork out of gorgeous. Choose from three unique looks: The Lana (light neutral shades), The Gabbi (medium neutral shades), and The Betty (deep neutral shades).What else you need to know:Now that your lips are flaunt-able, find a complementary Love Your Look creaseless cream shadow/liner and sheer cream blusher to complete your look. Go for a \"lifestyle look\" or, be daring and mix and match. All of the beautiful shades for lips, eyes, and cheeks will let you create the look you want. Plus, you'll love the hidden surprise: a \"beauty fortune\" inside every package.",
+    "itemID": "B0019W219G",
+    "helpful": [
+      2,
+      2
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Beauty": 320102
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Lips",
+        "Lipstick"
+      ]
+    ],
+    "price": 30.6,
+    "brand": NaN
+  },
+  {
+    "title": "Michael O'Rourke Rock Your Hair Bombshell Big Hair Powder for Unisex, 0.88 Ounce",
+    "description": "Bombshell Big Hair Powder 0.9 -Use on the roots and explode lifeless hair into sexy big volume.",
+    "itemID": "B005593XAA",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 24195
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Pomades & Waxes"
+      ]
+    ],
+    "price": 8.9,
+    "brand": "Michael O&#39;Rourke"
+  }
+]

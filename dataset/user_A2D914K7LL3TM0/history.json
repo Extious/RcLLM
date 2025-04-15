@@ -1,0 +1,69 @@
+[
+  {
+    "title": "Cetaphil Gentle Skin Cleanser - 16 fl oz",
+    "description": "Softens As It Cleanses.CETAPHIL&reg; cleanser was formulated for dermatologists as a gentle, non-irritating cleanser for even the most sensitive skin. Unlike soap,&nbsp;CETAPHIL is completely non-alkaline, non-comedogenic, and fragrance free.&nbsp; Soothes and softens as it cleanses, helping the skin retain needed moisture. Use for face, hands, and the entire body. Also an excellent cleanser for the delicate skin of babies.",
+    "itemID": "B000052YMV",
+    "helpful": [
+      5,
+      5
+    ],
+    "overall": 5.0,
+    "salesRank": NaN,
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Cleansers"
+      ]
+    ],
+    "price": 10.0,
+    "brand": "Cetaphil"
+  },
+  {
+    "title": "Studio Eyebrow Kit- Light",
+    "description": "Create brows that are fuller, thicker, and more defined. The pigmented wax defines and shapes brows and the color complementing setting powder keeps them looking arched and perfected. The doubled sided taklon brush has one side to help arch your brows while the other side aids in filling them in. This duo provides lasting color definition for a naturally beautiful look.",
+    "itemID": "B002B4EFCC",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 24753
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Eyes",
+        "Eyebrow Color"
+      ]
+    ],
+    "price": 4.95,
+    "brand": "e.l.f. Cosmetics"
+  },
+  {
+    "title": "Studio Contouring Blush and Bronzing Powder St Lucia",
+    "description": "Create a healthy and natural glow all year long with the Contouring Blush & Bronzing Powder. The Blush highlights the cheeks to add a flush of color, while the Bronzer accents and contours cheekbones for beautiful definition. This convenient compact has just what you need to achieve a gorgeous glow anytime, anywhere.",
+    "itemID": "B002B4LUF2",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 4351
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Blush"
+      ]
+    ],
+    "price": 5.28,
+    "brand": "e.l.f. Cosmetics"
+  }
+]

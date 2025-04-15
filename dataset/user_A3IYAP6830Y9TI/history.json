@@ -1,0 +1,69 @@
+[
+  {
+    "title": "Johnson's Baby Shampoo, Travel Size, 1.5 Ounce (Pack of 48)",
+    "description": "Johnson's knows bath time is a special time to share with your baby, and when the two of you are bonding, there's no room for tears. Our classic NO MORE TEARS formula rinses quickly and easily, leaves hair smelling fresh, and looking beautifully healthy and shiny it is soap free, hypoallergenic, and dermatologist tested.",
+    "itemID": "B000X040QW",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Health & Personal Care": 121038
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": NaN,
+    "brand": NaN
+  },
+  {
+    "title": "Method Gel Dish Pump Refill 36oz, Cucumber (Pack of 2)",
+    "description": "",
+    "itemID": "B004M2Y7RY",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Health & Personal Care": 2184
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Cleansers",
+        "Soaps"
+      ]
+    ],
+    "price": 16.72,
+    "brand": "Method"
+  },
+  {
+    "title": "Neutrogena Deep Clean Facial Cleanser, Normal to Oily Skin, 6.7 Ounce",
+    "description": "Neutrogena Deep Clean cleans so deeply and thoroughly that it improves the look and feel of skin. Skin is left cleanwith no poreclogging residue. Your complexion looks fresh and healthy; feels smooth and soft from deeper, more thorough cleansing. This effective face wash contains a hydroxy acid which penetrates deep into pores, dissolving dirt, oil and makeup. It also removes dead surface skin cells that can dry, roughen and dull your complexion. Softer, fresher skin will emerge.",
+    "itemID": "B000052ZB4",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": NaN,
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Oils"
+      ]
+    ],
+    "price": 5.7,
+    "brand": "Neutrogena"
+  }
+]

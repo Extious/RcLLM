@@ -1,0 +1,47 @@
+[
+  {
+    "title": "UltraSwim Chlorine-Removal Shampoo, 7-Ounce Bottles (Pack of 4)",
+    "description": "Chlorine strips hair of moisture, leaving it dry, brittle and unmanageable. UltraSwim Chlorine Removal Shampoo is uniquely formulated to gently remove chlorine and chlorine odor from hair while helping to replace lost moisture. This non-drying formula gently removes build-up of harmful elements such as chlorine and oxidized metals to give hair a fresh, clean start. Vitamin E, aloe and protective conditioners nourish and replenish moisture with each shampoo, leaving hair soft, silky and healthy looking.",
+    "itemID": "B001ET76OO",
+    "helpful": [
+      2,
+      3
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 186
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 16.35,
+    "brand": "UltraSwim"
+  },
+  {
+    "title": "L'Oreal Paris Voluminous Butterfly Mascara, Blackest Black, 0.22 Ounces",
+    "description": "Stretch and extend your lashes like wings!  Introducing Voluminous Butterfly Mascara, one of our most-exciting mascara innovations, yet. It&#x2019;s revolutionary Butterfly Brush&#x2122; with asymmetrical lash line shape extends and lifts outer corner lashes to give you a winged-out effect, instantly volumizing lashes at the roots and stretching lashes outward. The unique Cocoon Fibers&#x2122; instantly wrap lashes in a soft, delicate veil to create silky, spectacular lashes that flutter.",
+    "itemID": "B00F4VWXO6",
+    "helpful": [
+      5,
+      5
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 5468
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Eyes",
+        "Mascara"
+      ]
+    ],
+    "price": 1.0,
+    "brand": "L&#39;Oreal Paris"
+  }
+]

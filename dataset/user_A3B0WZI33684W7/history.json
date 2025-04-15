@@ -1,0 +1,70 @@
+[
+  {
+    "title": "Caress Daily Silk Body Wash with White Peach and Silky Orange Blossom, 18 Ounce Bottles (Pack of 6)",
+    "description": "",
+    "itemID": "B001FB5TLI",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 106289
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Scrubs & Body Treatments",
+        "Body Scrubs"
+      ]
+    ],
+    "price": 31.99,
+    "brand": "Caress"
+  },
+  {
+    "title": "Harmony Hard LED Clear Gel",
+    "description": "Harmony Hard LED Clear Gel .5oz",
+    "itemID": "B005P4NQJ8",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 13222
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Nails",
+        "Nail Polish"
+      ]
+    ],
+    "price": 13.91,
+    "brand": "Harmony"
+  },
+  {
+    "title": "Straight Arrow Mane N Tail Conditioner for Horse, 12-Ounce",
+    "description": "Mane n Tail Conditioner exclusive protein enriched amino acid formula with unique action that helps to maintain and achieve longer, thicker and healthier looking manes and tails.",
+    "itemID": "B000C19AZ8",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Pet Supplies": 12631
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Conditioners"
+      ]
+    ],
+    "price": 3.65,
+    "brand": "Straight Arrow"
+  }
+]

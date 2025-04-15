@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Cetaphil Fragrance Free Daily Facial Moisturizer, SPF 15, 4-Ounce Bottles (Pack of 2)",
+    "description": "",
+    "itemID": "B001ET73D8",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 13054
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Creams & Moisturizers",
+        "Fluids & Lotions"
+      ]
+    ],
+    "price": 27.89,
+    "brand": "Cetaphil"
+  },
+  {
+    "title": "St. ives body lotion, naturally soothing oatmeal &amp; shea butter, 21oz",
+    "description": NaN,
+    "itemID": "B005OKPZR4",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": NaN,
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Oils"
+      ]
+    ],
+    "price": 5.36,
+    "brand": "St. Ives"
+  },
+  {
+    "title": "Banana Boat Sport SPF 50 Family Size Sunscreen Lotion, 12-Fluid Ounce",
+    "description": "",
+    "itemID": "B004CDV7EY",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 305
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Sun",
+        "Skin Protection",
+        "Sports"
+      ]
+    ],
+    "price": 12.03,
+    "brand": "Banana Boat"
+  }
+]

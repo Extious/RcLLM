@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Hawaiian Tropic Silk Hydration SPF 30 Sunscreen Lotion, 6 Fluid Ounce",
+    "description": "",
+    "itemID": "B00639DLV2",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 2744
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Sun",
+        "Skin Protection",
+        "Sports"
+      ]
+    ],
+    "price": 2.9,
+    "brand": "Hawaiian Tropic"
+  },
+  {
+    "title": "Dove Men+Care Fresh Clean Fortifying 2 in 1 (12oz)",
+    "description": "",
+    "itemID": "B00AAJTDLI",
+    "helpful": [
+      0,
+      3
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 194
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 7.49,
+    "brand": "Dove"
+  },
+  {
+    "title": "Dove Men+Care Hydrate + Shave Gel",
+    "description": "",
+    "itemID": "B00A0J09C0",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 14582
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Oils"
+      ]
+    ],
+    "price": 7.09,
+    "brand": "Dove"
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "title": "Weleda Wild Rose Smoothing Night Cream, 1-Fluid Ounce",
+    "description": "This rich cream, made with organic rosehip seed oil that is rich in vitamins A and antioxidants, helps stimulate your skin&#x2019;s growth process during its nightly regenerative cycle. Organic olive oil contains a high quantity of vitamin E to provide deep, restorative moisture and balance where your skin needs it most while evening primrose oil and myrrh soften fine lines and counter the first signs of aging. Your skin wakes up refreshed with a renewed glow.",
+    "itemID": "B003LDOSXI",
+    "helpful": [
+      2,
+      2
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 6432
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Creams & Moisturizers",
+        "Night Creams"
+      ]
+    ],
+    "price": 18.01,
+    "brand": "Weleda"
+  },
+  {
+    "title": "Revlon Colorsilk Color Burgundy 48",
+    "description": "Revlon ColorSilk #48 Burgundy is formulated to penetrate every strand with its gentle, ammonia-free formula and after-color conditioner with nourishing silk proteins. Hair looks silkier, shinier and healthier than before you colored. 100% gray coverage. (2 Fl Oz)",
+    "itemID": "B000GCR6S6",
+    "helpful": [
+      1,
+      2
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 164964
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Hair Color",
+        "Chemical Hair Dyes"
+      ]
+    ],
+    "price": 2.76,
+    "brand": "Revlon"
+  }
+]

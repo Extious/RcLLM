@@ -1,0 +1,71 @@
+[
+  {
+    "title": "DHC Deep Cleansing Oil 6.7fl.oz./200ml",
+    "description": "Superstar. Try this amazing cleanser and you'll see why it's our most popular product worldwide. Dirt, excess oil, makeup-even waterproof mascara-and other pore-cloggers dissolve easily, leaving your face a grime-free zone that is soft to the touch. Its unique water-soluble formula rinses completely, so you'll never see a greasy residue. Olive oil and vitamin E help ensure you won't see dryness either",
+    "itemID": "B001UE60E0",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 696
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Cleansers"
+      ]
+    ],
+    "price": 18.95,
+    "brand": "DHC"
+  },
+  {
+    "title": "Soft 'N Style Hair Donut Black, 0.005 Ounce",
+    "description": "Use to create buns and up-do's. Simply pull pony tail through donut and pin hair to achieve the look you want. Easy to use and lightweight.",
+    "itemID": "B00198ZOU8",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 8454
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Styling Accessories"
+      ]
+    ],
+    "price": 1.79,
+    "brand": "Soft &#39;N Style"
+  },
+  {
+    "title": "Yu-Be Moisturizing Skin Cream 1.25 oz Tube",
+    "description": "What it is:A concentrated glycerin moisturizing cream.What it is formulated to do:Yu-Be Moisturizing Skin Cream soothes and moisturizes dry skin. This glycerin-based cream is enriched with vitamin E, vitamin B2, and camphor. It has a uniquely high glycerin content and absorbability achieved through a special manufacturing process which makes Yu-Be so effective. Use it to smooth rough, dry patches on hands, elbows, knees, and feet. It softens and reduces tough calluses, including hard, cracked heels, and helps heal and prevent split cuticles. It replenishes lost moisture from water damage or frequent hand washing, helps heal and minimize scarring from burns, and protects and moisturizes skin exposed to cold, wind, and water.What it is formulated WITHOUT:- Sulfates- Synthetic Fragrances- Synthetic Dyes- Petro-Chemicals- PhthalatesWhat else you need to know:Invented in 1957 by a Japanese pharmacist, Yu-Be is the #1 selling medicated, vitamin-enriched skincare cream in Japan today. Yu-Be is safe and effective for the whole family. The non-greasy formula absorbs quickly and stays locked in for hours.",
+    "itemID": "B0001UWRCI",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 11852
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Treatments & Masks"
+      ]
+    ],
+    "price": 15.0,
+    "brand": "YuBe"
+  }
+]

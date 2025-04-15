@@ -1,0 +1,71 @@
+[
+  {
+    "title": "OPI Avojuice Skin Quenchers, Mini 6 Pack",
+    "description": "Juice up your skin with six 1 fl. oz. flavors of Avojuice Skin Quenchers lotions: Grapefruit, Coconut Melon, Cran & Berry, Raspberry Violet, Crisp Apple, and Jasmine Juicies.",
+    "itemID": "B001OAHF5I",
+    "helpful": [
+      2,
+      3
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 36949
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Lotions"
+      ]
+    ],
+    "price": 12.0,
+    "brand": "OPI"
+  },
+  {
+    "title": "It's A 10 Miracle Hair Mask , 8-Ounces Jars",
+    "description": "1. Detangles 2. Restores Moisture 3. Instantly Restores Elasticity 4. Softens 5. Smoothes 6. Imparts Luminous Shine 7. Enhances Natural Body 8. Nourishes 9. Defrizzes 10. Improves color vibrancy",
+    "itemID": "B000ZLVUYO",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 280
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Hair & Scalp Treatments"
+      ]
+    ],
+    "price": 17.15,
+    "brand": "Its a 10"
+  },
+  {
+    "title": "Moroccan Oil Intense Hydrating Mask 8.5 Ounce",
+    "description": "Introducing the power of Moroccanoil. The Moroccanoil treatments have the ability to restore condition to over-processed hair, caused by colour procedures, perms and enviromental factors. This Intense Hydrating Mask is a rich, creamy treatment, designed to hydrate and help repair damaged hair. Moroccanoil's Intense Hydrating Mask is a high performace mask that does not need heat to be activated; only 5 to 7 minutes will treat hair with needed moisture whilst helping to add shine and elasticity.With continued use, this highly effective mask helps revitalise hair, restoring shine and manageability.",
+    "itemID": "B002N5MKMG",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 325
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Fragrance",
+        "Women's",
+        "Eau de Parfum"
+      ]
+    ],
+    "price": 23.6,
+    "brand": "Moroccanoil"
+  }
+]

@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Opi Hong Kong Collection Lucky Lucky Lavender Nl H48",
+    "description": "Be pretty and prosperous in this luscious light purple.",
+    "itemID": "B0036Z469M",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 176636
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Nails",
+        "Nail Polish"
+      ]
+    ],
+    "price": 6.85,
+    "brand": "OPI"
+  },
+  {
+    "title": "Enjoy Texture Cream, 8.8-Ounce (Packaging may Vary)",
+    "description": "Give the hair separation and volume without weight.",
+    "itemID": "B000O3MHW2",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 6109
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Creams, Gels & Lotions"
+      ]
+    ],
+    "price": 11.5,
+    "brand": "Enjoy"
+  },
+  {
+    "title": "YOU Reel by Conair 2-in-1 Styler",
+    "description": "Conair continues to revolutionize styling with a dryer that's as convenient as it is powerful to speed up styling, while Tourmaline ceramic technology minimizes heat stress on hair. With it's ionic technology that reduces static electricity and leaves hair silkier, shinier and more manageable than ever, nothing can come close to Infiniti by Conair.",
+    "itemID": "B000R80ZTQ",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 1106
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Hair Dryers"
+      ]
+    ],
+    "price": 24.96,
+    "brand": "Conair"
+  }
+]

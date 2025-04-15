@@ -1,0 +1,70 @@
+[
+  {
+    "title": "Pharmaceutical Specialties Free and Clear Shampoo 12 oz.",
+    "description": "Pharmaceutical Specialties Free and Clear Shampoo features an advanced formula designed to work with your body&#039;s natural chemistry so as not to disturb your hair and scalp&#039;s delicate pH or cause irritation. It gently removes dirt, excess oil and product build-up to leave your hair soft, clean and dandruff-free.",
+    "itemID": "B0006FMK98",
+    "helpful": [
+      14,
+      16
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 1293
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 11.19,
+    "brand": "Pharmaceutical Specialties"
+  },
+  {
+    "title": "Free &amp; Clear Hair Styling Gel, 7 Ounce",
+    "description": "Free & Clear hair styling gel provides firm, long-lasting control without the use of common chemical irritants found in ordinary hair styling products. Holds hair in place without leaving greasy or sticky residue. Nourishes and repairs damaged hair, reduces flakiness, and adds body, leaving the hair manageable and static-free. Ideal for sensitive skin and scalps.",
+    "itemID": "B000LNWUIG",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 4002
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Creams, Gels & Lotions"
+      ]
+    ],
+    "price": 8.0,
+    "brand": "Free &amp; Clear"
+  },
+  {
+    "title": "Maybelline Full 'N Soft Waterproof Mascara, Brownish Black",
+    "description": "Patented Quick Dissolve System aids in the prevention of the loss of lash.",
+    "itemID": "B000T5KATM",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 37703
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Eyes",
+        "Mascara"
+      ]
+    ],
+    "price": 12.97,
+    "brand": "Maybelline"
+  }
+]

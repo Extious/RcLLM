@@ -1,0 +1,48 @@
+[
+  {
+    "title": "KMS California: HairPlay Sea Salt Spray, 6.8 oz",
+    "description": "KMS California HairPlay Sea Salt Spray creates tousled, just-out-of-the-ocean texture with a matte finish.",
+    "itemID": "B001B5AZWQ",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Beauty": 18260
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Hair Sprays"
+      ]
+    ],
+    "price": 14.69,
+    "brand": "KMS"
+  },
+  {
+    "title": "Tangle Teezer Salon Elite Hair Brush, Purple Crush",
+    "description": "Purple crush Tangle Teezer is excellent for de-tangling both wet and dry hair. Gives a blissful, relaxing head massage even for the most sensitive scalps. A must for hair extension wearers. Excellent for children's hair.",
+    "itemID": "B003GDK6F2",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 784
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Brushes"
+      ]
+    ],
+    "price": 11.5,
+    "brand": "Tangle Teezer"
+  }
+]

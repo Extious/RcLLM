@@ -1,0 +1,138 @@
+[
+  {
+    "title": "Fekkai Glossing Hair Products Starter 1 Kit",
+    "description": "",
+    "itemID": "B0030GFY02",
+    "helpful": [
+      1,
+      2
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 39515
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care"
+      ]
+    ],
+    "price": 22.95,
+    "brand": "Fekkai"
+  },
+  {
+    "title": "Toppik Regular Dark Brown Hair Building Fibers, 0.42 Ounce",
+    "description": "Hair building fibers",
+    "itemID": "B0009FHJRS",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 1931
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Hair Loss Products",
+        "Styling Products"
+      ]
+    ],
+    "price": 16.0,
+    "brand": "Toppik"
+  },
+  {
+    "title": "Shellac Cream Puff .25 oz.",
+    "description": "A UV-cured color coat featuring UV3 technology: on like polish; wears like gel; off in minutes. Provides a long-lasting color layer to nails.",
+    "itemID": "B003OGQYC0",
+    "helpful": [
+      5,
+      5
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 10894
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Nails",
+        "Nail Polish"
+      ]
+    ],
+    "price": 12.55,
+    "brand": "CND Cosmetics"
+  },
+  {
+    "title": "Creative Nail Shellac,Moonlight &amp; Roses, 0.25 Fluid Ounce",
+    "description": "A white color coat with a pearly whimmer finish for the CND Shellac System. This chip free, soak off gel polish applies with the ease of polish and wears like a gel for a two week manicure that removes in minutes. Moonlight and Roses gives nails a pale, soft finish and subtle rosy shimmer, infinitely layerable for custom colors and effects. Featuring CND's exclusive UV3 technology.",
+    "itemID": "B005G5DXWQ",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 25490
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Nails",
+        "Nail Polish"
+      ]
+    ],
+    "price": 12.1,
+    "brand": "Creative Nail"
+  },
+  {
+    "title": "Creative Nail Design Shellac UV Color Coat Studio White .25oz",
+    "description": "A UV-cured color coat featuring UV3 technology: on like polish; wears like gel; off in minutes. Provides a long-lasting color layer to nails.",
+    "itemID": "B0066NBRDO",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 67763
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Nails",
+        "Nail Polish"
+      ]
+    ],
+    "price": 15.95,
+    "brand": "CND Cosmetics"
+  },
+  {
+    "title": "Shellac Black Pool Gel Nail Polish .25 Oz",
+    "description": "Shellac UV Color Coat Rock Royalty is formulated with a combination of solvents, monomers and polymers that allow it to go on like polish, wear like gel and remove in minutes A soft-touch cap and flat brush make polish-like application a snap Hypo-allergenic and lasts 14-days!",
+    "itemID": "B005LK6F58",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Health & Personal Care": 44215
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Nails",
+        "Nail Polish"
+      ]
+    ],
+    "price": 14.4,
+    "brand": "CND Cosmetics"
+  }
+]

@@ -1,0 +1,71 @@
+[
+  {
+    "title": "OPI: Lacquer NLS86 Bubble Bath, 0.5 oz",
+    "description": "Nothing completes a look more beautifully than nails wearing the seasons most significant colors. Changing a Nail Lacquer shade can change a womans entire look _ and her outlook. With over 200 shades, you are sure to find what you're looking for.",
+    "itemID": "B000CECSAO",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 866
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Nails",
+        "Nail Polish"
+      ]
+    ],
+    "price": 4.35,
+    "brand": "OPI"
+  },
+  {
+    "title": "INM Out The Door Top Coat, 0.5 Ounce",
+    "description": "Out the door's long wearing, high gloss finish will not yellow. Use alone or over any polish to accelerate the drying time.",
+    "itemID": "B000EVGQ8U",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 3501
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Nails",
+        "Top & Base Coats"
+      ]
+    ],
+    "price": 3.93,
+    "brand": "INM"
+  },
+  {
+    "title": "Neutrogena MoistureShine Lip Gloss, Berry Fit 400",
+    "description": "Neutrogena MoistureShine Gloss has silky, sheer color that glides onto lips, leaving them feeling pampered, soft and ultra-smooth. The super conditioning formula with a triple berry antioxidant complex--including Acai, Goji and Aronia berries--actually improves the healthy look, softness and smoothness of your lips over time. From soft neutrals to blushing pinks, shimmering mauves to rich plums, a single swipe of the wand applies a feather-light coat of glossy color that's not sticky or tacky.",
+    "itemID": "B003FBMFMC",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 106118
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Lips",
+        "Lip Glosses"
+      ]
+    ],
+    "price": 1.99,
+    "brand": "Neutrogena"
+  }
+]

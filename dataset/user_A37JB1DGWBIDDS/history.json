@@ -1,0 +1,71 @@
+[
+  {
+    "title": "BaBylissPRO Nano Titanium Straightening Iron",
+    "description": "Ionic technology is perfectly paired with the benefits of pure titanium-plated plates for the smoothest, sleekest styles ever! Natural ions reduce frizz while the stay-cool Ryton housing resists the ultra-high heat for comfortable handling. The ceramic heater produces instant heat, up to 450&#xB0;F, and fast heat recovery for styling efficiency with no damaging hot spots. Available in 1-1/4 inch and 1-3/4 inch plates.",
+    "itemID": "B0047ETXD0",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 2.0,
+    "salesRank": NaN,
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Irons",
+        "Flattening Irons"
+      ]
+    ],
+    "price": NaN,
+    "brand": NaN
+  },
+  {
+    "title": "BaByliss Pro BAB2000 Ceramix Xtreme  Dryer",
+    "description": "Professional long-life motor with 6 speed/heat setting conbinations. Removable filter for easy cleaning. Narrow barrel for maximum air pressure.  Micro concentrator nozzle.",
+    "itemID": "B000ASDGK8",
+    "helpful": [
+      3,
+      4
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 388
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Hair Dryers"
+      ]
+    ],
+    "price": 39.4,
+    "brand": "BaBylissPRO"
+  },
+  {
+    "title": "Babyliss babnt150s nano titanium 1-1/2&quot; 450 degrees spring Curling Iron. Sol-Gel Technology.",
+    "description": "Nano titanium barrel for smooth shiny curls. Advanced surround heat for ultimate styling.",
+    "itemID": "B0047WX5B8",
+    "helpful": [
+      51,
+      61
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 4077
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Irons",
+        "Curling Irons"
+      ]
+    ],
+    "price": 34.59,
+    "brand": "BaBylissPRO"
+  }
+]

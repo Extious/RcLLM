@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Mary Kay Acne Treatment Gel*,1 oz. net wt.",
+    "description": "For blemishes, smooth on Acne Treatment Gel. It's clinically proven to dry and clear acne blemishes, allowing skin to heal.",
+    "itemID": "B000QUKAUE",
+    "helpful": [
+      0,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 92640
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Treatments & Masks"
+      ]
+    ],
+    "price": NaN,
+    "brand": NaN
+  },
+  {
+    "title": "Palladio Herbal Dual Wet and Dry Foundation, Ivory Myrrh, 0.28 Ounce",
+    "description": "Palladio dual wet and dry foundation has added rice powder to makes skin look and feel smoother. The flawless coverage helps minimize fine lines and sets make-up to last longer. Made with nature's anti-oxidants vitamin A, C, D and E.",
+    "itemID": "B0006O9ZAG",
+    "helpful": [
+      3,
+      3
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 27196
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Foundation"
+      ]
+    ],
+    "price": 4.95,
+    "brand": "Palladio"
+  },
+  {
+    "title": "Palladio Natural Rice Powder Warm Beige",
+    "description": "Palladio Natural Rice Powder Loose Finishing Powder is triple milled for easier application and an ultra silky finish.",
+    "itemID": "B001ADP0OM",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 36455
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Powder"
+      ]
+    ],
+    "price": 6.5,
+    "brand": "Palladio"
+  }
+]

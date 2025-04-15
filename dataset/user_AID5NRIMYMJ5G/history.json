@@ -1,0 +1,73 @@
+[
+  {
+    "title": "MyChelle Fruit Enzyme Cleanser, 4.4 Ounce Bottle",
+    "description": "Fruit Enzyme Cleanser is a sulfate-free refreshing cleanser with fruit enzymes and mild glycolic acid to gently exfoliate and refresh your skin. Used regularly, you will reveal beautiful fresh skin while enjoying the fresh aroma of pink grapefruit.",
+    "itemID": "B000BD0SEE",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 4206
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Cleansers"
+      ]
+    ],
+    "price": 16.26,
+    "brand": "MyChelle Dermaceuticals"
+  },
+  {
+    "title": "Ambi Skincare Fade Cream, Oily Skin, 2 oz (57 g)",
+    "description": "Ambi Fade Creams are developed to visibly reduce the appearance of dark marks and skin discolorations for an even, natural skin tone. When used as directed,  you will begin to see results in as little as two weeks and results improve with continued use. Ambi Fade Creams are perfect for use on face or body and are available in two formulas to meet your unique skincare needs: For Oily Skin, and For Normal Skin.",
+    "itemID": "B000GD92PU",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 24286
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Creams & Moisturizers",
+        "Fluids & Lotions",
+        "Lotions"
+      ]
+    ],
+    "price": 3.24,
+    "brand": "AMBI"
+  },
+  {
+    "title": "MyChelle Eye Cream, Fabulous, .5-Ounce Tube",
+    "description": "Fabulous Eye Cream is an exceptional eye cream that soothes fine lines and wrinkles leaving the eye area supple while reducing the visible signs of aging.  May be used effectively on those tiny creases above the lip.  Great reviews!",
+    "itemID": "B000MAQWA0",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 8828
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Eyes",
+        "Creams"
+      ]
+    ],
+    "price": 16.8,
+    "brand": "MyChelle Dermaceuticals"
+  }
+]

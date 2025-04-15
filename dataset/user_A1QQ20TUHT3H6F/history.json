@@ -1,0 +1,73 @@
+[
+  {
+    "title": "John Frieda Luxurious Volume Lavish Lift Root Booster, 6.77 Ounce",
+    "description": "Creates lift from the roots. Thickens strands for all-around dimension with a soft feel. Instantly boosts volume in all 3 dimensions: fullness, thickness and lift.",
+    "itemID": "B001BAROMK",
+    "helpful": [
+      0,
+      1
+    ],
+    "overall": 1.0,
+    "salesRank": {
+      "Beauty": 9867
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Hair Sprays"
+      ]
+    ],
+    "price": 6.96,
+    "brand": "John Frieda"
+  },
+  {
+    "title": "Thinkbaby sunscreen SPF50+ benefiting LIVESTRONG, 3 ounces.",
+    "description": "At Thinkbaby and Thinksport, we are continually expanding our mission to provide safe products by identifying consumer product categories with known human health issues.  Specifically, we target products that contain high levels of hormone disruptors and carcinogens.  We work with leading scientists worldwide to create safe alternatives. The majority of sunscreens currently on the market are full of questionable ingredients and known carcinogens.  Simply looking at the ingredients you&#8217;ll quickly realize you don&#8217;t recognize any of them. Many existing sunscreens have been brought to market with little concern for their safety and boast inflated SPF numbers.  Not only do ingredients in sunscreen interact with skin, but data shows after application of lotions, some of the same chemicals can be detected in the bloodstream.  Most people wear sunscreen to reduce the chance of developing cancer, so why apply something that could potentially increase this risk?  This question has unfortunately left many people moving away from using sunscreen at all. Thinkbaby sunscreen and Thinksport livestrong sunscreen is highly effective, falls into the highest category for water resistance and has a sensible SPF 30+ rating.  A quick look on your local drugstore shelf will show an increasing number of chemical sunscreens boasting ultra-high SPFs of 60 and greater.  Data assembled by the Environmental Working Group calls into question the efficacy of these sunscreens.",
+    "itemID": "B004CDQ73K",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 29
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Sun",
+        "Skin Protection",
+        "Sports"
+      ]
+    ],
+    "price": 11.29,
+    "brand": "Thinkbaby"
+  },
+  {
+    "title": "Life-Flo Organic Pure Safflower Oil, 16 Ounce",
+    "description": "Pure safflower oil is truly a versatile oil with numerous benefits from culinary to cosmetics. It acts as a protective barrier to lubricate your skin while it moisturizes. It helps soften dryness, smooth roughness, and soothe skin problems. Cold pressed and food grade.",
+    "itemID": "B0084Y1LFM",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 17735
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Oils"
+      ]
+    ],
+    "price": 9.99,
+    "brand": "Life-Flo"
+  }
+]

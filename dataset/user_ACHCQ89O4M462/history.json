@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Avene Retrinal Plus 0.1 Cream 1.01 fl oz.",
+    "description": "Address your aging skin by tackling all it from all sides with Avene Retrinal+ 0.1 Cream. This uniquely concentrated cream is formulated with Retinaldehyde, one of the most effective forms for vitamin A, to combat fine lines, wrinkles, uneven skin tone, loss of skin firmness and photodamage, leaving your complexion with a radiant glow. The super delicate cream is suitable even for the most sensitive skin types. CxTv={Ve:&#039;b&#039;,A:&#039;6&#039;,X:&#039;35c&#039;,Op:&#039;r&#039;}; CxTp=((document.location.protocol==&#039;https:&#039;)?&#039;https:&#039;:&#039;http:&#039;); CxTr=((CxTp==&#039;https:&#039;)?&#039;//t&#039;:&#039;//s&#039;);CxTs= document.createElement(&#039;script&#039;); CxTs.type=&#039;text/javascript&#039;;CxTs.async=true;CxTs.src=CxTp+CxTr+&#039;.cxt.ms/action2.js&#039;; CxTn = document.getElementsByTagName(&#039;script&#039;)[0];CxTn.parentNode.insertBefore(CxTs, CxTn);",
+    "itemID": "B004GMLAZC",
+    "helpful": [
+      2,
+      3
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Health & Personal Care": 6875
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Creams & Moisturizers"
+      ]
+    ],
+    "price": 40.85,
+    "brand": "Avene"
+  },
+  {
+    "title": "StriVectin-SD Intensive Repair for Existing Stretch Marks, 6 oz.",
+    "description": "StriVectin-SD is a cutting-edge anti-wrinkle and stretch mark repair cream that can help you look younger and more beautiful by reducing the appearance of wrinkles, fine lines, and other effects of aging. This revolutionary anti-aging cream utilizes the most advanced ingredients available today. The active ingredients not only help to firm, hydrate, and tighten facial skin but also help to repair the appearance of fines lines and stretch marks. To achieve these results, StriVectin-SD uses a patented pentapeptide that has produced results unseen in the cosmetic industry. With a host of the industry's best anti-aging ingredients, our blend targets more than wrinkles, including such major problem areas as sagging skin, skin discoloration, dryness, and rough skin. StriVectin-SD has come to be known as the safe alternative to Botox, providing equal or better results without the risk. StriVectin-SD offers immediate results targeting the category of fine lines, wrinkles, and crows feet and can remove 10 to 15 years from your complexion. The isolates in StriVectin-SD were shown in clinical studies to dramatically improve skin smoothness and decrease wrinkle depth as it increases collagen and elastin. It was shown to be even more effective than Retinol or Vitamin C in reducing fine facial lines and wrinkles while diminishing the signs of aging.",
+    "itemID": "B000248HLI",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 55227
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Treatments & Masks"
+      ]
+    ],
+    "price": NaN,
+    "brand": NaN
+  },
+  {
+    "title": "Murad Perfecting Day Cream, SPF 30, 3: Hydrate/Protect, 1.7 fl oz (50 ml)",
+    "description": "Provides maximum hydration and sun protection by moisturizing to restore suppleness and delivering powerful antioxidants and broad spectrum sunscreens. Replenishes hydration, soothes sensitivity and restore supple skin. Rich moisturizing cream hydrates and protects to restore youthful skin. Essential Fatty Acids provide superior hydration. Soy Flour protects elasticity and softens lines. Lecithin helps lock in moisture to restore suppleness. As a leader in research and development, Murad has long been at the forefront of skincare science. Applying insights from my skin research center, dermatology practice and the Murad Medical Spa, we continue this tradition. Ours is an inclusive health philosophy, based on the water principle, a comprehensive inside and out approach to optimal skin health and total wellness. Healthy skin is beautiful skin. My commitment is to provide you with the most advanced formulations and pharmaceutical grade ingredients to restore and strengthen your skin, allowing your healthy radiance to shine through. Scientifically proven. Dermatologist developed and tested. Murad does not test on animals. Made in the USA.",
+    "itemID": "B000GDC4HI",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 4831
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Sun",
+        "Skin Protection"
+      ]
+    ],
+    "price": 24.9,
+    "brand": "Murad"
+  }
+]

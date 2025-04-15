@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Fake Bake Self-Tanning Lotion, 6-Ounces",
+    "description": "Fake Bake Self-Tanning Lotion, 6oz",
+    "itemID": "B001183N8G",
+    "helpful": [
+      25,
+      30
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 2963
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Sun",
+        "Self-Tanners & Bronzers"
+      ]
+    ],
+    "price": 12.0,
+    "brand": "Fake Bake"
+  },
+  {
+    "title": "Clarisonic Pro Professional 4-Speed Skin Care System, White",
+    "description": "Clarisonic PRO Deluxe is a professional-caliber brush that uses gentle sonic micro-message action to helps keep your skin looking young, vibrant and healthy. Clarisonic gently removes embedded dirt and oil, resulting in healthier, more beautiful skin. Remarkably gentle for cleansing all skin types, including sensitive skin conditions such as rosacea and acne. It cleanses so well, that products absorb better, pores appear smaller, fine lines and wrinkles appear reduced and your skin tone and texture improves - Guaranteed",
+    "itemID": "B001QOGXO6",
+    "helpful": [
+      7,
+      9
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 107022
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Tools & Accessories",
+        "Makeup Brushes & Tools",
+        "Treatment Tools",
+        "Face Cleansing Brushes"
+      ]
+    ],
+    "price": NaN,
+    "brand": NaN
+  },
+  {
+    "title": "Sun Laboratories Dark Sunsation Self Tanning Lotion - Very Dark 8 fl oz.",
+    "description": "Even a deep, dark tan is attainable without exposing your skin to the sun's harmful rays with Sun Laboratories Dark Sunsation. Formulated with a wondrous blend of natural ingredients, Dark Sunsation enhances the skin's melanin production throughout the face and body while hydrating and protecting the skin. Its nourishing formula coats the skin in instant color to prevent streaks or patches, while its sugar-based actives provide a deep, healthy tan within three hours.",
+    "itemID": "B0009V8N4U",
+    "helpful": [
+      1,
+      2
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 4067
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Sun",
+        "Self-Tanners & Bronzers"
+      ]
+    ],
+    "price": 20.95,
+    "brand": "Sun Laboratories"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "title": "Halo II Headband",
+    "description": "",
+    "itemID": "B000UM2KCY",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Sports &amp; Outdoors": 77
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Styling Accessories",
+        "Headbands"
+      ]
+    ],
+    "price": NaN,
+    "brand": NaN
+  },
+  {
+    "title": "Got2b Fat-tastic Thickening Plumping Mousse, 8.5-Ounce",
+    "description": "Is your dull, thin, lifeless hair hungry for some style substance?  Feed it got2b fat-tastic thickening plumping mousse for a fast fix!  This revolutionary thickening mousse is infused with collagen to make your hair feel instantly thicker, denser and full of body and life.  The collagen formula also adds elasticity for overall strong, lush hair that holds style all day long.  Go from flat to all-that without the carb overload.",
+    "itemID": "B001S46QIM",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 9408
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Mousses & Foams"
+      ]
+    ],
+    "price": 8.0,
+    "brand": "Got2b"
+  },
+  {
+    "title": "CeraVe Facial Moisturizing Lotion 3oz. AM/PM Bundle (Packaging may vary)",
+    "description": "CeraVe Facial Moisturizing Lotion AM with SPF 30 is an ideal moisturizer for daily use, developed specifically for the face, which helps restore and maintain the skin's natural protective barrier while providing protection against the sun's damaging rays\neraVe Facial Moisturizing Lotion PM is an ideal moisturizer for night-time use, developed specifically for the face. It helps restore and maintain the skin's natural protective barrier with ingredients not commonly found in other facial moisturizers.",
+    "itemID": "B004TS06HG",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 968
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Creams & Moisturizers",
+        "Fluids & Lotions",
+        "Lotions"
+      ]
+    ],
+    "price": 19.73,
+    "brand": "CeraVe"
+  }
+]

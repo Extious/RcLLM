@@ -1,0 +1,69 @@
+[
+  {
+    "title": "Olay Total Effects Revitalizing Foaming Cleanser 6.5 Fl Oz",
+    "description": "Revitalizes skin for a rejuvenated clean.",
+    "itemID": "B001ARUX8G",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 2141
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Cleansers"
+      ]
+    ],
+    "price": 9.0,
+    "brand": "Olay"
+  },
+  {
+    "title": "Revlon Colorstay Aquatm Mineral Finishing Powder (Project Mermaid), Translucent Light, 0.35 Ounce",
+    "description": "Revlon colorstay aqua mineral finishing powder is a translucent finishing powder sets foundation and minimizes the look of pores and fine lines. A weightless loose powder made with coconut water, not oil, for a shine-free soft matte finish.",
+    "itemID": "B004O3UG4Y",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 31411
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Powder"
+      ]
+    ],
+    "price": 5.77,
+    "brand": "Revlon"
+  },
+  {
+    "title": "Bosley Revive Starter Pack for Visibly Thinning / Color-Treated Hair",
+    "description": "Bosley Revive Starter Pack for Visibly Thinning / Color-Treated Hair",
+    "itemID": "B0038TN5KW",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 1999
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care"
+      ]
+    ],
+    "price": 19.85,
+    "brand": "Bosley"
+  }
+]

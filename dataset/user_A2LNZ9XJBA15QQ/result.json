@@ -1,0 +1,95 @@
+[
+  {
+    "title": "Hicks Edges 4oz",
+    "description": "Hicks Total TRANSFORMATIONS, Hicks Edges holds hair firmly in place with a super shine and without flakiness. Leaves edges looking and feeling shinier and healthier than before. This genuine hair gel is non-flaky and non-sticky and rinses out easily. Control tapered cuts and nape back area. Directions: Apply a small amount of TRANSFORMATIONS Smooth Edges around edges and smooth with fingertips until hair stays in place or comb in smooth with a comb",
+    "itemID": "B005356O34",
+    "helpful": [
+      4,
+      4
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 4271
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Pomades & Waxes"
+      ]
+    ],
+    "price": 11.49,
+    "brand": "hicks"
+  },
+  {
+    "title": "NYX Matte Lipstick, Nude",
+    "description": "NYX matte lipsticks are highly pigmented, richly formulated lipsticks that glide on smoothly, stay put and impart a non-glossy, high-fashion matte finish as they envelop lips in brilliant color. From pure red to nude, matte lipstick is available in 22 rich, shades.",
+    "itemID": "B005FYJB92",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 3930
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Lips",
+        "Lipstick"
+      ]
+    ],
+    "price": 5.88,
+    "brand": "NYX"
+  },
+  {
+    "title": "Tigi S Factor by Tigi S Factor Flat Iron Shine Spray Heat Defender for Unisex, 4.23 Ounce",
+    "description": "TIGI S FACTOR by Tigi FLAT IRON SHINE SPRAY HEAT DEFENDER 4.23 OZTIGI S FACTOR by Tigi possesses a blend of Ideal For All Hair Types, Smoothes Straight Hair Enhances Gloss In Short Hair And Combats Frizz, Great For Color Treated Hair",
+    "itemID": "B000RSJKTM",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Beauty": 4924
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Lotions"
+      ]
+    ],
+    "price": 15.05,
+    "brand": "Tigi"
+  },
+  {
+    "title": "Hicks Edges Pomade 4oz",
+    "description": "Hicks edges",
+    "itemID": "B006U420FS",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 3762
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Pomades & Waxes"
+      ]
+    ],
+    "price": 12.99,
+    "brand": "Omagazee"
+  }
+]

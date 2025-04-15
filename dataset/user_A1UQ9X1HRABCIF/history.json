@@ -1,0 +1,70 @@
+[
+  {
+    "title": "Auric Blends Perfume Oil, 0.33 oz - Coco Mango",
+    "description": "A fruity, tropical blend of sweet coconut and exotic mango.  Fresh, summery and fun.",
+    "itemID": "B0000ZLEFU",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 128553
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Fragrance",
+        "Women's",
+        "Eau de Parfum"
+      ]
+    ],
+    "price": 4.28,
+    "brand": "Auric Blends"
+  },
+  {
+    "title": "Clean &amp; Clear Clear Advantage Acne Spot Treatment, 0.75 Ounce",
+    "description": "Clean & clear advantage acne spot treatment. This treatment contains breakthrough technology that actually dissolves oil and allows the maximum strength acne medicine to penetrate into your pores. This formula works fast to reduce the visible signs of acne.",
+    "itemID": "B00027DDOQ",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": NaN,
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Oils"
+      ]
+    ],
+    "price": 1.99,
+    "brand": "Clean &amp; Clear"
+  },
+  {
+    "title": "NYX Studio Perfect Primer, Green, 1.0 oz/30ml",
+    "description": "Prepare your canvas with our silky primer. The studio perfect primer formula is easily absorbed, creates a smooth surface for foundation, and ensures the longevity of your makeup. Available in 3 shades: clear (to cover fine lines and large pores); lavender (to brighten and illuminate yellow undertones); and green (to eliminate redness).",
+    "itemID": "B004JRU4YW",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 32027
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Foundation Primers"
+      ]
+    ],
+    "price": 11.22,
+    "brand": "NYX"
+  }
+]

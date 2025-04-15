@@ -1,0 +1,70 @@
+[
+  {
+    "title": "O'Keeffe's Working Hands Cream, 3.4 oz.",
+    "description": NaN,
+    "itemID": "B00121UVU0",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": NaN,
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Hands & Nails",
+        "Hand Creams & Lotions"
+      ]
+    ],
+    "price": 7.32,
+    "brand": "O&#39;Keeffe&#39;s Company"
+  },
+  {
+    "title": "Jergens Skin Firming Daily Toning Moisturizer, 16.8 Ounce",
+    "description": "Jergens skin firming moisturizing lotion restores elasticity for a silky and smooth look. Daily toner moisturizer with natural extracts reduces the appearance of cellulite. Jergens skin firming daily toner moisturizer rules with a firm hand to tone and tighten the look of cellulite-prone skin. This body lotion instantly hydrates skin leaving it smooth, healthier-looking and supple.",
+    "itemID": "B000P9B3NY",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 15025
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Lotions"
+      ]
+    ],
+    "price": 11.55,
+    "brand": "Jergens"
+  },
+  {
+    "title": "Xtreme Brite Brightening Gel 1oz",
+    "description": "Xtreme Brite Brightening Gel is highly concentrated gel helps to obtain a clearer and brighter complexion. Removes blackheads and cosmetic acne also has anti-bacterial and soothing properties. For best results use regularly together with other products from the Xtreme Brite brand.",
+    "itemID": "B0054GBXOW",
+    "helpful": [
+      2,
+      4
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 1090
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Treatments & Masks"
+      ]
+    ],
+    "price": 19.99,
+    "brand": "Xtreme Brite"
+  }
+]

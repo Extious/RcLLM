@@ -1,0 +1,71 @@
+[
+  {
+    "title": "John Frieda Liquid Shine Clear Hair Glaze, 6.5 Fluid Ounce",
+    "description": "John Frieda luminous glaze clear shine comes in 6.5 fluid ounce. It showers hair with high-gloss shine and silky smooth texture, using exclusive salon-inspired technology. Shine enhancers polish hair strands on the outside while pore menders fill in damaged areas inside the hair.",
+    "itemID": "B0012UEJ1S",
+    "helpful": [
+      14,
+      16
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 2083
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Hair Color",
+        "Color Refreshers"
+      ]
+    ],
+    "price": 4.4,
+    "brand": "John Frieda"
+  },
+  {
+    "title": "Clairol Perfect 10 by Nice 'n Easy Hair Color, 007.5A, Medium Ash Blonde",
+    "description": "Perfect 10 provides high gloss hair color in just 10 minutes. It has an advanced color cr&egrave;me with micro-pearls that gently accelerates the color development process, delivering rich, high gloss color and 100% gray coverage in just 10 minutes, while better protecting your hair*.",
+    "itemID": "B0012QD7EC",
+    "helpful": [
+      1,
+      3
+    ],
+    "overall": 1.0,
+    "salesRank": {
+      "Beauty": 184067
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Hair Color",
+        "Chemical Hair Dyes"
+      ]
+    ],
+    "price": 13.99,
+    "brand": "Clairol"
+  },
+  {
+    "title": "First Aid Beauty Ultra Repair Cream-2 oz.",
+    "description": "A convenient 2 oz tube. This rich whipped cream hydrates deep down with exceptional penetration. With the help of colloidal oatmeal, shea butter, soothing eucalyptus oil and ceramides, FAB Ultra Repair Cream provides immediate relief and visible improvement for distressed skin and eczema. FAB Antioxidant Booster is there to defend skin from free radical damage. Ultra Repair Cream can be used all over the body and on the face.",
+    "itemID": "B004WC2H8A",
+    "helpful": [
+      0,
+      2
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 18559
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Creams & Moisturizers"
+      ]
+    ],
+    "price": 12.0,
+    "brand": "First Aid Beauty"
+  }
+]

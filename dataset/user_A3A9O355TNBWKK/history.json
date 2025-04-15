@@ -1,0 +1,69 @@
+[
+  {
+    "title": "Batiste Dry Shampoo 5.05 oz. Tropical",
+    "description": "With a deliciously exotic fragrance, revitalises greasy, dull and lifeless hair between washes. Instantly leaves your hair feeling clean, full of body and smelling beautiful. Quick and convenient to use wherever you are. (5.05 oz.)",
+    "itemID": "B000KVH1QU",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 71162
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 2.93,
+    "brand": "Batiste"
+  },
+  {
+    "title": "TRESemme Fresh Start Shampoo, Dry",
+    "description": "TRESemm&#xE9;&#xAE; Freshstart Dry Shampoo Volumizing For Fine/Oily Hair.Used by professionals.Oil & odor remover with mineral clay & citrus.Professional quality.",
+    "itemID": "B0037LKIAG",
+    "helpful": [
+      12,
+      15
+    ],
+    "overall": 1.0,
+    "salesRank": {
+      "Beauty": 22502
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 5.79,
+    "brand": "TRESemme"
+  },
+  {
+    "title": "L Oreal Natures Therapy Mega Moisture Nurturing Creme 16 oz",
+    "description": "L'Oreal's Mega Moisture Nurturing Creme quenches dry hair?s thirst with intense moisturizing properties.",
+    "itemID": "B000CPIMNA",
+    "helpful": [
+      9,
+      12
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 5461
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Creams, Gels & Lotions"
+      ]
+    ],
+    "price": 11.2,
+    "brand": "L&#39;Oreal Paris"
+  }
+]

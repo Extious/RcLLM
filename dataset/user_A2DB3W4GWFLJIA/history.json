@@ -1,0 +1,71 @@
+[
+  {
+    "title": "IBD Intense Seal, 6 Count",
+    "description": "The newest technology in UV sealants. Non-cleansing, mirror glass finish. Eliminates buffing and saves maintenance time. Can be used on gels, acrylics and wraps.",
+    "itemID": "B0018C0HJI",
+    "helpful": [
+      11,
+      11
+    ],
+    "overall": 1.0,
+    "salesRank": {
+      "Beauty": 179249
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Tools & Accessories",
+        "Nail Tools",
+        "False Nails"
+      ]
+    ],
+    "price": 35.75,
+    "brand": "IBD"
+  },
+  {
+    "title": "Revlon RV544PKF 1875W Tourmaline Ionic Ceramic Dryer",
+    "description": "Revlon 1875 Watt Tourmaline Ionic Lightweight Dryer feature Tourmaline Ionic Technology for ultimate shine, volume, and healthier looking styles. This dryer features an ion indicator light, separate heat and speed rocker switches, 2 heat/2 speed settings, cold shot button, hinged endcap, anti-skid bumpers, and concentrator and finger diffuser attachments. This ultra lightweight design is 25% lighter than your average dryer and has a sleek and upscale spray finish. This unit is super quiet and fast drying.",
+    "itemID": "B000FS05VG",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 6
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Hair Dryers"
+      ]
+    ],
+    "price": 23.92,
+    "brand": "Revlon"
+  },
+  {
+    "title": "Garnier Fructis Style Curl Sculpting Gel, 5.1-Fluid Ounce",
+    "description": "Sculpted Curls Without The Crunch? Garnier Fructis Style Introduces New Curl Sculpting Cream-Gel, The First Curl Styling Product That Gives Curls Everything They Crave: Control And Conditioning.",
+    "itemID": "B004YVDIAU",
+    "helpful": [
+      0,
+      1
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 18825
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Creams, Gels & Lotions"
+      ]
+    ],
+    "price": 0.85,
+    "brand": "Garnier"
+  }
+]

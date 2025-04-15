@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Conair Hot Roller Super Clips",
+    "description": "Easy to use super clips",
+    "itemID": "B000R87B1Q",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 880
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Styling Accessories",
+        "Clips"
+      ]
+    ],
+    "price": 6.99,
+    "brand": "Conair"
+  },
+  {
+    "title": "Remington H9000 Pearl Ceramic Heated Clip Hair Rollers",
+    "description": "",
+    "itemID": "B003V27RB4",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 4336
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Hair Rollers"
+      ]
+    ],
+    "price": 29.0,
+    "brand": "Remington"
+  },
+  {
+    "title": "NARS Pure Matte Lipstick, Carthage",
+    "description": "Bright. Bold. Vividly matte. This innovative, matte lipstick has intense, stay-true color so lips look lush and vibrant. An exquisitely blended formula strikes a perfect harmony between optimal color, an ultra-matte finish and hydration.a super-rich, super-pampering, super-sexy lipstick in six sumptuous shades. Pure drama.",
+    "itemID": "B004Y4HT2U",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 40686
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Lips",
+        "Lipstick"
+      ]
+    ],
+    "price": 46.86,
+    "brand": "NARS"
+  }
+]

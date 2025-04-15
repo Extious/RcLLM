@@ -1,0 +1,49 @@
+[
+  {
+    "title": "Sambucol Cold and Flu Relief Tablets, Black Elderberry, 30 Count",
+    "description": "Sambucol Cold and Flu is a homeopathic remedy specially designed for fast, temporary relief from cold and flu.",
+    "itemID": "B001ES8GGC",
+    "helpful": [
+      2,
+      3
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Health & Personal Care": 18233
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Lotions"
+      ]
+    ],
+    "price": 13.77,
+    "brand": "Sambucol"
+  },
+  {
+    "title": "Clairol Nice 'n Easy Foam Hair Color 6R Light Auburn 1 Kit (packaging may vary)",
+    "description": "",
+    "itemID": "B004D1NSVK",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 32308
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Hair Color",
+        "Chemical Hair Dyes"
+      ]
+    ],
+    "price": 3.99,
+    "brand": "Clairol"
+  }
+]

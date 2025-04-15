@@ -1,0 +1,69 @@
+[
+  {
+    "title": "NOW Foods Biotin 5000mcg, 120 Vcaps",
+    "description": "Biotin is a water-soluble vitamin necessary for normal growth and body function.&#xA0; Biotin is a key regulatory element in gluconeogenesis, fatty acid synthesis, and in the metabolism of some amino acids.&#xA0; Alongside its role in energy production, Biotin enhances the synthesis of certain proteins.&#xA0; In addition, Biotin promotes normal immunity and plays a critical role in skin health.*",
+    "itemID": "B000BY2N7S",
+    "helpful": [
+      4,
+      6
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Health & Personal Care": 706
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care"
+      ]
+    ],
+    "price": 9.0,
+    "brand": "Now Foods"
+  },
+  {
+    "title": "Jergens Natural Glow Firming Medium Tanning Lotion, 7.5-Oz (Pack of 3)",
+    "description": "Moisturizer gradually creates fabulous natural-looking color with a subtle skin-darkening complex",
+    "itemID": "B001ET78QK",
+    "helpful": [
+      2,
+      5
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 3522
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Sun",
+        "Self-Tanners & Bronzers"
+      ]
+    ],
+    "price": 12.95,
+    "brand": "Jergens"
+  },
+  {
+    "title": "Aveda Confixor Liquid Gel, 8.5 Ounces",
+    "description": "Aveda Confixor Conditioning Fixative",
+    "itemID": "B0007CXWUG",
+    "helpful": [
+      1,
+      3
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 6595
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Creams, Gels & Lotions"
+      ]
+    ],
+    "price": 18.75,
+    "brand": "Aveda"
+  }
+]

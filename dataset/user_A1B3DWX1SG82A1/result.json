@@ -1,0 +1,71 @@
+[
+  {
+    "title": "e.l.f. 144 Piece Eyeshadow Palette",
+    "description": "This set includes 144 shades of eyeshadow for an endless amount of amazing looks. All the eyeshadow you can ever want. Create any look that refelects your personal style.",
+    "itemID": "B005EFYXLI",
+    "helpful": [
+      1,
+      2
+    ],
+    "overall": 1.0,
+    "salesRank": {
+      "Beauty": 9407
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Eyes",
+        "Eye Shadow"
+      ]
+    ],
+    "price": 15.0,
+    "brand": "e.l.f. Cosmetics"
+  },
+  {
+    "title": "Maybelline New York Color Sensational Vivids Lipcolor, Brazen Berry, 0.15 Ounce",
+    "description": "Be bright and gorgeous with color sensational lip color's vivid collection. Brighter color from exclusive vivid pigments. Creamier feel from nourishing honey nectar.",
+    "itemID": "B00B0GOSNI",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 15379
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Lips",
+        "Lipstick"
+      ]
+    ],
+    "price": 4.5,
+    "brand": "Maybelline"
+  },
+  {
+    "title": "Coastal Scents Revealed Eye-Shadow Palette, 4.13 Ounce",
+    "description": "Expose your natural beauty with this exquisite collection of nude and metallic hues. These smooth, powdered shadows blend seamlessly to create an array of day or evening looks. The slim palette holds all twenty shadows, allowing for easy on-the-go application.",
+    "itemID": "B00GR4TPW2",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 680
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Eyes",
+        "Eye Shadow"
+      ]
+    ],
+    "price": 19.94,
+    "brand": "Coastal Scents"
+  }
+]

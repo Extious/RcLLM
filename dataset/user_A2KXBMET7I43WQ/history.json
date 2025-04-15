@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Mane 'N Tail Combo Deal Shampoo and Conditioner, 32-Ounce",
+    "description": "Original Mane 'n Tail Shampoo and Conditioner combo helps to revitalize and moisturize your hair. A complete system of hair care especially designed to help hair look and feel thicker and healthier.",
+    "itemID": "B0046KG8DS",
+    "helpful": [
+      2,
+      5
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Pet Supplies": 376
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoo & Conditioner Sets"
+      ]
+    ],
+    "price": 17.21,
+    "brand": "Mane &#39;n Tail"
+  },
+  {
+    "title": "Almay Bright Eyes Eye Liner &amp; Highlighter Duo, 155, Soft Black &amp; Champagne",
+    "description": "Instantly refreshes and enhances your eyes with a unique natural complex of marine extracts, white tea and light reflectors. The eyeliner works double duty to softly define eyes, while the highlighter illuminates the brow bone and corners for a lifting ef",
+    "itemID": "B001LFIKOG",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 120718
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Eyes",
+        "Eyeliner"
+      ]
+    ],
+    "price": 9.34,
+    "brand": "Almay"
+  },
+  {
+    "title": "Shea Moisture Coconut Hibiscus Hold &amp; Shine Daily Moisture Mist-8 oz",
+    "description": "Shea Moisture Coconut Hibiscus Hold & Shine Daily Moisture Spritz moisturises and adds volume and shine to hair. It is a 100% organic product made of coconut and hibiscus extracts.",
+    "itemID": "B0038U4TRO",
+    "helpful": [
+      13,
+      15
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 9912
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Lotions"
+      ]
+    ],
+    "price": 7.06,
+    "brand": "Shea Moisture"
+  }
+]

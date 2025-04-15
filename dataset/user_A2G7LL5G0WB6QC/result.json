@@ -1,0 +1,49 @@
+[
+  {
+    "title": "Neutrogena Deep Clean Invigorating Foaming Scrub, 4.2 Ounce (Pack of 3)",
+    "description": "Enliven your senses with Neutrogena Deep Clean Invigorating Foaming Scrub. It deep cleans and leaves you feeling amazingly refreshed and exhilarated. Energizing microbeads gently exfoliate skin while sweeping away dead skin cells. Light gel formula lathers into bubbly foam removing surface dirt, oil and makeup. Feel the surge of invigoration as the cooling gel cleans down the pore leaving skin feeling fresh, clean and energized.",
+    "itemID": "B001E96MZ8",
+    "helpful": [
+      0,
+      2
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 11067
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Exfoliators & Scrubs",
+        "Scrubs"
+      ]
+    ],
+    "price": 27.06,
+    "brand": "Neutrogena"
+  },
+  {
+    "title": "Oxy Maximum Action Face Wash, 6 Fl-Ounce (177 ml) (Pack of 4)",
+    "description": "10% Benzoyl peroxide acne medication. Aggressively treats and helps prevent pimples. Oxy Maximum Daily Wash cleans deep into the pores and releases active oxygen to eliminate most acne-causing bacteria and help prevent future breakouts.",
+    "itemID": "B001ET6XNO",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 23891
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Cleansers"
+      ]
+    ],
+    "price": 48.41,
+    "brand": "Oxy"
+  }
+]

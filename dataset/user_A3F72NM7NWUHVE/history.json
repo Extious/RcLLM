@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Maybelline New York Color Sensational High Shine Gloss, Electric Shock, 0.17 Fluid Ounce",
+    "description": "Now gloss goes gloriously gutsy with color sensational high shine gloss.  Pure color from liquid pigments, creamier feel from nourishing honey nectar, and a cleaner shine, only from this 100% wax-free formula.  Super-saturated color meets ultra-clean shine sensational.",
+    "itemID": "B009GGTKC8",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 216216
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Lips",
+        "Lip Glosses"
+      ]
+    ],
+    "price": 2.81,
+    "brand": "Maybelline"
+  },
+  {
+    "title": "Remington CI5219 Instant Curls Ceramic Hair Curling Iron, 3/4 Inches",
+    "description": "This instant curling iron delivers high ceramic heat and protects against damage. it provides smooth, shiny, long lasting curls with less damage.",
+    "itemID": "B0050QJ1HM",
+    "helpful": [
+      5,
+      6
+    ],
+    "overall": 1.0,
+    "salesRank": {
+      "Beauty": 48513
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Irons",
+        "Curling Irons"
+      ]
+    ],
+    "price": 36.32,
+    "brand": NaN
+  },
+  {
+    "title": "Maybelline New York Color Whisper by ColorSensational Lipcolor, Pin Up Peach, 0.11 Ounce",
+    "description": "Dare to whisper. Get truly translucent gel color from color whisper by color sensational. Pure color pigments suspended in a weightless gel deliver sexy, soft, see through color with a touch of shine, without the heavy waxes and oils found in traditional lip color.",
+    "itemID": "B00AV1IJME",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 127053
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Lips",
+        "Lipstick"
+      ]
+    ],
+    "price": 0.49,
+    "brand": "Maybelline"
+  }
+]

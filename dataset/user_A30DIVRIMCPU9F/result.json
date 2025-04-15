@@ -1,0 +1,94 @@
+[
+  {
+    "title": "Burt's Bees: Citrus Facial Scrub, 2 oz",
+    "description": "Burt's Bees Citrus Facial Scrub.2 oz (57g).",
+    "itemID": "B00012NKGS",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 1.0,
+    "salesRank": {
+      "Beauty": 12780
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Exfoliators & Scrubs",
+        "Scrubs"
+      ]
+    ],
+    "price": 9.79,
+    "brand": "Burt&#39;s Bees"
+  },
+  {
+    "title": "Proactiv Solution Green Tea Moisturizer 1 oz",
+    "description": "This feather-light moisturizing serum absorbs instantly, delivering deep hydration to dry, tired skin. It's formulated with concentrated botanical extracts and powerful antioxidants for a moisturizing experiance that's as healthl/y as it is refreshing. Best of all, the mineral-rich formula was created specifcally for the acne-prone complexion, so it won't clog pores or leave skin feeling greasy. Wear alone or with makeup, simply apply after Repairing Lotion.",
+    "itemID": "B001HTCYPC",
+    "helpful": [
+      0,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 912
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Creams & Moisturizers"
+      ]
+    ],
+    "price": 6.96,
+    "brand": "Proactiv"
+  },
+  {
+    "title": "Agadir Argan Oil Daily Shampoo + Conditioner &quot;Combo Set&quot; 12.4oz/366ml",
+    "description": "Agadir Argan Oil Daily Shampoo + Conditioner \"Combo Set\" 12.4oz/366ml",
+    "itemID": "B0046D754G",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Beauty": 2014
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoo & Conditioner Sets"
+      ]
+    ],
+    "price": 18.89,
+    "brand": "Agadir"
+  },
+  {
+    "title": "Essie Nail Lacquer, Mint Candy Apple, 0.5 Fluid Ounce",
+    "description": "Essie nail lacquer goes on smooth and last long Cr&#xE8;me de mint shade Chip-resistant DBP, Toluene and Formaldehyde free.",
+    "itemID": "B002UEF3OM",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 19162
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Nails",
+        "Nail Polish"
+      ]
+    ],
+    "price": 5.75,
+    "brand": "Essie"
+  }
+]

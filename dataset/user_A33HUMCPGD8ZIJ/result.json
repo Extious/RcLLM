@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Maybelline New York Eye Studio Lasting Drama Gel Eyeliner, Eggplant 956, 0.106 Ounce",
+    "description": "The most intense line for lasting drama. Eye studio lasting drama gel eyeliner holds highly concentrated pigments in a clear gel base, so color is more intense and lines resist wear for 24 hours. Smudge proof and waterproof.",
+    "itemID": "B0030HKJ8I",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 43862
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Eyes",
+        "Eyeliner"
+      ]
+    ],
+    "price": 7.57,
+    "brand": "Maybelline"
+  },
+  {
+    "title": "Suave Professionals Keratin Infusion Dry Shampoo, 5 Ounce",
+    "description": "",
+    "itemID": "B005UBN2AO",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 3004
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 7.49,
+    "brand": "Suave"
+  }
+]

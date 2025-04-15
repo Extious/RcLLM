@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Splat Rebellious Colors Lusty Lavender 1 Kit",
+    "description": "Splat&#xAE; Rebellious Colors Lusty Lavender Complete Kit.Color, bleach & peroxide.One application.Long lasting color.",
+    "itemID": "B00153Z3I0",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 7147
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Hair Color",
+        "Chemical Hair Dyes"
+      ]
+    ],
+    "price": 9.38,
+    "brand": "Splat"
+  },
+  {
+    "title": "MANIC PANIC Semi-Permanent Hair Color Cream Virgin Snow (White Toner) 4oz",
+    "description": "Manic Panic Virgin Snow Hair Dye",
+    "itemID": "B001HNNSIU",
+    "helpful": [
+      0,
+      1
+    ],
+    "overall": 1.0,
+    "salesRank": {
+      "Beauty": 5416
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Hair Color",
+        "Chemical Hair Dyes"
+      ]
+    ],
+    "price": 8.5,
+    "brand": "Old Glory"
+  },
+  {
+    "title": "Vaseline 100% Pure Petroleum Jelly, Baby 13 oz (Pack of 3)",
+    "description": "",
+    "itemID": "B001ECQ4TO",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 7079
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Lotions"
+      ]
+    ],
+    "price": 11.24,
+    "brand": "Vaseline"
+  }
+]

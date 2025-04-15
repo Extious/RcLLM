@@ -1,0 +1,72 @@
+[
+  {
+    "title": "e.l.f. Cosmetics Foundation Brush",
+    "description": "Achieve an ultra smooth, poreless finish when applying foundation or tinted moisturizer. For best results use upward brush strokes.",
+    "itemID": "B002CKYZMK",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 65910
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Tools & Accessories",
+        "Makeup Brushes & Tools",
+        "Brushes & Applicators"
+      ]
+    ],
+    "price": 3.89,
+    "brand": "DDI"
+  },
+  {
+    "title": "E.l.f. Eyelash Curler",
+    "description": "This innovative eyelash curler has a special curved design which angles to suit all eye shapes. Its silicone rubber pad applies the appropriate amount of pressure to curl lashes naturally and allows for damage-free heating. Get long-lasting curled lashes both easily and safely. Add a swipe of e.l.f. mascara and curled lashes remain in perfect shape all day.",
+    "itemID": "B002CL6D56",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 5797
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Tools & Accessories",
+        "Makeup Brushes & Tools",
+        "Eyelash Tools",
+        "Curlers"
+      ]
+    ],
+    "price": 4.49,
+    "brand": "e.l.f. Cosmetics"
+  },
+  {
+    "title": "e.l.f. Liquid Eyeliner (Plum) elf",
+    "description": "No more tugging or pulling on your eyelids with this easy glide liquid eyeliner. The smudge-proof liner is rich in color, creating a long lasting defined look. The fine tip brush creates easy and precise definition for natural or dramatic effects",
+    "itemID": "B0019QQ13Y",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 119955
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Eyes",
+        "Eyeliner"
+      ]
+    ],
+    "price": 4.29,
+    "brand": "e.l.f. Cosmetics"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Lime Crime True Red Retrofuturist Opaque Lipstick",
+    "description": "Color description\nIntensified true red. Snow White's lips if she worked on a spacecraft!",
+    "itemID": "B002RJUPS4",
+    "helpful": [
+      1,
+      2
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 7994
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Lips",
+        "Lipstick"
+      ]
+    ],
+    "price": 18.0,
+    "brand": "Lime Crime"
+  },
+  {
+    "title": "FreeTress Equal Amerie Color 1B Synthetic Lace Front Wig",
+    "description": "Freetress Equal Lace FrontAll of the wigs are pre-cut and pre-styled into a variety of fashionable looks perfect for work, everyday and even when you want to be the ultimate diva! Simply shake out the wig to spring the curl pattern to life. This wig has the look and feel of natural human hair.-Sculpting tabs form a perfect fit-Premium quality lace-Natural invisible hair line-Longer lace from ear to ear-A one-size fits all adjustable cap-Securing with front & back placement combs-No fuss or mess, just perfect hairApplication Instructions1. Braid hair in cornrow or wrap to secure2. Trim lace according to hairline3. Secure lace front using hair pins4. Style as you desireOPTION A Using Lace Front Double Sided TapeOPTION B Using Lace Front GlueRemoving Adhesive1. Apply remover around the lace thoroughly2. Gently remove the lace when it softens",
+    "itemID": "B004MTJJDE",
+    "helpful": [
+      6,
+      8
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 41964
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Hair Extensions & Wigs",
+        "Wigs"
+      ]
+    ],
+    "price": 31.49,
+    "brand": "Equal"
+  },
+  {
+    "title": "Lime Crime Carousel Lip Gloss Present",
+    "description": "Rich magenta packed with stunning pink sparkle.",
+    "itemID": "B00AKHHPGA",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Health & Personal Care": 215612
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Lips",
+        "Lip Glosses"
+      ]
+    ],
+    "price": 17.0,
+    "brand": "Lime Crime"
+  }
+]

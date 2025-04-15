@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Tom's of Maine Moisturizing Bar Deodorant, 4-Ounces Bars (Pack of 6)",
+    "description": "Tom's Deodorant Body Bar contains the natural odor-fighting properties of sage and lemongrass to keep you feeling fresh and smelling great. Milled four times for premium quality, our soap contains ingredients from palm and coconut to provide a rich lather that washes off easily.",
+    "itemID": "B003EMIX8W",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Health & Personal Care": 3424
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Cleansers",
+        "Soaps"
+      ]
+    ],
+    "price": 21.45,
+    "brand": "Tom&#39;s of Maine"
+  },
+  {
+    "title": "Sebastian Shaper Plus Hairspray 3 Bottles (10.6 oz each)",
+    "description": "Sebastian Shaper PLUS Hairspray provides a touchable exra hold that holds shape even in damp, rainy weather. Shaper Plus Hair Spray is also humidity-resistant. Never sticky. Extra Control.",
+    "itemID": "B000O2TBEK",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 1149
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Scrubs & Body Treatments",
+        "Body Scrubs"
+      ]
+    ],
+    "price": 26.01,
+    "brand": "SEBASTIAN"
+  },
+  {
+    "title": "L'Oreal Paris Infallible Never Fail Lipliner, Brown, 0.01 Ounces",
+    "description": "At last, the perfect addition to your long-lasting lipcolour collection, the infallible never fail lip liner. Define your favorite infallible never fail lipcolour, lipstick or lip gloss with a longwearing liner designed to perfectly complement each shades.",
+    "itemID": "B004BCVEAS",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 108770
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Lips",
+        "Lip Liners"
+      ]
+    ],
+    "price": 7.93,
+    "brand": "L&#39;Oreal Paris"
+  }
+]

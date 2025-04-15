@@ -1,0 +1,70 @@
+[
+  {
+    "title": "John Frieda Sheer Blonde Lustrous Touch Strengthening Shampoo for All Types of Blonde Hair, 8.45 Ounce",
+    "description": "Healthy strands reflect glistening color and natural shine. Blonde strands tend to be fragile and prone to breakage, needing strength and nourishment to sparkle with bright, shimmering tones.",
+    "itemID": "B001BAFQMK",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 10370
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 4.97,
+    "brand": "John Frieda"
+  },
+  {
+    "title": "St. Ives Naturally Smooth Body Lotion, Fruit Aha Complex, 21 Ounce",
+    "description": "",
+    "itemID": "B006M1AN4E",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 43125
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Lotions"
+      ]
+    ],
+    "price": 9.99,
+    "brand": "St. Ives"
+  },
+  {
+    "title": "Herbal Essences Body Envy Volumizing Shampoo 33.8 Fluid Ounce",
+    "description": "Body Envy Volumizing Shampoo will show you the difference between body and big hair. It's all about body with a lightweight formula fused with Passion flower Sunrise and Pearl. This exhilarating clean will lift you up and the fresh lather will leave you with lush, full volume that moves naturally. Think this volumizing shampoo is uplifting? Try the conditioner.",
+    "itemID": "B008CC4D7Y",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Beauty": 118438
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 8.99,
+    "brand": NaN
+  }
+]

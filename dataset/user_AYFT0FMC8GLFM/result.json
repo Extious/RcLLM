@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Bass Brushes Facial Cleansing Brush",
+    "description": "Colors Vary   Deluxe 100% Natural Bristles  Acrylic Handle",
+    "itemID": "B0006OU078",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 4899
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Bathing Accessories",
+        "Loofahs, Sponges & Poufs"
+      ]
+    ],
+    "price": 9.99,
+    "brand": "Bass Brushes"
+  },
+  {
+    "title": "Now Foods Essential Oil, Lemon, 4 Fluid Ounce",
+    "description": "Lemons were mentioned in ancient Sanskrit texts as early as 800 BC, and famed explorers like Columbus and Vasco DeGama carried lemons and other citrus fruits with them during their arduous sea voyages. NOW&#xAE; Lemon Oil is naturally cold-pressed from fresh lemon peels. This essential oil is 100% pure",
+    "itemID": "B00028M3N2",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 102
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Oils"
+      ]
+    ],
+    "price": 8.44,
+    "brand": "Now Foods"
+  },
+  {
+    "title": "ACURE Conditioner Leave in Argan Oil + Argan Stem Cell",
+    "description": "Acure Organics - Leave-In Conditioner Argan Oil + Argan Stem Cell - 4 oz. (118 ml) Acure Organics Leave-In Conditioner Argan Oil + Argan Stem Cell is powered with Moroccan argan oil and argan stem cells. It is designed to protect hair at the cellular level. Argan stem cells help strengthen the root bulb, while argan oil provides body and shine to each hair follicle. Spray in leave in conditioner for an all-day weightless yet moisturizing protection that makes your hair feel manageable and moisturized Acure Organics is a family owned and operated company founded on sustainable principles to provide the highest quality fair trade, natural and certified organic personal care products. Their products are created with great care and are a reflection of their values. Each of their products is free from animal testing, parabens, sulfates, phthalates, synthetic fragrances, harmful preservatives and artificial colors. They travel the globe to find the most potent certified organic ingredients that meet their high standards of efficacy and purity. They thank you for sharing in their mission to have a positive impact on the world we live in. They like to believe that they create the purest, natural and organic plant-based skincare products. Simplicity is the key to their formulas. In keeping each ingredient as close to its natural state as possible, they feel that their products deliver visible, more potent results. Each decision they make is based upon their three guiding principles: Acure For Your SkinHigh quality skin care made from the purest, fair trade, natural and certified organic ingredients.Acure For Your PlanetThey have a sustainable company culture that impacts every decision they make. Each day, women are bombarded by harmful chemicals in cosmetic products.",
+    "itemID": "B0071HIDLS",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 2135
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Hair Relaxers",
+        "Conditioners"
+      ]
+    ],
+    "price": 6.0,
+    "brand": "Acure"
+  }
+]

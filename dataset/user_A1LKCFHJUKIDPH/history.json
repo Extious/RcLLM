@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Nippon Kodo Deitanseki Soap",
+    "description": "Buy Nippon Kodo Cleansers - Nippon Kodo Pelican Deitanseki Soap Clay & Charcoal Facial Cleansing Bar 150g/5.3oz",
+    "itemID": "B000YBZIAC",
+    "helpful": [
+      1,
+      2
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 8493
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Cleansers",
+        "Soaps"
+      ]
+    ],
+    "price": 10.45,
+    "brand": "DEI-TAN-SEKI"
+  },
+  {
+    "title": "Designer Skin Body Bronzer, Ruby, 13.5 Fluid Ounce",
+    "description": "Prepare yourself for a fantastical sensory experience. Feel the heat of our ruby infused tingle, intertwined with spicy capsaicin fruit. Just when you think you can't handle the heat. Refreshing emerald cooling essence with licorice extract soothes skin, leaving behind the darkest shade of bronze imaginable. No magical slippers required. Fragrance: fresh camu camu",
+    "itemID": "B00A7W13Q6",
+    "helpful": [
+      1,
+      2
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 6537
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Lotions"
+      ]
+    ],
+    "price": 26.99,
+    "brand": "Designer Skin"
+  },
+  {
+    "title": "NARS Blush, Taj Mahal",
+    "description": "Made with transparent pigments for a soft and sheer look. Imparts a natural, healthy glow for any skin tone and may be worn alone or layered together for more depth and intensity.",
+    "itemID": "B00021DJ32",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 46941
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Blush"
+      ]
+    ],
+    "price": 49.99,
+    "brand": "NARS"
+  }
+]

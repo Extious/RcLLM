@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Albolene Moisturizing Cleanser, 12oz",
+    "description": "Enhances warm-up time, weight loss and the sweating process during workouts.",
+    "itemID": "B000NLHXEC",
+    "helpful": [
+      3,
+      7
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 606
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Oils"
+      ]
+    ],
+    "price": 13.25,
+    "brand": "Albolene"
+  },
+  {
+    "title": "Pantene Pro-V Curly Hair Series 2-Minute Deep Conditioner 10.2 Fl Oz (Pack of 3)",
+    "description": "",
+    "itemID": "B003EH22SO",
+    "helpful": [
+      4,
+      5
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 136932
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Conditioners"
+      ]
+    ],
+    "price": 34.5,
+    "brand": "Pantene"
+  },
+  {
+    "title": "Olay Regenerist Microdermabrasion &amp; Peel System 1 Kit",
+    "description": "Studies have shown regular microdermabrasion is more beneficial to your skin than sporadic treatments. That's why Olay skincare experts developed Regenerist Microdermabrasion & Peel System. Olay combines the power of microdermabrasion with a mini-peel treatment to wake up tired-looking skin. Over time, it visibly improves skin tone and diminishes the appearance of fine lines and wrinkles.Make it part of your regular skincare regimen to gently resurface your skin's texture and activate surface cell renewal for soft, smooth skin. Its even gentle enough to use up to two times a week.There's only one Regenerist, backed by 60 years of Olay skincare experience. If you're ready for a dramatic transformation, Olay Regenerist Microdermabrasion & Peel System offers you the power of a microdermabrasian and mini-peel treatment to regenerate your skin's appearance in the comfort and convenience of your own home. Olay innovation.. it's a beautiful thing.",
+    "itemID": "B000F63TW0",
+    "helpful": [
+      5,
+      7
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 151
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Treatments & Masks",
+        "Microdermabrasion"
+      ]
+    ],
+    "price": 21.99,
+    "brand": "Olay"
+  }
+]

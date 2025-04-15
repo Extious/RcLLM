@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Ambi Skincare Even &amp; Clear Exfoliating Wash, 5 Ounce",
+    "description": "This unique cleanser with microbeads gently exfoliates skin by removing dead skin cells. It is specially formulated with a dermatologist-recommended skin clearing ingredient, salicylic acid and EvenBlend, a combination of soy extract and Vitamins C & E to help clear and prevent breakouts while keeping skin even-toned. With daily use, this creamy exfoliating cleanser rejuvenates skin, leaving it more radiant and smooth. It's gentle enough for sensitive skin, has a fresh scent, and rinses clean.",
+    "itemID": "B000NN7FSO",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 24371
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Cleansers"
+      ]
+    ],
+    "price": 5.62,
+    "brand": "AMBI"
+  },
+  {
+    "title": "Sleek i-Divine AU Natural Palette Mineral based Eye Shadow Palette",
+    "description": "We've recently given our i-Divines a makeover! The outer packaging has been updated and the way the eye shadows are pressed are different. They are now pressed flat instead of the original waffle print.",
+    "itemID": "B007Q22HMY",
+    "helpful": [
+      40,
+      42
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 4338
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Eyes",
+        "Eye Shadow"
+      ]
+    ],
+    "price": 11.75,
+    "brand": "Sleek"
+  },
+  {
+    "title": "Clearasil Daily Clear Acne Treatment Pore Cleansing Pads, 90 Count",
+    "description": "",
+    "itemID": "B000PT951G",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 32095
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Cleansers"
+      ]
+    ],
+    "price": 12.99,
+    "brand": NaN
+  }
+]

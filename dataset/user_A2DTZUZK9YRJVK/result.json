@@ -1,0 +1,115 @@
+[
+  {
+    "title": "Clean &amp; Clear Continuous Control Acne Cleanser,  5 oz  (141g)",
+    "description": "Clean & Clear Continuous Control Acne Cleanser not only removes dirt and oil, it also features a porepenetrating technology that deposits acne medicine to help fight and help prevent breakouts long after you wash. Your skin is clean and becomes clearer with continued use.",
+    "itemID": "B0000534VO",
+    "helpful": [
+      0,
+      1
+    ],
+    "overall": 4.0,
+    "salesRank": NaN,
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Cleansers"
+      ]
+    ],
+    "price": 6.13,
+    "brand": "Clean &amp; Clear"
+  },
+  {
+    "title": "OXY Daily Defense Cleansing Pads 90 pads (Pack of 3)",
+    "description": "2% Salicylic acid acne medication. Aggressively treats and helps prevent pimples. No. 1 pharmacist recommended brand. Oxy Maximum Pads have a patented formula, which aggressively penetrates deep into the pores where pimples start. They work continuously between washings to help prevent and eliminate blemishes. Experience immediate results as they instantly start to unclog pores by removing dirt and oil, providing long-lasting protection against pimples.",
+    "itemID": "B001G7PJAC",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 1121
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Cleansers"
+      ]
+    ],
+    "price": 16.95,
+    "brand": "Oxy"
+  },
+  {
+    "title": "Pantene Pro-V Color Preserve Shine Conditioner With Pump 33.8 Fl Oz",
+    "description": "",
+    "itemID": "B0073B3BUU",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 67336
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoo Plus Conditioner"
+      ]
+    ],
+    "price": 18.0,
+    "brand": "Pantene"
+  },
+  {
+    "title": "Dove Body Wash with NutriumMoisture, Deep Moisture, 24 Ounce Bottles (Pack of 4)",
+    "description": "",
+    "itemID": "B005HO0A18",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 66
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Cleansers",
+        "Body Washes"
+      ]
+    ],
+    "price": 21.99,
+    "brand": "Dove"
+  },
+  {
+    "title": "Dove Men and Care Body and Face Wash, Clean Comfort, 18 Ounce (Pack of 3)",
+    "description": "",
+    "itemID": "B002TSA916",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 3565
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Cleansers",
+        "Washes"
+      ]
+    ],
+    "price": 9.75,
+    "brand": "Dove"
+  }
+]

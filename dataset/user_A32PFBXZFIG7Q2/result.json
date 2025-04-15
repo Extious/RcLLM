@@ -1,0 +1,50 @@
+[
+  {
+    "title": "CeraVe Moisturizing Cream, Two 2 Ounce Tubes",
+    "description": "CeraVe moisturizing cream is a vital part of a daily skin care routine. Its patented MVE formulation releases ceramides and other essential ingredients throughout the day, so they penetrate deep into the skin to hydrate and nourish.",
+    "itemID": "B003NU7I6S",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 108650
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Creams & Moisturizers",
+        "Fluids & Lotions",
+        "Lotions"
+      ]
+    ],
+    "price": NaN,
+    "brand": NaN
+  },
+  {
+    "title": "CoverGirl Outlast Lipstain Nude Kiss 427",
+    "description": "The water-based colorants of Outlast Lipstain give lips a beautiful, lightweight flush of color that won't come off, lasting for hours without the heavy look or feel of an ordinary lipstick. Its pen-like precision applicator makes it easy to define your lips-just draw on color without any hassle!",
+    "itemID": "B003FKSSII",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Beauty": 33691
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Lips",
+        "Lip Stains"
+      ]
+    ],
+    "price": 1.49,
+    "brand": "COVERGIRL"
+  }
+]

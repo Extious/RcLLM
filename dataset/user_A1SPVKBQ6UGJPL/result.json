@@ -1,0 +1,70 @@
+[
+  {
+    "title": "It's a 10 Miracle Shampoo Plus Keratin, 10 Ounce",
+    "description": "It's a 10 Miracle Shampoo Plus Keratin restores elasticity to hair, preserves hair color, prevents breakage, protects from sun damage, locks out humidity, protects from thermal styling and keratin infused in addition to being sulfate free, sodium chloride free, paraben free... A great everyday hair product to prevent damage from everyday elements. Restores elasticity to hair preserves hair color prevents breakage protects from sun damage locks out humidity",
+    "itemID": "B006Z8B5HS",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 1587
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 17.05,
+    "brand": "Its a 10"
+  },
+  {
+    "title": "RODIN olio lusso - Luxury Face Oil - 1 oz",
+    "description": "Indulge your skin in Rodin Face Oil, an amazing blend of oils that work wonders on the skin. Jasmine, almond, jojoba and evening primrose oils bring extreme comfort to the mind and skin, soothing irritations, improving elasticity and leaving the skin supple and soft. Rose hip seed, neroli and argan oils, rich in antioxidants and essential fatty acids, fend off premature aging, even skin tone and aid in regenerating the skin. These oils combine to illuminate your complexion, creating a healthy appearance and feel, without leaving a greasy feeling behind.",
+    "itemID": "B002VLEVCY",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 7342
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Oils & Serums"
+      ]
+    ],
+    "price": 111.4,
+    "brand": "rodin"
+  },
+  {
+    "title": "NYX Cosmetics Powder Blush, Mauve",
+    "description": "Silky textured blush. Featured in a signature quilted compact. Rich pigmentation provides long-lasting wear. Delivers a healthy, radiant natural glow.",
+    "itemID": "B002QI1F8A",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 56646
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Bronzers & Highlighters"
+      ]
+    ],
+    "price": 4.0,
+    "brand": "NYX"
+  }
+]

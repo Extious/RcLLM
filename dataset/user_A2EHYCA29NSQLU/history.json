@@ -1,0 +1,67 @@
+[
+  {
+    "title": "Fekkai Glossing Hair Products Starter 1 Kit",
+    "description": "",
+    "itemID": "B0030GFY02",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 39515
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care"
+      ]
+    ],
+    "price": 22.95,
+    "brand": "Fekkai"
+  },
+  {
+    "title": "Pantene Pro-V Volume Shampoo, 25.4 Fluid Ounce (Pack of 3) (packaging may vary)",
+    "description": "",
+    "itemID": "B003EH20VI",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 7123
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 27.75,
+    "brand": "Pantene"
+  },
+  {
+    "title": "Axe Primed Just Clean Shampoo, 12-Ounce Bottle (Pack of 3)",
+    "description": "",
+    "itemID": "B001FSK8QM",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Beauty": 70145
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 18.99,
+    "brand": "Axe"
+  }
+]

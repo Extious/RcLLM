@@ -1,0 +1,71 @@
+[
+  {
+    "title": "L'Oreal Paris True Match Super Blendable Makeup, Natural Buff, 1.0 Ounces",
+    "description": "True match super-blendable makeup shades are now cleaner, truer and even more natural. With the new patented color technology, true match makeup precisely matches your skin&#x2019;s tone and texture and coordinates perfectly with true match powder, blush.",
+    "itemID": "B000RGZK02",
+    "helpful": [
+      0,
+      1
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Beauty": 15809
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Foundation"
+      ]
+    ],
+    "price": 6.95,
+    "brand": "L&#39;Oreal Paris"
+  },
+  {
+    "title": "Solano Supersolano 232K 1875 Watt Ceramic Tourmaline Hair Dryer Black/Red",
+    "description": "Powerful lightweight ceramic, tourmaline dryer for smooth silky hair without damage",
+    "itemID": "B002NGMEUS",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 6224
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Hair Dryers"
+      ]
+    ],
+    "price": 90.95,
+    "brand": "Solano"
+  },
+  {
+    "title": "Coastal Scents 10 Piece Professional Blush Palette",
+    "description": "This palette comes with 6 in a beautiful sheen of shimmer and 4 matte blushes.",
+    "itemID": "B002QFMY42",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 6568
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Blush"
+      ]
+    ],
+    "price": 12.29,
+    "brand": "Coastal Scents"
+  }
+]

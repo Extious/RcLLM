@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Maybelline Mineral Power Finishing Veil Bronzing Powder",
+    "description": "Maybelline Mineral Power Liquid FoundationA pressed powder innovation, Dream Matte Powder's ultra-fine formula delivers an amazing air-soft feel and silky texture.&bull;Jet-milled into ultra-fine particles for an air-soft, ultra-silky texture&bull;Revolutionary liquid binder ingredients provide cushiony, smooth application&bull;Formula ensures superior blendability for even application every time&bull;Magically matches skin's texture, never dusts up or settles into lines",
+    "itemID": "B001KYVVVC",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 133711
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Powder"
+      ]
+    ],
+    "price": 3.45,
+    "brand": "Maybelline"
+  },
+  {
+    "title": "NYX Single Eye Shadow, Dark Brown, 2.5 g",
+    "description": "Richly pigmented eye shadows in over 162 shades. Soft and silky NYX cosmetics single eye shadows are great on their own or blended for a beautiful prism of colors. This top-selling eye shadow is formulated for long-lasting wear.",
+    "itemID": "B002R23I76",
+    "helpful": [
+      0,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 133151
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Eyes",
+        "Eye Shadow"
+      ]
+    ],
+    "price": 7.99,
+    "brand": "NYX"
+  },
+  {
+    "title": "Biore Pore Unclogging Scrub - 5 oz",
+    "description": "Biore Pore Unclogging Scrub, with spherical beads, targets what clogs pores and clears away impurities leaving you with a healthy-looking complexion and noticeably softer, smoother skin after just one use.",
+    "itemID": "B006RFZ5ZM",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 1963
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Exfoliators & Scrubs",
+        "Scrubs"
+      ]
+    ],
+    "price": 6.38,
+    "brand": "Biore"
+  }
+]

@@ -1,0 +1,48 @@
+[
+  {
+    "title": "OPI Nail Polish Nicki Minaj Collection - Fly",
+    "description": "HEALTH AND BEAUTY PRODUCT",
+    "itemID": "B006LTF6J4",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Health & Personal Care": 25450
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Nails",
+        "Nail Polish"
+      ]
+    ],
+    "price": 7.1,
+    "brand": "OPI"
+  },
+  {
+    "title": "China Glaze Nail Lacquer, Are You Jelly?, 0.5 Fluid Ounce",
+    "description": "Express yourself online and off with amazing china glaze color. Select from over 300 high gloss colors that give the confidence of gorgeous nails wherever and whenever it's time to shine.",
+    "itemID": "B00BKUHK98",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 25625
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Nails",
+        "Nail Polish"
+      ]
+    ],
+    "price": 5.25,
+    "brand": "China Glaze"
+  }
+]

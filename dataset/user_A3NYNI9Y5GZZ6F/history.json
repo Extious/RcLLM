@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Neutrogena Makeup Remover Cleansing Towelettes, Refill Pack, 25 Count (Pack of 3)",
+    "description": "Neutrogena Make-Up Remover Cleansing Towelettes gently and effectively dissolve all traces of dirt, oil and make-up. These ultra soft cloths offer you superior cleansing and make-up removal, with patent-pending technology so effective that it easily removes waterproof mascara. This pack includes three refill bags of 25 towelettes.",
+    "itemID": "B001E96NYS",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 2896
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Cleansers",
+        "Cloths & Towelettes"
+      ]
+    ],
+    "price": 17.91,
+    "brand": "Neutrogena"
+  },
+  {
+    "title": "L'Oreal Paris EverStyle Smooth &amp; Shine Creme, Alcohol-Free, 5.1 Fluid Ounce",
+    "description": "Everstyle offers hold and style with out compromise. Free of drying effects of alcohol, everstyle uses high performance no-residue styling polymers for superior style without build-up.",
+    "itemID": "B005HIGY46",
+    "helpful": [
+      1,
+      2
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 8190
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Creams, Gels & Lotions"
+      ]
+    ],
+    "price": 6.99,
+    "brand": "L&#39;Oreal Paris"
+  },
+  {
+    "title": "TRESemme Keratin Smooth Keratin Infusing Heat Protection &amp; Shine Spray, 8 oz",
+    "description": "",
+    "itemID": "B00AO4E9DG",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Health & Personal Care": 13363
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Hair Sprays"
+      ]
+    ],
+    "price": 9.35,
+    "brand": "TRESemme"
+  }
+]

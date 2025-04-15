@@ -1,0 +1,71 @@
+[
+  {
+    "title": "John Frieda Frizz-Ease Dream Curls, Curl Perfecting Spray, 6.7 Ounce Bottle (Pack of 2)",
+    "description": "Transforms wilted waves & curls into sexy swerves, curves & spirals. Alcohol-free formula leaves hair super-silky, never crispy. Breakthrough curl perfecter transforms wilted waves and curls, just spray and scrunch for the curls of your dreams sexy, highly defined swirls and curls that are soft and silky. Innovative magnesium enriched formula penetrates hair to restore elasticity and spring, boosting and enhancing your natural curl pattern. Special conditioning and glossing agents help leave hair frizz free and glistening with healthy-looking shine. Non-greasy, non-sticky, and alcohol free formula.",
+    "itemID": "B0067YU1ES",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 39914
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Curl Enhancers"
+      ]
+    ],
+    "price": 13.99,
+    "brand": "John Frieda"
+  },
+  {
+    "title": "Creme of Nature Moisture &amp; Shine Shampoo with Argan Oil: 12 OZ",
+    "description": "Creme of Nature Moisture & Shine Shampoo with Argan Oil has a sulfate-free formula that nourishes and adds brilliant shine while gently cleansing and detangling. Features Gently cleanses hair without harsh, moisture stripping agents Strengthens hair while optimizing the moisture balance of the hair and scalp Helps to detangle, soften and boost shine Infused with Certified Organic Argan Oil from Morocco 12 FL OZ (354mL)",
+    "itemID": "B004YRTZG0",
+    "helpful": [
+      2,
+      2
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Health & Personal Care": 31847
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Hair Relaxers",
+        "Shampoos"
+      ]
+    ],
+    "price": 5.69,
+    "brand": "Creme of Nature"
+  },
+  {
+    "title": "Maybelline New York Great Lash Clear Mascara for Lash and Brow 110, 0.44 Fluid Ounce",
+    "description": "Perfectly separates for a natural look. Use it on lashes or to set brows.",
+    "itemID": "B001KYQA1S",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 482
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Eyes",
+        "Mascara"
+      ]
+    ],
+    "price": 12.95,
+    "brand": "Maybelline"
+  }
+]

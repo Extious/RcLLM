@@ -1,0 +1,115 @@
+[
+  {
+    "title": "NYX Cosmetics Powder Blush, Mauve",
+    "description": "Silky textured blush. Featured in a signature quilted compact. Rich pigmentation provides long-lasting wear. Delivers a healthy, radiant natural glow.",
+    "itemID": "B002QI1F8A",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 56646
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Bronzers & Highlighters"
+      ]
+    ],
+    "price": 4.0,
+    "brand": "NYX"
+  },
+  {
+    "title": "NYX Cosmetics Black Label Lipstick, Heiress, 0.15 Ounce",
+    "description": "NYX first class color collection for the lips. Ultra creamy texture glides on smoothly. Provides rich, long-lasting color. Emollients moisturize, condition and protect lips.",
+    "itemID": "B002QXINAS",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 107353
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Lips",
+        "Lipstick"
+      ]
+    ],
+    "price": 7.49,
+    "brand": "NYX"
+  },
+  {
+    "title": "NYX Matte Lipstick, Nude",
+    "description": "NYX matte lipsticks are highly pigmented, richly formulated lipsticks that glide on smoothly, stay put and impart a non-glossy, high-fashion matte finish as they envelop lips in brilliant color. From pure red to nude, matte lipstick is available in 22 rich, shades.",
+    "itemID": "B005FYJB92",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 3930
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Lips",
+        "Lipstick"
+      ]
+    ],
+    "price": 5.88,
+    "brand": "NYX"
+  },
+  {
+    "title": "Neutrogena Healthy Skin Anti-Wrinkle Cream, SPF 15, 1.4 Ounce",
+    "description": "",
+    "itemID": "B000052YOL",
+    "helpful": [
+      2,
+      2
+    ],
+    "overall": 5.0,
+    "salesRank": NaN,
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Creams & Moisturizers"
+      ]
+    ],
+    "price": 11.46,
+    "brand": "Neutrogena"
+  },
+  {
+    "title": "Maybelline New York Mineral Power Bronzer Shimmer Loose Powder, Sunrise Bronze 605, 0.15 Ounce",
+    "description": "100% micro minerals and copper pearls gives you a healthy sun kissed glow. Perfectly natural bronze complexion. Looks sun kissed, not fake. Tested on sensitive skin. won't clog pores. contains 0% oil, 0% talc, 0% preservatives and 0% fragrance.",
+    "itemID": "B002L6M068",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 49163
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Powder"
+      ]
+    ],
+    "price": 5.83,
+    "brand": "Maybelline"
+  }
+]

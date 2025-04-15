@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Infiniti by Conair YOU Style",
+    "description": "",
+    "itemID": "B001T0HHBK",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Beauty": 22671
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Irons",
+        "Flattening Irons"
+      ]
+    ],
+    "price": 19.99,
+    "brand": "Conair"
+  },
+  {
+    "title": "Burt's Bees Healthy Treatment Repair Serum, 1 Fluid Ounce",
+    "description": "Repair your damaged skin naturally with Burt&#x2019;s Bees&#xAE; Repair Serum. Eleven essential natural botanicals go into this tube of serum which helps reduce the appearance of fine lines and wrinkles, while supporting the renewal and restoration of your most delicate areas. The concentrated antioxidants found in green tea extract have been infused into this wrinkle cream to help naturally repair skin damage caused by sun exposure and environmental pollution. Finally, borage and evening primrose oils help promote a healthy complexion. Apply this 99.94% natural face treatment and gently massage into skin. Put the power of nature to work for your skin with Burt&#x2019;s Bees.",
+    "itemID": "B0009ET5O4",
+    "helpful": [
+      5,
+      5
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 5419
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Eyes"
+      ]
+    ],
+    "price": 11.99,
+    "brand": "Burt&#39;s Bees"
+  },
+  {
+    "title": "Burts Bees Herbal Blemish Stick (White) - .26 fl oz - Liquid",
+    "description": "Herbal Blemish Stick (White) by Burt's Bees .26 fl oz Liquid This blemish stick contains 10 effective natural herbal ingredients including willowbark nature's version of salicylic acid which clarifies and gently exfoliates skin to clear pores and help prevent breakouts. Combined with tea tree and juniper oils known for their antiseptic and astringent qualities and calendula to reduce inflammation and redness this concentrated formula keeps your skin clear naturally. For best results apply blemish stick directly to the affected areas 2 to 3 times daily. Additional applications my irritate your skin because of the formula's potent botanical ingredients.",
+    "itemID": "B001MXKG6M",
+    "helpful": [
+      27,
+      27
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 4734
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Scrubs & Body Treatments",
+        "Body Scrubs"
+      ]
+    ],
+    "price": 8.59,
+    "brand": "Burt&#39;s Bees"
+  }
+]

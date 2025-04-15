@@ -1,0 +1,68 @@
+[
+  {
+    "title": "Organic Root Stimulator Hair Mayonnaise Treatment, 16 Ounce",
+    "description": "This stimulator has taken hydrating botanicals and blended them with olive oil. Proclaimed as \"liquid gold\", olive oil has been used for over 5000 years. Enriched with olive oil, egg protein & herbs Restores, renews, moisturizes, strengthens.",
+    "itemID": "B003YELGF2",
+    "helpful": [
+      4,
+      5
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 24258
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Hair & Scalp Treatments"
+      ]
+    ],
+    "price": 10.05,
+    "brand": "Organic R/S"
+  },
+  {
+    "title": "Elasta Qp Creme Conditioning Shampoo for Dry Damaged Hair, 12 Ounce",
+    "description": "Elasta qp creme conditioning shampoo for dry damaged hair by elasta qp for unisex - 12 ounces shampoo.",
+    "itemID": "B004LE1CV2",
+    "helpful": [
+      3,
+      4
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 46037
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 8.5,
+    "brand": "ElastaQP"
+  },
+  {
+    "title": "Carol's Daughter, Hair Milk The Original Curl Definer, 10-Ounce",
+    "description": "Quenching, fast-absorbing lotion that defines, tames and restores luster to natural curls while conditioning.",
+    "itemID": "B003IIJJ9Y",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 170409
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Conditioners"
+      ]
+    ],
+    "price": NaN,
+    "brand": NaN
+  }
+]

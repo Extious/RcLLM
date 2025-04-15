@@ -1,0 +1,46 @@
+[
+  {
+    "title": "Palmer's Cocoa Butter Formula Massage Cream for Stretch Marks, 4.4 Ounce (Pack of 2)",
+    "description": "Palmer's cocoa butter formula massage cream for stretch marks helps improve the appearance of stretch marks with a special combination of cocoa butter, vitamin E, collagen and elastin.",
+    "itemID": "B004X8K93S",
+    "helpful": [
+      2,
+      4
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 934
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Maternity"
+      ]
+    ],
+    "price": 9.99,
+    "brand": "Palmer&#39;s"
+  },
+  {
+    "title": "One 'n Only Argan Oil Spray Treatment 6 fl. oz",
+    "description": "one 'n only Argan Oil Spray Treatment is a lightweight, alcohol-free, non-greasy formula that provides instant shine without leaving an oily residue.",
+    "itemID": "B005ZXH3OS",
+    "helpful": [
+      1,
+      2
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 2250
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Hair & Scalp Treatments"
+      ]
+    ],
+    "price": 10.74,
+    "brand": "one &#39;n only"
+  }
+]

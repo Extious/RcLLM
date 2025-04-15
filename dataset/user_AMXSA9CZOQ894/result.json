@@ -1,0 +1,71 @@
+[
+  {
+    "title": "NYX Cosmetics Powder Blush, Mauve",
+    "description": "Silky textured blush. Featured in a signature quilted compact. Rich pigmentation provides long-lasting wear. Delivers a healthy, radiant natural glow.",
+    "itemID": "B002QI1F8A",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 56646
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Bronzers & Highlighters"
+      ]
+    ],
+    "price": 4.0,
+    "brand": "NYX"
+  },
+  {
+    "title": "e.l.f. Blush, Peachy Keen, 0.168 Ounce",
+    "description": "The soft sheer texture blends into the skin for a silky finish. Designed to be worn alone or layered for more depth. Highlight your complexion with a subtle healthy glow.",
+    "itemID": "B00373FPG6",
+    "helpful": [
+      0,
+      1
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Beauty": 108184
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Blush"
+      ]
+    ],
+    "price": 5.35,
+    "brand": "e.l.f. Cosmetics"
+  },
+  {
+    "title": "elf Studio High Definition Loose Face Powder",
+    "description": "The e.l.f. High Definition Powder is a translucent, versatile loose powder that creates a flawless, \"soft focus\" effect to the skin. Masks fine lines and imperfections for a glowing, radiant complexion. This incredibly soft and invisible powder is ideal for everyday wear, either alone or over your favorite e.l.f. foundation. Our HD Powder is a makeup artist and e.l.f. customer favorite.",
+    "itemID": "B004DIXYUI",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Beauty": 573
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Powder"
+      ]
+    ],
+    "price": 8.98,
+    "brand": "e.l.f. Cosmetics"
+  }
+]

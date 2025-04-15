@@ -1,0 +1,70 @@
+[
+  {
+    "title": "Mary Kay Acne Treatment Gel*,1 oz. net wt.",
+    "description": "For blemishes, smooth on Acne Treatment Gel. It's clinically proven to dry and clear acne blemishes, allowing skin to heal.",
+    "itemID": "B000QUKAUE",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 92640
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Treatments & Masks"
+      ]
+    ],
+    "price": NaN,
+    "brand": NaN
+  },
+  {
+    "title": "L'oreal Loreal Total Repair 5 Multi-Restorative Dry Oil, 3.4 Oz",
+    "description": "L'Oreal Total Repair 5 Multi-Restorative Oil 3.4 FL OZ. This advanced treatment oil with ceramide absorbs immediately into hair for weightless repair without leaving residue. Helps seal split ends and leaves your hair shinning.",
+    "itemID": "B00AN0QF9W",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 26112
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Hair & Scalp Treatments"
+      ]
+    ],
+    "price": 5.98,
+    "brand": "L&#39;Oreal Paris"
+  },
+  {
+    "title": "SHANY 2012 Nail Art Polish Stamp Manicure Image Plates set of 25pcs",
+    "description": "The original Shany image plates, designed and created by Shany, in set of 25 image plates, each plates measure about 1.8 inch with sanded edges for easy handling and protective nylon screen on each. All image plates are from stainless steel. All designs are from 2011 collection and you will get 25 image plates with 6 to 10 design on each. For easy instruction check the pictures to learn how easy it can be to put some art on your nail without going to salon. Shany image plate kit comes with Shany logo and trademark.",
+    "itemID": "B004DK0UDA",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 4803
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Tools & Accessories",
+        "Nail Tools",
+        "Nail Art Equipment"
+      ]
+    ],
+    "price": 16.99,
+    "brand": "SHANY Cosmetics"
+  }
+]

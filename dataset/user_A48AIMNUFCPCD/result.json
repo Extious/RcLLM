@@ -1,0 +1,49 @@
+[
+  {
+    "title": "DevaCurl One Condition (32 oz)",
+    "description": "DevaCurl One Condition Ultra Creamy Instant Conditioner - Keep curls shiny and manageable with this ultra-creamy super rich conditioner. DevaCurl One Condition restores, hydrates, neutralizes odor and eliminates product residue. Scented with Lemon Grass. For all hair types. (32 oz)",
+    "itemID": "B001D1648M",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 3106
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Curl Enhancers"
+      ]
+    ],
+    "price": 33.98,
+    "brand": "DevaCurl"
+  },
+  {
+    "title": "HSI Professional Heat Resistant Glove for Curling and flat iron. Black and red",
+    "description": "Our heat resistant glove protects your hands from burns while heat styling.",
+    "itemID": "B00563K6VO",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 1561
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Irons",
+        "Flattening Irons"
+      ]
+    ],
+    "price": 17.99,
+    "brand": "HSI Professional"
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "title": "Cotz Face Natural Skin Tone SPF 40, 1.5 Ounce",
+    "description": "A sheer mineral formula, offering elegance and superior sun protection, in a silky matte finish. A cosmetically elegant physical sunscreen helps prevent pre-mature skin aging, sun-induced wrinkles and loss of firmness. This lightly-tinted formulation works very well as a daily makeup primer.",
+    "itemID": "B0073P01RC",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 835
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Sun",
+        "Skin Protection"
+      ]
+    ],
+    "price": 15.76,
+    "brand": "CoTZ"
+  },
+  {
+    "title": "CLEAR SCALP &amp; HAIR BEAUTY Strong Lengths Nourishing Shampoo, 12.9 Fluid Ounce",
+    "description": "",
+    "itemID": "B007RTR8AM",
+    "helpful": [
+      2,
+      3
+    ],
+    "overall": 1.0,
+    "salesRank": {
+      "Beauty": 14037
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 4.88,
+    "brand": "Clear"
+  },
+  {
+    "title": "CLEAR SCALP &amp; HAIR BEAUTY Strong Lengths Nourishing Conditioner, 12.7 Fluid Ounce",
+    "description": "",
+    "itemID": "B007RTR8UW",
+    "helpful": [
+      0,
+      1
+    ],
+    "overall": 1.0,
+    "salesRank": {
+      "Beauty": 6485
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Conditioners"
+      ]
+    ],
+    "price": 5.0,
+    "brand": "Clear"
+  }
+]

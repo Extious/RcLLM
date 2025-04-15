@@ -1,0 +1,115 @@
+[
+  {
+    "title": "Motions At Home Lavish Conditioning Shampoo, 13 Ounce Bottles (Pack of 6)",
+    "description": "",
+    "itemID": "B000YZGOZQ",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Beauty": 183525
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 22.02,
+    "brand": NaN
+  },
+  {
+    "title": "Biore Blemish Fighting Ice Cleanser, 6.77 Ounce",
+    "description": "Biore Blemish Fighting Ice Cleanser helps to stop blemishes cold and leaves your skin feeling fresh and vibrant.",
+    "itemID": "B006RFZ8C2",
+    "helpful": [
+      2,
+      2
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 53361
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Cleansers"
+      ]
+    ],
+    "price": 6.95,
+    "brand": "Biore"
+  },
+  {
+    "title": "Tresemme Renewal Hair and Scalp Shampoo, 25 Ounce",
+    "description": "",
+    "itemID": "B00GYB17XI",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 15797
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 11.06,
+    "brand": "TRESemme"
+  },
+  {
+    "title": "Bic Soleil Shave And Trim Shaver, 4 Count",
+    "description": "BIC Soleil Shave and Trim offers 3 flexible blades for a flawlessly smooth shave and a safe bikini groomer. The BIC Soleil Shave and Trim is the first disposable shaver and bikini trimmer in one. Conveniently shave all body parts and trim your bikini with just one product. BIC's best triple blade technology and trimming innovation now in a Women's shaver.",
+    "itemID": "B00D18ZDM8",
+    "helpful": [
+      3,
+      4
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Health & Personal Care": 69741
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Oils"
+      ]
+    ],
+    "price": 8.95,
+    "brand": NaN
+  },
+  {
+    "title": "Tresemme 7 Day Keratin Smooth Shampoo, 9 Ounce",
+    "description": "",
+    "itemID": "B00GYB1AQM",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 7111
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 4.0,
+    "brand": "TRESemme"
+  }
+]

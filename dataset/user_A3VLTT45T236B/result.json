@@ -1,0 +1,49 @@
+[
+  {
+    "title": "Aquasentials Exfoilating Facial Puff Sponge(4 pk)",
+    "description": NaN,
+    "itemID": "B001CWJVXC",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 81933
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Bathing Accessories",
+        "Loofahs, Sponges & Poufs"
+      ]
+    ],
+    "price": 5.97,
+    "brand": NaN
+  },
+  {
+    "title": "Williams Lectric Shave Electric Razor Pre-Shave, Original, 3 fl oz",
+    "description": "ELECTRIC RAZOR PRE-SHAVE",
+    "itemID": "B000052Y6Z",
+    "helpful": [
+      11,
+      16
+    ],
+    "overall": 1.0,
+    "salesRank": {
+      "Health & Personal Care": 17330
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Oils"
+      ]
+    ],
+    "price": 3.23,
+    "brand": "Lectric Shave"
+  }
+]

@@ -1,0 +1,70 @@
+[
+  {
+    "title": "Korres Wild Rose Mineral Foundation, Fair, 0.26 Ounce",
+    "description": "This talc-free, loose powder foundation contains brightening wild rose extract.",
+    "itemID": "B004DILR1Q",
+    "helpful": [
+      2,
+      3
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 125121
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Foundation"
+      ]
+    ],
+    "price": 39.99,
+    "brand": "Korres"
+  },
+  {
+    "title": "Acne.org 16 oz. Cleanser",
+    "description": "When treating acne, it is important to avoid irritation. This generously sized 16 oz. ultra-gentle liquid Cleanser is carefully designed with only the gentlest cleansing ingredients to be pH balanced so it doesn't overdry or strip the skin. It also produces a thick lather which cleanses just the right amount and rinses clean.This Cleanser was developed specifically for use with The Regimen (acne.org/regimen) but can also be used as a stand-alone cleanser for all skin types.",
+    "itemID": "B00164DUY2",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 1121
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Scrubs & Body Treatments",
+        "Body Scrubs"
+      ]
+    ],
+    "price": 24.99,
+    "brand": "Acne.org"
+  },
+  {
+    "title": "Trader Joe's Tea Tree Tingle Shampoo with Peppermint, Tea Tree and Eucalyptus Botanicals, 16-Ounces",
+    "description": "We've worked with an upscale boutique to bring you this salon-quality shampoo that will rejuvenate your hair with its refreshing tingle. A blend of certified organic botanicals including peppermint and tea tree work together to moisturize and clarify your hair while alleviating dry scalp. Our product contains no laurel/laureth sulfates found in most shampoos and is suitable for all hair types.",
+    "itemID": "B002LMBLTY",
+    "helpful": [
+      2,
+      3
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 4072
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 4.15,
+    "brand": "Trader Joe&#39;s"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Cetaphil Moisturizing Cream for Dry, Sensitive Skin 20 oz (2 pack, 40oz total)",
+    "description": "Cetaphil Moisturizing Cream is specially formulated for the treatment of dry skin localized anywhere on the body surface. It should be applied freely to dry skin as necessary or as directed by a physician. Best results are obtained when it is used directly after bathing, wetting the skin or washing hands.",
+    "itemID": "B001OKCXZK",
+    "helpful": [
+      0,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 15752
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Creams & Moisturizers"
+      ]
+    ],
+    "price": 31.5,
+    "brand": "Cetaphil"
+  },
+  {
+    "title": "Essie Nail 3-WAY GLAZE 0.46 oz Base Strengthener Top Coat All-In-One Treatment",
+    "description": "Essie brings you a base coat for an Adhesive Base. With its rubberized base and adhesive ingredients, First Base helps glue polish to the nail surface for less chipping and increased wearability. It's the ultimate basecoat for nails that spend time in water or chemicals.Instructions:Apply as a base coatApply 2 coats of favorite color polishFinish with a good top coat",
+    "itemID": "B00881SGYK",
+    "helpful": [
+      3,
+      5
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 6311
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Hands & Nails",
+        "Nail Treatments",
+        "Nail Strengthening"
+      ]
+    ],
+    "price": 6.34,
+    "brand": "Essie"
+  },
+  {
+    "title": "Cetaphil Gentle Cleansing Bar, 4.5-Ounce Bar (Pack of 6)",
+    "description": "",
+    "itemID": "B001I45ZFC",
+    "helpful": [
+      1,
+      5
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 170
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Cleansers",
+        "Soaps"
+      ]
+    ],
+    "price": 18.65,
+    "brand": "Cetaphil"
+  }
+]

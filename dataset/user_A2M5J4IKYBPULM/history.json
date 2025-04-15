@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Cetaphil Daily Facial Cleanser, for normal to oily skin, 16.0 -Ounce Bottles (Pack of 2)",
+    "description": "",
+    "itemID": "B001ET79H8",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 4737
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Oils & Serums"
+      ]
+    ],
+    "price": 22.29,
+    "brand": "Cetaphil"
+  },
+  {
+    "title": "Vanicream Cleansing Bar, Fragrance Free, 3.9 Ounce Bars (Pack of 3)",
+    "description": "VanicreamTM Cleansing Bar is a unique fragrance-free formula that moisturizes while gently cleansing the skin. Your skin will feel clean, fresh and soft without feeling dry or irritated.                                                                                                                                            Ingredients:sodium cocoyl isethionate, stearic acid, water, sodium lauroyl sarcosinate, sodium isethionate, sorbitol solution, ceteareth-20, propylene glycol, cetearyl alcohol, glyceryl monostearate, white petrolatum, simethicone, polyethylene glycol monostearate, titanium dioxide, sorbic acid, BHT",
+    "itemID": "B0001EKWPI",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 471
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Cleansers"
+      ]
+    ],
+    "price": 9.95,
+    "brand": "Vanicream"
+  },
+  {
+    "title": "Vanicream Moisturizing Skin Cream with Pump Dispenser, 1 Pound",
+    "description": "A non-greasy, long-lasting moisturizing cream that is easy-to-spread, quickly absorbed and non-comedogenic*.                                              Ingredients: purified water, white petrolatum, sorbitol solution, cetearyl alcohol, propylene glycol, ceteareth-20, simethicone, glyceryl monostearate, polyethylene glycol monostearate, sorbic acid and BHT",
+    "itemID": "B000NWGCZ2",
+    "helpful": [
+      0,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 20
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Creams"
+      ]
+    ],
+    "price": 16.0,
+    "brand": "Vanicream"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Neutrogena Rapid Clear Oil-Eliminating Foaming Cleanser, 6 Ounce",
+    "description": "Rapid Clear OilControl Foaming Cleanser is clinically proven to control oil for hours. Rich, creamy, oilfree cleanser foams up to rapidly and effectively remove oil and control shine. It clears surface oil without overdrying. Your skin feels completely clean, oilfree and refreshed. Get fresh skin with oilcontrol that lasts for hours.",
+    "itemID": "B000FH4T3M",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Beauty": 4709
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Creams & Moisturizers",
+        "Fluids & Lotions",
+        "Lotions"
+      ]
+    ],
+    "price": 7.79,
+    "brand": "Neutrogena"
+  },
+  {
+    "title": "Neutrogena Triple Moisture Daily Deep Conditioner, 8.5 Ounce",
+    "description": "Neutrogena Triple Moisture Daily Deep Conditioner. The daily conditioner with deep moisture benefits for soft, smooth, totally touchable hair all day. Developed to treat extra dry or over-processed hair. Hair softness, smoothness and manageability improve dramatically with every use. The restorative power of a deep treatment is captured with the ease and convenience of a one-minute rinse.",
+    "itemID": "B000RYSXWG",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 84624
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoo Plus Conditioner"
+      ]
+    ],
+    "price": 5.23,
+    "brand": "Neutrogena"
+  },
+  {
+    "title": "L'Oreal Paris Telescopic Explosion Mascara, Black, 0.27-Fluid Ounce",
+    "description": "Want lush, out-to-there lashes? Telescopic&#174; Explosion Mascara reaches 100% of lashes from every angle for a dramatic, fanned out effect. The unique spherical brush lengthens, separates and adds volume to even tiny corner and lower lashes, transforming your look from everyday to explosive with a few sweeps. The smooth formula wears all day without smudging or flaking.",
+    "itemID": "B003TXO7XQ",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 88150
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Eyes",
+        "Mascara"
+      ]
+    ],
+    "price": 4.69,
+    "brand": "L&#39;Oreal Paris"
+  }
+]

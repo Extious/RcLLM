@@ -1,0 +1,49 @@
+[
+  {
+    "title": "It's a 10 Miracle Blow Dry Volumizer, 6 Ounce",
+    "description": "The It's a 10 Miracle Blow dry Volumizer is a one of a kind styling product that gives lift, volume, and weightless moisture balance to any type of hair or style while also improving hair's overall condition with weightless conditioning.",
+    "itemID": "B007L5IB0I",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 2729
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Creams, Gels & Lotions"
+      ]
+    ],
+    "price": 12.34,
+    "brand": "It&#39;s a 10"
+  },
+  {
+    "title": "Neutrogena Rapid Tone Repair Moisturizer Night, 1 Ounce",
+    "description": "Neutrogena Rapid Tone Repair Night Moisturizer targets dark marks to help brighten and even skin tone FAST! Clinically proven to improve the look of discoloration and dark spots in just 1 week! With Accelerated Retinol SA plus an exclusive booster that accelerates skin's surface activity to help smooth wrinkles and diminish the look of age spots. Plus, Vitamin C gently helps diffuse the look of brown spots and even out skin tone",
+    "itemID": "B0081E6YRK",
+    "helpful": [
+      2,
+      2
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 2545
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Creams & Moisturizers",
+        "Fluids & Lotions"
+      ]
+    ],
+    "price": 9.96,
+    "brand": "Neutrogena"
+  }
+]

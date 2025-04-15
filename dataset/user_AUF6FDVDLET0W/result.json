@@ -1,0 +1,116 @@
+[
+  {
+    "title": "Pantene Pro-V Expert Collection Agedefy Conditioner 8.4 Fl Oz",
+    "description": "",
+    "itemID": "B0098JU8T2",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 5489
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Conditioners"
+      ]
+    ],
+    "price": 6.85,
+    "brand": "Pantene"
+  },
+  {
+    "title": "Pantene Pro-V Expert Collection Agedefy Shampoo 10.1 Fl Oz",
+    "description": "",
+    "itemID": "B0098JU8TW",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 4247
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 3.2,
+    "brand": "Pantene"
+  },
+  {
+    "title": "Dove Men+Care Hydrate + Shave Gel",
+    "description": "",
+    "itemID": "B00A0J09C0",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 14582
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Oils"
+      ]
+    ],
+    "price": 7.09,
+    "brand": "Dove"
+  },
+  {
+    "title": "Tresemme Keratin Smooth Infusing Shampoo, 25 Ounce",
+    "description": "",
+    "itemID": "B00AO4E9E0",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 6538
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 3.99,
+    "brand": "TRESemme"
+  },
+  {
+    "title": "Own Products Rejuvenating Facial Cleanser",
+    "description": "The Own Difference: To truly solve a problem, you need a new approach. In the fight against aging, the same companies, same formulas and ways of thinking have persisted. For years, we've seen products with impossible claims, read lists of unrecognizable toxic and harsh ingredients, and heard a false dichotomy between \"natural\" and \"effective\". The Entrepreneurial people behind Own saw a need for a new way of thinking. They couldn't find clinically proven, quality, good-for-you anti-aging treatments so they started Own and created the products that they wanted for themselves. Own is a San Francisco based skin-health company that believes in the holistic (complete) approach towards healthy skin. Own believes that there are too many chemicals that are in our everyday lives - in our food, in our environment, and even in our skincare products. Own's foundation is in developing unique, innovative formulas that are effective in improving skin's overall health, but without the need for harsh chemicals. Beyond products, Own advocates for lifestyle changes to make real improvements in their skin health. Using SF Bay Area technology, Own created the first-to-market aging analysis app that empowers people to see their current aging situation. Now armed with personalized information about wellness, nutrition and beauty, people can make wiser choices for their healthiest skin. Own is the NEW way of looking at OLD.",
+    "itemID": "B005KJ353U",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 133722
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Cleansers",
+        "Washes"
+      ]
+    ],
+    "price": NaN,
+    "brand": NaN
+  }
+]

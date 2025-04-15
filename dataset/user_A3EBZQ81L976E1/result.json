@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Flash Shiner Nail Buffer",
+    "description": "Easy, Fast, & An Amazing Shine. Step 1: Gray Step 2: Green Step 3: White.",
+    "itemID": "B002QY86BI",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 2007
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Scrubs & Body Treatments",
+        "Body Scrubs"
+      ]
+    ],
+    "price": 3.99,
+    "brand": "Flash Shine"
+  },
+  {
+    "title": "essie luxe effects polish, shine of the times, .46 fl oz",
+    "description": "These textured top coats bring extra shimmer, glimmer and dazzle!",
+    "itemID": "B007RS4R4I",
+    "helpful": [
+      2,
+      2
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Health & Personal Care": 57914
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Nails",
+        "Nail Polish"
+      ]
+    ],
+    "price": 7.19,
+    "brand": "Essie"
+  },
+  {
+    "title": "Clean &amp; Clear Morning Burst Facial Cleanser with Bursting Beads, 8 Ounce",
+    "description": "From the invigorating Morning Burst collection comes Morning Burst Facial Cleanser. This unique gel cleanser with Vitamin C and Ginseng wakes you up with a fresh citrus scent while soft BurstING Beads burst with energy and vitamins, leaving your skin feeling clean, energized and ready to face the day.",
+    "itemID": "B0019I83N8",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 8179
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Cleansers",
+        "Washes"
+      ]
+    ],
+    "price": 5.69,
+    "brand": "Clean &amp; Clear"
+  }
+]

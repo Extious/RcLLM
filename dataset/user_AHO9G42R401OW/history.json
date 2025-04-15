@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Dudu Osun Black Soap, 6-Count, 150g",
+    "description": "Includes 6 pieces of Dudu Osun Soap in each pack.",
+    "itemID": "B000TAE0RK",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 247
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Cleansers",
+        "Soaps"
+      ]
+    ],
+    "price": 11.58,
+    "brand": "Dudu-osun"
+  },
+  {
+    "title": "Conair Soft Bonnet Hair Dryer",
+    "description": "Soft Bonnet Hair Dryer",
+    "itemID": "B0002G214U",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 1.0,
+    "salesRank": {
+      "Beauty": 3795
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Hair Dryers"
+      ]
+    ],
+    "price": 25.99,
+    "brand": "Conair"
+  },
+  {
+    "title": "Ecotools Alicia  Brush Set, 5 Piece",
+    "description": "An  cosmetic bag by Alicia Silverstone.",
+    "itemID": "B002LJUD6O",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 181568
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Tools & Accessories",
+        "Makeup Brushes & Tools",
+        "Brushes & Applicators"
+      ]
+    ],
+    "price": NaN,
+    "brand": NaN
+  }
+]

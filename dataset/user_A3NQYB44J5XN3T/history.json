@@ -1,0 +1,72 @@
+[
+  {
+    "title": "PCA Skin A and C Synergy Serum (Phaze 23), 1 Fluid Ounce",
+    "description": "A groundbreaking treatment serum Efficaciously minimizes discoloration, regulates oil production and bacterial proliferation Contains L-ascorbic acid, retinol and four different natural brightening ingredients.",
+    "itemID": "B000TD2QXC",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 8867
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Oils & Serums"
+      ]
+    ],
+    "price": 39.8,
+    "brand": "PCA Skin"
+  },
+  {
+    "title": "NOW Foods - Avocado Oil 16 Oz",
+    "description": "Avocado Oil by Now Foods 16 oz Liquid Avocado Oil 16 oz Liquid NOW Solutions Avocado Oil is a versatile food-grade cosmetic oil with remarkable soothing and softening properties that leaves no greasy residue. Our economical 16 oz. size makes it easy and affordable for you to enjoy this outstanding natural product. 100 Pure Avocado Oil is an all-natural vegetable oil with a heavy texture. It increases epidermal elasticity while thoroughly moisturizing and softening stubborn dry or cracked skin. Its commonly used as a scalp and skin conditioner and as an emollient. It also makes wonderfully soothing massage oil. Warnings Keep out of reach of children. As with all dietary supplements consult your healthcare professional before use. See product label for more information.",
+    "itemID": "B007XA49O8",
+    "helpful": [
+      29,
+      30
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Health & Personal Care": 832
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Oils"
+      ]
+    ],
+    "price": 12.36,
+    "brand": "Now Foods"
+  },
+  {
+    "title": "De La Cruz Sulfur Ointment Cream",
+    "description": "De La Cruz Pomada de azufre sulfur ointment is used for treatment of acne, this ointment penetrates the pores, dries and clears pimples and blackheads. Helps to keep new pimples and blackheads from forming. Does not contain preservatives, or artificial colors.",
+    "itemID": "B00411B4CC",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 3008
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Pomades & Waxes"
+      ]
+    ],
+    "price": 7.41,
+    "brand": "De La Cruz"
+  }
+]

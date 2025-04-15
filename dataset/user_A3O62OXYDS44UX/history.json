@@ -1,0 +1,68 @@
+[
+  {
+    "title": "Tresemme Platinum Strength Shampoo, 25 Ounce",
+    "description": "",
+    "itemID": "B00AE07FUO",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 74083
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 5.63,
+    "brand": "TRESemme"
+  },
+  {
+    "title": "Nexxus Youth Renewal Rejuvenating Shampoo, 13.5 Ounce",
+    "description": "",
+    "itemID": "B00AE07FUE",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 14171
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 10.7,
+    "brand": "Nexxus"
+  },
+  {
+    "title": "Just For Me Hair Milk Shampoo, 13.5-Ounce Bottle",
+    "description": "",
+    "itemID": "B002MO780W",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 17243
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 6.95,
+    "brand": "Just For Me"
+  }
+]

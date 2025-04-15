@@ -1,0 +1,72 @@
+[
+  {
+    "title": "L'Oreal Paris Sublime Mousse by Healthy Look Hair Color, 90 Pure Light Blonde",
+    "description": "Healthy Look gives you natural-looking color with glossy, healthy-looking shine in just 10 little minutes. The ammonia-free formula deeply nourishes hair while also helping to counter dullness and prevent damage.  The cr&#xE8;me formula softly blends away grays, and won&#x2019;t leave any visible roots. The conditioning treatment infused with Royal Jelly seals in glossy shine, leaving hair soft and silky.",
+    "itemID": "B004C4O2QS",
+    "helpful": [
+      2,
+      3
+    ],
+    "overall": 1.0,
+    "salesRank": {
+      "Beauty": 78758
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Hair Color",
+        "Color Refreshers"
+      ]
+    ],
+    "price": 9.79,
+    "brand": "L&#39;Oreal Paris"
+  },
+  {
+    "title": "OPI Nail Envy Original, 0.5 Ounce",
+    "description": "You wouldn't face harsh elements without a coat, so why leave your nails unprotected Fortify, protect, and harden thin, brittle natural nails with the Original Nail Envy. For results, apply two coats, followed by a one-coat application every other day.",
+    "itemID": "B00178TVXG",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 200
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Nails",
+        "Nail Polish"
+      ]
+    ],
+    "price": 9.5,
+    "brand": "OPI"
+  },
+  {
+    "title": "Neutrogena Microdermabrasion Holiday Bonus Pack",
+    "description": "Neutrogena microdermabrasion system. Delivers visible results in just 1 use. Softer, more luminous skin. Firmer, younger looking skin.",
+    "itemID": "B009ND81NS",
+    "helpful": [
+      0,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 78430
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Treatments & Masks",
+        "Microdermabrasion"
+      ]
+    ],
+    "price": 38.99,
+    "brand": "Neutrogena"
+  }
+]

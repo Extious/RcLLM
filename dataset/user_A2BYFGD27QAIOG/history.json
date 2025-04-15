@@ -1,0 +1,73 @@
+[
+  {
+    "title": "Schick Hydro Silk Disposable Razor, 3 Count",
+    "description": "",
+    "itemID": "B00AHF1GTM",
+    "helpful": [
+      0,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Health & Personal Care": 25629
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Oils"
+      ]
+    ],
+    "price": 9.95,
+    "brand": "Schick"
+  },
+  {
+    "title": "Remington S9620 Silk Ceramic Flat Iron, 2 Inch",
+    "description": "",
+    "itemID": "B00BB8ZHIU",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 787
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Irons",
+        "Flattening Irons"
+      ]
+    ],
+    "price": 34.96,
+    "brand": "Remington"
+  },
+  {
+    "title": "L'Oreal Paris The Super Slim Eyeliner by Infallible, Black, 0.034 Ounces",
+    "description": "Enjoy flawlessly clean lines as precise as 0.4mm with The Super Slim by Infallible Never Fail. The ultra-fine felt tip gives you total control, delivering the perfect amount of liner. The intense quick dry 12 HR formula glides on smoothly with continuous and even flow. In one stroke create sleek and sophisticated eyes. Skip-proof Drag-proof Smudge-proof Ophthalmologist-tested Suitable for sensitive eyes and contact lens wearers.",
+    "itemID": "B00B1DRA94",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 1595
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Eyes",
+        "Eyeliner"
+      ]
+    ],
+    "price": 10.34,
+    "brand": "L&#39;Oreal Paris"
+  }
+]

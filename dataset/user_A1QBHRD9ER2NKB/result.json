@@ -1,0 +1,48 @@
+[
+  {
+    "title": "Infiniti Pro by Conair 3-in-1 Hair Styler",
+    "description": "Top technology and attachments that lock securely into place make this Infiniti by Conair 1875W hot-air styler perfect for all of today's hottest looks.  The swivel cord never gets in the way.  Salon results without the Salon from Infiniti by Conair.",
+    "itemID": "B001330XFA",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 903
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Hot-Air Brushes"
+      ]
+    ],
+    "price": 28.75,
+    "brand": "Conair"
+  },
+  {
+    "title": "Sally Hansen Salon Effects Value Twin Pack - Wild Child / Kitty, Kitty",
+    "description": "Easy to use- includes detailed instructions",
+    "itemID": "B0076L73BK",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Health & Personal Care": 89377
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Nails",
+        "Nail Polish"
+      ]
+    ],
+    "price": 8.5,
+    "brand": "Sally Hansen"
+  }
+]

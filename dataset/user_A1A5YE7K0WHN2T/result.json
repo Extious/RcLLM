@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Lysol No-Touch Kitchen System Dish Soap Dispenser Starter Kit, Tangerine, 8.5 Ounce",
+    "description": "",
+    "itemID": "B005YVI3UO",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Health & Personal Care": 15230
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Cleansers",
+        "Soaps"
+      ]
+    ],
+    "price": 9.99,
+    "brand": "Lysol"
+  },
+  {
+    "title": "Lysol No-Touch Kitchen System Dish Soap, Sparkling Tangerine, 2 Refills, 8.5 Ounce",
+    "description": "",
+    "itemID": "B006IOYZ4E",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Health & Personal Care": 40392
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Cleansers",
+        "Soaps"
+      ]
+    ],
+    "price": 32.99,
+    "brand": NaN
+  },
+  {
+    "title": "Aveeno Ultra Calming Makeup Removing Wipes, 25 Count",
+    "description": "Sensitive skin can be unbalanced, leading to irriation and redness. Help rebalance your skin by cleansing with aveeno ultra-calming makeup removing wipes. These gentle, soft wipes remove dirt, oil, and even makeup. With active naturals calming reverfew, an ingredient related to chamomile, these wipes leave your sensitive skin feeling soothed and balanced to help reveal your natural beauty.",
+    "itemID": "B0081E6X2Q",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 1838
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Cleansers",
+        "Cloths & Towelettes"
+      ]
+    ],
+    "price": 10.26,
+    "brand": "Aveeno"
+  }
+]

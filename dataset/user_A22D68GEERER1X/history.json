@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Noxzema Triple Clean Anti-Bacterial Lathering Cleanser, 6 Ounce",
+    "description": "This anti-bacterial lathering cleanser deep cleans down to the pores and fights bacteria to help clear and treat blemishes.",
+    "itemID": "B003SOO86M",
+    "helpful": [
+      1,
+      8
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Beauty": 24943
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Cleansers"
+      ]
+    ],
+    "price": 8.08,
+    "brand": "Noxzema"
+  },
+  {
+    "title": "Purpose Gentle Cleansing Wash, 12-Ounce Pump Bottles (Pack of 2)",
+    "description": "Clean, pure, soap-free Purpose Gentle Cleansing Wash removes dirt, oil, and make-up without stripping or drying your skin like soap can. And it won't sting your eyes, so it's ideal for removing eye make-up products available in 6.0 Fl. Oz. and 12.0 Fl. Oz. Purpose Gentle Cleansing Wash leaves your skin feeling clean and refreshed.",
+    "itemID": "B002BWOXXK",
+    "helpful": [
+      2,
+      3
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 11201
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Cleansers"
+      ]
+    ],
+    "price": 18.99,
+    "brand": "Purpose"
+  },
+  {
+    "title": "Neutrogena Ultra Sheer Sunscreen SPF 45 Twin Pack 6.0 Ounce",
+    "description": "If used as directed with other sun protection measures (see Directions), decreases the risk of skin cancer and early skin aging caused by the sun. Neutrogena UltraSheer with Helioplex provides superior broadspectrum protection against skinaging UVA and burning UVB rays, and combines it with DryTouch technology for a lightweight, clean feel.",
+    "itemID": "B004D2DR0Q",
+    "helpful": [
+      2,
+      5
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 78
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Sunscreens & Self Tanners",
+        "Sunscreens"
+      ]
+    ],
+    "price": 12.49,
+    "brand": "Neutrogena"
+  }
+]

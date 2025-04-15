@@ -1,0 +1,73 @@
+[
+  {
+    "title": "Kate Perry Purr Eau De Parfum Spray for Women, 3.4 Ounce",
+    "description": "Purr was launched by the design house of Katy Perry. This product is a fragrance item that comes in retail packaging. It is recommended for casual wear.",
+    "itemID": "B004D8JQ4G",
+    "helpful": [
+      2,
+      3
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 4945
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Lotions"
+      ]
+    ],
+    "price": 20.25,
+    "brand": "Kate Perry"
+  },
+  {
+    "title": "Denman Hair Brush Cleaner",
+    "description": "Features Bristles are 1\" long Clean brush means clean hair It is the easiest and most hygienic way to get rid of any unwanted hairs from your hairbrush Made in England Measures 8 1/2\" long Removes dead hairs Suitable for all types of brush The brush ends are perfect for removing dust and fluff, and the pointed end is ideal for raking out loose hair The stiff bristles have been incorporated to get through any type of hairbrush without causing any damage to the pins This practical and effective hairbrush cleaning tool from Denman is great for cleaning any hairbrush size or shape Thoroughly cleans hairbrush base",
+    "itemID": "B001TSB9MA",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 7313
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Brushes"
+      ]
+    ],
+    "price": 5.9,
+    "brand": NaN
+  },
+  {
+    "title": "Vidal Sassoon Bobby Pins, Black, 60 Count",
+    "description": "60 black bobby pins for holding back fly aways, bangs, and small pieces of hair. Also great for securing updos and complicated hairstyles. Color: black. Package includes 60 black bobby pins.",
+    "itemID": "B001TSJ7ZQ",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Beauty": 46346
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Styling Accessories",
+        "Hair Pins"
+      ]
+    ],
+    "price": 7.99,
+    "brand": "Vidal Sassoon"
+  }
+]

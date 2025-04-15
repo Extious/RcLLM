@@ -1,0 +1,49 @@
+[
+  {
+    "title": "Too Faced Cosmetics, Lashgasm, 0.4-Fluid Ounce",
+    "description": "Lashgasm is a voluptuous, fluffing mascara that conditions as it thickens to create dramatically long lashes with intense color. Our unique, flexible molded brush grabs lashes from all sides for a climax of length and volume.",
+    "itemID": "B003TO3UG0",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 28325
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Eyes",
+        "Mascara"
+      ]
+    ],
+    "price": 19.0,
+    "brand": "Too Faced"
+  },
+  {
+    "title": "Tree Hut Shea Moisturizing Body Lotion, Coconut Lime, 9 Ounce (Pack of 2)",
+    "description": "Renew your dull and tired skin with fresh scent of Coconut and Lime Tree Hut Extra-Rich Moisturizing Lotion. Natural Coconut and Lime extracts condition skin that has lost its sheen due to harsh products and chemicals. This extra-rich Shea body lotion, infused with certified organic Shea butter, Coconut and Lime extracts and Safflower Seed oil, was designed to hydrate and condition the skin with its light, non-greasy formula for a daily moisturization that will keep your skin looking silky smooth.",
+    "itemID": "B004P2RZUC",
+    "helpful": [
+      0,
+      1
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Beauty": 17916
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Lotions"
+      ]
+    ],
+    "price": 9.98,
+    "brand": NaN
+  }
+]

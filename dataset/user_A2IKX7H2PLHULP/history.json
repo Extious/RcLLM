@@ -1,0 +1,66 @@
+[
+  {
+    "title": "LUSH Enzymion Moisturizer",
+    "description": "After cleansing and toning your face, put a dab on your fingertip and pat gently onto clean, slightly damp skin. A little bit goes a long way. Re-apply as often as needed",
+    "itemID": "B0016O94IS",
+    "helpful": [
+      6,
+      6
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 312413
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Treatments & Masks"
+      ]
+    ],
+    "price": 58.9,
+    "brand": "LUSH Cosmetics"
+  },
+  {
+    "title": "Karma Handmade Soap by LUSH",
+    "description": "Features\nPineing for Karma: Known for its refreshing green scent, Aromatherapists use pine oil for its cleansing and antiseptic qualities.\nLovely lavendin: Lavendin oil is used in our Karma range, from soap to fragrance and hair care. It helps to soothe the skin and promote a calmer mood.\nGood Karma: Due to customer demand, we've created an entire range so you can wash, bubble and bathe in Karma from head to toe.",
+    "itemID": "B000225ZOC",
+    "helpful": [
+      6,
+      6
+    ],
+    "overall": 5.0,
+    "salesRank": NaN,
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Cleansers",
+        "Soaps"
+      ]
+    ],
+    "price": 10.5,
+    "brand": "LUSH Cosmetics"
+  },
+  {
+    "title": "Karma Komba Solid Shampoo by LUSH",
+    "description": "Start your day with good Karma and great hair by washing with our hippy solid shampoo bar. It gently cleans your hair and scents your locks with our signature Karma fragrance. In addition to the groovy mood it leaves you in, essential oils of orange, pine, and patchouli keep your scalp soothed and toned. For those who suffer from knotty hair, the oils in Karma have a beneficial side effect of smoothing hair, allowing you to brush through it without pulling your hair out. Considering that our solid shampoo bars last longer that most relationships, this is very good Karma indeed. Lather up!",
+    "itemID": "B0002260N2",
+    "helpful": [
+      13,
+      15
+    ],
+    "overall": 5.0,
+    "salesRank": NaN,
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 20.69,
+    "brand": "LUSH Cosmetics"
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "title": "Nexxus Youth Renewal Rejuvenating Elixir, 0.94 Ounce",
+    "description": "",
+    "itemID": "B00AE07H0M",
+    "helpful": [
+      1,
+      3
+    ],
+    "overall": 1.0,
+    "salesRank": {
+      "Beauty": 10924
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Hair & Scalp Treatments"
+      ]
+    ],
+    "price": 7.96,
+    "brand": "Nexxus"
+  },
+  {
+    "title": "Nexxus Youth Renewal Rejuvenating Conditioner, 13.5 Ounce",
+    "description": "",
+    "itemID": "B00ALV8EJM",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Beauty": 22582
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Conditioners"
+      ]
+    ],
+    "price": 12.97,
+    "brand": "Nexxus"
+  }
+]

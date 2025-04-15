@@ -1,0 +1,69 @@
+[
+  {
+    "title": "L'Oreal Lash Boosting Serum, 585(5.5ml)",
+    "description": "LOreal Lash Boosting Serum 585, 0.18 oz",
+    "itemID": "B002PBJIPK",
+    "helpful": [
+      2,
+      2
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 9526
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Eyes",
+        "Mascara"
+      ]
+    ],
+    "price": 7.44,
+    "brand": "L&#39;Oreal Paris"
+  },
+  {
+    "title": "Nail Harmony Gelish Soak Off Gel Polish - Hot Rod Red (15ml / .5 Oz) - 01412",
+    "description": "From Hand & Nail Harmony, new Gelish Soak Off Gel Polish.  Lasting up to 3 weeks with no chipping, peeling or fading.",
+    "itemID": "B004SSFE8S",
+    "helpful": [
+      7,
+      8
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Health & Personal Care": 8708
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Nails",
+        "Nail Polish"
+      ]
+    ],
+    "price": 12.3,
+    "brand": "Harmony"
+  },
+  {
+    "title": "Hand &amp; Nail Harmony Gelish Nail Prep pH Bond - 0.5 oz",
+    "description": NaN,
+    "itemID": "B004J6WCBQ",
+    "helpful": [
+      23,
+      25
+    ],
+    "overall": 5.0,
+    "salesRank": NaN,
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Hands & Nails",
+        "Nail Treatments"
+      ]
+    ],
+    "price": 5.43,
+    "brand": "Gelish"
+  }
+]

@@ -1,0 +1,94 @@
+[
+  {
+    "title": "Conair Power Facial Cleanser",
+    "description": "The Conair power facial cleanser is the perfect way to exfoliate and cleanse your face. It has an advanced two-speed cleansing system and can be used with facial cleansers or facial scrubs for various purposes. The two attachments provide deep cleansing and gentle exfoliation. So for an at home facial that you can do yourself, the Conair power facial cleanser is the item for you.",
+    "itemID": "B006HT0AK8",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 6040
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face"
+      ]
+    ],
+    "price": 10.29,
+    "brand": "Conair"
+  },
+  {
+    "title": "POND'S Luminous Clean Cream Cleanser, 6oz",
+    "description": "",
+    "itemID": "B0089JVEOK",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 5101
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Cleansers"
+      ]
+    ],
+    "price": 2.68,
+    "brand": "Pond&#39;s"
+  },
+  {
+    "title": "Dove go fresh, Burst Body Wash, 24 Ounce (Pack of 2)",
+    "description": "",
+    "itemID": "B001ECQ4YO",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 51023
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Cleansers",
+        "Body Washes"
+      ]
+    ],
+    "price": 14.99,
+    "brand": "Dove"
+  },
+  {
+    "title": "Andis Titanium Flat Iron, 1 Inch",
+    "description": "The Andis 1-inch titanium 450 flat iron delivers instant styling with ease. The titanium technology creates an ultra-smooth finish and gives you even heat that preserves natural oils and seals the hair cuticle for maximum moisture. The result is increased luster and shine. The titanium plates also resist heat corrosion and eliminate build-up that causes unwanted odors. Create a variety of styles with the 20 heat settings. It provides maximum heat up to 450-degrees Fahrenheit for long-lasting styles. The clamp style design holds hair tight for quick results. It also features worldwide dual voltage, 30-second heat up, a tangle-free swivel cord and auto shut-off.",
+    "itemID": "B007VH5EBK",
+    "helpful": [
+      0,
+      1
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 41035
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Irons",
+        "Flattening Irons"
+      ]
+    ],
+    "price": 23.56,
+    "brand": "Andis"
+  }
+]

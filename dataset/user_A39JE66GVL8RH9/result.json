@@ -1,0 +1,47 @@
+[
+  {
+    "title": "American Crew Forming Cream, 1.75 oz",
+    "description": "Forming Cream provides strong hold, pliability and natural shine. Lanolin wax boosts hold and Sucrose conditions and won't dry  hair.",
+    "itemID": "B000FZXGCE",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 4180
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Creams, Gels & Lotions"
+      ]
+    ],
+    "price": 4.14,
+    "brand": "AMERICAN CREW"
+  },
+  {
+    "title": "Head &amp; Shoulders Clinical Strength Dandruff Shampoo 14.2 Fl Oz (Pack of 2) (packaging may vary)",
+    "description": "",
+    "itemID": "B0043OSIVM",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 775
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 13.49,
+    "brand": "Head &amp; Shoulders"
+  }
+]

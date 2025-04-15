@@ -1,0 +1,49 @@
+[
+  {
+    "title": "Travel Smart Travel Bottle Set",
+    "description": "This Travel Smart 13-piece travel kit conforms with TSA guidelines. It is ideal for shampoos, conditioners, hairspray, lotions, creams, etc. The set includes two 2-. bottles, two 1-ounce. bottles, one 1-ounce. spray bottle, one 1/2-ounce. bottle, two 1/2-ounce. jars, two 1/4-ounce. jars, two 1/8-ounce. jars, one 1-quart zip-lock pouch.",
+    "itemID": "B004HCECVA",
+    "helpful": [
+      62,
+      63
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Health & Personal Care": 2229
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Tools & Accessories",
+        "Bags & Cases",
+        "Travel Cases & Holders"
+      ]
+    ],
+    "price": 10.53,
+    "brand": "Travel Smart"
+  },
+  {
+    "title": "Scalpmaster Curling Iron Holder",
+    "description": NaN,
+    "itemID": "B000NJE40K",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 8350
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Irons",
+        "Curling Irons"
+      ]
+    ],
+    "price": 8.2,
+    "brand": "Scalpmaster"
+  }
+]

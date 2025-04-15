@@ -1,0 +1,94 @@
+[
+  {
+    "title": "CLEAR SCALP &amp; HAIR BEAUTY Strong Lengths Nourishing Shampoo, 12.9 Fluid Ounce",
+    "description": "",
+    "itemID": "B007RTR8AM",
+    "helpful": [
+      2,
+      2
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 14037
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 4.88,
+    "brand": "Clear"
+  },
+  {
+    "title": "Dove Bar Soap, Rebalance, 8 Count",
+    "description": "",
+    "itemID": "B00AE07IEM",
+    "helpful": [
+      0,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 120350
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Cleansers",
+        "Soaps"
+      ]
+    ],
+    "price": 15.98,
+    "brand": "Dove"
+  },
+  {
+    "title": "Irish Spring Gear Body Wash, Exfoliating, 15 Fl. Ounce",
+    "description": "",
+    "itemID": "B00I6CRX04",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 2101
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Cleansers",
+        "Body Washes"
+      ]
+    ],
+    "price": 5.49,
+    "brand": "Irish Spring"
+  },
+  {
+    "title": "CeraVe Baby Lotion, 8 Ounce",
+    "description": "Developed with pediatric dermatologists, CeraVe Baby Moisturizing Lotion is formulated with 3 essential ceramides (ceramide 3, ceramide 6-II, ceramide 1) and is free of parabens and phthalates for a healthy way to care for your baby&#x2019;s delicate skin. Designed to temporarily protect and help relieve chafed, chapped or cracked skin. CeraVe Baby Moisturizing Lotion helps protect baby&#x2019;s skin from the drying effects of wind and cold weather.",
+    "itemID": "B00JF3RYPM",
+    "helpful": [
+      1,
+      5
+    ],
+    "overall": 1.0,
+    "salesRank": {
+      "Beauty": 5952
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Lotions"
+      ]
+    ],
+    "price": 8.84,
+    "brand": "CeraVe"
+  }
+]

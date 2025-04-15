@@ -1,0 +1,116 @@
+[
+  {
+    "title": "Axe 2 in 1 Shampoo Plus Conditioner Apollo, 12 Ounce",
+    "description": "",
+    "itemID": "B00AE07B9O",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 34581
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 15.95,
+    "brand": "AXE"
+  },
+  {
+    "title": "Axe Styling Gum Messy Look, 3.2 Ounce",
+    "description": "",
+    "itemID": "B00AE07BMQ",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 9336
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Creams, Gels & Lotions"
+      ]
+    ],
+    "price": 4.36,
+    "brand": "AXE"
+  },
+  {
+    "title": "Dove Men+Care Sensitive + Face Lotion 1.69 FL.Oz.",
+    "description": "",
+    "itemID": "B009YSSLAU",
+    "helpful": [
+      2,
+      3
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 10488
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Creams & Moisturizers",
+        "Fluids & Lotions",
+        "Lotions"
+      ]
+    ],
+    "price": 6.5,
+    "brand": "Dove"
+  },
+  {
+    "title": "Blue Avocado Travel Duffle",
+    "description": NaN,
+    "itemID": "B00G0K6ZQC",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 3.0,
+    "salesRank": NaN,
+    "categories": [
+      [
+        "Beauty",
+        "Tools & Accessories",
+        "Bags & Cases",
+        "Cosmetic Bags"
+      ]
+    ],
+    "price": 27.88,
+    "brand": "BlueAvocado-Ross Bennett"
+  },
+  {
+    "title": "Banana Boat for Men Triple Defense Spray SPF 30, 6 Ounce",
+    "description": "Banana boat triple defense sunscreen lotion for men SPF 30.&#xA0;Banana boat sunscreen for men will provide you with heavy duty sun protection while also combating odor, even while you are sweating.&#xA0;Active protect provides you with technology that kicks in when the sun's at its strongest and you need it most.&#xA0; This banana boat triple defense sunscreen for men also will hydrate your skin with aloe and vitamin E while providing you with a manly scent.",
+    "itemID": "B00EOP3O3C",
+    "helpful": [
+      2,
+      2
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 25516
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Sun",
+        "Skin Protection"
+      ]
+    ],
+    "price": 5.69,
+    "brand": "Banana Boat"
+  }
+]

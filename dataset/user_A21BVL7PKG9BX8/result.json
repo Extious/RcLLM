@@ -1,0 +1,230 @@
+[
+  {
+    "title": "Pantene Pro-V Volume Shampoo, 25.4 Fluid Ounce (Pack of 3) (packaging may vary)",
+    "description": "",
+    "itemID": "B003EH20VI",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 7123
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 27.75,
+    "brand": "Pantene"
+  },
+  {
+    "title": "Tresemme Platinum Strength Shampoo, 25 Ounce",
+    "description": "",
+    "itemID": "B00AE07FUO",
+    "helpful": [
+      1,
+      2
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 74083
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 5.63,
+    "brand": "TRESemme"
+  },
+  {
+    "title": "Vaseline, Total Moisture, Cocoa Radiant, Body Lotion, 20.3 oz Bottle (Pack of 3)",
+    "description": "",
+    "itemID": "B001ECQ5CA",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 52457
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Lotions"
+      ]
+    ],
+    "price": 17.96,
+    "brand": "Vaseline"
+  },
+  {
+    "title": "Nexxus Hydralight Weightless Moisture Shampoo, 13.5 Ounce",
+    "description": "",
+    "itemID": "B00ALV8EL0",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 36618
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 4.47,
+    "brand": "Nexxus"
+  },
+  {
+    "title": "Schick Hydro Silk Disposable Razor, 3 Count",
+    "description": "",
+    "itemID": "B00AHF1GTM",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Health & Personal Care": 25629
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Oils"
+      ]
+    ],
+    "price": 9.95,
+    "brand": "Schick"
+  },
+  {
+    "title": "Nivea Body Touch of Frangipani Hydrating Shower Gel, 16.9 Ounce",
+    "description": "Nivea&#x2122; Touch of Frangipani&#xAE; Hydrating Shower Gel.New.Hydrates & entices.Hawaiian Frangipani scent & sunflower oil pearls.16.9 fl oz 500 ml.",
+    "itemID": "B00BVKL08E",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 44677
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Cleansers",
+        "Body Washes"
+      ]
+    ],
+    "price": 9.15,
+    "brand": "Nivea"
+  },
+  {
+    "title": "L'Oreal Paris The Super Slim Eyeliner by Infallible, Black, 0.034 Ounces",
+    "description": "Enjoy flawlessly clean lines as precise as 0.4mm with The Super Slim by Infallible Never Fail. The ultra-fine felt tip gives you total control, delivering the perfect amount of liner. The intense quick dry 12 HR formula glides on smoothly with continuous and even flow. In one stroke create sleek and sophisticated eyes. Skip-proof Drag-proof Smudge-proof Ophthalmologist-tested Suitable for sensitive eyes and contact lens wearers.",
+    "itemID": "B00B1DRA94",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 1595
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Eyes",
+        "Eyeliner"
+      ]
+    ],
+    "price": 10.34,
+    "brand": "L&#39;Oreal Paris"
+  },
+  {
+    "title": "TS-2 Millennium Professional Flat Iron",
+    "description": "",
+    "itemID": "B00CYDSAO4",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 83460
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Irons",
+        "Flattening Irons"
+      ]
+    ],
+    "price": 99.95,
+    "brand": "TS-2"
+  },
+  {
+    "title": "Dove Oxygen Moisture Shampoo, 12 Ounce",
+    "description": "",
+    "itemID": "B00HM6IXH2",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 12001
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 3.02,
+    "brand": "Dove"
+  },
+  {
+    "title": "Dove Oxygen Moisture Conditioner, 12 Ounce",
+    "description": "",
+    "itemID": "B00HM6JLNW",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 11391
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Conditioners"
+      ]
+    ],
+    "price": 9.9,
+    "brand": "Dove"
+  }
+]

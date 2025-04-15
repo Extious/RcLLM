@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Bumble and Bumble Tonic Lotion, 8-Ounce Spray Bottle",
+    "description": "For smooth grooming: a rich mix of vitamins, herbs and tea tree oil - tames tangles, refreshes your head, and soothes your scalp.",
+    "itemID": "B000BIVY24",
+    "helpful": [
+      3,
+      3
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 4038
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Creams, Gels & Lotions"
+      ]
+    ],
+    "price": 24.58,
+    "brand": "Bumble and Bumble"
+  },
+  {
+    "title": "Bumble and Bumble Styling Creme, 8-Ounce Bottle",
+    "description": "Well, It's not mousse and it's not a gel - some call it magic. It gives straight or curly hair body, hold, and allows lots of styling options.",
+    "itemID": "B000BIXP4O",
+    "helpful": [
+      3,
+      3
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 1543
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Creams, Gels & Lotions"
+      ]
+    ],
+    "price": 24.56,
+    "brand": "Bumble and Bumble"
+  },
+  {
+    "title": "Bumble and Bumble Grooming Cream (5 Ounces)",
+    "description": "The dream cream for those who love to look polished, elegant and smooth but hate to work at it.",
+    "itemID": "B000BIXP3K",
+    "helpful": [
+      2,
+      4
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 3913
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Creams, Gels & Lotions"
+      ]
+    ],
+    "price": 28.99,
+    "brand": "Bumble and Bumble"
+  }
+]

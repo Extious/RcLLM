@@ -1,0 +1,72 @@
+[
+  {
+    "title": "CHI Turbo Microchip Ceramic Hairstyling Iron 1&quot;",
+    "description": "Farouk CHI Turbo Regular 1 inches Ceramic Flat Iron Hair Straightener",
+    "itemID": "B0009V1YRS",
+    "helpful": [
+      8,
+      8
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Beauty": 145017
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Irons",
+        "Flattening Irons"
+      ]
+    ],
+    "price": NaN,
+    "brand": NaN
+  },
+  {
+    "title": "Olay Regenerist Advanced Anti-Aging Eye Anti-Aging Roller 0.2 Fl Oz",
+    "description": "",
+    "itemID": "B0028K3J9O",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 20575
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Eyes",
+        "Rollers & Pens"
+      ]
+    ],
+    "price": 18.45,
+    "brand": "Olay"
+  },
+  {
+    "title": "Ouidad by Ouidad Ouidad Climate Control Heat and Humidity Gel for Unisex, 8.5 Ounce",
+    "description": "OUIDAD CLIMATE CONTROL HEAT & HUMIDITY GEL 8.5 OZ",
+    "itemID": "B0001Y74VS",
+    "helpful": [
+      46,
+      47
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 2079
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Creams, Gels & Lotions"
+      ]
+    ],
+    "price": 25.4,
+    "brand": "Ouidad"
+  }
+]

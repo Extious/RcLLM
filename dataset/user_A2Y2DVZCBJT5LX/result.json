@@ -1,0 +1,48 @@
+[
+  {
+    "title": "Green Magic Hair Growth Cream",
+    "description": "It is finally here! Green Magic TM is the BEST hair growth aide to hit the market. We have blended the powerful growth promoting ingredients of our best selling oils with nutrient rich natural hair butters to create a pomade like hair cream which promises to deliver magical results. Excellent for all hair types.",
+    "itemID": "B0085E36EK",
+    "helpful": [
+      15,
+      16
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 12771
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Hair Loss Products",
+        "Hair Regrowth Treatments"
+      ]
+    ],
+    "price": 13.95,
+    "brand": NaN
+  },
+  {
+    "title": "DIANE Imported Pure Bristle Professional Military Hair Brush (Model: 8114)",
+    "description": "DIANE Imported Pure Bristle Professional Military Hair Brush. 100% Pure Bristle.",
+    "itemID": "B000EVGQ0S",
+    "helpful": [
+      2,
+      2
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 22558
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Brushes"
+      ]
+    ],
+    "price": 4.38,
+    "brand": "Diane"
+  }
+]

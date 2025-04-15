@@ -1,0 +1,71 @@
+[
+  {
+    "title": "John Frieda Sleek Finish 1 Inch  Flat Iron",
+    "description": "",
+    "itemID": "B004YZMKLY",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 8368
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Irons",
+        "Flattening Irons"
+      ]
+    ],
+    "price": 28.95,
+    "brand": "John Frieda"
+  },
+  {
+    "title": "CLEAR SCALP &amp; HAIR BEAUTY Ultra Shea Smooth &amp; Nourish Conditioner, 12.7 Fluid Ounce",
+    "description": "",
+    "itemID": "B007RTR9E2",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 22229
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Conditioners"
+      ]
+    ],
+    "price": 4.48,
+    "brand": NaN
+  },
+  {
+    "title": "Q-Tips Cotton Swabs, Precision Tips, 170 Count (Pack of 3)",
+    "description": "",
+    "itemID": "B005XIM6J2",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 2067
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Tools & Accessories",
+        "Cotton & Swabs",
+        "Cotton Swabs"
+      ]
+    ],
+    "price": 8.99,
+    "brand": "Q-Tips"
+  }
+]

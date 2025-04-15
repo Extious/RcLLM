@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Buff Headwear Headband Botanic",
+    "description": "The Headband Buff is a quick and easy application to keep sweat and hair out of your face and eyes. With its four-channel wicking fibers, CoolMax Extreme fabric makes a great helmet liner and sweatband that will keep you cool and dry in hot months and can be slid over your ears in colder months for thermal protection.",
+    "itemID": "B0021EY2O8",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Health & Personal Care": 9244
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Styling Accessories",
+        "Headbands"
+      ]
+    ],
+    "price": 14.25,
+    "brand": "Buff"
+  },
+  {
+    "title": "CoverGirl Perfect Blend Pencil Basic Black(N) 100, (Pack of 2)",
+    "description": "Our classic liner with blending power. For a defined look, draw a precise line; for a smoky look, softly smudge with the plush blender tip.",
+    "itemID": "B002VECJGG",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 37892
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Eyes",
+        "Eyeliner"
+      ]
+    ],
+    "price": 6.59,
+    "brand": NaN
+  },
+  {
+    "title": "Maybelline Great Lash Waterproof Mascara, Very Black- .43 Fluid Ounce",
+    "description": "Maybelline&#x92;s lash-doubling formula conditions as it thickens, making even tiny lashes 100% fuller and more healthy-looking. The lash-building brush builds full lashes with no clumps or globs. Available in five shades, in Washable, Waterproof, and Curved Brush.",
+    "itemID": "B00008MOQN",
+    "helpful": [
+      21,
+      21
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 665
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Eyes",
+        "Mascara"
+      ]
+    ],
+    "price": 4.65,
+    "brand": "Maybelline"
+  }
+]

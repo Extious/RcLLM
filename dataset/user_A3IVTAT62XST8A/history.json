@@ -1,0 +1,70 @@
+[
+  {
+    "title": "O'Keeffe's Working Hands Cream, 3.4 oz.",
+    "description": NaN,
+    "itemID": "B00121UVU0",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": NaN,
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Hands & Nails",
+        "Hand Creams & Lotions"
+      ]
+    ],
+    "price": 7.32,
+    "brand": "O&#39;Keeffe&#39;s Company"
+  },
+  {
+    "title": "Dove go fresh, Burst Body Wash, 24 Ounce (Pack of 2)",
+    "description": "",
+    "itemID": "B001ECQ4YO",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 51023
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Cleansers",
+        "Body Washes"
+      ]
+    ],
+    "price": 14.99,
+    "brand": "Dove"
+  },
+  {
+    "title": "Dove Men Care Body and Face Wash Clean Defense, 13.5 Ounce",
+    "description": "Clean defense body and face wash, developed specifically for men's skin. Contains micro-moisture which activates on skin, clinically proven to fight skin dryness better than any regular men's body wash. A cleansing gel that removes daily oil buildup. Helps to maintain skin's moisture balance. Dermatologist recommended. Easy to rinse off the skin.",
+    "itemID": "B009VGNYFM",
+    "helpful": [
+      1,
+      2
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 1870
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Cleansers",
+        "Washes"
+      ]
+    ],
+    "price": 4.88,
+    "brand": "Dove"
+  }
+]

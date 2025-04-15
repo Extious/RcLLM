@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Pantene Pro-V Curl Shaping Hair Gel 6.8 Oz (Pack of 3)",
+    "description": "",
+    "itemID": "B003EH22KC",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 4313
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Creams, Gels & Lotions"
+      ]
+    ],
+    "price": 5.0,
+    "brand": "Pantene"
+  },
+  {
+    "title": "DHC Velvet Skin Coat 0.52 oz. Net wt.",
+    "description": "Make your skin the perfect canvas for flawless makeup application with DHC Velvet Skin Coat. This smoothing primer fills in creases and lines with a unique powdery gel that keeps oil in check so your makeup stays put all day long....",
+    "itemID": "B0027WPJRI",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Health & Personal Care": 5221
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Foundation Primers"
+      ]
+    ],
+    "price": 21.5,
+    "brand": "DHC"
+  },
+  {
+    "title": "100% Pure 100% Pure Fruit Pigmented Mascara - Black Tea - 0.24 oz",
+    "description": "100% Pure Fruit Pigmented Mascara - Black Tea is a 100% natural mascara that uses fruit and Black Tea pigments to color the lashes. Infused with Pro-Vitamin B5, Vitamin E, and Oat and Wheat Proteins, it conditions the lashes as you wear it. The water and smudge-resistant formula stays on all day. Black Tea is the blackest black.",
+    "itemID": "B003N4ST94",
+    "helpful": [
+      2,
+      2
+    ],
+    "overall": 1.0,
+    "salesRank": {
+      "Beauty": 754
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Eyes",
+        "Mascara"
+      ]
+    ],
+    "price": 19.59,
+    "brand": "100% Pure"
+  }
+]

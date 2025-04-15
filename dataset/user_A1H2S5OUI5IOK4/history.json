@@ -1,0 +1,74 @@
+[
+  {
+    "title": "Eucerin Lotion, Intensive Repair, 16.9 Ounce Bottle",
+    "description": "",
+    "itemID": "B000XY9LT4",
+    "helpful": [
+      14,
+      15
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 15542
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Lotions"
+      ]
+    ],
+    "price": 14.5,
+    "brand": "Eucerin"
+  },
+  {
+    "title": "Home Health Goji Berry Fragrance-Free Facial Cream, 4 Ounce",
+    "description": "Home Health was founded 65 years ago with one goal in mind: \"to research and develop the finest naturally-based bath and body care products available.\" today, their vision and philosophy remains the same, as they continue to deliver the natural health and healing products their customers demand and deserve. Home Health offers a full range of health and beauty products from skin care treatments and women herbal creams, hair care products and fragrant body splashes. All Home Health products are cruelty-free and developed without animal testing.",
+    "itemID": "B0011N77IS",
+    "helpful": [
+      3,
+      4
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 62441
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Creams & Moisturizers",
+        "Fluids & Lotions",
+        "Lotions"
+      ]
+    ],
+    "price": 12.69,
+    "brand": "Home Health"
+  },
+  {
+    "title": "Genuine Emjoi Golden Blue Micro-Pedi Refill Rollers Tough Calluses (Super Coarse)",
+    "description": "Gently and effectively buffs away rough, dry and calloused skin in seconds.Emjoi Golden Blue Micro-Pedi Mineral Rollers for Unisex Tough Calluses (Super Coarse)The revolutionary Emjoi Micro-Pedi 4 Men Golden Blue micro mineral rollers are specially designed for unisex tough calluses.For dry use onlyGlide the roller over the callus/hard skin area for 2-3 seconds. Do not press hard. Check results and continue to use for 2-3 seconds until the desired level of smoothness is obtained.Great for women's rough callusesEmjoi Micro-Pedi 4 Men Golden Blue rollers fit only Emjoi Micro-Pedi units.",
+    "itemID": "B008PK5NRC",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Health & Personal Care": 7790
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Hair Rollers"
+      ]
+    ],
+    "price": 17.95,
+    "brand": "Emjoi"
+  }
+]

@@ -1,0 +1,70 @@
+[
+  {
+    "title": "Coastal Scents Contour and Blush Palette",
+    "description": "This palette contains 6 contouring, shading, concealing, and blush shades. The powders are all matte.",
+    "itemID": "B002QFGKUQ",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 845
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Blush"
+      ]
+    ],
+    "price": 11.75,
+    "brand": "Coastal Scents"
+  },
+  {
+    "title": "Coastal Scents Professional Camouflage Concealer Palette",
+    "description": "This palette comes with 10 cream concealers that offers terrific coverage. It provides full opaque coverage that is easy to apply with a concealer brush and is very easy to blend in order to create the shade that you need.",
+    "itemID": "B002QFGQAK",
+    "helpful": [
+      2,
+      3
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 465
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Concealers & Neutralizers"
+      ]
+    ],
+    "price": 16.93,
+    "brand": "Coastal Scents"
+  },
+  {
+    "title": "Clarisonic Replacement Brush Head (Delicate)",
+    "description": "Designed for delicate skin. With daily use, the Clarisonic Skin Care Brush leaves skin feeling and looking smoother, and increases product absorption for improved  cleansing. Effective for use on the face, d&#xE9;collet&#xE9; and body.",
+    "itemID": "B000UPRSKA",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 2681
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face"
+      ]
+    ],
+    "price": 25.0,
+    "brand": NaN
+  }
+]

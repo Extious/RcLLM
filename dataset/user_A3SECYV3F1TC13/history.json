@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Covergirl Clump Crusher Mascara By Lashblast, Very Black 800, 0.44 Ounce",
+    "description": "",
+    "itemID": "B0094GHGQM",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 19665
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Eyes",
+        "Mascara"
+      ]
+    ],
+    "price": 8.86,
+    "brand": "COVERGIRL"
+  },
+  {
+    "title": "Vaseline Body Lotion, Aloe Fresh 20.3oz (Pack of 3)",
+    "description": "",
+    "itemID": "B001ECQ4JE",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 9039
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Scrubs & Body Treatments",
+        "Body Scrubs"
+      ]
+    ],
+    "price": 23.81,
+    "brand": "Vaseline"
+  },
+  {
+    "title": "Suave Professionals Natural Infusion Awapuhi Ginger and Honeysuckle Light Leave-in Cream, 6 Ounce",
+    "description": "",
+    "itemID": "B00GTC02LA",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 4741
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Creams, Gels & Lotions"
+      ]
+    ],
+    "price": 15.95,
+    "brand": "Suave"
+  }
+]

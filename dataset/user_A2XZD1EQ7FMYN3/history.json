@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Korres 24-Hour Moisturising and Brightening Cream, Wild Rose, 1.35 Ounce",
+    "description": "Moisturizing and brightening cream, with wild rose oil, a natural source of vitamin c, helps repair the look of fine lines and skin discolorations.",
+    "itemID": "B000IMPD3O",
+    "helpful": [
+      5,
+      6
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 10170
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Creams & Moisturizers"
+      ]
+    ],
+    "price": 33.78,
+    "brand": "Korres"
+  },
+  {
+    "title": "Phyto 9 Ultra Nourishing Cream for Ultra Dry Hair, 1.7-Ounce",
+    "description": "Phyto 9 is a daily ultra nourishing leave-in cream rich in botanicals. Nine plant ingredients soften, hydrate, nourish, balance, soothe, revitalize and strengthen hair. For dry and damaged hair.",
+    "itemID": "B000KQB0YE",
+    "helpful": [
+      0,
+      1
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 15843
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Creams, Gels & Lotions"
+      ]
+    ],
+    "price": 21.98,
+    "brand": "Phyto"
+  },
+  {
+    "title": "CHI Enviro 54 Hair Spray Natural Hold, 12 Ounce",
+    "description": "Create multiple textures with outstanding style memory. The best thing is that these styles can be regenerated with heat again and again.",
+    "itemID": "B000NIR610",
+    "helpful": [
+      12,
+      12
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 5696
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Hair Sprays"
+      ]
+    ],
+    "price": 15.0,
+    "brand": NaN
+  }
+]

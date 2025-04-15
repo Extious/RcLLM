@@ -1,0 +1,70 @@
+[
+  {
+    "title": "Conair 276R Infiniti Pro Volume Dryer",
+    "description": "",
+    "itemID": "B0052BHMOO",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 4313
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Hair Dryers"
+      ]
+    ],
+    "price": 11.99,
+    "brand": "Conair"
+  },
+  {
+    "title": "Macadamia Oil Deep Repair Mask, 8.5 ounces Jar",
+    "description": "Macadamia deep repair masque is a revitalizing hair reconstructor for dry, damaged hair. a combination of macadamia oil and argan oil along with tea tree oil, chamomile oil, aloe and algae extracts rejuvenate and rebuild the hair, leaving the hair deeply nourished for improved elasticity and shine with long-lasting conditioning benefits.",
+    "itemID": "B002WTC37A",
+    "helpful": [
+      0,
+      1
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 456
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 11.35,
+    "brand": "Macadamia Oil"
+  },
+  {
+    "title": "real Techniques Core Collection Set",
+    "description": "",
+    "itemID": "B004TSFBNK",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 52
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Tools & Accessories",
+        "Makeup Brushes & Tools",
+        "Brushes & Applicators"
+      ]
+    ],
+    "price": 15.99,
+    "brand": "Real Techniques"
+  }
+]

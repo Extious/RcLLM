@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Rimmel London Fix &amp; Perfect Foundation Primer",
+    "description": "Create a perfect canvas for foundation application. - Skin Perfecting primer smoothes and evens out your complexion - prolongs the wear of your foundation - Minimizes Pores",
+    "itemID": "B0037MKHBA",
+    "helpful": [
+      12,
+      14
+    ],
+    "overall": 1.0,
+    "salesRank": {
+      "Beauty": 58395
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Foundation Primers"
+      ]
+    ],
+    "price": 10.72,
+    "brand": "Rimmel"
+  },
+  {
+    "title": "St. Ives Mineral Clay Firming Mask 4.75 oz.",
+    "description": "St Ives Mask Firming 4.7oz (All Skin Types) is essentially a blue clay mask which absorbs oil from the skin making it clean . Skin feels soft and refreshed after use. After use it tightens and firms skin.",
+    "itemID": "B000UVZLHQ",
+    "helpful": [
+      7,
+      8
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 84302
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Treatments & Masks",
+        "Masks"
+      ]
+    ],
+    "price": 17.95,
+    "brand": NaN
+  },
+  {
+    "title": "Avon MagiX Face Perfector SPF 20,30ml 1fl oz",
+    "description": "A magical new air-light colorless formula that makes all skin tones look flawless... invisible coverage. instant perfection. SPF 20. 1 fl. oz.",
+    "itemID": "B001EDHAU0",
+    "helpful": [
+      3,
+      3
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 7817
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Creams & Moisturizers"
+      ]
+    ],
+    "price": 8.99,
+    "brand": "Avon"
+  }
+]

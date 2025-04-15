@@ -1,0 +1,70 @@
+[
+  {
+    "title": "Steam Facial By Kaz",
+    "description": NaN,
+    "itemID": "B0001XLSQ6",
+    "helpful": [
+      7,
+      7
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 215224
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face"
+      ]
+    ],
+    "price": NaN,
+    "brand": NaN
+  },
+  {
+    "title": "Panasonic EH2511A Pore Cleanser with Micro-fine Mist",
+    "description": "New!  The Panasonic Pore Cleanser with Mist cleans deep below the surface for clear, beautiful skin. The latest innovation from Panasonic features a micro-fine mist that sprays as you clean.  The mist allows for better suction and smoother use on the skin while cleansing your pores.  Continuous micro-fine mist ensures that the suction cup stays on your skin tightly to remove oil and dirt from the pores.  Without it, gaps of air form between the suction cup and the skin resulting in a loss of suction force.  Now a continuous spray of fine mist seals the surface and enhances suction power for cleaner pores plus alleviates potential skin irritation resulting from pulling action on the skin. This Pore Cleanser can be used in a wet or dry environment and can be fully immersed in water.  Using the Pore Cleanser during or after the shower allows your pores to open up and improves cleaning effectiveness.The reversible suction cup is great for targeting specific areas of the face.  The ultra slim design allows the suction cup to focus in on hard-to-reach areas around the nose.  Simply reverse the suction cup to cover larger areas of your skin. The Pore Cleanser with Mist from Panasonic cleanses away whiteheads and blackheads as well as refines the appearance of large pores.  It provides a refreshing, clean sensation while keeping dirt and oil out of your pores.  Once you begin using the Pore Cleanser regularly, you'll be on your way to cleaner, clearer skin.",
+    "itemID": "B0002XG9X2",
+    "helpful": [
+      20,
+      23
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 83931
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face"
+      ]
+    ],
+    "price": NaN,
+    "brand": NaN
+  },
+  {
+    "title": "Cetaphil Fragrance Free Moisturizing Lotion, 8-Ounce Bottles (Pack of 3)",
+    "description": "Fragrance free. Non-comedogenic. Cetaphil Moisturizing Lotion was formulated specifically for chronic dry, sensitive skin. Contains a superior system of extra-strength emollients and humectants, clinically proven to bind water to the skin and prevent moisture loss. Provides long-lasting relief to even severe dry skin. Free of lanolins, parabens and fragrances that can irritate sensitive skin.",
+    "itemID": "B001ET734C",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 80594
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Lotions"
+      ]
+    ],
+    "price": 26.16,
+    "brand": "Cetaphil"
+  }
+]

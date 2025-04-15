@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Aquis Microfiber Body Towel, Lisse Crepe, White (29 x 55-Inches)",
+    "description": "Aquis towels are made of Aquitex, a super absorbent material woven from ultrafine microfibers.  The technology behind our microfiber towel enables water to be drawn from hair and skin more quickly and thoroughly than other towels.  And it's especially gentle on hair and skin.  Designed to be lightweight, compact and durable, Aquis towels are ideal for everyday use at home, at the gym and while traveling.",
+    "itemID": "B0009ET3SC",
+    "helpful": [
+      8,
+      9
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 24270
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Styling Accessories",
+        "Hair Drying Towels"
+      ]
+    ],
+    "price": 23.75,
+    "brand": "Aquis"
+  },
+  {
+    "title": "Olay Regenerist Micro-Sculpting Serum 1.7 Fl Oz",
+    "description": "",
+    "itemID": "B0039NMCPG",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 2136
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face"
+      ]
+    ],
+    "price": 10.2,
+    "brand": "Olay"
+  },
+  {
+    "title": "Remington S9520 Salon Collection Ceramic Hair Straightener with Pearl Infused Wide Plates, 2 Inch",
+    "description": "",
+    "itemID": "B003V21WO2",
+    "helpful": [
+      2,
+      3
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 3380
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Irons",
+        "Flattening Irons"
+      ]
+    ],
+    "price": NaN,
+    "brand": NaN
+  }
+]

@@ -1,0 +1,73 @@
+[
+  {
+    "title": "MyChelle Dermaceuticals Perfect C Serum, 0.5 Fluid Ounce",
+    "description": "Perfect C Serum is a powerhouse of antioxidants combined with unprecedented 17% L-ascorbic acid and organic essential oils. Antioxidants mop up free radicals while L-ascorbic acid and glucosamine assist in healthy collagen production.",
+    "itemID": "B000MAOWP2",
+    "helpful": [
+      4,
+      5
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Beauty": 3191
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Oils & Serums"
+      ]
+    ],
+    "price": 18.9,
+    "brand": "MyChelle Dermaceuticals"
+  },
+  {
+    "title": "MyChelle Fruit Enzyme Cleanser, 4.4 Ounce Bottle",
+    "description": "Fruit Enzyme Cleanser is a sulfate-free refreshing cleanser with fruit enzymes and mild glycolic acid to gently exfoliate and refresh your skin. Used regularly, you will reveal beautiful fresh skin while enjoying the fresh aroma of pink grapefruit.",
+    "itemID": "B000BD0SEE",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 4206
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Cleansers"
+      ]
+    ],
+    "price": 16.26,
+    "brand": "MyChelle Dermaceuticals"
+  },
+  {
+    "title": "MyChelle Fruit Fiesta Peel, 1.2-Ounce Jar",
+    "description": "Antioxidant and nutrient dense organic raspberry puree, and natural acids romance your skin to a more radiant, youthful glow.  You will feel a light tingling and stimulating effect that will leave your skin refreshed.  This peel is not for beginners, patch test before using all over.",
+    "itemID": "B000MANVQ8",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Beauty": 72868
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Treatments & Masks",
+        "Acids & Peels",
+        "Lactic Acid"
+      ]
+    ],
+    "price": 16.49,
+    "brand": "MyChelle Dermaceuticals"
+  }
+]

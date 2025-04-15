@@ -1,0 +1,70 @@
+[
+  {
+    "title": "Deva Curl Travel Kit",
+    "description": "Devacurl Travel Kit The perfect way to bring DevaCurl with you wherever you go! Contains travel size (3oz.) bottles of our most popular products: Devacurl One Condition 3 oz; Devacurl No-Poo 3 oz; Devacurl Angell 3 oz; Devacurls Set It Free 3 oz. Not Tested on animals! Made in the USA",
+    "itemID": "B000QSDHPG",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 626
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Sets & Kits"
+      ]
+    ],
+    "price": 20.84,
+    "brand": "DevaCurl"
+  },
+  {
+    "title": "Devacurl Microfiber Towel",
+    "description": "The Deva Towel provides a smooth surface and absorbs just enough water allowing our styling products to set curls while keeping them defined, frizz-free and intact. Microfiber Friction free Frizz free",
+    "itemID": "B003VAIG3Y",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 2723
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Curl Enhancers"
+      ]
+    ],
+    "price": 8.95,
+    "brand": "DevaCurl"
+  },
+  {
+    "title": "Deva Concepts Devacurl Microfiber Drying Deva Hair Drying Gloves",
+    "description": "Features ten soft microfiber fingers to provide a smooth surface that surround curls to absorb just enough water to allow DevaCurl styling products to set curls, keeping them frizz free and intact.",
+    "itemID": "B00997YO52",
+    "helpful": [
+      4,
+      4
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 10937
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Hair Loss Products",
+        "Styling Products"
+      ]
+    ],
+    "price": 14.3,
+    "brand": "DevaCurl"
+  }
+]

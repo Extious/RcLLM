@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Cloud Star Corporation Buddy Wash Lavender &amp; Mint",
+    "description": "There's nothing like snuggling up with your furry friend after a bath with Buddy Wash. This gentle two-in-one shampoo and conditioner is specially formulated to clean and moisturize your dogs coat. Made with natural herbs and oils, and free of harsh ingredients.",
+    "itemID": "B0002YFQ6W",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Pet Supplies": 2020
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Cleansers",
+        "Body Washes"
+      ]
+    ],
+    "price": 9.52,
+    "brand": "Cloud Star"
+  },
+  {
+    "title": "NYX Single Eye Shadow, Dark Brown, 2.5 g",
+    "description": "Richly pigmented eye shadows in over 162 shades. Soft and silky NYX cosmetics single eye shadows are great on their own or blended for a beautiful prism of colors. This top-selling eye shadow is formulated for long-lasting wear.",
+    "itemID": "B002R23I76",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 133151
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Eyes",
+        "Eye Shadow"
+      ]
+    ],
+    "price": 7.99,
+    "brand": "NYX"
+  },
+  {
+    "title": "real Techniques Starter Set",
+    "description": "Designed with pro makeup artist Samantha Chapman, Real Techniques brushes combine high-tech materials with innovative design to make creating a pixel-perfect look easier than ever: Taklon bristles are ultra plush and smoother than the hair you'll find in other brushes. Since taklon is synthetic, it's 100% cruelty-free. The soft fibers help create a flawless, high-definition finish in any type of light, from sunlight to harsh indoor lighting. The color-coded system corresponds to the key steps of makeup application so you can create a flawless base (copper), enhanced eyes (purple), and the perfect finish like a pro (pink). Each brush head is hand-cut to the perfect shape, allowing for precise application from dense coverage to a soft, delicate finish. The collection is suitable for a wide range of products and every makeup need &#x2013; from powders, creams, and liquids to mineral makeup, highlighter, and shimmer. Brush names on the handles make for easy reference when creating your favorite look.",
+    "itemID": "B004TSFE28",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 80
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Tools & Accessories",
+        "Makeup Brushes & Tools",
+        "Brushes & Applicators"
+      ]
+    ],
+    "price": 14.71,
+    "brand": "Real Techniques"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Olay Pro-X Advanced Cleansing System 0.68 Fl Oz, 1-Count",
+    "description": "",
+    "itemID": "B0043OYFKU",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 6
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Treatments & Masks",
+        "Microdermabrasion"
+      ]
+    ],
+    "price": 26.99,
+    "brand": "Olay"
+  },
+  {
+    "title": "Avon MagiX Face Perfector SPF 20,30ml 1fl oz",
+    "description": "A magical new air-light colorless formula that makes all skin tones look flawless... invisible coverage. instant perfection. SPF 20. 1 fl. oz.",
+    "itemID": "B001EDHAU0",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 7817
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Creams & Moisturizers"
+      ]
+    ],
+    "price": 8.99,
+    "brand": "Avon"
+  },
+  {
+    "title": "Earth Therapeutics Skin Therapy Complexion Brush, Soft Touch, 1 brush (Pack of 4)",
+    "description": "Ergonomically designed for superior comfort. Ultra soft bristles; For sensitive skin. The extra gentle bristles of this facial brush caress skin while cleansing away surface impurities and oils that dull the complexion. Bristles bend easily to contours of face for thorough cleansing and massage. Use morning and night to reveal a softer, healthier and happier complexion. Not tested on animals. Environmental friendly. Made in China.",
+    "itemID": "B001G7PWI6",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 163139
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Bathing Accessories",
+        "Bath Brushes"
+      ]
+    ],
+    "price": 24.32,
+    "brand": NaN
+  }
+]

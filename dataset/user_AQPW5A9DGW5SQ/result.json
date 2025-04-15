@@ -1,0 +1,49 @@
+[
+  {
+    "title": "The Original Hyaluronic Acid Serum 100% Pure 2 oz.",
+    "description": "The Original Hyaluronic Acid Serum 100% Pure 2 oz.",
+    "itemID": "B003MJ7Z0O",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 311
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Oils & Serums"
+      ]
+    ],
+    "price": 13.95,
+    "brand": NaN
+  },
+  {
+    "title": "AUSTRALIA NATURALS EMU OIL (2oz Bottle)",
+    "description": "The ancient Aborigines of Australia knew of the hydrating properties of Emu Oil and its ability to rejuvinate the skin even under the harshest conditions. A combination of essential oils (EFA's) and moisturizing properties, Australia Naturals helps the skin recover from many types of severe skin conditions.\nnote - Contains .00022% natural vitamin E for stability and shelf life",
+    "itemID": "B004Z1O6U0",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 12002
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Oils"
+      ]
+    ],
+    "price": 10.95,
+    "brand": NaN
+  }
+]

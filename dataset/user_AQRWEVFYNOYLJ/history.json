@@ -1,0 +1,70 @@
+[
+  {
+    "title": "Jane Iredale Botanical Makeup Remover, 2 Ounce",
+    "description": "Jane Iredale botanical makeup remover.",
+    "itemID": "B001CEPXKU",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 19587
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Makeup Remover",
+        "Face"
+      ]
+    ],
+    "price": 9.81,
+    "brand": "Jane Iredale"
+  },
+  {
+    "title": "Pantene Pro-V Smooth Shampoo 33.8 Fl Oz",
+    "description": "",
+    "itemID": "B004ISB3BK",
+    "helpful": [
+      3,
+      5
+    ],
+    "overall": 1.0,
+    "salesRank": {
+      "Beauty": 64617
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 8.99,
+    "brand": NaN
+  },
+  {
+    "title": "Facial-Flex Ultra",
+    "description": "In today's anti-aging battle, increasing numbers of women are performing not only daily exercise for their bodies but are currently recognizing the need to improve facial muscle tone. Just as the principle of dynamic resistance is employed in physical fitness training, this system is used to strengthen and tone the muscles of the face, chin and neck with amazing results. Includes:\nFacial-Flex Ultra Device - Made with surgical stainless steel and space-age material for years of durability.\nIncludes both 6oz and 8oz resistance bands.\nConvenient carrying/storage case.\nProgress chart\nClinical background\n1-year warranty",
+    "itemID": "B000K7J1PI",
+    "helpful": [
+      5,
+      5
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 1732
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Treatments & Masks"
+      ]
+    ],
+    "price": 31.41,
+    "brand": "Facial Concepts, Inc."
+  }
+]

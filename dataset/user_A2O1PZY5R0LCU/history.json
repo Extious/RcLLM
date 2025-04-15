@@ -1,0 +1,73 @@
+[
+  {
+    "title": "John Frieda JF1 Full Volume Hair Dryer",
+    "description": "",
+    "itemID": "B004YZMKKU",
+    "helpful": [
+      5,
+      5
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 4317
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Hair Dryers"
+      ]
+    ],
+    "price": 35.89,
+    "brand": "John Frieda"
+  },
+  {
+    "title": "St. Ives Fresh Skin Invigorating Apricot Scrub, 10 Ounce",
+    "description": "",
+    "itemID": "B000UVWGGA",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 433
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Creams & Moisturizers",
+        "Fluids & Lotions",
+        "Fluids"
+      ]
+    ],
+    "price": 8.14,
+    "brand": "St. Ives"
+  },
+  {
+    "title": "CoverGirl Lashblast Mascara, Black 805, 0.44 Ounce Package",
+    "description": "",
+    "itemID": "B0018QE47U",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 1418
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Eyes",
+        "Mascara"
+      ]
+    ],
+    "price": 11.0,
+    "brand": "COVERGIRL"
+  }
+]

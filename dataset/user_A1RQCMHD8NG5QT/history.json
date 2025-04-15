@@ -1,0 +1,70 @@
+[
+  {
+    "title": "Macadamia Oil Rejuvenating Shampoo, 10 ounces Bottle",
+    "description": "Macadamia rejuvenating shampoo is a moisturizing shampoo for all hair types and is excellent for dry, damaged hair. the rejuvenating shampoo gently cleanses the hair while weightlessly replenishing moisture and protecting the hair from environmental elements.",
+    "itemID": "B002WTC38E",
+    "helpful": [
+      38,
+      40
+    ],
+    "overall": 1.0,
+    "salesRank": {
+      "Beauty": 6923
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 10.49,
+    "brand": "Macadamia Oil"
+  },
+  {
+    "title": "Murad Environmental Shield Age Spot and Pigment Lightening Serum, 1.0 fl oz (30 ml)",
+    "description": "Fades unwanted discoloration and improves skin's clarity by infusing powerful skin lightening agents and exfoliating damaged cells. 2.0% Hydroquinone skin lighter. Treats and targets pigmentation and damage caused by environmental exposure. Patented, scientifically proven formula lightens unwanted discoloration. Hydroquinone fades dark spots, age spots and freckles. AHAs exfoliate to restore clarity and tone. Licorice and Allantoin alleviate irritation and inflammation. As a leader in research and development, Murad has long been at the forefront of skincare science. Applying insights from my skin research center, dermatology practice and the Murad Medical Spa, we continue this tradition. Ours is an inclusive health philosophy, based on the water principle, a comprehensive inside and out approach to optimal skin health and total wellness. Healthy skin is beautiful skin. My commitment is to provide you with the most advanced formulations and pharmaceutical grade ingredients to restore and strengthen your skin, allowing your healthy radiance to shine through. Scientifically proven. Dermatologist developed and tested. Murad does not test on animals. Made in the USA.",
+    "itemID": "B000GDC4IM",
+    "helpful": [
+      0,
+      2
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 1336
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Toners & Astringents"
+      ]
+    ],
+    "price": 30.5,
+    "brand": "Murad"
+  },
+  {
+    "title": "GUERLAIN SHALIMAR Initial Women Eau De Parfum Spray, 3.4 Ounce",
+    "description": "Buy Guerlain Women's Perfumes - Shalimar Parfum Initial by Guerlain for Women 3.4 oz Eau de Parfum Spray",
+    "itemID": "B005QPBBO8",
+    "helpful": [
+      4,
+      4
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 27864
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Fragrance",
+        "Women's",
+        "Eau de Parfum"
+      ]
+    ],
+    "price": 61.99,
+    "brand": "Guerlain"
+  }
+]

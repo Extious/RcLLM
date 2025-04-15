@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Playboy Tan Extending Daily Moisturizer - 22 Oz.",
+    "description": "PLAYBOY Tan Extending Daily Moisturizer",
+    "itemID": "B0039JYPVO",
+    "helpful": [
+      5,
+      5
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 15299
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Creams & Moisturizers"
+      ]
+    ],
+    "price": 10.99,
+    "brand": "Perfomance Brands, Inc."
+  },
+  {
+    "title": "MAC Eye Shadow Frost Satin Taupe",
+    "description": "Buy MAC Eyeshadows - MAC Eye Shadow Frost Satin Taupe. How-to-Use: Apply evenly to eyelids with provided brush or your own eye shadow brush. Accent with complementing colors and eyeliner.",
+    "itemID": "B0002DNZAC",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 107237
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Eyes",
+        "Eye Shadow"
+      ]
+    ],
+    "price": 21.19,
+    "brand": "M.A.C"
+  },
+  {
+    "title": "Too Faced Cosmetics Bronzer, Snow Bunny, 0.28-Ounce",
+    "description": "Dust yourself with this naturally naughty, perfectly natural bronzer. Enjoy year round bronzed perfection with the most natural and skin-perfecting glow this side of the Caribbean. The silky golden bronze warmth combined with a delicate pink, white shimmer, and fawn shimmer mimics a natural \"just-back-from-vacation\" glow.",
+    "itemID": "B000AMHWCW",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 218742
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Bronzers & Highlighters"
+      ]
+    ],
+    "price": 29.0,
+    "brand": NaN
+  }
+]

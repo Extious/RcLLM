@@ -1,0 +1,94 @@
+[
+  {
+    "title": "Jane Iredale Amazing  Loose Mineral Powder, Golden Glow, .37 Ounce",
+    "description": "Amazing base, loose mineral powder SPF 20 UVB/UVA medium protection .37 ounce.",
+    "itemID": "B001FO2GW0",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 22578
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Powder"
+      ]
+    ],
+    "price": 26.2,
+    "brand": "Jane Iredale"
+  },
+  {
+    "title": "Dr. Bronner's Magic Soaps Pure-Castile Soap, 18-in-1 Hemp Lavender, 32-Ounce",
+    "description": "Dr. Bronner's Magic Soaps 18-in-1 Hemp Lavender Pure-Castile Soap100% Post-consumer recycled plastic bottle!Dr. Bronner's Magic \"All-One&#x2122;\"!Fair trade certified by IMO.Fair for life.Made with organic oils.Over 150 years & 5 generations of soap excellence.Certified under the USDA national organic program.Certified fair trade.www.drbronner.com.",
+    "itemID": "B000HK1ON0",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 208
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Cleansers",
+        "Soaps"
+      ]
+    ],
+    "price": 16.0,
+    "brand": "Dr. Bronner&#39;s Magic Soaps"
+  },
+  {
+    "title": "L'Oreal Paris EverPure Sulfate-Free Color Care System Moisture Conditioner, 8.5 Fluid Ounce",
+    "description": "EverPure conditioners are creamy, protective formulas that help preserve and maintain color brilliance. Color-treated hair requires special care. The EverPure Sulfate-Free Color Care System protects and conditions hair for long-lasting color purity. The unique UV filters help protect color-treated hair against sun damage.",
+    "itemID": "B001P24VHK",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 2034
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Conditioners"
+      ]
+    ],
+    "price": 1.46,
+    "brand": "L&#39;Oreal Paris"
+  },
+  {
+    "title": "Ancient Minerals Ultra Pure Magnesium Oil 8 oz.",
+    "description": "Ancient Minerals Ultra Pure magnesium Oil 8 oz. is an all natural, unscented skin care product.  It is easy to use-either rubbed directly on skin or sprayed on-and since it is not an oil, but water highly saturated with magnesium chloride, it soaks into the skin immediately and doesn't leave behind a greasy residue.  Ancient Minerals Ultra Pure magnesium Oil 8 oz.  has a variety of uses-from skin refresher to natural deodorizer-and regular use of this \"oil\" may: restore cellular magnesium levels, protect skin cells, aid detoxification, relieve aches and pains, improve a user's mood,  help relieve stress, and encourage healthy skin tissue.",
+    "itemID": "B001AD0HL8",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Health & Personal Care": 1404
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Oils"
+      ]
+    ],
+    "price": 21.0,
+    "brand": "Ancient Minerals"
+  }
+]

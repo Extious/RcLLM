@@ -1,0 +1,73 @@
+[
+  {
+    "title": "Nailtiques Formula 2 Protein, .5 Ounce",
+    "description": "This formula treats nails that are naturally soft, peeling, split or just won't grow. The protein immediately acts to help bond nails that are splitting or peeling. It also assists in strengthening the nail to grow long, strong and healthy.",
+    "itemID": "B000BB9L0S",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 14029
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Hands & Nails",
+        "Nail Treatments",
+        "Nail Strengthening"
+      ]
+    ],
+    "price": 12.44,
+    "brand": "Nailtiques"
+  },
+  {
+    "title": "Essie Matte About You, 0.5-Ounce",
+    "description": "Long-lasting and durable formula that transforms any nail color from high gloss to matte in seconds.",
+    "itemID": "B002G3K1TY",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 6333
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Nails",
+        "Nail Polish"
+      ]
+    ],
+    "price": 6.1,
+    "brand": "Essie"
+  },
+  {
+    "title": "Sally Hansen Hard as Nails Hard as Wraps, Clear, 0.4 Fluid Ounce",
+    "description": "Powerful acrylic protection instantly seals and hardens nails in 1 easy step. Patented breakthrough formula provides an instant, long-lasting, wrap-like surface for fragile, soft, torn, chipped or cracked nails.",
+    "itemID": "B0033H00ZW",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 8499
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Hands & Nails",
+        "Nail Treatments",
+        "Growth Formula"
+      ]
+    ],
+    "price": 5.49,
+    "brand": "Sally Hansen"
+  }
+]

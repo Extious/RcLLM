@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Olay Ultra Moisture Lotion with Shea Butter Lotion Women by Olay, 8.4 Ounce",
+    "description": "Olay Body Lotions go beyond moisturization to improve skin's barrier over time. With continued use, skin becomes noticeably soft, smooth and more resistant to skin dryness. Moisturize skin and help heal its moisture barrier to prevent dryness from coming back.",
+    "itemID": "B000NVMM1G",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 87239
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Lotions"
+      ]
+    ],
+    "price": 4.14,
+    "brand": "Olay"
+  },
+  {
+    "title": "Pro-V Classic Clean 2in1 Shampoo + Conditioner 25.4 Fl Oz",
+    "description": "",
+    "itemID": "B001F51V3E",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 15297
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 14.79,
+    "brand": "Pantene"
+  },
+  {
+    "title": "St. Ives Mineral Therapy Moisturizing Body Wash Unisex, 13.5 Ounce",
+    "description": "",
+    "itemID": "B001O8KJ4E",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 59798
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Cleansers",
+        "Body Washes"
+      ]
+    ],
+    "price": 4.89,
+    "brand": "St. Ives"
+  }
+]

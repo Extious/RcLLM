@@ -1,0 +1,73 @@
+[
+  {
+    "title": "Vaseline Intensive Rescue Repairing Moisture Lotion, Fragrance Free, 20.3-Ounce Pump (Pack of 3)",
+    "description": "",
+    "itemID": "B001ECQ4IU",
+    "helpful": [
+      1,
+      3
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 7988
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Lotions"
+      ]
+    ],
+    "price": 22.46,
+    "brand": "Vaseline"
+  },
+  {
+    "title": "Dove go fresh, Burst Body Wash, 24 Ounce (Pack of 2)",
+    "description": "",
+    "itemID": "B001ECQ4YO",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 51023
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Cleansers",
+        "Body Washes"
+      ]
+    ],
+    "price": 14.99,
+    "brand": "Dove"
+  },
+  {
+    "title": "Pacifica Tuscan Blood Orange Body Butter, 8 Ounce",
+    "description": "Blood orange is loved for its absence of bitterness with rich, juicy flavor and bright raspberry and strawberry notes. Italian sweet oranges and mandarins flesh out this naturally beautiful essence. Our natural paraben free formula is scented with your favorite Pacifica blends and utilizes botanical ingredients including shea and mango butters, chamomile extract, safflower, almond and essential oils soften and protect the skin  providing intensive, lasting moisture. We do all of this without using animal ingredients or testing and as always, our products are made in USA",
+    "itemID": "B003N1WS9O",
+    "helpful": [
+      2,
+      3
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 11140
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Creams"
+      ]
+    ],
+    "price": 11.78,
+    "brand": "Pacifica"
+  }
+]

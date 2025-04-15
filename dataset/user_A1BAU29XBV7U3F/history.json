@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Kiehl's Creamy Eye Treatment with Avocado 14ml/0.5oz",
+    "description": "This is a powerful, time fighting treatment for delicate eye area Non-migrating formula stays in place under the eyes Contains Vitamin A, Avocado Oil & fatty acids to hydrate skin Leaves skin moist & supple, defying dryness for lasting vitality Colorant & fragrance free Dermatologist tested",
+    "itemID": "B000S97MAY",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 79754
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Treatments & Masks"
+      ]
+    ],
+    "price": NaN,
+    "brand": NaN
+  },
+  {
+    "title": "Fekkai Advanced Essential Shea Shea Butter Shampoo 8 oz.",
+    "description": "Gently removes oil and build-up from dry, fragile hair while nourishing each strand for softness and strength against damage. Sulfate-free.",
+    "itemID": "B0040ZU4ZW",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 8855
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 14.4,
+    "brand": "Fekkai Advanced"
+  },
+  {
+    "title": "Desert Essence - Tea Tree Oil Skin Ointment, 1 fl oz cream",
+    "description": "A blend of soothing essential oils and herbal extracts helps relieve minor skin irritations and dry, chapped skin on face and body. It also provides cooling relief after waxing, and can be used to moisturize damaged cuticles and your hands and feet. Excellent for soothing razor burn.",
+    "itemID": "B00199YUBG",
+    "helpful": [
+      0,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Health & Personal Care": 4678
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Oils"
+      ]
+    ],
+    "price": 4.97,
+    "brand": "Desert Essence"
+  }
+]

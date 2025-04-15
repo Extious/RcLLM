@@ -1,0 +1,73 @@
+[
+  {
+    "title": "Clean &amp; Clear ESSENTIALS Dual Action Moisturizer, 4 Ounce",
+    "description": "Salicylic acid acne medication Moisturizes dry skin Treats & helps prevent pimples Active: Salicylic Acid 0.5%. For external use only.",
+    "itemID": "B000052YJM",
+    "helpful": [
+      19,
+      26
+    ],
+    "overall": 3.0,
+    "salesRank": NaN,
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Creams & Moisturizers",
+        "Fluids & Lotions",
+        "Fluids"
+      ]
+    ],
+    "price": 5.9,
+    "brand": "Clean &amp; Clear"
+  },
+  {
+    "title": "Neutrogena Rapid Clear Oil-Eliminating Foaming Cleanser, 6 Ounce",
+    "description": "Rapid Clear OilControl Foaming Cleanser is clinically proven to control oil for hours. Rich, creamy, oilfree cleanser foams up to rapidly and effectively remove oil and control shine. It clears surface oil without overdrying. Your skin feels completely clean, oilfree and refreshed. Get fresh skin with oilcontrol that lasts for hours.",
+    "itemID": "B000FH4T3M",
+    "helpful": [
+      13,
+      16
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 4709
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Creams & Moisturizers",
+        "Fluids & Lotions",
+        "Lotions"
+      ]
+    ],
+    "price": 7.79,
+    "brand": "Neutrogena"
+  },
+  {
+    "title": "Biore Dual Fusion Moisturizer with SPF 30 - 1.7 oz.",
+    "description": "Take Care Of Yourself With Biore Skin Preservation Dual Fusion Moisturizer with SPF 30 To Hydrate And Defend Skin By Moisturizing And Delivering UVA/UVB Protection With Botanamide Technology",
+    "itemID": "B001P60R0Q",
+    "helpful": [
+      4,
+      4
+    ],
+    "overall": 1.0,
+    "salesRank": {
+      "Beauty": 39353
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Sun",
+        "Skin Protection"
+      ]
+    ],
+    "price": 18.88,
+    "brand": "Biore"
+  }
+]

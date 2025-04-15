@@ -1,0 +1,202 @@
+[
+  {
+    "title": "Suave Moroccan Infusion Dry Shampoo, 5 Ounce",
+    "description": "",
+    "itemID": "B00GTC0IY6",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Beauty": 81194
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 7.95,
+    "brand": "Suave"
+  },
+  {
+    "title": "Fekkai Prx Oil 1.6 Fl Oz",
+    "description": "",
+    "itemID": "B00EYZY5VC",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 19408
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Hair & Scalp Treatments"
+      ]
+    ],
+    "price": 17.5,
+    "brand": "Fekkai"
+  },
+  {
+    "title": "Natures Bounty Optimal Solutions Hair, Skin and Nails Gummies, 80 Count",
+    "description": "Nature's Bounty optimal solutions hair, skin, and nails gummies provides you with the vital nutrients your body needs to support your natural beauty from within. Skin and hair nutrients. Antioxidants vitamins c and e. 80 strawberry flavored gummies.",
+    "itemID": "B00G36TJKW",
+    "helpful": [
+      2,
+      5
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Health & Personal Care": 4558
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care"
+      ]
+    ],
+    "price": 7.79,
+    "brand": "Nature&#39;s Bounty"
+  },
+  {
+    "title": "Tresemme 7 Day Keratin Smooth Conditioner, 9 Ounce",
+    "description": "",
+    "itemID": "B00GYB1ECW",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 6519
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Conditioners"
+      ]
+    ],
+    "price": 5.86,
+    "brand": "TRESemme"
+  },
+  {
+    "title": "UBU Super Softy Extra Large and Soft Powder Brush",
+    "description": "Extra large, extra soft powder brush. No time for cuddles on the couch with this brush, super softy is one dynamite of a lady. Use her extra large and extra soft head to apply powder foundation and blusher, bronzer and shimmer, super sized and super soft brush. Perfect for powder, blusher, bronzer and shimmer. Natural bristles for flawless results and economic use of powder.",
+    "itemID": "B00HE88JMC",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 244703
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Tools & Accessories",
+        "Makeup Brushes & Tools",
+        "Brushes & Applicators"
+      ]
+    ],
+    "price": 9.99,
+    "brand": NaN
+  },
+  {
+    "title": "Revlon Rose Gold Straightener, White, 1 Inch",
+    "description": "Revlon pro collection presents our rose gold hair appliance line. Rose gold is a combination of gold and copper which makes the ultimate styling surface to create longer lasting styles. Gold 7 copper are great conductors of heat, resulting in instant heat recovery and fast heat up. Flat iron heat up to 450 f, had auto shut off and dual voltage.",
+    "itemID": "B00ID8H1WG",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 153963
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Irons",
+        "Flattening Irons"
+      ]
+    ],
+    "price": 24.51,
+    "brand": "Revlon"
+  },
+  {
+    "title": "Fekkai Essential Shea Pot De Crme 5.2oz, 5.200-Fluid Ounce",
+    "description": "",
+    "itemID": "B00EYZY6SY",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 12431
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products"
+      ]
+    ],
+    "price": 17.5,
+    "brand": "Fekkai"
+  },
+  {
+    "title": "Fekkai Essential Shea Shampoo 8 Fl Oz",
+    "description": "",
+    "itemID": "B00FRDPRBW",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 6557
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 14.0,
+    "brand": "Fekkai"
+  },
+  {
+    "title": "Fekkai Essential Shea Conditioner 8 Fl Oz",
+    "description": "",
+    "itemID": "B00FRDPSE8",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 4626
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Conditioners"
+      ]
+    ],
+    "price": 14.0,
+    "brand": "Fekkai"
+  }
+]

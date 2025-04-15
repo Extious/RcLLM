@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Neutrogena Rapid Clear Oil-Eliminating Foaming Cleanser, 6 Ounce",
+    "description": "Rapid Clear OilControl Foaming Cleanser is clinically proven to control oil for hours. Rich, creamy, oilfree cleanser foams up to rapidly and effectively remove oil and control shine. It clears surface oil without overdrying. Your skin feels completely clean, oilfree and refreshed. Get fresh skin with oilcontrol that lasts for hours.",
+    "itemID": "B000FH4T3M",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 4709
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Creams & Moisturizers",
+        "Fluids & Lotions",
+        "Lotions"
+      ]
+    ],
+    "price": 7.79,
+    "brand": "Neutrogena"
+  },
+  {
+    "title": "Herbal Escapes Kiwi Lime Squeeze Conditioner By Alberto Vo5, 15 Ounce",
+    "description": "Herbal Escapes Kiwi Lime Squeeze Conditioner by Alberto VO5 for Unisex - 15 oz Conditioner",
+    "itemID": "B000GCW3XE",
+    "helpful": [
+      3,
+      4
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 124853
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Hair & Scalp Treatments"
+      ]
+    ],
+    "price": 2.09,
+    "brand": "Alberto VO5"
+  },
+  {
+    "title": "Mary Kay Velocity&reg; Lightweight Moisturizer,4 fl. oz.",
+    "description": "This lightweight moisturizer softens skin while controlling excess oil on the face. It's just right for blemish-prone skin. Contains a lighter version of the Velocity fragrance.",
+    "itemID": "B000QUNEES",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 19216
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Treatments & Masks"
+      ]
+    ],
+    "price": 16.5,
+    "brand": "Mary Kay"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "title": "YOU Reel by Conair 2-in-1 Styler",
+    "description": "Conair continues to revolutionize styling with a dryer that's as convenient as it is powerful to speed up styling, while Tourmaline ceramic technology minimizes heat stress on hair. With it's ionic technology that reduces static electricity and leaves hair silkier, shinier and more manageable than ever, nothing can come close to Infiniti by Conair.",
+    "itemID": "B000R80ZTQ",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Beauty": 1106
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Hair Dryers"
+      ]
+    ],
+    "price": 24.96,
+    "brand": "Conair"
+  },
+  {
+    "title": "Healthy Infusions by Wahl Pro Dryer",
+    "description": "Healthy Infusions Pro Hair Dryer.  Stop heat Damage and condition as you dry.  This dryer features revolutionary moisture infusing technology using a conditioning cartridge placed in the unique comb attachment.  This dryer works in two ways to condition hair while it is dried.  One is light conditioning.  Hot air moving past the cartridge atomizes the conditioner that with the help of IONs attaches itself to the hair as it is blown dry.  The second is deep conditioning.  Unique combs pull hair through the attachment dispensing the conditioner evenly throughout the hair - the more you comb the more you condition.  This Ionic dryer features dual lateral air inlets, pro style powerful motor, narrow outlet with higher velocity air flow and is tourmaline ceramic.",
+    "itemID": "B001E6G6FC",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 449381
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Hair Dryers"
+      ]
+    ],
+    "price": NaN,
+    "brand": NaN
+  },
+  {
+    "title": "Clearasil Ultra Acne Treatment Daily Face Wash, 6.78 Ounce (Pack of 3)",
+    "description": "",
+    "itemID": "B001U0ONNY",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 3280
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Cleansers",
+        "Washes"
+      ]
+    ],
+    "price": 17.39,
+    "brand": "Clearasil"
+  }
+]

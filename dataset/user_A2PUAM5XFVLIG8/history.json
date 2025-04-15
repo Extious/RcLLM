@@ -1,0 +1,73 @@
+[
+  {
+    "title": "Liquid Glass Nail Laminate With Sunscreen 0.5oz",
+    "description": "A Crystal Clear Shield Fortified With Liquid Glass. Provides Maximum Protection Against Braking, Splitting, Chipping Or Peeling. With Sunscreen",
+    "itemID": "B000A4094I",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 86755
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Hands & Nails",
+        "Nail Treatments",
+        "Nail Strengthening"
+      ]
+    ],
+    "price": 5.6,
+    "brand": "Top Ten"
+  },
+  {
+    "title": "Seche Vite Top Coat Professional Kit Size 4 oz",
+    "description": "Seche Vite Top Coat is the champion non-yellowing fast drying top coat that has had the industry abuzz for years.",
+    "itemID": "B0018BTA2Y",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 66202
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Nails",
+        "Top & Base Coats"
+      ]
+    ],
+    "price": 9.76,
+    "brand": "Seche"
+  },
+  {
+    "title": "Sedu Revolution Tourmaline Ionic Styling Iron 1&quot; - Black",
+    "description": "Sedu Revolution Styling Iron features revolutionary technologies that allow you to create any hairstyle imaginable with half of the time and virtually no damage. Sedu Revolution's Ultra Smooth 1 inch plates leave your hair shiny and healthy.",
+    "itemID": "B003AJJTXM",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 6021
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Irons",
+        "Flattening Irons"
+      ]
+    ],
+    "price": 159.99,
+    "brand": "Sedu"
+  }
+]

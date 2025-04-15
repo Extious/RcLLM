@@ -1,0 +1,70 @@
+[
+  {
+    "title": "Axe Primed Just Clean Shampoo, 12-Ounce Bottle (Pack of 3)",
+    "description": "",
+    "itemID": "B001FSK8QM",
+    "helpful": [
+      1,
+      3
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Beauty": 70145
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 18.99,
+    "brand": "Axe"
+  },
+  {
+    "title": "Remington D1001 Ceramic Airwave Hair Dryer with Wave Attachment and Anti Static Technology",
+    "description": "The emi Airwave infused with anit-static technology is a unique dryer that includes attachments to different looks. The airwave attachment twirls hair into gorgeous lose waves while the concentrator creates smooth straight looks. The dryer also contain ionic ceramic and has 2 heat and 3 speed settings. The 1875 watt dryer has a cool shot which helps you set your style and has a 2 year warranty.",
+    "itemID": "B001LF4G44",
+    "helpful": [
+      1,
+      2
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 221158
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Hair Dryers"
+      ]
+    ],
+    "price": NaN,
+    "brand": NaN
+  },
+  {
+    "title": "Remington D3710 Ceramic Fast Finish Dual Fan Turbo Hair Dryer, 1875 Watts",
+    "description": "",
+    "itemID": "B0050QLDGY",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 111441
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Hair Dryers"
+      ]
+    ],
+    "price": NaN,
+    "brand": NaN
+  }
+]

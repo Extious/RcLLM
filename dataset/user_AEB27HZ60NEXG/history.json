@@ -1,0 +1,71 @@
+[
+  {
+    "title": "L'Oreal Paris Dual Eye/Lipliner Sharpener with Cover",
+    "description": "L&#x2019;Oreal&#x2019;s Dual Sharpener is perfect for keeping all your pencils in shape for flawless application. Sharpens both traditional liners and jumbo pencils.",
+    "itemID": "B004BIZBF6",
+    "helpful": [
+      2,
+      2
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 893
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Tools & Accessories",
+        "Makeup Brushes & Tools",
+        "Sharpeners"
+      ]
+    ],
+    "price": 2.69,
+    "brand": NaN
+  },
+  {
+    "title": "Konad Nail Art Stamping Polish - White",
+    "description": NaN,
+    "itemID": "B000PQDKU6",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 1313
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Nails",
+        "Nail Polish"
+      ]
+    ],
+    "price": 6.89,
+    "brand": "KONAD Nail Art"
+  },
+  {
+    "title": "Konad Nail Art Stamping Polish - Black",
+    "description": "Konad Nail Art Stamping Polish - Black",
+    "itemID": "B000ZV0D9W",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 1014
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Nails",
+        "Nail Polish"
+      ]
+    ],
+    "price": 6.15,
+    "brand": "KONAD Nail Art"
+  }
+]

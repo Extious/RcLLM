@@ -1,0 +1,73 @@
+[
+  {
+    "title": "NYX Cosmetics Eye Shadow Base, White, 0.21 Ounce",
+    "description": "Cream based eye primer. Available in three tones. Intensifes any shade of eye shadow and helps colors last longer. White helps color appear up to 100x more vivid. Pearl helps maximize any iridescent effect. Skin tone helps color hold naturally.",
+    "itemID": "B0030O3VRW",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 4669
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Foundation Primers"
+      ]
+    ],
+    "price": 6.49,
+    "brand": "NYX"
+  },
+  {
+    "title": "Coastal Scents Eclipse Concealer Palette",
+    "description": "Finally! A perfect concealer palette that not only showcases 12 made to match shades, but also hosts 3 fantastic corrector concealers. This palette is designed for travel, but don't let it's size fool you. These 15 pans will give you a multitude of applications.",
+    "itemID": "B004M7WKKK",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 889
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Concealers & Neutralizers"
+      ]
+    ],
+    "price": 13.98,
+    "brand": "Coastal Scents"
+  },
+  {
+    "title": "L'Oreal Paris Revitalift Deep Set Wrinkle Collagen Filler Lip, 0.2 Fluid Ounce",
+    "description": "Step 1: Anti-feathering collagen biosphe resfills in vertical lines around the lips. Step 2: Plumping hyaluronic micro-spheres boosts natural hydration for a gentle lip plumping effect contouring action collagen and hydration are the key elements that keep lips looking young, smooth and defined. With time, collagen and moisture levels diminish, resulting in thinner lips and wrinkles around the mouth. Technological innovation: Inspired by dermatological lip plumping and contouring procedures, L'Oreal Paris has created collagen filler lip smoothes away lines around the lips with a daily boost of collagen and plumps the lips with hyaluronic micro-spheres. Actions Step 1: Around the lipsanti-feathering cream with collagen biospheres fills in vertical lines around the lips. Dramatically reduces lipstick feathering instantly redefines the lip-line. Step 2: On the lip slip plumping serum with hyaluronic micro-sphere's instantly boosts lips' natural hydration to smooth the surface and leave you lips looking fuller and smoother, perfected for lipstick application. Plumps lips instantly plumping effect appears to last for hours day after day, provides lips with plumping action does not change lipstick color lightweight, non-sticky, tasteless formula, quickly absorbsresultsinstantly get plumper, younger-looking lips with beautifully defined contours and zero feathering.",
+    "itemID": "B005BQ7K8S",
+    "helpful": [
+      8,
+      9
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 24962
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Creams & Moisturizers",
+        "Fluids & Lotions",
+        "Lotions"
+      ]
+    ],
+    "price": 19.75,
+    "brand": "L&#39;Oreal Paris"
+  }
+]

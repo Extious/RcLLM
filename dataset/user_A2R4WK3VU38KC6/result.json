@@ -1,0 +1,48 @@
+[
+  {
+    "title": "Fekkai Prx Oil 1.6 Fl Oz",
+    "description": "",
+    "itemID": "B00EYZY5VC",
+    "helpful": [
+      2,
+      2
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 19408
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Hair & Scalp Treatments"
+      ]
+    ],
+    "price": 17.5,
+    "brand": "Fekkai"
+  },
+  {
+    "title": "Vidal Sassoon Pro Series 1 Inch Touch Control Digital Curling Iron",
+    "description": "Introducing the all new Vidal Sassoon Pro 1 inch touch digital strraightener. Touch slider controls allow you to adjust the temperature setting to your exact styling preference with a touch of a finger. The temperature lock feature prevents accidental setting changes and \"memorizes\" previous setting. Curling Iron comes with a tourmalince, ceramic plates, high heat up to 400 F, 30 second fast heat-up, rapid heat recovery, auto off, worldwide dual voltageand professional swivel cord.",
+    "itemID": "B00J4JWN2Q",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 820126
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Irons",
+        "Curling Irons"
+      ]
+    ],
+    "price": 20.0,
+    "brand": NaN
+  }
+]

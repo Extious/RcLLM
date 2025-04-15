@@ -1,0 +1,166 @@
+[
+  {
+    "title": "The Body Shop Bath Gloves, Green",
+    "description": "Get even more of a lather with these textured bath mitts that exfoliate gently....",
+    "itemID": "B000HGFGKG",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 119203
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Bathing Accessories",
+        "Bath Mitts & Cloths"
+      ]
+    ],
+    "price": 9.95,
+    "brand": "The Body Shop"
+  },
+  {
+    "title": "Nivea Q10 Skin Firming Body Lotion , 13.5 fl oz  (Pack of 2)",
+    "description": "",
+    "itemID": "B001FB5IDW",
+    "helpful": [
+      2,
+      2
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 5023
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Lotions"
+      ]
+    ],
+    "price": 11.0,
+    "brand": "Nivea"
+  },
+  {
+    "title": "Suave Professionals Captivating Curls Mousse",
+    "description": "This alcohol-free mousse, with anti-frizz complex, helps define and hold natural curl patterns.  The whipped cream texture combines light conditioners and control so that curls are touchable, no cruncy.  For 24 hour touchable curls.  Meets CA and NY Clean Air Standards.  *Based on salon testing using Redken Fresh Curls Spring Mousse.  Redken and Fresh Curls are registered trademarks of L'Oreal USA Creative.",
+    "itemID": "B004DBXKWW",
+    "helpful": [
+      2,
+      2
+    ],
+    "overall": 1.0,
+    "salesRank": {
+      "Beauty": 53499
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Hair Rollers"
+      ]
+    ],
+    "price": 8.05,
+    "brand": "Suave"
+  },
+  {
+    "title": "Biore  Deep Cleansing Pore Strips , 14 Nose Strips",
+    "description": "Pore Perfect&reg;New! Custom FitUnclogs &amp; DiminishesPull the plug on clogged pores.&nbsp; Deep cleansing nose strips instantly remove dirt, oil and blackheads for cleans",
+    "itemID": "B0009EILKS",
+    "helpful": [
+      1,
+      2
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 178
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Treatments & Masks",
+        "Pore Cleansing Strips"
+      ]
+    ],
+    "price": 6.66,
+    "brand": "Biore"
+  },
+  {
+    "title": "Max Factor 2000 Calorie Dramatic Volume Mascara Black, 9ml",
+    "description": "Buy Max Factor Mascaras - Max Factor 2000 Calorie Dramatic Volume Mascara Black",
+    "itemID": "B001GNBW0W",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 1112
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Eyes",
+        "Mascara"
+      ]
+    ],
+    "price": 7.09,
+    "brand": "Max Factor"
+  },
+  {
+    "title": "e.l.f. Complexion Brush",
+    "description": "Expertly sweeps all types of powders across the entire face and sculpts features beautifully. Use with pressed, loose, or translucent powders, blush or bronzer.",
+    "itemID": "B002B4LUFW",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Beauty": 35196
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Tools & Accessories",
+        "Makeup Brushes & Tools",
+        "Brushes & Applicators"
+      ]
+    ],
+    "price": 6.45,
+    "brand": "e.l.f. Cosmetics"
+  },
+  {
+    "title": "Biore Deep Cleansing Pore Strips, 8 Nose Strips",
+    "description": "Instantly removes pore-clogging dirt, oil and blackheads. Give yourself the confidence your crave and the looks you desire with the deep cleansing formula.",
+    "itemID": "B0068G8DTA",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 5798
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Treatments & Masks",
+        "Pore Cleansing Strips"
+      ]
+    ],
+    "price": 5.81,
+    "brand": "Biore"
+  }
+]

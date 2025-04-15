@@ -1,0 +1,70 @@
+[
+  {
+    "title": "Nexxus Hydralight Weightless Moisture Conditioner, 13.5 Ounce",
+    "description": "",
+    "itemID": "B00ALV8EJW",
+    "helpful": [
+      1,
+      2
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 65831
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Conditioners"
+      ]
+    ],
+    "price": 18.3,
+    "brand": "Nexxus"
+  },
+  {
+    "title": "Nexxus Hydralight Weightless Moisture Shampoo, 13.5 Ounce",
+    "description": "",
+    "itemID": "B00ALV8EL0",
+    "helpful": [
+      2,
+      2
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 36618
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 4.47,
+    "brand": "Nexxus"
+  },
+  {
+    "title": "Remington Ci96z1 Silk Ceramic Elliptical Waving Wand",
+    "description": "",
+    "itemID": "B00BB8ZHJY",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 55758
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Irons",
+        "Curling Irons"
+      ]
+    ],
+    "price": 25.32,
+    "brand": "Remington"
+  }
+]

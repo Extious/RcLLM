@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Exfoliating Hydro Gloves-Natural Earth Therapeutics 1 Set",
+    "description": "Exfoliating Hydro Gloves-Natural by Earth Therapeutics 1 Set Helping hands in the slippery shower. Gloves that exfoliate as they lather. One size fits all. Available in White Natural Forest Green and Jade.",
+    "itemID": "B0001TOH8G",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 3601
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Bathing Accessories",
+        "Bath Mitts & Cloths"
+      ]
+    ],
+    "price": 5.78,
+    "brand": "Earth Therapeutics"
+  },
+  {
+    "title": "Schick Hydro 5 Disposable Razor, 3 Count",
+    "description": "",
+    "itemID": "B00AHF1GK6",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Health & Personal Care": 17391
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Oils"
+      ]
+    ],
+    "price": 9.97,
+    "brand": "Schick"
+  },
+  {
+    "title": "Clear Scalp and Hair Beauty Therapy Frizz Control Nourishing Shampoo, 12.9 Fluid Ounce",
+    "description": "",
+    "itemID": "B00AAIOP44",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 102397
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 8.74,
+    "brand": "Clear"
+  }
+]

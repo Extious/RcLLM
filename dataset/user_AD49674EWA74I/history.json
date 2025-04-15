@@ -1,0 +1,72 @@
+[
+  {
+    "title": "OPI Nail Lacquer, White Shatter, 0.5 Fluid Ounce",
+    "description": "The OPI Shatter shades creates a two-texture finish when used over nail lacquer.",
+    "itemID": "B004ZT0CQO",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Beauty": 75529
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Nails",
+        "Nail Polish"
+      ]
+    ],
+    "price": 1.48,
+    "brand": "OPI"
+  },
+  {
+    "title": "It's A 10 Leave-In Conditioner Plus Keratin, 4 Ounce",
+    "description": "It&#x2019;s a 10 miracle leave in plus keratin is amazingly easy to use for maintenance of keratin straightening treatments. Perfect for all hair types this product increases styling and manageability. It replaces lost protein. It detangles, defrizzes and adds shine to hair.",
+    "itemID": "B004K3D0FK",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 275
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Lotions"
+      ]
+    ],
+    "price": 15.0,
+    "brand": "It&#39;s a 10"
+  },
+  {
+    "title": "Sally Hansen Insta-Dri Nail Color: Clearly Quick #110",
+    "description": "Sally Hansen hard as nails xtreme wear offers extreme strength and shine. Match your manicure to your mood with fun, trendy shades. Easy grip, easy glide brush designed for complete control. Match your manicure to your mood. Fun, trendy shades-collect them all and change your nail polish as often as you like. Easy grip, easy glide brush designed for complete. Available in 30 of the hottest, most wanted shades.",
+    "itemID": "B004KRVBT8",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 94051
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Tools & Accessories",
+        "Nail Tools",
+        "Sets & Kits"
+      ]
+    ],
+    "price": 8.49,
+    "brand": "Sally Hansen"
+  }
+]

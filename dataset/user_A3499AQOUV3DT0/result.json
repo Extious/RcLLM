@@ -1,0 +1,69 @@
+[
+  {
+    "title": "Suave Naturals Shampoo, Tropical Coconut  - 22.5oz.",
+    "description": "",
+    "itemID": "B0002FCCH2",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 65295
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 2.17,
+    "brand": "Suave"
+  },
+  {
+    "title": "L'Oreal Paris EverPure Sulfate-Free Color Care System Smooth Conditioner, 8.5 Fluid Ounce",
+    "description": "EverPure conditioners are creamy, protective formulas that help preserve and maintain color brilliance. Color-treated hair requires special care. The EverPure Sulfate-Free Color Care System protects and conditions hair for long-lasting color purity. The unique UV filters help protect color-treated hair against sun damage.",
+    "itemID": "B001P1ZEMC",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 2574
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Conditioners"
+      ]
+    ],
+    "price": 5.91,
+    "brand": "L&#39;Oreal Paris"
+  },
+  {
+    "title": "Cricket Ultra Smooth Hair Detangler Comb infused with Argan Oil",
+    "description": "Self-rejuvenating treatment serum. Due to the correct combination and concentration of the active ingredients, this intensive serum helps to fight aging and environmental damage. Unisex formula for all ages, at any time of year. This intensive serum helps the skin fight against any signs of aging. A visibly vibrant, revitalized, firm skin that radiates youth. Creatine in product boosts the cell energy metabolism.Collagener in product is a wrinkle filler.",
+    "itemID": "B006O09VFA",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 3258
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Combs"
+      ]
+    ],
+    "price": 4.91,
+    "brand": "Cricket"
+  }
+]

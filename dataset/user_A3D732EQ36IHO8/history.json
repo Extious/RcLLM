@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Proactiv Solution 3 Step System Kit, 2 Month Supply",
+    "description": "Our basic clear skin kit includes full-size bottles of the essential Proactiv Solution system. This system, developed by dermatologists, uses Combination TherapyTM to help heal and stop breakouts at their source.\n\nIncludes: \nRenewing Cleanser to wash away excess oil and dirt\n\nRevitalizing Toner to balance skin tone\n\nRepairing Lotion to help attack bacteria",
+    "itemID": "B001A3ML3K",
+    "helpful": [
+      1,
+      2
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Beauty": 4949
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Treatments & Masks"
+      ]
+    ],
+    "price": 37.28,
+    "brand": "Proactiv"
+  },
+  {
+    "title": "Proactiv Solution Revitalizing Toner 4 oz.",
+    "description": "Step two of our Proactiv Solution daily essentials, this refreshing, alcohol-free toner helps balance skin tone and remove dead skin cells to reveal the vital, radiant skin beneath. \nSize: 4 oz.\n\nBenefits: \nOur special formulation balances skin's natural acids\n\nWitch hazel refines and purifies pores\n\nAloe and chamomile soothe and soften\n\nAllantoin stimulates the grown of healthy tissue\n\nRemoves excess surface oil without drying",
+    "itemID": "B001GGX0EK",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 2393
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Toners & Astringents"
+      ]
+    ],
+    "price": 2.3,
+    "brand": "Proactiv"
+  },
+  {
+    "title": "Cetaphil Gentle Skin Cleanser, For all skin types, 16-Ounce Bottles (Pack of 2)",
+    "description": "",
+    "itemID": "B001ET76EY",
+    "helpful": [
+      2,
+      4
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 2342
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Cleansers",
+        "Washes"
+      ]
+    ],
+    "price": 26.8,
+    "brand": "Cetaphil"
+  }
+]

@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Conair 1875 Watt Tourmaline Ceramic Hair Dryer",
+    "description": "",
+    "itemID": "B00132ZG3U",
+    "helpful": [
+      4,
+      5
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 124
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Hair Dryers"
+      ]
+    ],
+    "price": 18.89,
+    "brand": "Conair"
+  },
+  {
+    "title": "Harmony Gelish UV Soak Off Gel Polish #328 Bashful .5 oz",
+    "description": "This color gel is conveniently designed by \"Gelish by Harmony\" with a twist cap and applicator brush, apply like polishes, and cured under UV lamp. Color gels are meant to use on natural nails. These products are made to satisfy natural-nail wearers who long wish their color would last for more than two weeks. Color gels will stay on nails for three weeks with no chipping or peeling, and soak completely off in only 15 minutes.",
+    "itemID": "B003VGMLSO",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 8260
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Nails",
+        "Nail Polish"
+      ]
+    ],
+    "price": 11.59,
+    "brand": "Harmony"
+  },
+  {
+    "title": "Gelish Basix Kit",
+    "description": "The Gelish Basix Kit a complete package of the essential products necessary to properly apply Gelish from start to finish!",
+    "itemID": "B0057JCYYE",
+    "helpful": [
+      137,
+      142
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 2717
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Tools & Accessories",
+        "Nail Tools",
+        "False Nails"
+      ]
+    ],
+    "price": 31.53,
+    "brand": "Gelish"
+  }
+]

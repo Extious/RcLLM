@@ -1,0 +1,70 @@
+[
+  {
+    "title": "Tresemme Keratin Smooth Smoothing Creme Serum, 3.5 Ounce",
+    "description": "",
+    "itemID": "B00GYB17P6",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 17583
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Creams, Gels & Lotions"
+      ]
+    ],
+    "price": 8.65,
+    "brand": "TRESemme"
+  },
+  {
+    "title": "Suave Keratin Infusion Color Care Dry Shampoo, 5 Ounce",
+    "description": "Dry shampoo is a quick and convenient way to refresh and revive your hair in between regular washes. Natural keratin protein in hair depletes over time leaving it unmanageable, frizzy, and harder to style. This refreshing dry shampoo, formulated with keralock technology for color treated hair, contains keratin and absorbs oils to refresh hair, extend your colored look, and extend your blowout.",
+    "itemID": "B00GTC0E1I",
+    "helpful": [
+      0,
+      1
+    ],
+    "overall": 1.0,
+    "salesRank": {
+      "Beauty": 94451
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 4.7,
+    "brand": "Suave"
+  },
+  {
+    "title": "Toni&amp;Guy Classic Smoothing Lotion, 3.56 Fluid Ounce",
+    "description": "",
+    "itemID": "B00GJ7WV8M",
+    "helpful": [
+      1,
+      3
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 113756
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Creams, Gels & Lotions"
+      ]
+    ],
+    "price": 7.29,
+    "brand": "Toni &amp; Guy"
+  }
+]

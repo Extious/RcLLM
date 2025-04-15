@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Mally Beauty Evercolor Shadow Stick (Twilight)",
+    "description": "Mally Beauty Evercolor Shadow Stick in Twilight, a Taupe Shade\nNet Wt. .6 Oz.",
+    "itemID": "B004IBBQ28",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 226121
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Eyes",
+        "Eye Shadow"
+      ]
+    ],
+    "price": NaN,
+    "brand": NaN
+  },
+  {
+    "title": "Life-Flo Organic Pure Rosehip Seed Oil, 1 Ounce",
+    "description": "A rich, amber-colored oil from the ripened fruit of the rose known as hips. Contains natural retinol acid (vitamin a) and is well sought after for helping to replenish and restore mature or sun-exposed skin.",
+    "itemID": "B006MMOVOQ",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 1763
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Scrubs & Body Treatments",
+        "Body Scrubs"
+      ]
+    ],
+    "price": 7.5,
+    "brand": "Life-Flo"
+  },
+  {
+    "title": "Moroccan Oil Intense Hydrating Mask 8.5 Ounce",
+    "description": "Introducing the power of Moroccanoil. The Moroccanoil treatments have the ability to restore condition to over-processed hair, caused by colour procedures, perms and enviromental factors. This Intense Hydrating Mask is a rich, creamy treatment, designed to hydrate and help repair damaged hair. Moroccanoil's Intense Hydrating Mask is a high performace mask that does not need heat to be activated; only 5 to 7 minutes will treat hair with needed moisture whilst helping to add shine and elasticity.With continued use, this highly effective mask helps revitalise hair, restoring shine and manageability.",
+    "itemID": "B002N5MKMG",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 325
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Fragrance",
+        "Women's",
+        "Eau de Parfum"
+      ]
+    ],
+    "price": 23.6,
+    "brand": "Moroccanoil"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Mario Badescu Drying Lotion - 1 oz",
+    "description": "Our best selling product, Mario Badescu's Drying Lotion is an excellent spot treatment made with a blend of Calamine and Salicylic Acid to clear up and soothe unsightly whiteheads overnight. A dab of this lotion will heal and dry pimples quickl",
+    "itemID": "B0017SWIU4",
+    "helpful": [
+      1,
+      2
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 117
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Lotions"
+      ]
+    ],
+    "price": 15.0,
+    "brand": "Mario Badescu"
+  },
+  {
+    "title": "TIGI Catwalk Curl Collection Curlesque Curls Rock Amplifier, 5.07 Ounce, Packaging May Vary",
+    "description": "Enhance your natural texture. Give hold and control for defined curls and streamlined waves. Essential oils combined with thermal and environmental protectants nurture curls for a touchable, radiant finish.-...",
+    "itemID": "B0007506U2",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 173
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Mousses & Foams"
+      ]
+    ],
+    "price": 4.75,
+    "brand": "Tigi"
+  },
+  {
+    "title": "Holika Holika Moisture Petit BB Cream with Hyaluronic Acid SPF 30 PA++ 30ML",
+    "description": "Holika Holika Moisture Petit BB Cream 30ml",
+    "itemID": "B0059NA3MI",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 16674
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Foundation"
+      ]
+    ],
+    "price": 7.45,
+    "brand": "Holika Holika"
+  }
+]

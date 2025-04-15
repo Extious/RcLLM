@@ -1,0 +1,70 @@
+[
+  {
+    "title": "NYX Cosmetics Eye Shadow Base, White, 0.21 Ounce",
+    "description": "Cream based eye primer. Available in three tones. Intensifes any shade of eye shadow and helps colors last longer. White helps color appear up to 100x more vivid. Pearl helps maximize any iridescent effect. Skin tone helps color hold naturally.",
+    "itemID": "B0030O3VRW",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 4669
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Foundation Primers"
+      ]
+    ],
+    "price": 6.49,
+    "brand": "NYX"
+  },
+  {
+    "title": "Coastal Scents 88 Color Palette, Metal Mania",
+    "description": "The metal mania palette comes with 88 vibrant satin colors. An amazing palette that is great for day and night use.",
+    "itemID": "B003GCWJFS",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 9262
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Makeup Sets"
+      ]
+    ],
+    "price": 20.57,
+    "brand": "Coastal Scents"
+  },
+  {
+    "title": "Maybelline New York Volum' Express One By One Washable Mascara, 255 Blackest Black, 0.3 Fluid Ounce",
+    "description": "Finally, bold volume without any of the bulk. Patented lash catcher brush has 3 bristles per lash to make every lash count. It catches, coats and de clumps each lash to make them all fatter and flirtier. Instant clump free volume. Contact lens safe and ophthalmologist tested. Washable; also available in waterproof formula.",
+    "itemID": "B0046797WK",
+    "helpful": [
+      2,
+      2
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 27077
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Eyes",
+        "Mascara"
+      ]
+    ],
+    "price": 11.35,
+    "brand": "Maybelline"
+  }
+]

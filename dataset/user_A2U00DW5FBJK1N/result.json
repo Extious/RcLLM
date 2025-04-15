@@ -1,0 +1,46 @@
+[
+  {
+    "title": "OGX Conditioner, Hydrating Macadamia Oil, 13oz",
+    "description": "This luxurious conditioner drenches even the driest, most brittle hair with moisture, leaving it soft, supple, and touchable with a fusion of gentle conditioning macadamia oil and moisturizing bamboo extract, while sugar cane extract gives hair silky new life.",
+    "itemID": "B006I334GU",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Beauty": 13736
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Conditioners"
+      ]
+    ],
+    "price": 10.07,
+    "brand": "OGX"
+  },
+  {
+    "title": "OGX Intensive Moisture Mask, Hydrating Macadamia Oil, 8oz",
+    "description": "This totally indulgent deep conditioner drenches even the driest, most brittle hair with moisture, leaving it soft, supple, and touchable with a fusion of gentle conditioning macadamia oil and moisturizing bamboo extract, while sugar cane extract gives hair silky new life.",
+    "itemID": "B00CH3OT4G",
+    "helpful": [
+      0,
+      1
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 24264
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Hair & Scalp Treatments"
+      ]
+    ],
+    "price": 8.8,
+    "brand": "OGX"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "title": "L'Oreal Paris True Match Naturale Mineral Foundation, Cocoa, 0.35 Ounce",
+    "description": "Discover the feeling of skin breathing freely. True Match Naturale re-invents makeup with carefully selected, 100% preservative-, talc- and fragrance-free minerals plus built-in professional brushes. This is the new skin-improving mineral formula with an SPF 19.",
+    "itemID": "B001DOA73C",
+    "helpful": [
+      4,
+      5
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 57021
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Foundation"
+      ]
+    ],
+    "price": 5.0,
+    "brand": "L&#39;Oreal Paris"
+  },
+  {
+    "title": "Philosophy Hope in a Jar Daily Moisturizer, Dry Skin, 2 Ounce",
+    "description": "A creamy, soothing daily moisturizer that helps improve the natural moisture balance, while soothing and comforting the skin.",
+    "itemID": "B00021B8L2",
+    "helpful": [
+      7,
+      10
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 12304
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Creams & Moisturizers"
+      ]
+    ],
+    "price": 25.38,
+    "brand": "Philosophy"
+  },
+  {
+    "title": "Philosophy Purity Made Simple One-Step Facial Cleanser, 16 Ounces",
+    "description": "Our award-winning daily facial skin cleanser is formulated to gently cleanse, tone and melt away all face and eye makeup in one simple step, while lightly hydrating the skin.",
+    "itemID": "B00021C1LI",
+    "helpful": [
+      1,
+      2
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 1055
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Cleansers",
+        "Washes"
+      ]
+    ],
+    "price": 31.0,
+    "brand": "Philosophy"
+  }
+]

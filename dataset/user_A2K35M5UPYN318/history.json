@@ -1,0 +1,71 @@
+[
+  {
+    "title": "NYX Cosmetics Concealer Jar, Lavender, 0.21 Ounce",
+    "description": "Super concentrated lightweight concealer. Provides medium to heavy coverage. Natural finish never looks caked-on or clumpy.",
+    "itemID": "B001V3TVEQ",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 78553
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Concealers & Neutralizers"
+      ]
+    ],
+    "price": 4.0,
+    "brand": "NYX"
+  },
+  {
+    "title": "NYX Matte Lipstick, Nude",
+    "description": "NYX matte lipsticks are highly pigmented, richly formulated lipsticks that glide on smoothly, stay put and impart a non-glossy, high-fashion matte finish as they envelop lips in brilliant color. From pure red to nude, matte lipstick is available in 22 rich, shades.",
+    "itemID": "B005FYJB92",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 3930
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Lips",
+        "Lipstick"
+      ]
+    ],
+    "price": 5.88,
+    "brand": "NYX"
+  },
+  {
+    "title": "NYX Loose Pearl Eye Shadow, Silver, 0.192 Ounce",
+    "description": "This item is 30 shimmer and metallic loose shadow packaged in a mini jar.",
+    "itemID": "B001R66FFA",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 182975
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Eyes",
+        "Eye Shadow"
+      ]
+    ],
+    "price": 4.22,
+    "brand": "NYX"
+  }
+]

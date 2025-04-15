@@ -1,0 +1,72 @@
+[
+  {
+    "title": "BH Cosmetics 88 Color Cool Shimmer Palette",
+    "description": "You'll fall in love with this irresistible cool shimmer eye shadow palette from BH Cosmetics. BH Cosmetics offers quality professional makeup products at amazing prices. Featuring the most brilliantly pigmented colors available. Highest quality ingredients for professional makeup products. 88 color palette.",
+    "itemID": "B003ZZQ2JA",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 85841
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Makeup Palettes"
+      ]
+    ],
+    "price": 19.99,
+    "brand": "BHCosmetics"
+  },
+  {
+    "title": "Olay Pro-X Advanced Cleansing System 0.68 Fl Oz, 1-Count",
+    "description": "",
+    "itemID": "B0043OYFKU",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 6
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Treatments & Masks",
+        "Microdermabrasion"
+      ]
+    ],
+    "price": 26.99,
+    "brand": "Olay"
+  },
+  {
+    "title": "Revlon Quick Dry Top Coat, 0.5 Ounce",
+    "description": "Revlon Quick Dry Top Coat sets in 30 seconds* to a hard lustrous finish. Patented",
+    "itemID": "B004K0HELY",
+    "helpful": [
+      0,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 4479
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Hands & Nails",
+        "Nail Treatments",
+        "Growth Formula"
+      ]
+    ],
+    "price": 2.99,
+    "brand": "Revlon"
+  }
+]

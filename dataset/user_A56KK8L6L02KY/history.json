@@ -1,0 +1,70 @@
+[
+  {
+    "title": "Conair CD86SCS Instant Heat Iron and Straightener, 1.5 Inch",
+    "description": "Instant Heat 2 in 1 Straightener and Curling Iron",
+    "itemID": "B0009PVV36",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 134587
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Irons",
+        "Flattening Irons"
+      ]
+    ],
+    "price": NaN,
+    "brand": NaN
+  },
+  {
+    "title": "MiniPRO by Conair Tourmaline Ceramic Hair Dryer",
+    "description": "For salon results on the go, the Infiniti Mighty Mini Styler by Conair is the perfect solution.  With 1200 watts of power, 2 heat and s speed settings, it dries quickly, yet gently.  Tourmaline Ceramic technology leaves hair shiny and silky while the diffuser and concentrator attachments create customized looks.  A travel pouch is included and the dual voltage is perfect for worldwide travel.",
+    "itemID": "B001QTW2FK",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 522
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Hair Dryers"
+      ]
+    ],
+    "price": 18.95,
+    "brand": "Conair"
+  },
+  {
+    "title": "Aqua Glycolic Hand &amp; Body Lotion, 6 fl oz (177 ml)",
+    "description": "Alpha Hydroxy Acid Skin Care System. Dermatologist recommended. Advanced dry skin therapy. Aqua Glycolic Hand & Body Lotion will gently remove dead skin cells from, dry, sun-damaged skin and help restore skin's proper moisture balance. Continued use will reveal soft, smooth skin with healthy glow.",
+    "itemID": "B000EBIDJ0",
+    "helpful": [
+      17,
+      20
+    ],
+    "overall": 3.0,
+    "salesRank": NaN,
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Hands & Nails",
+        "Hand Creams & Lotions"
+      ]
+    ],
+    "price": 20.16,
+    "brand": "Aqua Glycolic"
+  }
+]

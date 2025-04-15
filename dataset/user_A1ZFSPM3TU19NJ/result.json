@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Eucerin Q10 Anti-Wrinkle Sensitive Skin Creme, 1.7 Ounce Jar",
+    "description": "Eucerin Q10 Anti-Wrinkle Sensitive Skin Creme provides a gentle, non-irritating way to reduce the look of wrinkles and the signs of aging.  Coenzyme Q10 occurs naturally in the body to defend against the aging process.  As you age, the amount of Q10 in your skin decreases.  Eucerin Q10 Anti-Wrinkle Sensitive Skin Creme helps to replenish this naturally occurring enzyme which is vital to healthy skin.  Together with Vitamin E and Beta-Carotene, it also forms a powerful antioxidant complex to protect against the damaging effects of free radicals.",
+    "itemID": "B00005NAOD",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": NaN,
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Creams & Moisturizers",
+        "Fluids & Lotions",
+        "Lotions"
+      ]
+    ],
+    "price": 10.36,
+    "brand": "Eucerin"
+  },
+  {
+    "title": "John Frieda Frizz-Ease Extra Strength 6 Effects Serum, 1.69 Ounces",
+    "description": "Frizz-ease extra strength serum instantly and dramatically transforms coarse, wiry, unruly frizz for ultra-sleek, purely polished, super-shiny results. It protects and prolongs the life of color treated hair. It has a high-potency blend of silicones infused with aloe and vitamin E which leaves dry, defiant hair extremely supple, easy to manage and healthy-looking. It contains sunscreen and repels humidity to help prevent weather-related frizz and blocks frizz all day.",
+    "itemID": "B000P9DS4Q",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 1288
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Hair Styling Serums"
+      ]
+    ],
+    "price": 7.88,
+    "brand": "Frizz-Ease"
+  },
+  {
+    "title": "Opi Cajun Shrimp NLL64",
+    "description": "From the classic collection: spreads more quickly, evenly, and delivers a smooth, streak-free application. Color Number: NL L64/ Size: 0.5 FL oz - 15 ML",
+    "itemID": "B0013KA0BA",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 6686
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Nails",
+        "Nail Polish"
+      ]
+    ],
+    "price": 6.85,
+    "brand": "OPI"
+  }
+]

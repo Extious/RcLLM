@@ -1,0 +1,70 @@
+[
+  {
+    "title": "Tangle Teezer Original Pink",
+    "description": "The Tangle Teezer Original Detangling Brush is a very unique professional detangling brush that is ideal for all hair types, wet or dry.",
+    "itemID": "B00264NW7G",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 228
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Brushes"
+      ]
+    ],
+    "price": 9.32,
+    "brand": "Tangle Teezer"
+  },
+  {
+    "title": "China Glaze Crackle Shatter 6 bottle set - similar to OPI black shatter",
+    "description": "receive 1 bottle of each color - china glaze crackle",
+    "itemID": "B004MKHYQM",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 86008
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Nails",
+        "Nail Polish"
+      ]
+    ],
+    "price": 25.0,
+    "brand": "China Glaze"
+  },
+  {
+    "title": "Honeysuckle Rose Conditioner Aubrey Organics 11 oz Liquid",
+    "description": "For Dry, Brittle HairThe sweet smell of success for your hair.",
+    "itemID": "B0006GZCVK",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 9801
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Conditioners"
+      ]
+    ],
+    "price": 10.29,
+    "brand": "Aubrey Organics"
+  }
+]

@@ -1,0 +1,48 @@
+[
+  {
+    "title": "Burt's Bees Carrot Nutritive Day Cr&egrave;me, 2 Fluid Ounces",
+    "description": "This lightweight day cream is chock full of natural ingredients like carrot seed oil, which is believed to naturally stimulate skin cell turnover. That's combined with beta-carotene to nourish skin, avocado and almond oils to moisturize and aloe vera to soothe and hydrate. The formula is especially beneficial to sun-drenched skin.",
+    "itemID": "B002DPUY42",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Beauty": 9600
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Creams & Moisturizers",
+        "Day Creams"
+      ]
+    ],
+    "price": 14.99,
+    "brand": "Burt&#39;s Bees"
+  },
+  {
+    "title": "WEN Winter Cranberry Mint Cleansing Conditioner 16 oz.",
+    "description": "Replace shampoo, conditioner, deep conditioner, detangler and leave-in conditioner, giving you 5 products in 1 bottle.",
+    "itemID": "B00GSZNT04",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 584
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Conditioners"
+      ]
+    ],
+    "price": 27.23,
+    "brand": "WEN"
+  }
+]

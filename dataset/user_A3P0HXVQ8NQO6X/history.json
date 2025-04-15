@@ -1,0 +1,72 @@
+[
+  {
+    "title": "NYX Sharpener",
+    "description": "Looking sharp was rarely this breezy: our 2-in-1 makeup pencil sharpener fine-tunes both jumbo and regular size eye and lip pencils. Made of high-quality steel, it provides a smooth, effortless motion, while the inner casing collects shavings for a no-mess effort.",
+    "itemID": "B003HG4GQI",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 1450
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Tools & Accessories",
+        "Makeup Brushes & Tools",
+        "Sharpeners"
+      ]
+    ],
+    "price": 4.0,
+    "brand": "NYX"
+  },
+  {
+    "title": "SHANY 28 color Blush palette - Blush it, contour it and shade it - all in one",
+    "description": "You can use all the colors as eyeshadow, however they are designed for professional who use different shades when using blush to make adifferent in age and face structure. This is one of the BEST of SHANY, colors are picked by professional artists , they are the most usefull and everyday color of every women. great and light weighted case will allow you to carry it around every where with no hassle.",
+    "itemID": "B003VSDR7Q",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 367388
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Eyes",
+        "Eye Shadow"
+      ]
+    ],
+    "price": NaN,
+    "brand": NaN
+  },
+  {
+    "title": "NOW Foods Cinnamon Cassia Oil, 1 ounce (Pack of 2)",
+    "description": "Aroma:  Warm, spicy.  Benefits:  Warming, stimulating, refreshing.",
+    "itemID": "B003SSXV5C",
+    "helpful": [
+      1,
+      3
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Health & Personal Care": 44143
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Oils"
+      ]
+    ],
+    "price": 9.0,
+    "brand": NaN
+  }
+]

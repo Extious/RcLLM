@@ -1,0 +1,72 @@
+[
+  {
+    "title": "L'Oreal Paris Dual Eye/Lipliner Sharpener with Cover",
+    "description": "L&#x2019;Oreal&#x2019;s Dual Sharpener is perfect for keeping all your pencils in shape for flawless application. Sharpens both traditional liners and jumbo pencils.",
+    "itemID": "B004BIZBF6",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 893
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Tools & Accessories",
+        "Makeup Brushes & Tools",
+        "Sharpeners"
+      ]
+    ],
+    "price": 2.69,
+    "brand": NaN
+  },
+  {
+    "title": "MEHAZ 660 Professional Nail Clipper (Model: 9MC0660)",
+    "description": "Stainless steel fingernail clipper features curved cutting blade. Built-in file and clipping catcher.",
+    "itemID": "B002XY7HDE",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 1003
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Tools & Accessories",
+        "Nail Tools",
+        "Clippers & Trimmers"
+      ]
+    ],
+    "price": 7.88,
+    "brand": "Mehaz"
+  },
+  {
+    "title": "Babo Botanicals Cucumber Aloe Vera UV Sport Conditioing Spray, 8 Ounce",
+    "description": "",
+    "itemID": "B003C18FEC",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Health & Personal Care": 12827
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Sun",
+        "Skin Protection",
+        "Sports"
+      ]
+    ],
+    "price": 10.4,
+    "brand": "Babo Botanicals"
+  }
+]

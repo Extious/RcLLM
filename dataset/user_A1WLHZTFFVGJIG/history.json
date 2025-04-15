@@ -1,0 +1,70 @@
+[
+  {
+    "title": "GiGi Mini Pro Waxing Kit",
+    "description": "The GiGi Mini Pro Waxing Kit is a perfect starter package for in salon or home use waxing.",
+    "itemID": "B000BJ1CGQ",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 1479
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face"
+      ]
+    ],
+    "price": 35.71,
+    "brand": "GiGi"
+  },
+  {
+    "title": "Hanae Mori By Hanae Mori For Men. Eau De Toilette Spray 3.4 Oz.",
+    "description": "Launched by the design house of Hanae Mori in 1998, HANAE MORI is a men's fragrance that possesses a blend of woodsy with exotic citruses.  It is recommended for daytime wear.When&#xA0;applying&#xA0;any fragrance please consider that there are several factors which can affect the natural smell of your skin and, in turn, the way a scent smells on you.&#xA0; For instance, your mood, stress level, age, body chemistry,&#xA0;diet, and current medications may all alter the scents you wear.&#xA0;&#xA0;Similarly, factor such as dry or oily&#xA0;skin can even affect the amount of time a fragrance will last after being applied",
+    "itemID": "B000P231AO",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 7018
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Fragrance",
+        "Men's",
+        "Eau de Toilette"
+      ]
+    ],
+    "price": 31.53,
+    "brand": "Hanae Mori"
+  },
+  {
+    "title": "Prada Pour Homme by Prada",
+    "description": "Launched by the design house of Prada.When&#xA0;applying&#xA0;any fragrance please consider that there are several factors which can affect the natural smell of your skin and, in turn, the way a scent smells on you.&#xA0; For instance, your mood, stress level, age, body chemistry,&#xA0;diet, and current medications may all alter the scents you wear.&#xA0;&#xA0;Similarly, factor such as dry or oily&#xA0;skin can even affect the amount of time a fragrance will last after being applied",
+    "itemID": "B000P41F8W",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 124959
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Fragrance",
+        "Men's",
+        "Eau de Toilette"
+      ]
+    ],
+    "price": 39.35,
+    "brand": "Prada"
+  }
+]

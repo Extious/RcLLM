@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Ruby Stone Nail File",
+    "description": NaN,
+    "itemID": "B0002Z8OUG",
+    "helpful": [
+      8,
+      8
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 220598
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Tools & Accessories",
+        "Nail Tools",
+        "Nail Files & Buffers"
+      ]
+    ],
+    "price": NaN,
+    "brand": NaN
+  },
+  {
+    "title": "The Body Shop Body Butter, Satsuma, 6.75 Ounce",
+    "description": "This rich and creamy Body Butter is a feast for the skin. It melts straight in to leave skin feeling soft and smooth. It contains Community Fair Trade shea butter and smells of fresh satsuma. 24-hour hydration great for normal to dry skin -- Fresh satsuma scent.",
+    "itemID": "B000F0QCWA",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 66772
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Body Butter"
+      ]
+    ],
+    "price": 11.45,
+    "brand": "The Body Shop"
+  },
+  {
+    "title": "Crystal Glass Nail File, 5.5 Inches, Free Carrying Case from Sassella",
+    "description": "Ordinary nail files create tiny fractures in your nail which can weaken the nail and cause the nail to split and become brittle. Because the glass file is so hard and the filing surface so extremely fine, you can file in any direction without damaging the nail. It will leave your nails incredibly smooth! Amazingly the glass file works very well on extremely hard nails as well as very soft nails. Since the surface of the glass nail file is so fine and uniform, regular use will actually help grow more beautiful nails, they will be healthier and smoother.",
+    "itemID": "B00283O7LK",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 21153
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Tools & Accessories",
+        "Nail Tools",
+        "Nail Files & Buffers"
+      ]
+    ],
+    "price": 6.49,
+    "brand": NaN
+  }
+]

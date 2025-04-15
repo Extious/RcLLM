@@ -1,0 +1,48 @@
+[
+  {
+    "title": "Clubman Virgin Island Bay Rum Body Care, 6 Ounce",
+    "description": "Clubman virgin island bay rum is a classic all-purpose fragrance. Formulated with a unique blend of essence of bay tree and exotic spices. Instantly cools, tones and refreshes the skin. Splash freely all over the body.",
+    "itemID": "B000CEQZZS",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 3825
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Fragrance",
+        "Men's",
+        "Cologne"
+      ]
+    ],
+    "price": 6.69,
+    "brand": "Clubman"
+  },
+  {
+    "title": "Clubman Jeris Osage Rub, 14 Fluid Ounce",
+    "description": "A brisk, refreshing menthol rub for the face and scalp. Reinvigorate the skin with a cool, tingling feeling. Recommended for use on dry hair.",
+    "itemID": "B001711FMI",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 7609
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Toners & Astringents"
+      ]
+    ],
+    "price": 12.36,
+    "brand": "Clubman"
+  }
+]

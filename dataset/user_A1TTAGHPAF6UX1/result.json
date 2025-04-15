@@ -1,0 +1,49 @@
+[
+  {
+    "title": "Australian Gold Body Kisses Daily Moisturizer - 22.0 oz",
+    "description": "This tan prolonging daily moisturizer contains hemp seed extract with triple-action anti-aging & slimming properties.",
+    "itemID": "B0012C8TXU",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 2869
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Lotions"
+      ]
+    ],
+    "price": 10.98,
+    "brand": "Australian Gold"
+  },
+  {
+    "title": "Designer Skin Love Notes Hydrating Intensifier Tanning Lotion 8 oz",
+    "description": "Special blend of minerals from the sea to hydrate and intensify dark color.\nExtra dose of Aloe for the ultimate feeling of moisturization.\nClean fragrance of freshly picked daisy.",
+    "itemID": "B005QAGXGE",
+    "helpful": [
+      1,
+      2
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 44866
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Sun",
+        "Self-Tanners & Bronzers"
+      ]
+    ],
+    "price": 13.07,
+    "brand": "Designer Skin"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "title": "Maybelline New York ColorSensational Lip Liner, Clear 10, 0.04 Ounce",
+    "description": "Fall in love with color, all over again:  keep your lipcolor looking beautiful with coordinating lip liners that won&#x2019;t smudge, smear, feather or bleed.",
+    "itemID": "B002L6NZ6C",
+    "helpful": [
+      1,
+      3
+    ],
+    "overall": 1.0,
+    "salesRank": {
+      "Beauty": 18577
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Lips",
+        "Lip Liners"
+      ]
+    ],
+    "price": 4.34,
+    "brand": "Maybelline"
+  },
+  {
+    "title": "Aussie Hair Insurance Split End Hair Protector 5 Fl Oz (Pack of 2)",
+    "description": "",
+    "itemID": "B004Y4HX58",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 35300
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Scrubs & Body Treatments",
+        "Body Scrubs"
+      ]
+    ],
+    "price": 9.98,
+    "brand": NaN
+  },
+  {
+    "title": "Goody Mosaic Perfect Wrap Curved Bobby Pins - 18 pk.",
+    "description": "You have worked hard to achieve your style so maintain it! The Goody curved wrap bobby pins will help secure your hair in place while you sleep.",
+    "itemID": "B009T6RTS2",
+    "helpful": [
+      1,
+      2
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 69064
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Styling Accessories",
+        "Hair Pins"
+      ]
+    ],
+    "price": 6.2,
+    "brand": "Goody"
+  },
+  {
+    "title": "Aussie Hair Insurance Leave-In Conditioner 8 Fl Oz (Pack of 3)",
+    "description": "",
+    "itemID": "B0000530EZ",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": NaN,
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Conditioners"
+      ]
+    ],
+    "price": 14.0,
+    "brand": "Aussie"
+  }
+]

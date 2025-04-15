@@ -1,0 +1,48 @@
+[
+  {
+    "title": "L'Oreal Paris Colorist Secrets Brass Banisher",
+    "description": "Banish brassy, yellow or orange tones from your dream shade. Brass banisher reduces brassy tones in just 5 minutes. Hair is left looking natural and full of lustrous shine.",
+    "itemID": "B002PMLGVI",
+    "helpful": [
+      0,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 5918
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Tools & Accessories",
+        "Hair Coloring Tools",
+        "Hair Color Removers"
+      ]
+    ],
+    "price": 12.97,
+    "brand": "L&#39;Oreal Paris"
+  },
+  {
+    "title": "Designer Skin BLACK TAN EXTENDER Moisturizer Lotion 16 oz.",
+    "description": "Revolutionary mega silicone emulsion provides maximum hydration and promotes smooth, sinfully-soft skin.\nFade DefyingTM Formula and SunStay&trade; Technology maintain and prolong the life and beauty of your tan .\n2X Opti-GlowTM Blend delivers a healthy-looking, radiant glow.\nAdvanced Amino Acids (AAA) promote optimal results.\nNut Free, Aloe Free and Gluten Free.\nNot tested on animals.\nFragrance: Refreshing Citrus",
+    "itemID": "B004ZLBEW8",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 9623
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Scrubs & Body Treatments",
+        "Body Scrubs"
+      ]
+    ],
+    "price": 14.76,
+    "brand": "Designer Skin"
+  }
+]

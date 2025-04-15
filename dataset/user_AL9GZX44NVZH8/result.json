@@ -1,0 +1,143 @@
+[
+  {
+    "title": "Tresemme Keratin Smooth Infusing Shampoo, 25 Ounce",
+    "description": "",
+    "itemID": "B00AO4E9E0",
+    "helpful": [
+      0,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 6538
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 3.99,
+    "brand": "TRESemme"
+  },
+  {
+    "title": "Schick Hydro 5 Disposable Razor, 3 Count",
+    "description": "",
+    "itemID": "B00AHF1GK6",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Health & Personal Care": 17391
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Oils"
+      ]
+    ],
+    "price": 9.97,
+    "brand": "Schick"
+  },
+  {
+    "title": "Schick Hydro Silk Disposable Razor, 3 Count",
+    "description": "",
+    "itemID": "B00AHF1GTM",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Health & Personal Care": 25629
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Oils"
+      ]
+    ],
+    "price": 9.95,
+    "brand": "Schick"
+  },
+  {
+    "title": "L'Oreal Paris Age Perfect Hydra-Nutrition Moisturizer, 1.7-Fluid Ounce",
+    "description": "Mature, very dry skin needs extra care and attention. Treat it to deep hydration with Age Perfect Hydra-Nutrition Anti-Sagging Ultra-Nourishing Day/Night Cream.  Skin is nourished with a nutrient complex enriched with calcium that builds resilience, leaving the skin feeling fortified while alleviating uncomfortable dryness.  This creamy and silky texture melts away leaving skin feeling soft and nourished.  Skin is instantly more hydrated, and in 2 weeks comfort is restored to the skin.  After 4 weeks skin is firmer and more supple.",
+    "itemID": "B002PBHQP4",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 6778
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Creams & Moisturizers",
+        "Fluids & Lotions",
+        "Fluids"
+      ]
+    ],
+    "price": 6.86,
+    "brand": "L&#39;Oreal Paris"
+  },
+  {
+    "title": "Tweezerman LTD Deluxe Metal Eyelash Curler",
+    "description": "Our best-selling eyelash curler is expertly crafted to create  beautifully enduring curl.",
+    "itemID": "B007SA3CD2",
+    "helpful": [
+      2,
+      3
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 2343
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Tools & Accessories",
+        "Makeup Brushes & Tools",
+        "Eyelash Tools",
+        "Curlers"
+      ]
+    ],
+    "price": 12.34,
+    "brand": "Tweezerman"
+  },
+  {
+    "title": "Cristophe Professional Glossing Shampoo, 10 Ounce",
+    "description": "Cristophe Professional Glossing Shampoo provides instant shine and UV protection for luminous hair and helps you create soft, silky styles just like Cristophe. Exotic Argan and Monoi oils combine to soften hair and protect strands from styling damage and breakage. This lightweight salon formula smoothes the cuticle for glossy, shiny hair.",
+    "itemID": "B009G0E19Q",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 246894
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": NaN,
+    "brand": NaN
+  }
+]

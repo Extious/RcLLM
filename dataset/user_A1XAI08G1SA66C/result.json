@@ -1,0 +1,95 @@
+[
+  {
+    "title": "Paul Mitchell by Paul Mitchell Awapuhi Wild Ginger Texturizing Sea Spray for Unisex, 5.1 Ounce",
+    "description": "Create a tousled, beachy style any time. This surf-inspired spray adds lush texture and body to straight or wavy locks. Awapuhi extract balances moisture for a healthy-looking finish.",
+    "itemID": "B0042KWIBI",
+    "helpful": [
+      0,
+      1
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 3463
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Hair Sprays"
+      ]
+    ],
+    "price": 11.99,
+    "brand": "Paul Mitchell"
+  },
+  {
+    "title": "Dickinson?s Original Witch Hazel Pore Perfecting Toner 16 oz",
+    "description": "The only 100% natural pore perfecting toner that gently cleanses and conditions pores to maintain clear, smooth and balanced skin. Pore perfecting toner tightens and refines pores, gently removing excess oil, dirt, and makeup residue without over drying - for evenly toned and beautifully smooth skin everyday. Dickinson's original witch hazel - clean should feel this good. All natural skin care since 1866. Made in USA.",
+    "itemID": "B000GCQ04C",
+    "helpful": [
+      6,
+      8
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 1195
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Toners & Astringents"
+      ]
+    ],
+    "price": 8.24,
+    "brand": "T.N. Dickinson&#39;s"
+  },
+  {
+    "title": "Tree Hut Shea Sugar Scrub, Tropical Mango, 18 Ounce",
+    "description": "Experience intense exfoliation through Tree Hut&#x2019;s Shea Sugar Scrub with the exotic scent of Tropical Mango. Real Mango puree, a rich source of antioxidants and vitamins, provides and long lasting nourishment to aged skin, leaving your skin radiant and youthful. This gentle sugar scrub is infused with certified organic Shea butter, natural Mango puree and an array of natural oils. Evening Primrose, Safflower Seed, sweet Almond, Avocado, Macadamia Seed and Orange oil nourish as real sugar grains gently polish away dead skin cells, leaving your skin soft and smooth.",
+    "itemID": "B007DGRT3K",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 15439
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Scrubs & Body Treatments",
+        "Body Scrubs"
+      ]
+    ],
+    "price": 14.88,
+    "brand": "Tree Hut"
+  },
+  {
+    "title": "Eucerin Baby Eczema Relief Body Creme, 5 Ounce",
+    "description": "Your skin is much more than your body's protective shield. For over 100 years Eucerin has pioneered skincare innovation and today we are recognized by dermatologists as one of the leading and most recommended brands. Our products are designated to protect, repair, and enhance the health of skin &#x2013; Giving the feeling of confidence that comes from radiant, healthy looking skin. This unique formula with Oatmeal, Ceramide-3 and Licochalcone intensively moisturizes and helps relieve dry, irritated skin and itching due to eczema. Clinically proven immediate and long-lasting relief of itchy, dry, irritated skin due to eczema.",
+    "itemID": "B00GMZUS2M",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 4132
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Creams"
+      ]
+    ],
+    "price": 6.74,
+    "brand": "Eucerin"
+  }
+]

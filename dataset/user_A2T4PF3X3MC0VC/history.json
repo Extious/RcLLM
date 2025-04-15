@@ -1,0 +1,69 @@
+[
+  {
+    "title": "SHANY Premium 4 sided, Quick Shine Block Nail Buffer, 1 Ounce (Pack of 3)",
+    "description": "Professional 4-Sided Buffing Block. 4-in-1 buffing block that allows you to smooth, buff and shine nails at the same time with one tool, no more salon products and no more waste of money. the Buffer is specially designed and manufactured by shany.",
+    "itemID": "B004RDSITG",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 133347
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Tools & Accessories",
+        "Nail Tools",
+        "Nail Files & Buffers"
+      ]
+    ],
+    "price": NaN,
+    "brand": NaN
+  },
+  {
+    "title": "Pantene Silver Expressions Daily Color Enhancing Conditioner 13.5 Fl Oz (Pack of 2)",
+    "description": "",
+    "itemID": "B0073B3ESY",
+    "helpful": [
+      4,
+      4
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 4913
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Conditioners"
+      ]
+    ],
+    "price": 9.98,
+    "brand": NaN
+  },
+  {
+    "title": "Pantene Silver Expressions Daily Color Enhancing Shampoo 13 Fl Oz (Pack of 2)",
+    "description": "",
+    "itemID": "B0073B3F06",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 1741
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 9.68,
+    "brand": NaN
+  }
+]

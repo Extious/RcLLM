@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Perricone MD Face Finishing Moisturizer, 2 fl. oz.",
+    "description": "A lightweight, superior facial moisturizer formulated with powerful antioxidants to help firm skin's appearance and minimize fine lines and wrinkles. Face Finishing Moisturizer is rich in texture and feels simply wonderful on the skin, imparting a visibly radiant and smooth appearance. It's formulated with three powerful anti-aging sciences: Alpha Lipoic Acid, DMAE and Vitamin C Ester. Paraben-free.",
+    "itemID": "B002KANWU8",
+    "helpful": [
+      1,
+      2
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 2976
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Creams & Moisturizers",
+        "Fluids & Lotions",
+        "Lotions"
+      ]
+    ],
+    "price": 49.95,
+    "brand": "Perricone MD"
+  },
+  {
+    "title": "Bio Ionic Power Light Dryer - Color: Black",
+    "description": "Conditioning Nano Beads in the barrel for faster drying and increased conditioning, 1875 watts of power, and an ultra-lightweight A.C. Motor. PowerLight is a hardcore frizz fighter that can smooth and straighten kinky, unruly hair. Also awesome? If the hair is coarser and more resistant, using the SpeedDry Nozzle, with its narrower opening that forces condensed air onto the hair, will help accelerate the drying process. Conversely, if hair is finer and more delicate, such as chemically-treated hair, use the nozzle for drying and styling without damage.",
+    "itemID": "B002XY1NHU",
+    "helpful": [
+      5,
+      8
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 2827
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Hair Dryers"
+      ]
+    ],
+    "price": 85.0,
+    "brand": "Bio Ionic"
+  }
+]

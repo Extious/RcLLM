@@ -1,0 +1,48 @@
+[
+  {
+    "title": "Out Of Africa Organic Shea Butter Bar Soap African Black 3.75 oz",
+    "description": "Out Of Africa Organic Shea Butter Bar Soap African Black 3.75 oz",
+    "itemID": "B0012ZM9SI",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Beauty": 82991
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Cleansers",
+        "Soaps"
+      ]
+    ],
+    "price": 2.69,
+    "brand": "Out of Africa"
+  },
+  {
+    "title": "Arbutin Serum ( Evens Skin Tone)",
+    "description": "Alpha-Arbutin is a gentle but powerful lightening agent that comes from the bearberry tree. It brings the benefits of strong melanin inhibitors such as hydroquinone, but without the odor, toxicity, and potential side-effects. Alpha-Arbutin is quite simply a natural and effective alternative to other skin lightening chemicals",
+    "itemID": "B003CGTKUK",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Health & Personal Care": 32266
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Treatments & Masks"
+      ]
+    ],
+    "price": 18.99,
+    "brand": NaN
+  }
+]

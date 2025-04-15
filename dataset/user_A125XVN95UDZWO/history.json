@@ -1,0 +1,74 @@
+[
+  {
+    "title": "Stay On Satin Nites Bonnet Sleep Cap #600",
+    "description": "The Stay on Satin Satin Nites Bonnet Sleep Cap is a styling head wrap that lets you preserve your style all night long while you sleep.",
+    "itemID": "B003I5SC72",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 1222
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Styling Accessories",
+        "Headbands"
+      ]
+    ],
+    "price": 2.99,
+    "brand": "Cristina"
+  },
+  {
+    "title": "St. Ives Mineral Clay Firming Mask 4.75 oz.",
+    "description": "St Ives Mask Firming 4.7oz (All Skin Types) is essentially a blue clay mask which absorbs oil from the skin making it clean . Skin feels soft and refreshed after use. After use it tightens and firms skin.",
+    "itemID": "B000UVZLHQ",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 84302
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Treatments & Masks",
+        "Masks"
+      ]
+    ],
+    "price": 17.95,
+    "brand": NaN
+  },
+  {
+    "title": "Blemish Control Green Tea Scrub by St. Ives, 4.5 Ounce",
+    "description": "",
+    "itemID": "B003U4LGV0",
+    "helpful": [
+      4,
+      6
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Beauty": 6452
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Exfoliators & Scrubs",
+        "Scrubs"
+      ]
+    ],
+    "price": 4.0,
+    "brand": "St. Ives"
+  }
+]

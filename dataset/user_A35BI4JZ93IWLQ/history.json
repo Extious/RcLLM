@@ -1,0 +1,69 @@
+[
+  {
+    "title": "J.R. Liggett Bar Shampoo, Original Formula, 3.5 Ounce",
+    "description": "Refresh your shower and shave routine with this amazing bar shampoo original formula from J.R. Liggett. This old-fashioned formula was discovered in an old New England cookbook by the Liggett family who has since been creating these all-natural, safe-to-use bath products. Its unique formulation lathers and quickly cleans, leaving you with healthy, beautiful results. This sulfate-free product is safe to use on all hair and skin types with no risk of irritation. Enjoy this old-fashioned recipe with your family.",
+    "itemID": "B00016X68Q",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 8612
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 6.21,
+    "brand": "J.R. Liggett"
+  },
+  {
+    "title": "Mama Mio Tummy Rub Stretch Mark Oil, 4.1 fl. oz.",
+    "description": "Mama Mio tummy rub stretch mark oil fights stretch marks. Rich in omegas and shea butter, it's thick, rich and amazingly moisturizing. Rub over your entire torso once or twice daily as your bump grows.",
+    "itemID": "B000OZF8W6",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 2351
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Maternity"
+      ]
+    ],
+    "price": 32.65,
+    "brand": "Mama Mio"
+  },
+  {
+    "title": "Alba Aloe Vera Sunblock SPF 30, 4 Ounce",
+    "description": "Since 1979, Alba Botanica has offered natural, 100% vegetarian personal care products that do beautiful for you, your friends and the animals and Earth you love. This means we DON'T use parabens, sulfates, or phthalates. We make a full range of products packed with potent natural, botanical ingredients that are formulated to nourish the individualized needs of your skin and hair. Because the Alba Botanica is committed to the health and happiness of all furry friends, we never test our products, or the ingredients that go into them, on animals. We recognize the need to be good stewards of all natural resources. So we try to do beautiful by reducing our environmental impact in everything we do as a business, from the field to the final product. We hope that you join our do beautiful campaign. Together we can help to preserve and heal the planet, now and for future generations.",
+    "itemID": "B000QUOD8Y",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 1844
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Sun",
+        "After Sun"
+      ]
+    ],
+    "price": 8.85,
+    "brand": "Alba"
+  }
+]

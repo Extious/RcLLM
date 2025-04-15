@@ -1,0 +1,735 @@
+[
+  {
+    "title": "Simple Replenishing Rich Moisturizer, 4.2 Ounce",
+    "description": "",
+    "itemID": "B005TI7L6O",
+    "helpful": [
+      2,
+      3
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 6976
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Creams & Moisturizers",
+        "Fluids & Lotions",
+        "Lotions"
+      ]
+    ],
+    "price": 7.02,
+    "brand": "Simple"
+  },
+  {
+    "title": "Sally Hansen Salon Effects Value Twin Pack - Girl Flower / Fly With Me",
+    "description": "Easy to use- includes detailed instructions",
+    "itemID": "B0076L9BHE",
+    "helpful": [
+      8,
+      12
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Health & Personal Care": 50703
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Nails",
+        "Nail Polish"
+      ]
+    ],
+    "price": 11.99,
+    "brand": NaN
+  },
+  {
+    "title": "Sally Hansen Salon Effects Value Twin Pack - Booty Camp / Collide-O-Scope",
+    "description": "BOOTY CAMP / COLLIDE -O-SCOPE",
+    "itemID": "B0076L9YW6",
+    "helpful": [
+      6,
+      7
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Health & Personal Care": 152049
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Nails",
+        "Nail Polish"
+      ]
+    ],
+    "price": NaN,
+    "brand": NaN
+  },
+  {
+    "title": "CLEAR SCALP &amp; HAIR BEAUTY Damage &amp; Color Repair Nourishing Shampoo, 12.9 Fluid Ounce",
+    "description": "",
+    "itemID": "B007RTR89S",
+    "helpful": [
+      2,
+      3
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 14850
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 4.46,
+    "brand": "Clear"
+  },
+  {
+    "title": "CLEAR SCALP &amp; HAIR BEAUTY Volumizing Root Boost Nourishing Shampoo, 12.9 Fluid Ounce",
+    "description": "",
+    "itemID": "B007RTR8AC",
+    "helpful": [
+      0,
+      1
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 11379
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 1.66,
+    "brand": "Clear"
+  },
+  {
+    "title": "Clean &amp; Clear ESSENTIALS Dual Action Moisturizer, 4 Ounce",
+    "description": "Salicylic acid acne medication Moisturizes dry skin Treats & helps prevent pimples Active: Salicylic Acid 0.5%. For external use only.",
+    "itemID": "B000052YJM",
+    "helpful": [
+      2,
+      2
+    ],
+    "overall": 5.0,
+    "salesRank": NaN,
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Creams & Moisturizers",
+        "Fluids & Lotions",
+        "Fluids"
+      ]
+    ],
+    "price": 5.9,
+    "brand": "Clean &amp; Clear"
+  },
+  {
+    "title": "Remington CI5325 Keratin Therapy Curling Wand, 1-Inch",
+    "description": "",
+    "itemID": "B007PAD71M",
+    "helpful": [
+      0,
+      1
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 6424
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Irons",
+        "Curling Irons"
+      ]
+    ],
+    "price": 16.26,
+    "brand": "Remington"
+  },
+  {
+    "title": "Olay Exfoliating Renewal Cleanser 6 Fl Oz",
+    "description": "If you've been searching for an exfoliating cleanser that provides excellent results every day, there's no reason to look any further. Olay Professional Pro-X Exfoliating Renewal Cleanser is designed to purify and renew your skin's texture for a refreshed, smooth feel. Designed by Olay in conjunction with a team of renowned skincare experts, this exfoliating cleanser gently clears away make-up, oil and dirt, leaving your face clean, refreshed and primed for hydration. For more effective results, use it with the Pro-X Advanced Cleansing System, and let the proven power of advanced cleansing go to work.Boost your exfoliation and replace dull surface cells with younger, smoother-looking skin. Make Pro-X Exfoliating Renewal Cleanser part of your daily regimen, and reveal a brighter, more even skin.",
+    "itemID": "B002UUT38I",
+    "helpful": [
+      2,
+      3
+    ],
+    "overall": 1.0,
+    "salesRank": {
+      "Beauty": 180
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Cleansers",
+        "Washes"
+      ]
+    ],
+    "price": 14.49,
+    "brand": "Olay"
+  },
+  {
+    "title": "Gud  Floral Cherrynova  Natural Nourishing Shampoo, 12 Fluid Ounces",
+    "description": "A gentle shampoo that cleanses hair naturally, leaving it shiny and smelling like cherry blossoms and almond milk. So it'll ask to be touched. In French.",
+    "itemID": "B006UQUQPM",
+    "helpful": [
+      6,
+      6
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 31664
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 5.88,
+    "brand": "Gud"
+  },
+  {
+    "title": "L'Oreal Paris Visible Lift Repair Absolute Foundation, Creamy Natural, 0.70 Ounces",
+    "description": "Intensely nourishing, cr&#xE8;me makeup infused with pro-retinol A, hyaluronic, prolastyl, and proxy lane.",
+    "itemID": "B0084A5QUM",
+    "helpful": [
+      9,
+      9
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 9039
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Foundation"
+      ]
+    ],
+    "price": 8.5,
+    "brand": "L&#39;Oreal Paris"
+  },
+  {
+    "title": "Garnier Fructis Shampoo, Fortifying, Pure Clean, Normal Hair, 13 oz.",
+    "description": "94% biodegradable. No silicone. No paraben. No dye. With acerola berry antioxidant. Stronger, healthier hair, with no weigh down. Discover a purer way to boost the health of your hair with this unique 94% biodegradable formula. This ultra-clean system, infused with acerola berry antioxidant, provides the ultimate daily refreshment with no heavy residue and weightless shine. A purer, greener alternative for your hair: 94% biodegradable formula; ultra-clean, weightless; bottle contains 50% recycles plastic. Results: refreshingly clean hair that's 10x stronger, 4x healthier and so much shinier. (When using Garnier Fructis Pure Clean system of shampoo & conditioner in a brushing test that measures breakage, and a combing test, compared to a non-conditioning shampoo. Make a difference: recycle this bottle to help decrease landfill waste; save up to 25 gallons of water by showering 5 minutes less.",
+    "itemID": "B004A8Y63A",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Health & Personal Care": 83056
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 4.99,
+    "brand": "Garnier"
+  },
+  {
+    "title": "COVERGIRL Blastflipstick Lipcolor Glimmer 0.134 Oz",
+    "description": "For fifty years, COVERGIRL has created must-have beauty products that bring out the best in women. We understand the transformative effect makeup can have not just on the outside, but the inside as well and have always been an advocate of women rocking their unique kind of beautiful. Since 1961, COVERGIRL has made it easy, breezy, and beautiful to be yourself.",
+    "itemID": "B005SD1YVS",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 194683
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Lips",
+        "Lipstick"
+      ]
+    ],
+    "price": 2.0,
+    "brand": "COVERGIRL"
+  },
+  {
+    "title": "Trim Black/Coarse Salon Board Drum (Pack of 48)",
+    "description": "Trim Black/ Coarse Salon Board Drum salon boards, 2 surfaces: heavy duty (100 grit) and medium (180 grit), it smoothes and reduces artificial nail seams and edges and it shapes natural and artificial nails.",
+    "itemID": "B000ZMCNFI",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 19350
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Tools & Accessories",
+        "Nail Tools",
+        "Nail Files & Buffers"
+      ]
+    ],
+    "price": 24.73,
+    "brand": "Trim"
+  },
+  {
+    "title": "AINHOA Luxe Hydra Luxe Absolute Gift Set (Body Cream, Anti-Aging Cream)",
+    "description": "AINHOA is an award-winning series of professional beauty products for use in the comfort of your home.  Pleasurable, convenient, made from the highest quality ingredients, these are Spa-quality products at affordable prices. Ainhoa has been available in the worlds&#x2019; finest hotels and spas for over 15 years, offering luxurious treatments using their products. Whether you want daily use products or an intense treatment, whatever your skin type; the stunning Ainhoa range has the right products for you.  Treat yourself today and enter the exclusive world of Ainhoa. Ainhoa LUXE is an innovative and complete range of products for daily care, providing highly sought-after Caviar Extract in greater concentrations than more expensive brands on the market.  Caviar Extract is rich in vitamins A, D, B1, B2, B6 and the elements Cobalt, Copper, Phosphorus, Silicon, Zinc; as well as Amino-Acids like Glycine, Lysine, Histidine, Arginine and Asparagine. Additionally Nucleic Acids, Phospholipids and Proteins, providing a source of marine DNA which is a key element to skin cell regeneration.  The potent combination of these ingredients intensifies the processes inside the skin cells and at the same time moisturizes, slowing down the aging process.",
+    "itemID": "B0095BWFTY",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 747391
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Sets & Kits"
+      ]
+    ],
+    "price": 72.69,
+    "brand": NaN
+  },
+  {
+    "title": "Nexxus Youth Renewal Rejuvenating Shampoo, 13.5 Ounce",
+    "description": "",
+    "itemID": "B00AE07FUE",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 14171
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 10.7,
+    "brand": "Nexxus"
+  },
+  {
+    "title": "TEMPTU AIRbrush Makeup System 2.0 and Signature Starter Kit, Fair",
+    "description": "The Signature Starter Kit has everything you need to get instant red-carpet radiance. This kit includes our breakthrough AIRbrush Makeup System 2.0, designed to give every woman camera-ready, pro makeup results at home. Plus, a collection of our AIRpod  Makeup essentials, personalized to work beautifully with your complexion.",
+    "itemID": "B009OY8GK4",
+    "helpful": [
+      0,
+      2
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 264210
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Makeup Sets"
+      ]
+    ],
+    "price": 235.0,
+    "brand": NaN
+  },
+  {
+    "title": "Own Products Refining Moisture Night Cream",
+    "description": "The Own Difference: To truly solve a problem, you need a new approach. In the fight against aging, the same companies, same formulas and ways of thinking have persisted. For years, we've seen products with impossible claims, read lists of unrecognizable toxic and harsh ingredients, and heard a false dichotomy between \"natural\" and \"effective\". The Entrepreneurial people behind Own saw a need for a new way of thinking. They couldn't find clinically proven, quality, good-for-you anti-aging treatments so they started Own and created the products that they wanted for themselves. Own is a San Francisco based skin-health company that believes in the holistic (complete) approach towards healthy skin. Own believes that there are too many chemicals that are in our everyday lives - in our food, in our environment, and even in our skincare products. Own's foundation is in developing unique, innovative formulas that are effective in improving skin's overall health, but without the need for harsh chemicals. Beyond products, Own advocates for lifestyle changes to make real improvements in their skin health. Using SF Bay Area technology, Own created the first-to-market aging analysis app that empowers people to see their current aging situation. Now armed with personalized information about wellness, nutrition and beauty, people can make wiser choices for their healthiest skin. Own is the NEW way of looking at OLD.",
+    "itemID": "B005KJ35D0",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 56383
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Creams & Moisturizers",
+        "Night Creams"
+      ]
+    ],
+    "price": 25.0,
+    "brand": "Own Products Inc"
+  },
+  {
+    "title": "Just For Me Hair Milk Nourishing Detangler, 10-Ounce Bottle",
+    "description": "",
+    "itemID": "B002MO3CG6",
+    "helpful": [
+      5,
+      6
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 4374
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Hair Sprays"
+      ]
+    ],
+    "price": 6.49,
+    "brand": "Just For Me"
+  },
+  {
+    "title": "L'Oreal Paris RevitaLift Triple Power Deep-Acting Moisturizer, 1.7 Fluid Ounce",
+    "description": NaN,
+    "itemID": "B008EKY8VK",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": NaN,
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Creams & Moisturizers",
+        "Fluids & Lotions",
+        "Lotions"
+      ]
+    ],
+    "price": 9.0,
+    "brand": "L&#39;Oreal Paris"
+  },
+  {
+    "title": "Olay Pro-X Microdermabrasion Plus Advanced Cleansing System, 1-Kit",
+    "description": "",
+    "itemID": "B00CYA5E1O",
+    "helpful": [
+      2,
+      2
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 275
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Treatments & Masks",
+        "Microdermabrasion"
+      ]
+    ],
+    "price": 26.7,
+    "brand": "Olay"
+  },
+  {
+    "title": "Maybelline New York Expert Wear Eyeshadow Quads, Stylish Smokes, 08q Emerald Smokes, 0.17 Ounce",
+    "description": "Easy to use. lots to choose. Just sweep the brush x4. Four coordinating shades with step by step application guide makes shadow easier than ever. All day crease proof wear. Glides on effortlessly with superior smoothness. Velvet tip applicator blends without tugging or pulling. Safe for sensitive eyes and contact lens wearers, ophthalmologist tested.",
+    "itemID": "B002L6PWZO",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 23662
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Eyes",
+        "Eye Shadow"
+      ]
+    ],
+    "price": 4.59,
+    "brand": "Maybelline"
+  },
+  {
+    "title": "e.l.f. Studio Mineral Infused Face Primer",
+    "description": "Transform your face into a flawless and smooth canvas with the Mineral Infused Face Primer. Developed to combat against excess oil, flaky dryness, enlarged pores and fine lines. This clear multipurpose skin primer will prepare your skin so makeup goes on evenly for a long lasting satin finish.",
+    "itemID": "B004DIXYWG",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 1.0,
+    "salesRank": {
+      "Beauty": 117
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Foundation Primers"
+      ]
+    ],
+    "price": 5.98,
+    "brand": "e.l.f. Cosmetics"
+  },
+  {
+    "title": "Maybelline New York Dream Lumi Touch Highlighting Concealer, Ivory, 0.05 Fluid Ounce",
+    "description": "Experience a brighter idea in concealers. Dream lumi touch highlighting concealer's gel-based formula diffuses light like no other, so it illuminates as it covers imperfections, for instantly brighter looking skin.",
+    "itemID": "B006UETAB0",
+    "helpful": [
+      1,
+      2
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 9255
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Concealers & Neutralizers"
+      ]
+    ],
+    "price": 6.05,
+    "brand": "Maybelline"
+  },
+  {
+    "title": "L'Oreal Paris Voluminous Butterfly Mascara, Blackest Black, 0.22 Ounces",
+    "description": "Stretch and extend your lashes like wings!  Introducing Voluminous Butterfly Mascara, one of our most-exciting mascara innovations, yet. It&#x2019;s revolutionary Butterfly Brush&#x2122; with asymmetrical lash line shape extends and lifts outer corner lashes to give you a winged-out effect, instantly volumizing lashes at the roots and stretching lashes outward. The unique Cocoon Fibers&#x2122; instantly wrap lashes in a soft, delicate veil to create silky, spectacular lashes that flutter.",
+    "itemID": "B00F4VWXO6",
+    "helpful": [
+      2,
+      2
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 5468
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Eyes",
+        "Mascara"
+      ]
+    ],
+    "price": 1.0,
+    "brand": "L&#39;Oreal Paris"
+  },
+  {
+    "title": "Yes To Carrots Nourishing Carrot Shampoo, 16.9-Ounce Bottles (Pack of 2)",
+    "description": "We know you'll be singing in the shower with Yes To Carrots Daily Pampering Carrot Juice Shampoo. It cleanses, nourishes and moisturizes your hair and scalp with Dead Sea Minerals, revitalizing and protecting it and leaving you with luminous, luscious locks. Go ahead, grab the shampoo bottle and use it for your microphone, this is definitely something to sing about!*",
+    "itemID": "B001EWET8W",
+    "helpful": [
+      2,
+      3
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 2775
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 10.79,
+    "brand": "Yes To Carrots"
+  },
+  {
+    "title": "Fekkai Prx Oil 1.6 Fl Oz",
+    "description": "",
+    "itemID": "B00EYZY5VC",
+    "helpful": [
+      4,
+      4
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 19408
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Hair & Scalp Treatments"
+      ]
+    ],
+    "price": 17.5,
+    "brand": "Fekkai"
+  },
+  {
+    "title": "EcoTools Skin Perfecting Brush",
+    "description": "Your new favorite makeup brush specifically designed for use with BB creams, CC creams and tinted moisturizers for a smoother application that instantly transforms your complexion for a flawless, natural finish. The hand-cut, angled edge of the makeup brush allows for easy application in the corners of nose and eyes, while the cut and soft bristles make for a smoother finish, and a beautifully finished complexion.  Using a makeup brush eliminates transfer of oil or dirt from hands to face. Synthetic bristles are cruelty free. Experience the incredibly soft touch of cruelty-free bristles EcoTools beauty solutions promote Living Beautifully! We are inspired by beauty inside and out, and in the world around us. While we always want to look our best, we feel even better when we can make earth-conscious choices. EcoTools remains a favorite of celebrities, beauty editors and women around the world.  Best known for our incredibly soft cosmetic brushes and  handles, we take pride in offering a collection of cosmetic makeup brushes, hairbrushes, lashes and bath products that feature innovative,  materials. Our packaging includes natural materials, reusable pouches, post-consumer recycled paper and plastic, and recyclable packaging. The eco pouch is phthalate-free and PVC-free.  Cleaning your Makeup Brushes Unclean makeup brushes transfer old makeup, germs, and bacteria to your skin each time you use them. Ideally, you should wash them once a week, and here&#x2019;s the best way how:  Run the bristles of makeup brush under warm running water. Careful not to get the ferrules and handles wet. Apply a drop of gentle shampoo or clarifying cleanser to bristles and work into a light lather. Rinse bristles thoroughly under warm, running water. Continue rinsing until water runs clear. Use a cloth to absorb excess water and reshape the bristles Lay your makeup brushes flat or &#x201C;handles up&#x201D; to air dry",
+    "itemID": "B00GNA9K3E",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 54661
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Tools & Accessories",
+        "Makeup Brushes & Tools",
+        "Brushes & Applicators"
+      ]
+    ],
+    "price": 7.99,
+    "brand": "EcoTools"
+  },
+  {
+    "title": "Suave Professionals Gradual Self Tanner, Visible Glow-Fair-Medium, 7.5 Ounce",
+    "description": "",
+    "itemID": "B00H5V3T2I",
+    "helpful": [
+      2,
+      2
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 19144
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Lotions"
+      ]
+    ],
+    "price": 6.83,
+    "brand": "Suave"
+  },
+  {
+    "title": "Clairol Perfect 10 by Nice 'n Easy Hair Color, 007.5A, Medium Ash Blonde",
+    "description": "Perfect 10 provides high gloss hair color in just 10 minutes. It has an advanced color cr&egrave;me with micro-pearls that gently accelerates the color development process, delivering rich, high gloss color and 100% gray coverage in just 10 minutes, while better protecting your hair*.",
+    "itemID": "B0012QD7EC",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 184067
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Hair Color",
+        "Chemical Hair Dyes"
+      ]
+    ],
+    "price": 13.99,
+    "brand": "Clairol"
+  },
+  {
+    "title": "Scunci Effortless Beauty Expandable Ponytailer, Colors may vary",
+    "description": "Scunci effortless beauty hair accessories a woman should never have a bad hair day. scunci's expandable accordion style ponytailer makes the perfect pony easy. simply expand the ponytailer, pull hair through the center and squeeze closed. multiple teeth grip tight for all day hold. use to secure buns or ponytails for a sleek professional look. eliminate strays and droop. Colors may vary.",
+    "itemID": "B002QA52V4",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 20060
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Styling Accessories",
+        "Ponytail Holders"
+      ]
+    ],
+    "price": 3.98,
+    "brand": "Scunci"
+  },
+  {
+    "title": "Suave Keratin Infusion Color Care Dry Shampoo, 5 Ounce",
+    "description": "Dry shampoo is a quick and convenient way to refresh and revive your hair in between regular washes. Natural keratin protein in hair depletes over time leaving it unmanageable, frizzy, and harder to style. This refreshing dry shampoo, formulated with keralock technology for color treated hair, contains keratin and absorbs oils to refresh hair, extend your colored look, and extend your blowout.",
+    "itemID": "B00GTC0E1I",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Beauty": 94451
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 4.7,
+    "brand": "Suave"
+  },
+  {
+    "title": "Fekkai Brilliant Glossing Conditioner 236ml/8oz",
+    "description": "",
+    "itemID": "B00FRDPNM0",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Health & Personal Care": 7998
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Conditioners"
+      ]
+    ],
+    "price": 16.45,
+    "brand": "Fekkai"
+  }
+]

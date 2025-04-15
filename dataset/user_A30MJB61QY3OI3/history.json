@@ -1,0 +1,73 @@
+[
+  {
+    "title": "Remington S8500 Shine Therapy  Moisturizing and Conditioning Digital Ceramic Hair Straightener, 1&quot;",
+    "description": "",
+    "itemID": "B001LF4I8I",
+    "helpful": [
+      1,
+      2
+    ],
+    "overall": 1.0,
+    "salesRank": {
+      "Beauty": 16668
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Irons",
+        "Flattening Irons"
+      ]
+    ],
+    "price": 89.95,
+    "brand": "Remington"
+  },
+  {
+    "title": "e.l.f. Pigment Eyeshadow, Naturally Nude, 0.05 Ounce",
+    "description": "Create a bold and beautiful statement with these jewel-toned, multi-dimensional pigments that impart lustrous high-color payoff and long-lasting wear. The buildable, powdery-fine formula blends seamlessly for ease of application and can be layered for a variety of looks. From soft and neutral to strikingly colorful these six silky and shimmery shades compliment every eye color for a fun, flirty look. Eyeshadow Brush included.",
+    "itemID": "B006Y8N6NK",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 136008
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Eyes",
+        "Eye Shadow"
+      ]
+    ],
+    "price": 6.6,
+    "brand": "e.l.f. Cosmetics"
+  },
+  {
+    "title": "CONAIR CD700CS Double Ceramic Curling Iron, 3/4 Inch",
+    "description": "Create beautiful styles while eliminating frizz with the CONAIR double ceramic curling iron. The new double ceramic coating doubles your frizz control while remaining safe without causing any damage. It has 30 high heat settings that create long lasting curls. The multiple settings give you versatile styling, too. It includes a bonus heat shield to keep your hands and fingers burn-free.",
+    "itemID": "B006Z43V38",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 9832
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Irons",
+        "Curling Irons"
+      ]
+    ],
+    "price": 20.79,
+    "brand": "Conair"
+  }
+]

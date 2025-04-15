@@ -1,0 +1,74 @@
+[
+  {
+    "title": "Biore Makeup Removing Towelettes, 30 Count",
+    "description": "Biore makeup removing towelettes for easy removal of makeup. Made from 100% renewable resources.",
+    "itemID": "B006RFYH92",
+    "helpful": [
+      0,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 18958
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Cleansers",
+        "Cloths & Towelettes"
+      ]
+    ],
+    "price": 5.55,
+    "brand": "Biore"
+  },
+  {
+    "title": "Axe Face Hydrator and Post Shave Gel, Chilled, Cooling, 3.3 Ounce",
+    "description": "",
+    "itemID": "B00A0J09GG",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 80606
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Oils"
+      ]
+    ],
+    "price": 1.14,
+    "brand": "AXE"
+  },
+  {
+    "title": "Biore Deep Cleansing Pore Strips, 8 Nose Strips",
+    "description": "Instantly removes pore-clogging dirt, oil and blackheads. Give yourself the confidence your crave and the looks you desire with the deep cleansing formula.",
+    "itemID": "B0068G8DTA",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 5798
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Treatments & Masks",
+        "Pore Cleansing Strips"
+      ]
+    ],
+    "price": 5.81,
+    "brand": "Biore"
+  }
+]

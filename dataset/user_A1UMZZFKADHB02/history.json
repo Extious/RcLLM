@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Maybelline New York Fit Me! Foundation, 120 Classic Ivory, SPF 18, 1.0 Fluid Ounce",
+    "description": "Flawless that lets the real you come through. It's makeup that doesn't mess with you. No oils. No waxes. No nonsense. Natural coverage that leaves skin the way it was meant to be: fresh, breathing, natural. Exclusive translucent base and lightweight pigments allow skin's natural highs and lows to show through. Non comedogenic, dermatologist tested, ophthalmologist tested, fragrance free.",
+    "itemID": "B004675EI6",
+    "helpful": [
+      3,
+      3
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 14732
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Foundation"
+      ]
+    ],
+    "price": 1.99,
+    "brand": "Maybelline"
+  },
+  {
+    "title": "Maybelline New York Expert Tools, Angled Definer Brush",
+    "description": "Easy to control angled brush creates a flawless line to define eyes or brows.",
+    "itemID": "B001L3ZCKS",
+    "helpful": [
+      3,
+      3
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 5343
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Tools & Accessories",
+        "Makeup Brushes & Tools",
+        "Brushes & Applicators"
+      ]
+    ],
+    "price": 2.99,
+    "brand": "Maybelline"
+  },
+  {
+    "title": "Maybelline New York Eye Studio Lasting Drama Gel Eyeliner, Eggplant 956, 0.106 Ounce",
+    "description": "The most intense line for lasting drama. Eye studio lasting drama gel eyeliner holds highly concentrated pigments in a clear gel base, so color is more intense and lines resist wear for 24 hours. Smudge proof and waterproof.",
+    "itemID": "B0030HKJ8I",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 43862
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Eyes",
+        "Eyeliner"
+      ]
+    ],
+    "price": 7.57,
+    "brand": "Maybelline"
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "title": "MyChelle Dermaceuticals Incredible Pumpkin Peel, 1.2 Fluid Ounce",
+    "description": "This unique exfoliating, super nourishing peel will dazzle your skin with natural acids and vitamins, including healing vitamin A.  Great for rejuvenating sun damaged and dull skin. Blemish prone skin also benefits greatly from this special treatment by exfoliating dead skin cells and allowing for ultimate tissue respiration and detoxification.",
+    "itemID": "B000MAOWOS",
+    "helpful": [
+      6,
+      6
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 22266
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Cleansers"
+      ]
+    ],
+    "price": 19.45,
+    "brand": "MyChelle Dermaceuticals"
+  },
+  {
+    "title": "MyChelle Fruit Enzyme Scrub Step 2, 2.3-Ounce Tube",
+    "description": "A gentle scrub with fruit enzymes designed to dissolve dead skin cells, while gentle bamboo and jojoba bead massage the skin without abrading.",
+    "itemID": "B000MASTNI",
+    "helpful": [
+      2,
+      2
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 8694
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Exfoliators & Scrubs",
+        "Scrubs"
+      ]
+    ],
+    "price": 13.99,
+    "brand": "MyChelle Dermaceuticals"
+  }
+]

@@ -1,0 +1,73 @@
+[
+  {
+    "title": "Selsun Blue Medicated Maximum Strength Dandruff Shampoo, 11 Ounce",
+    "description": "Selenium Sulfite 1%. Medicated with menthol. Maximum medicated control. Healthier hair. Healthier scalp. Doctor recommended.",
+    "itemID": "B001UGL84U",
+    "helpful": [
+      0,
+      1
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 1449
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 6.25,
+    "brand": "Selsun Blue"
+  },
+  {
+    "title": "Formula 10.0.6 Seriously Shine Free Moisturizer 2.54 FL OZ",
+    "description": "Formula 10.0.6 Seriously Shine Free Moisturizer 2.54 FL OZ. This matte finish moisturizer keeps skin smooth and shine free all day. Aloe Vera softens skin while bamboo extract absorbs excess oil to maintain a balanced complexion. This oil free formula ensures clog-free pores. This product is specifically designed to promote clear, healthy skin.",
+    "itemID": "B003HCYFYA",
+    "helpful": [
+      0,
+      1
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 37297
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Creams & Moisturizers",
+        "Fluids & Lotions",
+        "Lotions"
+      ]
+    ],
+    "price": 10.98,
+    "brand": "Formula 10.0.6"
+  },
+  {
+    "title": "BriteLeafs 4-in-1 Electric Facial &amp; Body Brush Spa Cleaning System (BL-802)",
+    "description": "4-in-1 battery operated Electric Face & Body Spa Cleaning Set Features: 1. Restore soft and smooth skin 2. Exfoliate dead skin cells to reveal radiant and youthful skin 3. Reduce and erase fine lines & blackheads 4. Compact and light-weight 5. 2 settings: \"Low\" for daily cleaning, \"High\" for exfoliation 6. 4 attachments included: a) Soft Sponge: Gently massages your skin to increase skin elasticity and better facial product absorption. b) Soft Brush: Gently rotate to deep clean your skin. Used with your facial wash to get better results. c) Pumice: Gently exfoliates, polishes and removes rough callus skin on foot or elbow d) Nail polish: Smoothing and buffing nails Specifications: 1. Power: 2 \"AA\" batteries 2. Dimensions: 130 x 70 x 48 mm 3. Weight: 5oz 4. Operation condition: Temperature 10-40'C (50-104'F), Humidity 30%-90% 5. This product is not waterproof and can not be used in the shower",
+    "itemID": "B004V0SZNO",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Health & Personal Care": 11496
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Cleansers",
+        "Washes"
+      ]
+    ],
+    "price": 15.95,
+    "brand": NaN
+  }
+]

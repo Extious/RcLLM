@@ -1,0 +1,68 @@
+[
+  {
+    "title": "AcneFree Acne and Blackhead Terminator (.75 Ounce Tube)",
+    "description": "Acne & Blackhead Terminator is a Medicated Spot Treatment which is applied directly to infected area.",
+    "itemID": "B0009GGY96",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": NaN,
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face"
+      ]
+    ],
+    "price": 6.7,
+    "brand": "AcneFree"
+  },
+  {
+    "title": "L'Oreal Paris Youth Code Regenerating Skincare Eye Cream Daily Treatment, 0.5 Ounce",
+    "description": "Why is youth code right for me? With age, your skin regenerates less quickly. Time leaves a visible imprint: signs of stress, fatigue and aging seem to suddenly appear. After 10 years of research, L'Oreal scientists unlock the code of skin's youth by discovering a specific set of genes that are responsible for skin's natural power of regeneration. Genactiv technology with L'Oreal's breakthrough genactiv technology, this powerful daily moisturizer can increase skin's power of regeneration so it regains the qualities of young skin. See smoother, youthfully luminous and rested skim emerge. Plus, skin is protected with broad spectrum UVA/UVB SPF 30 to help prevent future signs of damage. See dramatic results. Immediately skin is smoother, deeply hydrated, wrinkle reduction begins. After 1 week signs of stress and fatigue are visibly diminished, and skin looks rested. After 1 month: lines and wrinkles are visibly reduced.",
+    "itemID": "B0047F9820",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 1.0,
+    "salesRank": {
+      "Beauty": 8177
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Eyes",
+        "Creams"
+      ]
+    ],
+    "price": 6.89,
+    "brand": "L&#39;Oreal Paris"
+  },
+  {
+    "title": "L'Oreal Paris RevitaLift Radiant Smoothing Cream Cleanser, 5.0 Fluid Ounce",
+    "description": "RevitaLift Radiant Smoothing Cream Cleanser is specially formulated to nourish skin and boost radiance while gently exfoliating and removing all traces of impurities and makeup. Skin looks smoother, brighter and more refined. Helps to remove all traces of makeup and impurities.  Gently exfoliates dead skin cells and helps enhance skin smoothness and radiance.  When used as part of a complete skincare regimen, this cleanser complements the performance of your daily RevitaLift anti-aging moisturizer action.",
+    "itemID": "B001EUS8G8",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 3998
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Cleansers"
+      ]
+    ],
+    "price": 5.98,
+    "brand": "L&#39;Oreal Paris"
+  }
+]

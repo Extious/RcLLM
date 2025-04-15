@@ -1,0 +1,121 @@
+[
+  {
+    "title": "Clearasil Daily Clear Acne Treatment Face Wash, 6.5 Ounce (Pack of 4)",
+    "description": "",
+    "itemID": "B001U0OQN6",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 7053
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Cleansers",
+        "Washes"
+      ]
+    ],
+    "price": 11.3,
+    "brand": "Clearasil"
+  },
+  {
+    "title": "AcneFree Sensitive Skin Acne System",
+    "description": "",
+    "itemID": "B00243FOGG",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 2180
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Cleansers"
+      ]
+    ],
+    "price": 13.95,
+    "brand": "AcneFree"
+  },
+  {
+    "title": "Vidal Sassoon Vsdr5524 1875w Turbo Dryer, Black",
+    "description": "This turbo dryer has 2 heat and speed settings for styling flexibility anywhere. The cold shot button releases cool air to set the style. The removable end cap makes cleaning and maintenance easy and the hanging ring makes storage easy. Protective anti-slip bumpers are included. Lightweight and compact design. Black dryer.",
+    "itemID": "B0026HG26Q",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 25312
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Hair Dryers"
+      ]
+    ],
+    "price": 17.66,
+    "brand": "Vidal Sassoon"
+  },
+  {
+    "title": "St. ives body lotion, deep restoring 24 hour moisture, 21oz",
+    "description": "",
+    "itemID": "B005OKQ1A4",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 29340
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Lotions"
+      ]
+    ],
+    "price": 11.56,
+    "brand": "St. Ives"
+  },
+  {
+    "title": "St. Ives Facial Moisturizer, Timeless Skin Collagen Elastin, 10oz",
+    "description": "",
+    "itemID": "B000UVZU1S",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 277
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Creams & Moisturizers",
+        "Fluids & Lotions",
+        "Lotions"
+      ]
+    ],
+    "price": 7.46,
+    "brand": "St. Ives"
+  }
+]

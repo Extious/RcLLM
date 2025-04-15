@@ -1,0 +1,71 @@
+[
+  {
+    "title": "CND: Treatments/Prep Stickey Base Coat, 2.3 oz",
+    "description": "A soft, \"sticky\" base coat designed to anchor nail enamel to the nail. Acts as a gripping agent to prevent peeling and chipping. Ideal for both natural nails and enhancements.",
+    "itemID": "B0006PJSES",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 1.0,
+    "salesRank": {
+      "Beauty": 20922
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Hands & Nails",
+        "Nail Treatments"
+      ]
+    ],
+    "price": 10.1,
+    "brand": "CND Cosmetics"
+  },
+  {
+    "title": "Sinful Colors Professional Nail Enamel 113 Dream On",
+    "description": "Glorious, gorgeous colors on your fingers. It will complete your outfit and expresses your mood. Toluene, formaldehyde & DBP free. Made in USA",
+    "itemID": "B004FD5WO2",
+    "helpful": [
+      0,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Health & Personal Care": 58909
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Nails",
+        "Nail Polish"
+      ]
+    ],
+    "price": 5.95,
+    "brand": "Sinful Colors"
+  },
+  {
+    "title": "China Glaze Crackle Collection Lightening Bolt [Misc.]",
+    "description": "China Glaze Lightning Bolt is a white crackle nail polish color. China Glaze Crackle Collection, Spring 2011.",
+    "itemID": "B004MKEMPI",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Health & Personal Care": 186766
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Nails",
+        "Nail Polish"
+      ]
+    ],
+    "price": 4.44,
+    "brand": "China Glaze"
+  }
+]

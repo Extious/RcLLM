@@ -1,0 +1,72 @@
+[
+  {
+    "title": "It's A 10 Miracle Leave In Product, 4-Ounces",
+    "description": "It's A 10 does 10 things instantly: 1. Repairs dry damaged hair. 2. Adds shine. 3. Smoothes and controls frizz. 4. Seas and protects hair color. 5. Detangles. 6. Prevents split ends. 7. Stops hair breakage. 8. Creates silkiness. 9. Enhances natural body. 10. Flat iron spray and thermal protector.",
+    "itemID": "B000TKH6G2",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 1112
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Conditioners"
+      ]
+    ],
+    "price": 12.45,
+    "brand": "Its a 10"
+  },
+  {
+    "title": "Vivo Per Lei Facial Peeling, 1.7-Fluid Ounce",
+    "description": "Vivo Per Lei Facial Peeling provides powerful facial cleansing by removing a thin layer of dry cells to reveal ultra-smooth and youthful skin",
+    "itemID": "B003SSTL42",
+    "helpful": [
+      2,
+      3
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 2491
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Treatments & Masks",
+        "Masks"
+      ]
+    ],
+    "price": 9.85,
+    "brand": "Vivo Per Lei"
+  },
+  {
+    "title": "Home Health Castor Oil, Cold Pressed and Cold Processed, 32-Ounce",
+    "description": "Pure, natural emollient oil. Softens and nourishes skin. Ideal for use in Castor oil packs. Excellent for massage into joints and muscles. Hexane free. Castor oil is a natural emollient that penetrates the surface layers of the skin making it softer and m",
+    "itemID": "B0001TJX2Q",
+    "helpful": [
+      1,
+      2
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 1069
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Oils"
+      ]
+    ],
+    "price": 14.37,
+    "brand": "Home Health"
+  }
+]

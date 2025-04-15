@@ -1,0 +1,69 @@
+[
+  {
+    "title": "CLEAR SCALP &amp; HAIR BEAUTY Ultra Shea Cleanse &amp; Nourish Shampoo, 12.9 Fluid Ounce",
+    "description": "",
+    "itemID": "B007RTR9FQ",
+    "helpful": [
+      2,
+      3
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 14981
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 8.99,
+    "brand": "Clear"
+  },
+  {
+    "title": "Motions At Home Lavish Conditioning Shampoo, 13 Ounce Bottles (Pack of 6)",
+    "description": "",
+    "itemID": "B000YZGOZQ",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 183525
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 22.02,
+    "brand": NaN
+  },
+  {
+    "title": "Dove Body Wash with NutriumMoisture, Sensitive Skin Nourishing, 24 Ounce",
+    "description": NaN,
+    "itemID": "B000AO2NXS",
+    "helpful": [
+      1,
+      2
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 18679
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Cleansers",
+        "Body Washes"
+      ]
+    ],
+    "price": 11.5,
+    "brand": "Dove"
+  }
+]

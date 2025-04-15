@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Premier Usa Dead Sea Eye Cream (35 ml/1.20 oz)",
+    "description": "It consists of the best anti-aging ingredients: Dead Sea minerals, Liposome Complex, Dunaliella Seaweed, natural Aloe Vera, Oxygen, Vitamins E and A",
+    "itemID": "B000VEWF2Q",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 1089
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Eyes",
+        "Creams"
+      ]
+    ],
+    "price": 13.99,
+    "brand": "Dead Sea Premier"
+  },
+  {
+    "title": "Premier Dead Sea Miracle Noir Mask, 2.0288-Fluid Ounce",
+    "description": "The award-winning Miracle Noir Mask. A firming mud mask, oxygen mask, purification mask and an exfoliating mask all in one",
+    "itemID": "B0010BBCFK",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 14116
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Treatments & Masks",
+        "Masks"
+      ]
+    ],
+    "price": 38.45,
+    "brand": "Dead Sea Premier"
+  },
+  {
+    "title": "Premier Dead Sea Ageless Future Cell-Renewal Cream, All Skin Types, 2.04Fl.oz",
+    "description": "The Ageless Future Cell Renewal Cream has a wonderful long-term effect: It enhances the skin cells&#x2019; ability to regenerate by reviving their cellular metabolism",
+    "itemID": "B001DXOWA2",
+    "helpful": [
+      0,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 16618
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Cleansers"
+      ]
+    ],
+    "price": 41.0,
+    "brand": "Dead Sea Premier"
+  }
+]

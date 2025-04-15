@@ -1,0 +1,49 @@
+[
+  {
+    "title": "ApHogee Keratin and Green Tea Restructurizer 8 fl. oz",
+    "description": "ApHogee Keratin and Green Tea Restructurizer is the first product to combine heat-activated protein and green tea to produce dramatic results for conditioning and restructuring the hair shaft.",
+    "itemID": "B000142P12",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 5640
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Lotions"
+      ]
+    ],
+    "price": 7.25,
+    "brand": "Aphogee"
+  },
+  {
+    "title": "Matrix Biolage Smoothing Shine Milk, 8.5-Ounce Bottle",
+    "description": "Lightweight mist adds glossy shine and smoothes & banishes frizz. Controls flyaways too!",
+    "itemID": "B002CMLHB0",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 4861
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Hair Styling Serums"
+      ]
+    ],
+    "price": 13.85,
+    "brand": "Matrix"
+  }
+]

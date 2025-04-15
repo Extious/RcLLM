@@ -1,0 +1,74 @@
+[
+  {
+    "title": "Topix Pharm Glycolix Elite Facial Cream, 20 Percent., 1.6 Fluid Ounce",
+    "description": "Glycolix Elite 20% Facial Cream is a cosmetically elegant anti-aging formulation with 20% glycolic acid, designed to stimulate cellular turnover rate and reveal fresher, healthier, younger-looking skin. This rich cream also includes vitamins A, C and E and green tea to provide superior antioxidant protection against further free radical-induced skin damage. You'll see rejuvenated skin with fewer fine lines, less discoloration and improved texture and tone.",
+    "itemID": "B000H9C1UG",
+    "helpful": [
+      11,
+      11
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 10728
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Creams"
+      ]
+    ],
+    "price": 29.66,
+    "brand": "Topix Pharm"
+  },
+  {
+    "title": "Peter Thomas Roth Glycolic Acid Moisturizer 2.2 Ounce",
+    "description": "A luxurious moisturizing complex that uses a gentle, patented time-release form of glycolic acid to help produce a beautiful, fresh, youthful looking complexion.  Advanced deep skin renewing action increases cell turnover to help diminish the appearance of fine lines, wrinkles and other signs of aging. Reduces excess oiliness and helps clarify the skin and smooth out rough texture, leaving it refined and revitalized.",
+    "itemID": "B0012XM8X6",
+    "helpful": [
+      5,
+      7
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 9862
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Treatments & Masks",
+        "Acids & Peels",
+        "Glycolic Acid"
+      ]
+    ],
+    "price": 29.0,
+    "brand": "Peter Thomas Roth"
+  },
+  {
+    "title": "Revlon Grow Luscious By Fabulash, 001 Blackest Black, 0.38-Ounce",
+    "description": "Grow Luscious Mascara is a first-to-market, all-in-one mascara and lash enhancer. The lash enhancing phyto-peptide formula complements the natural growth cycle of the lashes to improve the overall appearance and condition of lashes with each use. The jumbo, oversized brush with lash extending fibers instantly lengthens and plumps lashes. The result, longer, fuller lashes that grow stronger day after day.",
+    "itemID": "B0039XT498",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 13723
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Eyes",
+        "Mascara"
+      ]
+    ],
+    "price": 1.95,
+    "brand": "Revlon"
+  }
+]

@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Vaseline Spray and Go Moisturizer in Total Moisture, 6.5 Ounce",
+    "description": "",
+    "itemID": "B009RNUH4A",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 4589
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Lotions"
+      ]
+    ],
+    "price": 7.86,
+    "brand": "Vaseline"
+  },
+  {
+    "title": "John Frieda Sheer Blonde Colour Renew Tone-Correcting Conditioner, 8.45 Ounces  (Pack of 2)",
+    "description": "John frieda sheer blonde color renew tone-restoring conditioner 8.45 fluid ounce renews color for noticeably brighter blonde in 3 washes.",
+    "itemID": "B005MIFIW0",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 6056
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Conditioners"
+      ]
+    ],
+    "price": 12.95,
+    "brand": "John Frieda"
+  },
+  {
+    "title": "10 Glitter Colors Mascara Makeup Set",
+    "description": "This 6 Piece Glitter Mascara Set is all you need to bring out the perfect look in you. \nColor include 1, Green 2, Blue 3, Purple 4, Gold 5, Pink 6, Pearl 7 Silver 8, Black 9, Smoke 10, Bronx . Perfect for every day and night.",
+    "itemID": "B005XHEEZM",
+    "helpful": [
+      2,
+      2
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 98473
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Eyes",
+        "Mascara"
+      ]
+    ],
+    "price": 8.95,
+    "brand": NaN
+  }
+]

@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Ecco Bella Peach Frost Flowercolor Lipstick",
+    "description": "Plant-based lipsticks formulated to glide on creamy, not dry or greasy. Based on castor oil, vegetable wax and vitamin E, they smooth and protect lips all day. Their colors are made from iron oxides and carmine, leaving out the FD&C; dyes",
+    "itemID": "B000URVDJU",
+    "helpful": [
+      2,
+      2
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 133469
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Lips",
+        "Lipstick"
+      ]
+    ],
+    "price": 14.35,
+    "brand": "Ecco Bella"
+  },
+  {
+    "title": "Jergens Natural Glow Firming Moisturizer, Fair to Medium Skin Tones 7.5-Ounces (Pack of 3)",
+    "description": "Jergens&#xFFFD; natural glow Firming Daily Moisturizer formula with collagen & elastin delivers clinically proven firming benefits to improve skin elasticity and a subtle skin darkening complex to create a natural-looking, summer glow. Begin to see a firmer appearance after just two weeks of daily use.",
+    "itemID": "B001ET7AYA",
+    "helpful": [
+      14,
+      14
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 39094
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Creams & Moisturizers"
+      ]
+    ],
+    "price": 17.01,
+    "brand": "Jergens"
+  },
+  {
+    "title": "Very Private pH Balanced Body Wash, 6-Ounce Bottle",
+    "description": "",
+    "itemID": "B0011MJSD6",
+    "helpful": [
+      4,
+      5
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Health & Personal Care": 13908
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Cleansers",
+        "Body Washes"
+      ]
+    ],
+    "price": 13.95,
+    "brand": "Very Private"
+  }
+]

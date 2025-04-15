@@ -1,0 +1,48 @@
+[
+  {
+    "title": "PCA Skin Acne Cream, 0.5 Ounce",
+    "description": "For mild acne, blemish-prone sensitive skin.",
+    "itemID": "B0001EL5R2",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 4013
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Creams & Moisturizers"
+      ]
+    ],
+    "price": 12.98,
+    "brand": "PCA Skin"
+  },
+  {
+    "title": "Xen-Tan Dark Lotion, 8-Ounces",
+    "description": "Xen-Tan Dark Lotion, 8oz",
+    "itemID": "B001181W7K",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Health & Personal Care": 24735
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Sun",
+        "Self-Tanners & Bronzers"
+      ]
+    ],
+    "price": 49.63,
+    "brand": "Xen Tan"
+  }
+]

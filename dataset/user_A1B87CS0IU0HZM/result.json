@@ -1,0 +1,96 @@
+[
+  {
+    "title": "Conair Compact Hairsetter, Blue",
+    "description": "Compact plastic hairsetter",
+    "itemID": "B001BLRYMO",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Beauty": 912
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Hair Rollers"
+      ]
+    ],
+    "price": 15.27,
+    "brand": "Conair"
+  },
+  {
+    "title": "PUMPKIN Face MASK Spa Treatment AHA 12 Glycolic Acid Chemical Peel Facial 2.66oz",
+    "description": "ENZYME PUMPKIN MASK: Pumpkin is a Rich NATURAL Source of Antioxidants and Enzymes that act like alpha-hydroxy acids.It has been known for Years that Alpha-Hydroxy Acids promote smoother younger looking Skin by increasing the rate of cell renewal. Pumpkin also contains over 100 beneficial nutrients, which may be used to help reverse the signs of aging. Our Pumpkin Peel will rejuvenate your face, hands, body and feet. The Glycolic Acid in our mask transforms dull lifeless complexions into youthful skin that radiates. Our Mask contains 12% Glycolic Acid that allows you to get a Professional Spa Peel AT HOME !!!",
+    "itemID": "B00609D92Q",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 37422
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Treatments & Masks",
+        "Acids & Peels",
+        "Glycolic Acid"
+      ]
+    ],
+    "price": NaN,
+    "brand": NaN
+  },
+  {
+    "title": "REVLON Colorburst Lip Butter, Fig Jam, 0.09 Ounce",
+    "description": "Color burst lip butter combines beautiful color with a buttery balm to give you baby soft, healthy glowing lips. It has a pampering gel formula which glides on lips buttery smooth and instantly hydrates lips.",
+    "itemID": "B006GQCMJO",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 28626
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Lips",
+        "Lipstick"
+      ]
+    ],
+    "price": 6.12,
+    "brand": "Revlon"
+  },
+  {
+    "title": "e.l.f. HD Blush, Superstar, 0.34 Ounce",
+    "description": "Rich and creamy HD blush naturally sculpts and highlights the cheekbones for a soft-focus effect that is great for everyday use. The vitamin E enriched formula conditions and hydrates the skin for a healthy, radiant glow.",
+    "itemID": "B009YXC3LS",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Beauty": 23231
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Blush"
+      ]
+    ],
+    "price": 5.6,
+    "brand": "e.l.f. Cosmetics"
+  }
+]

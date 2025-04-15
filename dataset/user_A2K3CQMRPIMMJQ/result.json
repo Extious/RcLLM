@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Mrs. Meyer's Clean Day Dish Soap, Lavender, 16 Ounce Bottle",
+    "description": "Here's something you simply can't live without. Our Dish Soap is rich, thick and makes grease disappear like nobody's business. We even added Soap Bark Extract, another ingredient from nature and one of its best degreasers. All you need is a squirt or two and you're on your way.",
+    "itemID": "B0000UTUVU",
+    "helpful": [
+      0,
+      1
+    ],
+    "overall": 1.0,
+    "salesRank": NaN,
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Lotions"
+      ]
+    ],
+    "price": 8.19,
+    "brand": "Mrs. Meyer&#39;s Clean Day"
+  },
+  {
+    "title": "Palmer's Cocoa Butter Formula With Vitamin E Lotion Fragrance Free , 13.5-Ounce Bottle (Pack of 4)",
+    "description": "Cocoa Butter Formula with Vitamin E  Softens, Smoothes and Relieves Dry Skin",
+    "itemID": "B001G7R3QK",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 4639
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Lotions"
+      ]
+    ],
+    "price": 30.76,
+    "brand": "Palmer&#39;s"
+  },
+  {
+    "title": "Dove Beauty Bar, Cool Moisture, 4 Bars",
+    "description": "Experience a bar that can refresh-and care for skin-at the same time. Dove has combined its &#xBC; hydrating lotion with the uplifting scent of cucumber and green tea for a bar that leaves you with the clean, cool feeling of hydrated skin.",
+    "itemID": "B001IACZEK",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 9611
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Cleansers",
+        "Soaps"
+      ]
+    ],
+    "price": 7.05,
+    "brand": "Dove"
+  }
+]

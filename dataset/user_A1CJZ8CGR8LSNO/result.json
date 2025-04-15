@@ -1,0 +1,48 @@
+[
+  {
+    "title": "My Wet Brush Pro Select Paddle Brush, Black, 4 Ounce",
+    "description": "Paddle brush with super soft flexible bristles for thick hair",
+    "itemID": "B00AGZEG4U",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 2723
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Brushes"
+      ]
+    ],
+    "price": 7.52,
+    "brand": "The Wet Brush"
+  },
+  {
+    "title": "Maybelline New York Great Lash Clear Mascara for Lash and Brow 110, 0.44 Fluid Ounce",
+    "description": "Perfectly separates for a natural look. Use it on lashes or to set brows.",
+    "itemID": "B001KYQA1S",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 482
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Eyes",
+        "Mascara"
+      ]
+    ],
+    "price": 12.95,
+    "brand": "Maybelline"
+  }
+]

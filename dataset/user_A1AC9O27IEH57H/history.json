@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Laura Mercier Lip Glace - Blush",
+    "description": "Laura Mercier Lip Glace is a high-shine, perfectly pigmented lip gloss with rich, long-lasting colour and brilliant shine that makes lip appear fuller, virtually enhancing any skin tone by creating a subtle contrast in texture",
+    "itemID": "B00166IQ6W",
+    "helpful": [
+      1,
+      2
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Health & Personal Care": 189118
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Lips",
+        "Lip Glosses"
+      ]
+    ],
+    "price": 20.44,
+    "brand": "laura mercier"
+  },
+  {
+    "title": "Hempz Herbal Moisturizer, 17-Fluid Ounce (500 ml) (Package may vary)",
+    "description": "Pure Herbal Extracts. All-day moisturizing lotion enriched with pure hemp seed oil and extract. Hempz Moisturizer is an all day herbal body lotion providing dramatic skin through the use of pure hemp seed oil and extract. Pure hemp seed oil and extract are rich sources of essential fatty acids and key amino acids, vital to nourishing, hydrating and protecting skin. Enriched with shea butter, ginseng and natural extracts to calm, soothe and condition the skin. Vitamins A, C, & E help protect skin from natural and environmentally triggered oxidants to help reduce the appearance of the lines and wrinkles. Provides 12 hour moisturization. THC drug free. Made in USA.",
+    "itemID": "B000OYJ9AO",
+    "helpful": [
+      2,
+      3
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 109
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Lotions"
+      ]
+    ],
+    "price": 9.98,
+    "brand": "Hempz"
+  },
+  {
+    "title": "Sigma F50 - Duo Fibre",
+    "description": "Unique Feature: Fiber blend with large flat top\nFunction: Creates an airbrush-like effect onto the skin\nRecommended Use: Can be used with powder, liquid or cream products.\n\n 2013 Sigma Enterprises, LLC",
+    "itemID": "B005P0QN56",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 61732
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Tools & Accessories",
+        "Makeup Brushes & Tools",
+        "Brushes & Applicators"
+      ]
+    ],
+    "price": 26.0,
+    "brand": "Sigma Beauty"
+  }
+]

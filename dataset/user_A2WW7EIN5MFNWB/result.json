@@ -1,0 +1,165 @@
+[
+  {
+    "title": "L'Oreal Paris Couleur Experte Express Hair Color, 6.1 Light Ash Brown/French Eclair",
+    "description": "Couleur Experte is the only at-home dual-system coloring kit that combines in just one box permanent base color with harmonizing highlights. Thanks to perfectly coordinated shades, you can achieve a rich, elegant, salon-like look in just two easy steps.  Color + Highlights in One.  Fast Application.  Experte Highlights.",
+    "itemID": "B000KOHSQA",
+    "helpful": [
+      2,
+      3
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 21963
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Hair Color",
+        "Chemical Hair Dyes"
+      ]
+    ],
+    "price": 12.34,
+    "brand": "L&#39;Oreal Paris"
+  },
+  {
+    "title": "John Frieda Precision Foam Colour, Medium Natural Blonde 8N",
+    "description": "Precision Foam Colour is the first ever premium permanent home hair colour that uses foam technology to deliver salon-quality results at home.With 20 flattering shades to choose from, achieving flawless, natural-looking results at home has never been quicker or easier.",
+    "itemID": "B004DK46XK",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Beauty": 17634
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Hair Color",
+        "Chemical Hair Dyes"
+      ]
+    ],
+    "price": 9.64,
+    "brand": "John Frieda"
+  },
+  {
+    "title": "Remington S8500 Shine Therapy  Moisturizing and Conditioning Digital Ceramic Hair Straightener, 1&quot;",
+    "description": "",
+    "itemID": "B001LF4I8I",
+    "helpful": [
+      5,
+      5
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 16668
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Irons",
+        "Flattening Irons"
+      ]
+    ],
+    "price": 89.95,
+    "brand": "Remington"
+  },
+  {
+    "title": "Maybelline New York Volume Express Mega Plush Waterproof Mascara, Very Black, 0.3 Fluid Ounce",
+    "description": "Introducing maybelline's first gel-mousse mascara:  volum' express mega plush contains 40% less hard waxes for massive, yet supple lashes.  The patented flexor brush gently coats every lash with mega volume that's never stiff and never brittle.  Opthalmologist tested and contact lens safe.",
+    "itemID": "B008C12ZHK",
+    "helpful": [
+      0,
+      1
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Beauty": 7098
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Eyes",
+        "Mascara"
+      ]
+    ],
+    "price": 0.01,
+    "brand": "Maybelline"
+  },
+  {
+    "title": "Neutrogena Mineral Sheers Powder Foundation, Natural Ivory 20, 0.34 Ounce",
+    "description": "Mineral Sheers Compact Powder Foundation is the first purified mineral makeup in a compact. Neutrogena Mineral Sheers Compact Powder Foundation enhances your skin through dermatologistselected pure and gentle minerals. This convenient pressed powder foundation creates a naturally radiant and glowing complexion. Featuring exclusive timereleased antioxidants and SPF 20, new Mineral Sheers Compact Powder Foundation formula delivers extra soft and blendable pressed minerals, so you can build your desired coverage from sheer to medium without a heavy makeup look or feel. And, it's great for messfree, easy touchups.",
+    "itemID": "B0014A5P8C",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 113407
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Foundation"
+      ]
+    ],
+    "price": 7.06,
+    "brand": "Neutrogena"
+  },
+  {
+    "title": "Remington CI95AC/2 Tstudio Salon Collection Pearl Digital Ceramic Curling Wand, 1/2 Inch - 1 Inch",
+    "description": "",
+    "itemID": "B003V265QW",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 73
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Irons",
+        "Curling Irons"
+      ]
+    ],
+    "price": 27.77,
+    "brand": "Remington"
+  },
+  {
+    "title": "Clairol Nice 'N Easy Hair Color 117 Natural Medium Golden Brown 1 Kit (Pack of 3) (packaging may vary)",
+    "description": "",
+    "itemID": "B001E5EDJY",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Beauty": 166970
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Hair Color",
+        "Chemical Hair Dyes"
+      ]
+    ],
+    "price": 24.32,
+    "brand": "Clairol"
+  }
+]

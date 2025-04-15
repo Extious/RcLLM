@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Regenerist Micro-Sculpting Cream 1.7 Oz",
+    "description": "",
+    "itemID": "B0012J30LY",
+    "helpful": [
+      2,
+      4
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Beauty": 64
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Creams & Moisturizers",
+        "Fluids & Lotions",
+        "Lotions"
+      ]
+    ],
+    "price": 11.45,
+    "brand": "Olay"
+  },
+  {
+    "title": "Irene Gari Fill In Powder, Dark Brown, 0.24 Ounce",
+    "description": "This matte powder instantly fills-in thinning and balding areas to produce the appearance of thick, full hair. Blends in seamlessly and matches your hair color perfectly. Rain proof & sweat proof. It won't run, streak or rub off. Washes out only when hair is shampooed normally. Suitable for all hair types.",
+    "itemID": "B005MMCAX6",
+    "helpful": [
+      13,
+      14
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 6422
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Hair & Scalp Treatments"
+      ]
+    ],
+    "price": 8.29,
+    "brand": "Irene Gari"
+  },
+  {
+    "title": "Glam Air Airbrush foundation makeup S3 Natural Nude Satin Foundation Water-based Makeup (981) (Ideal for Fair/light Normal to Dry Skin)",
+    "description": "Our magnificent water-based make-up may be used on all skin types and all origins around the globe! - Fast and easy coverage and application! - Perfect coverage for the everday woman! - Gives a glamorous or natural look, whether you're headed to the office or have a hot date! -Provides great coverage for various skin conditions, ie.....acne, acne scarring, freckles, rosacea, skin discolorations, birth marks, and so much more! - Goes on clean everytime, no dirty brushes involved, no transfer of oils or dirt (as you may sometimes have with conventional brushes, sponges, or when applied with your hands). - Helps improve acne caused by external conditions. (oils and dirt) -Also perfect for actors and models who need a fast and easy camera-ready look!",
+    "itemID": "B005F6FKOK",
+    "helpful": [
+      0,
+      1
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 155334
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Foundation"
+      ]
+    ],
+    "price": 9.95,
+    "brand": NaN
+  }
+]

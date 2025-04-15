@@ -1,0 +1,48 @@
+[
+  {
+    "title": "Clairol Nice 'N Easy Hair Color 117 Natural Medium Golden Brown 1 Kit (Pack of 3) (packaging may vary)",
+    "description": "",
+    "itemID": "B001E5EDJY",
+    "helpful": [
+      0,
+      1
+    ],
+    "overall": 1.0,
+    "salesRank": {
+      "Beauty": 166970
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Hair Color",
+        "Chemical Hair Dyes"
+      ]
+    ],
+    "price": 24.32,
+    "brand": "Clairol"
+  },
+  {
+    "title": "L'Oreal Paris Voluminous Extra-Volume Collagen Mascara, Blackest Black, 0.34 Ounces",
+    "description": "Discover your lushest, most luxurious lashes with extra-volume collagen mascara. made with hydra-collagen, it enhances the thickness of your lashes for up to 12x more impact without any clumps. our patented brush is 50% bigger so it builds that incredible.",
+    "itemID": "B004BCVD4A",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Beauty": 2086
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Eyes",
+        "Mascara"
+      ]
+    ],
+    "price": 3.99,
+    "brand": "L&#39;Oreal Paris"
+  }
+]

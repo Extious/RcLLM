@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Jergens Skin Firming Daily Toning Moisturizer, 16.8 Ounce",
+    "description": "Jergens skin firming moisturizing lotion restores elasticity for a silky and smooth look. Daily toner moisturizer with natural extracts reduces the appearance of cellulite. Jergens skin firming daily toner moisturizer rules with a firm hand to tone and tighten the look of cellulite-prone skin. This body lotion instantly hydrates skin leaving it smooth, healthier-looking and supple.",
+    "itemID": "B000P9B3NY",
+    "helpful": [
+      0,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 15025
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Lotions"
+      ]
+    ],
+    "price": 11.55,
+    "brand": "Jergens"
+  },
+  {
+    "title": "John Frieda Sheer Blonde Lustrous Touch Strengthening Shampoo for All Types of Blonde Hair, 8.45 Ounce",
+    "description": "Healthy strands reflect glistening color and natural shine. Blonde strands tend to be fragile and prone to breakage, needing strength and nourishment to sparkle with bright, shimmering tones.",
+    "itemID": "B001BAFQMK",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 10370
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 4.97,
+    "brand": "John Frieda"
+  },
+  {
+    "title": "Jan Marini Benzoyl Peroxide Acne Medication, 4 Ounce",
+    "description": "Named after it's founder, jan marini is a line known for its use of glycolic acid in their top of the line skin care products. Jan marini products address those specific concerns and skin conditions to meet every need of their consumer.",
+    "itemID": "B001BBMG40",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 18925
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Cleansers"
+      ]
+    ],
+    "price": 18.3,
+    "brand": "Jan Marini"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Body Toolz Double Loop Facial Skin Care Tool",
+    "description": "Double loop extractor for removing blackheads and whiteheads. Textured non-slip handle for easy use.",
+    "itemID": "B001B7GJ2E",
+    "helpful": [
+      1,
+      5
+    ],
+    "overall": 1.0,
+    "salesRank": {
+      "Beauty": 1681
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Tools & Accessories",
+        "Makeup Brushes & Tools",
+        "Treatment Tools",
+        "Blemish Tools"
+      ]
+    ],
+    "price": 7.76,
+    "brand": "Body Toolz"
+  },
+  {
+    "title": "Garnier Nutrisse Level 3 Permanent Hair Creme, Extra, Light Ash Blonde 111 (White Chocolate)",
+    "description": "Garnier Nutrisse Level 3 Permanent Hair Creme, Extra, Light Ash Blonde 111 (White Chocolate)",
+    "itemID": "B001B54XL0",
+    "helpful": [
+      9,
+      12
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 37339
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Hair Color",
+        "Chemical Hair Dyes"
+      ]
+    ],
+    "price": 5.95,
+    "brand": "Garnier Nutrisse"
+  },
+  {
+    "title": "Avon MagiX Face Perfector SPF 20,30ml 1fl oz",
+    "description": "A magical new air-light colorless formula that makes all skin tones look flawless... invisible coverage. instant perfection. SPF 20. 1 fl. oz.",
+    "itemID": "B001EDHAU0",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 7817
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Creams & Moisturizers"
+      ]
+    ],
+    "price": 8.99,
+    "brand": "Avon"
+  }
+]

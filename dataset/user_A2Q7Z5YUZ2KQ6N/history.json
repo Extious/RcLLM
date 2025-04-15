@@ -1,0 +1,69 @@
+[
+  {
+    "title": "Neutrogena Body Clear Body Wash for Clean, Clear Skin, 8.5 Ounce",
+    "description": "Neutrogena body clear body wash is a refreshing, cleanrinsing body wash that helps fight breakouts on your back, chest and shoulders. This effective, yet gentle formula contains a proven acnefighting ingredient that treats and helps prevent breakouts without overdrying and irritating your skin. The foaming lather rinses completely without pore clogging residue, leaving your skin feeling clean. Questions or comments? Call 18005824048 (USA only) or www.Neutrogena.com.",
+    "itemID": "B0000535RD",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": NaN,
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Scrubs & Body Treatments",
+        "Body Scrubs"
+      ]
+    ],
+    "price": 7.99,
+    "brand": "Neutrogena"
+  },
+  {
+    "title": "Buf-Puf Reusable Facial Sponge (Pack of 6)",
+    "description": "Thoroughly cleans and refreshes your skin. Use every day with your favorite cleanser.Leaves Skin Feeling Clean and Refreshed!Use every day with your favorite soap or cleanserLifts off dry, dulling skin cellsGently cleanses away makeup, dirt and excess oilLeaves skin smooth and soft, perfectly prepped for moisturizers and makeupDermatology-tested for gentleness",
+    "itemID": "B000052YJH",
+    "helpful": [
+      2,
+      3
+    ],
+    "overall": 3.0,
+    "salesRank": NaN,
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Cleansers"
+      ]
+    ],
+    "price": 23.5,
+    "brand": "Buf-Puf"
+  },
+  {
+    "title": "Olay Regenerist Daily Regenerating Serum - Fragrance Free Moisturizer 1.7 Fl Oz",
+    "description": "",
+    "itemID": "B0000CC64W",
+    "helpful": [
+      2,
+      3
+    ],
+    "overall": 1.0,
+    "salesRank": {
+      "Beauty": 35
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Creams & Moisturizers",
+        "Fluids & Lotions",
+        "Fluids"
+      ]
+    ],
+    "price": 14.75,
+    "brand": "Olay"
+  }
+]

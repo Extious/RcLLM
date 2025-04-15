@@ -1,0 +1,96 @@
+[
+  {
+    "title": "MAC Satin Lipstick - Viva Glam Nicki",
+    "description": "A sizzling shade of flamingo pink with a satin finish.",
+    "itemID": "B0079RQ0EM",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 79517
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Lips",
+        "Lipstick"
+      ]
+    ],
+    "price": 38.99,
+    "brand": "M.A.C"
+  },
+  {
+    "title": "Neutrogena Acne Stress Control Gel Cleanser, 6 FL Ounce (Pack of 2)",
+    "description": "",
+    "itemID": "B004D282LU",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 60110
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Cleansers",
+        "Gels"
+      ]
+    ],
+    "price": 34.19,
+    "brand": "Neutrogena"
+  },
+  {
+    "title": "Ciara 100% by Revlon for Women, Cologne Spray, 2.38 Ounce",
+    "description": "Introduced in 1973. Fragrance notes: vanilla and musk. Recommended use: romantic.",
+    "itemID": "B000C1W44M",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 3073
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Fragrance",
+        "Women's",
+        "Cologne"
+      ]
+    ],
+    "price": 4.19,
+    "brand": "Revlon"
+  },
+  {
+    "title": "Phisoderm Anti-Blemish Body Wash, 10-Ounce",
+    "description": "PH balanced anti-blemish body wash clears up acne breakouts for smooth, balanced skin",
+    "itemID": "B00BG4MI3Q",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Health & Personal Care": 1134
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Oils"
+      ]
+    ],
+    "price": 5.31,
+    "brand": "pHisoderm"
+  }
+]

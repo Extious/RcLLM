@@ -1,0 +1,48 @@
+[
+  {
+    "title": "Revlon Curl Collections Quick Styling Hot Air Kit",
+    "description": "Revlon RVHA6002C 1 & 1-1/2 inch Hot Air Styler Brush has 1500 watts and Ionic Technology. The barrel is ceramic with two brush attachments to make styling your hair easier.",
+    "itemID": "B001AFGLSO",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 1.0,
+    "salesRank": {
+      "Beauty": 17695
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Hot-Air Brushes"
+      ]
+    ],
+    "price": 34.88,
+    "brand": "Revlon"
+  },
+  {
+    "title": "John Frieda JFHA5 Hot Air Brush, 1.5 inch",
+    "description": "",
+    "itemID": "B0056GDG90",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 149
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Hot-Air Brushes"
+      ]
+    ],
+    "price": 28.69,
+    "brand": "John Frieda"
+  }
+]

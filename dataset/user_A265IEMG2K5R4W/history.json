@@ -1,0 +1,73 @@
+[
+  {
+    "title": "Remington Ci96z1 Silk Ceramic Elliptical Waving Wand",
+    "description": "",
+    "itemID": "B00BB8ZHJY",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 55758
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Irons",
+        "Curling Irons"
+      ]
+    ],
+    "price": 25.32,
+    "brand": "Remington"
+  },
+  {
+    "title": "Revlon Creme Nail Enamel: Vixen #570",
+    "description": "Revlon Creme Nail Enamel: Vixen #570. Revlon Nail Enamel delivers gorgeous, smooth, chip-resistant color to nails, Revlon's exclusive silk-protein shield works to instantly help even out the surface of the nail, it rises above color to automatically smooth away bubbles, streaks and brush marks.",
+    "itemID": "B001T8W4R4",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 44562
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Nails",
+        "Nail Polish"
+      ]
+    ],
+    "price": 14.99,
+    "brand": "Revlon"
+  },
+  {
+    "title": "Dr. King's Natural Medicine Sciatic Nerve Formula , 2 Fluid Ounce",
+    "description": "For relief of symptoms of shooting pains, numbness, burning, tightness, spasms and muscle weakness of the leg associated with sciatica, phantom pains. Safe and natural homeopathic formulas. No alcohol, dairy, glutens, sugar or yeast. Taste free, odor free, pure water base.",
+    "itemID": "B003CW9VCG",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Health & Personal Care": 57888
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Lotions"
+      ]
+    ],
+    "price": 13.66,
+    "brand": "Dr. King&#39;s Natural Medicine"
+  }
+]

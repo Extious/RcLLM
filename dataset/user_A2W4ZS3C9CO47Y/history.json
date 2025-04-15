@@ -1,0 +1,70 @@
+[
+  {
+    "title": "e.l.f. Cosmetics 12 Piece Brush Set",
+    "description": "Set includes concealer brush blush/bronzer brush foundation brush blending eye brush smudge eye sponge eye liner brush total face brush defining eye brush eyelash and brow wand lip defining brush brow comb and brush eye shadow brush.",
+    "itemID": "B001HKR6WM",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 177
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Tools & Accessories",
+        "Makeup Brushes & Tools",
+        "Brushes & Applicators"
+      ]
+    ],
+    "price": 12.99,
+    "brand": "e.l.f. Cosmetics"
+  },
+  {
+    "title": "Sexy Hair Big Sexy Hair Volumizing Dry Shampoo, 3.4 Ounce",
+    "description": "Big sexy hair volumizing dry shampoo is a clay and mineral based dry shampoo that will add volume while absorbing excess oil, impurities and product buildup. No need to use water. Big sexy hair volumizing dry shampoo is great for use as a refresher in between washings.",
+    "itemID": "B001U6FIVE",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Beauty": 2854
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 16.42,
+    "brand": "Sexy Hair"
+  },
+  {
+    "title": "Maybelline New York Full 'N Soft Waterproof Mascara, Very Black 311, 0.28 Fluid Ounce",
+    "description": "This mascara builds full, soft thick lashes without the brittle feel. Prevents loss of lashes with patented quick dissolve system that allows easy mascara removal. Won't run, smear or smudge. No clumps, no globs. Contact lens safe and hypoallergenic. Waterproof; also available in washable formula.",
+    "itemID": "B004OT29MA",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 3721
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Eyes",
+        "Mascara"
+      ]
+    ],
+    "price": 8.99,
+    "brand": "Maybelline"
+  }
+]

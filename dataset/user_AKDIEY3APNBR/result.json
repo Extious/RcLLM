@@ -1,0 +1,69 @@
+[
+  {
+    "title": "CLEAR SCALP &amp; HAIR BEAUTY Moisturizing Dry Scalp Nourishing Shampoo, 12.9 Fluid Ounce",
+    "description": "",
+    "itemID": "B007RTR8A2",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 70675
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 1.23,
+    "brand": "Clear"
+  },
+  {
+    "title": "Dove Men+Care Thickening Fortifying Shampoo,12 FL.OZ.",
+    "description": "",
+    "itemID": "B00AE07EGO",
+    "helpful": [
+      0,
+      1
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 7086
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 13.99,
+    "brand": "Dove"
+  },
+  {
+    "title": "Hawaiian Tropic Silk Hydration Face Lotion SPF 30, 1.7 Ounce",
+    "description": "Hawaiian tropic silk hydration faces lotion-SPF 30. Hawaiian tropic silk hydration faces provides 12 hours of long lasting moisture with hydrating ribbons of silk protein and shea butter. Hawaiian tropic silk hydration faces is specifically formulated for usage on your face. Hawaiian tropic silk hydration faces is lightweight, oil free, non greasy, water resistant, and has a subtle tropical fragrance.",
+    "itemID": "B00FLRHYCE",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 31363
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Sun",
+        "Skin Protection"
+      ]
+    ],
+    "price": 16.98,
+    "brand": "Hawaiian Tropic"
+  }
+]

@@ -1,0 +1,48 @@
+[
+  {
+    "title": "NARS The Multiple, Maui",
+    "description": "The original multi-purpose stick for eyes, cheeks, lips and body. Its unique, creamy formula blends effortlessly to provide sheer color for creating shimmering accents, contours or dynamic highlights on all skin tones. Creates perfect, glowing complexions and is conveniently designed for failproof application",
+    "itemID": "B00021DDR4",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 109615
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Blush"
+      ]
+    ],
+    "price": 57.9,
+    "brand": "NARS"
+  },
+  {
+    "title": "Too Faced The Secret to No Makeup Makeup Fresh and Flawless Face Palette, 0.65 Ounce",
+    "description": "Why we love it: our new multitasking face palette is your answer to creating the illusion of flawlessness. The collection is dedicated to complexion perfection, for a flawless, \"I was born perfect\" look any time of the day. The kit has everything you need to create a complete look so it's great for traveling or sleepovers. Includes our signature how-to glamour guide with three looks to get you started.",
+    "itemID": "B00AYCOLMC",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 41668
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Powder"
+      ]
+    ],
+    "price": 37.64,
+    "brand": "Too Faced"
+  }
+]

@@ -1,0 +1,48 @@
+[
+  {
+    "title": "Aveeno Clear Complexion Daily Moisturizer, 4 Ounce",
+    "description": "This daily moisturizer has a unique formula with an exclusive total soy complex to help naturally even out skin tone and smooth texture. It also contains salicylic acid to help clear up and prevent blemishes. This fast absorbing moisturizer is gentle enough for sensitive skin and helps maintain healthylooking skin and improve your complexion. Aveeno clear complexion daily moisturizer leaves skin soft and smooth. Improves skin texture. Evens out skin tone. Improves skin clarity. Prevents breakouts. Clears up blemishes. Discover Aveeno active naturals simply put, active naturals are Ingredients derived from nature and uniquely formulated to reveal skin's natural health and beauty. A pioneer in the study of natural Ingredients for efficacious skin care, Aveeno has captured the naturally active benefits of soy. Long known for its health benefits, soy also delivers multiple skin benefits including moisturization, smoothing texture, and evening out skin tone. Aveeno offers facial care products that are noncomedogenic, hypallergenic, and gentle enough for everyday use.",
+    "itemID": "B00006FRW7",
+    "helpful": [
+      1,
+      2
+    ],
+    "overall": 5.0,
+    "salesRank": NaN,
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Cleansers"
+      ]
+    ],
+    "price": 4.65,
+    "brand": "Aveeno"
+  },
+  {
+    "title": "Olay Regenerist Daily Regenerating Serum - Fragrance Free Moisturizer 1.7 Fl Oz",
+    "description": "",
+    "itemID": "B0000CC64W",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 35
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Creams & Moisturizers",
+        "Fluids & Lotions",
+        "Fluids"
+      ]
+    ],
+    "price": 14.75,
+    "brand": "Olay"
+  }
+]

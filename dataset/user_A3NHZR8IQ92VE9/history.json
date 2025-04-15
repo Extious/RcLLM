@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Blue Lizard Australian Sunscreen, Regular, SPF 30+, 8.75-Ounce Bottle",
+    "description": "Blue Lizard Australian Suncream Regular SPF 30+ is a broad spectrum sun block that is extremely water resistant. Blue Lizard utilizes transparent Zinc Oxide along with chemical blockers to provide broad spectrum protection from both UVA and UVB rays.  The packaging is unique as it provides a UV indicator for consumers to know when they need to be wearing suncreen.  The bottle turns BLUE when exposed to UV rays.",
+    "itemID": "B00007FCQ1",
+    "helpful": [
+      0,
+      3
+    ],
+    "overall": 4.0,
+    "salesRank": NaN,
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Sun",
+        "Skin Protection",
+        "Sports"
+      ]
+    ],
+    "price": 28.51,
+    "brand": "Blue Lizard"
+  },
+  {
+    "title": "Revlon RVSP3501B1 Moisturestay Quick Heat Paraffin Bath",
+    "description": "Revlon&#x2019;s moisture stay quick heat paraffin bath is useful in symptomatic relief of pain caused by arthritis, bursitis and chronic joint inflammation. it provides thermal relief using a full range of heat comfort levels. the heat softened wax removes dry surface skin and smoothes and softens skin on hands, elbows and feet. for faster relief and results the bath gently melts wax in 60 minutes and the indicator light gently glows when the unit is operating. included is 3 pounds of wax, 2 thermal mitts and 30 glove liners.",
+    "itemID": "B003ZWEW1S",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 8533
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Hands & Nails",
+        "Paraffin Baths"
+      ]
+    ],
+    "price": 45.99,
+    "brand": "Revlon"
+  },
+  {
+    "title": "Dynarex Medical Surgical Face Masks 50pk",
+    "description": "Face Mask Ear Loop Procedure",
+    "itemID": "B00443XOTS",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Health & Personal Care": 3907
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Treatments & Masks",
+        "Masks"
+      ]
+    ],
+    "price": 4.49,
+    "brand": "Dynarex"
+  }
+]

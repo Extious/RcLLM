@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Infiniti Pro by Conair 1875 Watt Salon Performance Folding Handle Hair Dryer",
+    "description": "",
+    "itemID": "B004INUY06",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 2968
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Hair Dryers"
+      ]
+    ],
+    "price": 24.5,
+    "brand": "Conair"
+  },
+  {
+    "title": "Remington CI95AC/2 Tstudio Salon Collection Pearl Digital Ceramic Curling Wand, 1/2 Inch - 1 Inch",
+    "description": "",
+    "itemID": "B003V265QW",
+    "helpful": [
+      2,
+      2
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 73
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Irons",
+        "Curling Irons"
+      ]
+    ],
+    "price": 27.77,
+    "brand": "Remington"
+  },
+  {
+    "title": "Olay Total Effects Dark Circle Minimizing Brush 0.2 Fl Oz",
+    "description": "This daily under-eye moisturizer provides tinted coverage for younger-looking eyes. &#x2022; Instantly reduces the appearance of dark circles and fine lines &#x2022; Gentle brush application provides smooth, even coverage &#x2022; Fights 7 signs of aging",
+    "itemID": "B004799QZA",
+    "helpful": [
+      0,
+      1
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 9724
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Tools & Accessories",
+        "Makeup Brushes & Tools",
+        "Brushes & Applicators"
+      ]
+    ],
+    "price": 7.45,
+    "brand": "Olay"
+  }
+]

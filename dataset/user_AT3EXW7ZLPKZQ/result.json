@@ -1,0 +1,69 @@
+[
+  {
+    "title": "Dial Cranberry and Antioxidant Glycerin Soap Bar, 8 Count (Pack of 2)",
+    "description": "Environmental stress and drying can prematurely age your skin. Dial Anitoxidant bar soap helps reinforce your skin's defense system while its moisturizing formula, infused with natural cranberry extracts provides a healthy clean.",
+    "itemID": "B005JRGJ5O",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Health & Personal Care": 32691
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Cleansers",
+        "Soaps"
+      ]
+    ],
+    "price": 18.5,
+    "brand": "Dial"
+  },
+  {
+    "title": "Suave Suave Naturals Rainforest Fresh Shampoo, 22.5 Ounce",
+    "description": "",
+    "itemID": "B00A0IWTDI",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 89890
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 6.99,
+    "brand": "Suave"
+  },
+  {
+    "title": "Suave Naturals Gentle Cleansing Shampoo, Waterfall Mist, 12 oz",
+    "description": "",
+    "itemID": "B000W30RP8",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 33227
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 5.95,
+    "brand": "Suave"
+  }
+]

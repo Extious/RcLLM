@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Batiste Dry Shampoo 5.05 oz. Tropical",
+    "description": "With a deliciously exotic fragrance, revitalises greasy, dull and lifeless hair between washes. Instantly leaves your hair feeling clean, full of body and smelling beautiful. Quick and convenient to use wherever you are. (5.05 oz.)",
+    "itemID": "B000KVH1QU",
+    "helpful": [
+      10,
+      13
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 71162
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 2.93,
+    "brand": "Batiste"
+  },
+  {
+    "title": "Murad by Murad: MURAD ACNE SPOT TREATMENT--/0.5OZ",
+    "description": "Murad by Murad MURAD ACNE SPOT TREATMENT--/0.5OZ",
+    "itemID": "B00110DWCQ",
+    "helpful": [
+      2,
+      4
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 7391
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Treatments & Masks"
+      ]
+    ],
+    "price": 19.95,
+    "brand": "Murad"
+  },
+  {
+    "title": "Proactiv Solution Refining Mask 2.5 Oz",
+    "description": "Developed by dermatologists specifically for the management of acne, this soothing mask provides deep cleaning while helping refine problem skin. From Proactiv(R) Solution\n\nSize 2.5 oz",
+    "itemID": "B001G7OCSM",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 426
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Treatments & Masks",
+        "Masks"
+      ]
+    ],
+    "price": 2.0,
+    "brand": "Proactiv"
+  }
+]

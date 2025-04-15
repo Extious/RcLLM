@@ -1,0 +1,90 @@
+[
+  {
+    "title": "Neutrogena Norwegian Formula Hand Cream, Fragrance-Free (2 Ounce)",
+    "description": "Neutrogena Hand Cream delivers effective relief for dry, chapped hands.  This clinically proven, highly concentrated formula rapidly heals dry hands. It noticeably improves the look and feel of your skin.",
+    "itemID": "B000052YP6",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": NaN,
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Hands & Nails",
+        "Hand Creams & Lotions"
+      ]
+    ],
+    "price": 2.87,
+    "brand": "Neutrogena"
+  },
+  {
+    "title": "Salon Grafix Healthy Hair Nutrition Cleansing Conditioner, 12 oz",
+    "description": "Salon Grafix Healthy Hair Nutrition Cleansing Conditioner, 12 oz",
+    "itemID": "B007MNYY14",
+    "helpful": [
+      0,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 24250
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Conditioners"
+      ]
+    ],
+    "price": 6.31,
+    "brand": "Salon Grafix"
+  },
+  {
+    "title": "Suave Professionals, conditioner, sleek, 28oz",
+    "description": "Sleek conditioner conditions and smoothens dry or frizzy hair for less than more expensive brands. Enriched with silk amino acids to smooth hair as well as matrix sleek look conditioner. Softens and improves hair's texture, leaving it looking salon-smooth and healthy.",
+    "itemID": "B001P1ZEHM",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 98750
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Conditioners"
+      ]
+    ],
+    "price": 8.99,
+    "brand": "Suave"
+  },
+  {
+    "title": "Herbal Essences Totally Twisted Curl Silkening Detangler Hair Care 8.5 Fl Oz",
+    "description": "Don't get caught up in it all. Totally Twisted Curl Silkening Detangler's formula works to silken and separate your strands so your curls feel quenched and can work their magic.",
+    "itemID": "B008CC4FPY",
+    "helpful": [
+      5,
+      5
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 32220
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Creams, Gels & Lotions"
+      ]
+    ],
+    "price": 3.99,
+    "brand": NaN
+  }
+]

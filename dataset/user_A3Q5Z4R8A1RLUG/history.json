@@ -1,0 +1,74 @@
+[
+  {
+    "title": "Cetaphil Restoraderm Skin Restoring Moisturizer, 10-Fluid Ounces",
+    "description": "",
+    "itemID": "B003TQU1Q0",
+    "helpful": [
+      4,
+      8
+    ],
+    "overall": 1.0,
+    "salesRank": {
+      "Beauty": 33
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Creams & Moisturizers",
+        "Fluids & Lotions",
+        "Fluids"
+      ]
+    ],
+    "price": 10.11,
+    "brand": "Cetaphil"
+  },
+  {
+    "title": "Cetaphil Restoraderm, Skin Restoring Body Wash, Formulated For Eczema, 10 Ounce",
+    "description": "",
+    "itemID": "B003UF0RB4",
+    "helpful": [
+      6,
+      8
+    ],
+    "overall": 1.0,
+    "salesRank": {
+      "Beauty": 38
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Oils"
+      ]
+    ],
+    "price": 13.26,
+    "brand": "Cetaphil"
+  },
+  {
+    "title": "OGX Body Wash, Hydrating Argan Oil of Morocco, 13oz",
+    "description": "Intensely moisturizing creamy oil body wash blend specially formulated with an exclusive moisture lock system that uses a pca complex to help draw moisture into the skin while a ceramide complex creates a surface barrier to lock it in. Sugar cane and willow bark promote cellular turnover and pure argan oil seed extract envelopes your body with naturally occurring nutrients.",
+    "itemID": "B0072F80DK",
+    "helpful": [
+      0,
+      1
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 15239
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Cleansers",
+        "Body Washes"
+      ]
+    ],
+    "price": 13.2,
+    "brand": NaN
+  }
+]

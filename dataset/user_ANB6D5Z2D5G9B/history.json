@@ -1,0 +1,73 @@
+[
+  {
+    "title": "Cetaphil Antibacterial Gentle Cleansing Bar, 4.5-Ounce Bar (Pack of 6)",
+    "description": "",
+    "itemID": "B001ET76E4",
+    "helpful": [
+      1,
+      2
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Beauty": 333
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Cleansers",
+        "Soaps"
+      ]
+    ],
+    "price": 27.82,
+    "brand": "Cetaphil"
+  },
+  {
+    "title": "TCA 15% Gel Peel - Salicylic Acid 5% Enhanced with Botanical Extracts (Professional Quality Chemical Peel)",
+    "description": "Formulated specifically to help reduce wrinkles, fine lines, acne, scars, and reverse the visible signs of aging. TCA (Trichloroacetic Acid), a powerful exfoliating agent works by removing the outer damaged layers of the skin in the epidermal and dermal regions. Salicylic Acid, a beta hydroxy acid has been proven in many studies to reduce acne by softening keratin, the protein that holds skin together. Salicylic also works at unclogging pores, and penetrating into the skin to kill the bacteria responsible for causing acne.\n\nWhy Perfect Image?\n\nMany skin peels being sold today are not made in a professionally facility. This means they are not manufactured under the proper environments and no quality control, assay testing (activity of ingredients), micro testing (bacteria, yeast, mold, other Microorganisms), identity testing (Purity and Identity of Ingredients) and shelf life testing is conducted. This could cause a number of potential health hazards or permanently damage your skin if the product is contaminated. Contamination may occur during manufacturing or by the end-user after the container is opened. Without some antimicrobial properties, products can allow the growth of many different microorganisms. \n\nWe believe in incorporating natural plant extracts or organic ingredients which promote or aid in the healing, repairing, or protecting of the skin. Each ingredient is hand picked for its unique skin benefiting properties. We also incorporate natural preservatives into each product, as some studies have suggested using parabens as preservatives may cause potential health risks.",
+    "itemID": "B006ZENPYS",
+    "helpful": [
+      1,
+      2
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 9286
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Treatments & Masks",
+        "Acids & Peels",
+        "Salicylic Acid"
+      ]
+    ],
+    "price": 39.95,
+    "brand": "PERFECT IMAGE"
+  },
+  {
+    "title": "Acne.org 8 oz. Treatment (2.5% Benzoyl Peroxide)",
+    "description": "This 2.5% benzoyl peroxide is gel-based so it goes on clear and spreads easily. It is pharmaceutical grade, pH balanced, fragrance-free, and dye-free. It won't \"clump up\" with moisturizers, and won't turn white when you perspire. This treatment works best when used as part of The Regimen (acne.org/regimen), a step-by-step guide to clear skin.",
+    "itemID": "B00164FKWW",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 27936
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Cleansers"
+      ]
+    ],
+    "price": NaN,
+    "brand": NaN
+  }
+]

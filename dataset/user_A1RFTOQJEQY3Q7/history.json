@@ -1,0 +1,73 @@
+[
+  {
+    "title": "Bed Head Deep Waver",
+    "description": "Want frizz-free, bouncy waves that last all day and night, then you will love bed head's 3/4 inch tourmaline ceramic deep waver. tourmaline technology leaves you with frizz-free shiny styles. ceramic technology provides high, even heat that penetrates hair from the inside-out, helping hair retain natural moisture for &#x201C;frizz-free&#x201D; styles.",
+    "itemID": "B003FBI9LS",
+    "helpful": [
+      1,
+      2
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 179
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Irons",
+        "Curling Irons"
+      ]
+    ],
+    "price": 20.98,
+    "brand": "Bed Head"
+  },
+  {
+    "title": "Babyliss Pro BABNT100S Professional Nano Titanium Spring Curling Iron, 1 Inch",
+    "description": "Nano titanium barrel for smooth shiny curls. Advanced surround heat for ultimate styling.",
+    "itemID": "B0047WYO1I",
+    "helpful": [
+      0,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 4400
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Irons",
+        "Curling Irons"
+      ]
+    ],
+    "price": 30.99,
+    "brand": "BaBylissPRO"
+  },
+  {
+    "title": "Chi Deep Brilliance Hair Dryer, Purple",
+    "description": "Hair dryer developed for highly texturized hair. Smoothes coarse hair into soft, moveable hair. Shines hair using ceramic heat and ionic technology. Extremely quiet and lightweight.",
+    "itemID": "B004HFBDE6",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 83404
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Hair Dryers"
+      ]
+    ],
+    "price": NaN,
+    "brand": NaN
+  }
+]

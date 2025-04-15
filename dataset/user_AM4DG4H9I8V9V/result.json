@@ -1,0 +1,92 @@
+[
+  {
+    "title": "Earth Science A-D-E Creamy Fruit Oil Cleanser 8 oz.",
+    "description": "A gentle cream cleanser formulated with natural fruit oils to cleanse the skin and remove makeup without the dryness of soap. Moisturizes as it cleans to leave your skin soft and supple with no greasy build up.",
+    "itemID": "B0002JISX0",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 20127
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Creams & Moisturizers"
+      ]
+    ],
+    "price": 8.37,
+    "brand": "Earth Science"
+  },
+  {
+    "title": "As I Am Coconut Cowash Cleansing Conditioner, 16 Ounce",
+    "description": "This light no suds conditioning cream gently removes residue including all of the things you've used to style and maintain your coils and curls. Now it's time for a sparkling new beginning. This cowash is different from any other because it contains a special blend of natural ingredients that work to promote healthy hair growth from the follicular level.",
+    "itemID": "B00641UCY8",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 532
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Conditioners"
+      ]
+    ],
+    "price": 10.99,
+    "brand": "As I Am"
+  },
+  {
+    "title": "Holika Holika Moisture Petit BB Cream with Hyaluronic Acid SPF 30 PA++ 30ML",
+    "description": "Holika Holika Moisture Petit BB Cream 30ml",
+    "itemID": "B0059NA3MI",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 16674
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Foundation"
+      ]
+    ],
+    "price": 7.45,
+    "brand": "Holika Holika"
+  },
+  {
+    "title": "Shea Moisture Raw Shea Retention Shampoo-13 oz",
+    "description": "Shea Moisture Raw Shea Butter Moisture Retention Shampoo.Established 1912.W/sea kelp & argan oil.Dry, damaged hair.Heal, grow & strengthen.Sulfate free & color safe.",
+    "itemID": "B0038TVHGG",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 4508
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 7.33,
+    "brand": "Shea Moisture"
+  }
+]

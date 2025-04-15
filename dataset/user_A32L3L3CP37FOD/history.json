@@ -1,0 +1,75 @@
+[
+  {
+    "title": "Profoot Care Heel Rescue Superior Moisturizing Foot Cream 16 Oz",
+    "description": "specifically designed to penetrate, moisturize, and repair even the toughest cracked and calloused feet PROFOOT's formula is non-greasy and quickly leaves feet feeling soft, silky-smooth, and revitalized.",
+    "itemID": "B000GCKCDW",
+    "helpful": [
+      0,
+      2
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Health & Personal Care": 9803
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Creams & Moisturizers",
+        "Fluids & Lotions",
+        "Lotions"
+      ]
+    ],
+    "price": 9.2,
+    "brand": "Profoot"
+  },
+  {
+    "title": "SHANY Premium 4 sided, Quick Shine Block Nail Buffer, 1 Ounce (Pack of 3)",
+    "description": "Professional 4-Sided Buffing Block. 4-in-1 buffing block that allows you to smooth, buff and shine nails at the same time with one tool, no more salon products and no more waste of money. the Buffer is specially designed and manufactured by shany.",
+    "itemID": "B004RDSITG",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 133347
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Tools & Accessories",
+        "Nail Tools",
+        "Nail Files & Buffers"
+      ]
+    ],
+    "price": NaN,
+    "brand": NaN
+  },
+  {
+    "title": "CeraVe Moisturizing Facial Lotion AM, 3 Ounce",
+    "description": "CeraVe facial moisturizing lotion AM helps repair damaged skin and maintain the skin's natural protective function with ingredients not commonly found in other moisturizers. Its patented multivesicular emulsion (MVE) technology releases theses ingredients over time, penetrating deep into the skin to hydrate and nourish.",
+    "itemID": "B003WN1ELQ",
+    "helpful": [
+      0,
+      1
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 168
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Creams & Moisturizers",
+        "Fluids & Lotions",
+        "Lotions"
+      ]
+    ],
+    "price": 4.99,
+    "brand": "CeraVe"
+  }
+]

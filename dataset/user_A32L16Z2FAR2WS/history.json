@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Philosophy Just Release Me Eye Makeup Remover, 6 Ounce",
+    "description": "Just release me effectively removes eye makeup, including waterproof eye makeup, without irritation and leaves skin feeling clean with no oily residue.",
+    "itemID": "B002GNFSPG",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 14236
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Makeup Remover",
+        "Eyes"
+      ]
+    ],
+    "price": 18.0,
+    "brand": "Philosophy"
+  },
+  {
+    "title": "Mrs. Meyer's Clean Day Dish Soap, Lavender, 16 Ounce Bottle",
+    "description": "Here's something you simply can't live without. Our Dish Soap is rich, thick and makes grease disappear like nobody's business. We even added Soap Bark Extract, another ingredient from nature and one of its best degreasers. All you need is a squirt or two and you're on your way.",
+    "itemID": "B0000UTUVU",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": NaN,
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Lotions"
+      ]
+    ],
+    "price": 8.19,
+    "brand": "Mrs. Meyer&#39;s Clean Day"
+  },
+  {
+    "title": "Neutrogena Norwegian Formula Lip Moisturizer, SPF 15, 0.15 Ounce",
+    "description": "Conditions & Protects Dry, Chapped Lips Guards Against The Uva & Uvb Rays No Color, Fragrance Or Additives",
+    "itemID": "B0000Y3D4G",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 42049
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Oils"
+      ]
+    ],
+    "price": 4.31,
+    "brand": "Nuetrogena"
+  }
+]

@@ -1,0 +1,70 @@
+[
+  {
+    "title": "Nexxus Therappe Shampoo, Luxurious Moisturizing, 13.5 oz.",
+    "description": "Salon hair care. Experience Nexxus luxury. Scientifically developed. Salon proven. Therappe Luxurious Moisturizing Shampoo, now enhanced for superior salon performance and advanced moisturization, is specially formulated with rosemary, chamomile and nettle, to gently cleanse for nourished, healthy looking hair. Fortified with exclusive NexxuSphere time released technology, containing nutrients, antioxidants, and UV protectors. Never tested on animals. Made in USA.",
+    "itemID": "B000VPG5EE",
+    "helpful": [
+      1,
+      2
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 8601
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 10.98,
+    "brand": "Nexxus"
+  },
+  {
+    "title": "Babyliss Pro BABNTCHV15 Professional Nano Titanium 12 Hair Roller Set",
+    "description": "Nano titanium creates beauatiful curls and shine. advanced surround heat for ultimate styling.",
+    "itemID": "B004XTX0VA",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 1842
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Hair Rollers"
+      ]
+    ],
+    "price": 37.58,
+    "brand": "BaBylissPRO"
+  },
+  {
+    "title": "Conair Soft Bonnet Hair Dryer",
+    "description": "Soft Bonnet Hair Dryer",
+    "itemID": "B0002G214U",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 3795
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Hair Dryers"
+      ]
+    ],
+    "price": 25.99,
+    "brand": "Conair"
+  }
+]

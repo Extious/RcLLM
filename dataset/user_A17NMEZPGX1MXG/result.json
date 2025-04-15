@@ -1,0 +1,48 @@
+[
+  {
+    "title": "Herstyler Classic Forever Ceramic Flat Iron",
+    "description": "Solid ceramic plates guarantee smooth straightening motion without pulling or breakage of hair. Faster heat-up time than conventional coil straightening irons - It will rise to the desired temperature in less than 25 seconds from being turned on.",
+    "itemID": "B002LE8OX8",
+    "helpful": [
+      3,
+      4
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 6509
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Irons",
+        "Flattening Irons"
+      ]
+    ],
+    "price": 18.5,
+    "brand": "HerStyler"
+  },
+  {
+    "title": "TRESemme Fresh Start Shampoo, Dry",
+    "description": "TRESemm&#xE9;&#xAE; Freshstart Dry Shampoo Volumizing For Fine/Oily Hair.Used by professionals.Oil & odor remover with mineral clay & citrus.Professional quality.",
+    "itemID": "B0037LKIAG",
+    "helpful": [
+      1,
+      2
+    ],
+    "overall": 1.0,
+    "salesRank": {
+      "Beauty": 22502
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 5.79,
+    "brand": "TRESemme"
+  }
+]

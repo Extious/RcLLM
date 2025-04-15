@@ -1,0 +1,69 @@
+[
+  {
+    "title": "Neutrogena Healthy Skin Anti-Wrinkle Cream, SPF 15, 1.4 Ounce",
+    "description": "",
+    "itemID": "B000052YOL",
+    "helpful": [
+      6,
+      7
+    ],
+    "overall": 5.0,
+    "salesRank": NaN,
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Creams & Moisturizers"
+      ]
+    ],
+    "price": 11.46,
+    "brand": "Neutrogena"
+  },
+  {
+    "title": "Clean &amp; Clear Clear Advantage Acne Spot Treatment, 0.75 Ounce",
+    "description": "Clean & clear advantage acne spot treatment. This treatment contains breakthrough technology that actually dissolves oil and allows the maximum strength acne medicine to penetrate into your pores. This formula works fast to reduce the visible signs of acne.",
+    "itemID": "B00027DDOQ",
+    "helpful": [
+      2,
+      4
+    ],
+    "overall": 2.0,
+    "salesRank": NaN,
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Oils"
+      ]
+    ],
+    "price": 1.99,
+    "brand": "Clean &amp; Clear"
+  },
+  {
+    "title": "Tweezerman Skin Care Tool",
+    "description": "This tool has a thin angled loop to roll out mature whiteheads and a flat side to press out blackheads. Solid Stainless Steel.",
+    "itemID": "B000EN0ORW",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 34042
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Tools & Accessories",
+        "Makeup Brushes & Tools",
+        "Treatment Tools",
+        "Blemish Tools"
+      ]
+    ],
+    "price": 10.3,
+    "brand": "Tweezerman"
+  }
+]

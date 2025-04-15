@@ -1,0 +1,48 @@
+[
+  {
+    "title": "Philip B Peppermint &amp; Avacado Shampoo, 7.4-Ounces",
+    "description": "A Volumizing, Clarifying Shampoo. 2.3% Pure peppermint. 16 Plant extracts. With extracts of peppermint and avocado. Scalp invigorator! Philip B Peppermint and Avocado Shampoo with its gentle pH of 5.5 to 6 is a clarifying shampoo and an aromatherapeutic scalp treatment enhanced by sixteen pure plant extracts plus eleven essential and carrier oils. 2.3% Peppermint works to alleviate scalp tension while reviving, clarifying, and volumizing. Avocado delivers moisture to the hairshaft and scalp. Philip B Peppermint and Avocado Shampoo will cleanse and refresh without stripping your hair of moisture and elasticity. Made in USA.",
+    "itemID": "B000X1HNUG",
+    "helpful": [
+      1,
+      3
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 4835
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 17.39,
+    "brand": "Philip B."
+  },
+  {
+    "title": "21st Century Herbal Clear Deodorant, Aloe Fresh, 2.65-Ounce",
+    "description": "Obtain ultimate protection with the help of 21st Century Herbal Deodorant! This aloe fresh stick features vitamins A & E for long-lasting freshness.",
+    "itemID": "B000GCLDOO",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Health & Personal Care": 8483
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Oils"
+      ]
+    ],
+    "price": 2.99,
+    "brand": "Herbal Clear"
+  }
+]

@@ -1,0 +1,48 @@
+[
+  {
+    "title": "Cetaphil Restoraderm, Skin Restoring Body Wash, Formulated For Eczema, 10 Ounce",
+    "description": "",
+    "itemID": "B003UF0RB4",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 38
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Oils"
+      ]
+    ],
+    "price": 13.26,
+    "brand": "Cetaphil"
+  },
+  {
+    "title": "Aveeno Active Naturals Stress Relief Moisturizing Lotion, 12 Ounce",
+    "description": "Aveeno Stress Relief Moisturizing Lotion helps to calm and relax you as it is massaged into your skin, while also moisturizing to leave skin soft and smooth.&#xA0; Aveeno combines the calming scents of lavender and essential chamomile and ylangylang oils with the soothing properties of natural colloidal oatmeal long known to hold in moisture.&#xA0; This naturally nourishing, nongreasy formula absorbs quickly and is blended with rich emollients to moisturize for a full 24 hours.",
+    "itemID": "B0000AJ3PU",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": NaN,
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Lotions"
+      ]
+    ],
+    "price": 9.09,
+    "brand": "Aveeno"
+  }
+]

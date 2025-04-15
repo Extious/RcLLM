@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Palmer's Cocoa Butter Formula Daily Facial Lotion, 3.38 Ounce",
+    "description": "This luxiourious daily lotion provides superior moisturization in a lightweight, non-greasy formula. Antioxidants and emollient milk proteins work in conjunction with natural Cocoa and Shea butters to leave soft, smooth and radiant without irritation. Added SPF 15 broad spectrum sunscreen.",
+    "itemID": "B00524U4J6",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 8760
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Lotions"
+      ]
+    ],
+    "price": 9.95,
+    "brand": "Palmer&#39;s"
+  },
+  {
+    "title": "L'Oreal Paris Go 360 Clean, Deep Facial Cleanser, 6-Fluid Ounce",
+    "description": "Go 360&#176; Clean offers a complete range of four expertly formulated, high-foam cleansers that are perfectly calibrated to perform with the Scrublet&#8482;. The Deep Facial Cleanser is a deep-cleaning, high-foam gel, which unclogs pores as it removes oil, dirt and makeup. With notes of naranji, orange flower and mint for a refreshing fragrance and feel on skin, the gel formula helps reduce oily areas, dry skin patches and blemishes with its deep cleaning, pore-by-pore action. Oil-Free. Also, try the cleanser in an Exfoliating Scrub, Lotion or Cream formula. Benefits. Smaller pores: Go 360&#176; Clean shrinks the appearance of pore size and refinishes the skin&#8217;s surface to reveal skin with more clarity. Deeper cleansing: Unique formulas reach down deeper to every last pore for a deep, deep clean. Keeps pores clean day after day. Softer skin: Sweeps away dead skin cells for an extraordinary softening and smoothing effect. Easy-to-use: Scrublet&#8482; cleanses pore-by-pore with a fuss-free cleansing process.",
+    "itemID": "B002PBGBX2",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 122368
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Cleansers",
+        "Washes"
+      ]
+    ],
+    "price": 21.99,
+    "brand": "L&#39;Oreal Paris"
+  }
+]

@@ -1,0 +1,70 @@
+[
+  {
+    "title": "L'Oreal Paris Colour Riche Anti-Aging Serum Lipcolour, Desperately Mauve, 0.13 Ounce",
+    "description": "Kiss the signs of aging goodbye. Our best selling lipcolour is now available with anti-aging serum! color riche anti-aging serum coats your lips with rich, creamy color and it's enhanced with L&#x2019;Oreal&#x2019;s exclusive anti-aging serum, including ProXalyne, Collagen, Hyaluronic micro-spheres and Glycerin which can help create younger-looking lips",
+    "itemID": "B002LFLPEC",
+    "helpful": [
+      2,
+      2
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 89558
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Lips",
+        "Lipstick"
+      ]
+    ],
+    "price": 8.95,
+    "brand": "L&#39;Oreal Paris"
+  },
+  {
+    "title": "L'Oreal Paris EverStrong Sulfate-Free Fortify System Hydrate Shampoo, 8.5 Fluid Ounce",
+    "description": "For hair that needs extra strength, now there is haircare that's so gentle, yet so strong. The new EverStrong Sulfate-Free Fortify System contains L'Or&#xE9;al's patented Bio-Ceramide complex, which strengthens hair after just one wash. EverStrong Hydrate Shampoo gently cleanses and nourishes dry hair to leave it strong and silky. Rich lather and natural aromatic properties from rosemary and juniper help energize and invigorate the senses.",
+    "itemID": "B002PBEDFK",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 7390
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 12.29,
+    "brand": "L&#39;Oreal Paris"
+  },
+  {
+    "title": "NYX Auto Eyebrow Pencil, Black",
+    "description": "Create flawless arches with this eyebrow pencil, a blend of vegetable, coconut and soy bean oil that guarantees a fluid application and sensational color. Use the built-in brush to blend color and style your eyebrows to perfection. Available in 8 shades.",
+    "itemID": "B002S8PU02",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 6988
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Eyes",
+        "Eyebrow Color"
+      ]
+    ],
+    "price": 4.49,
+    "brand": "NYX"
+  }
+]

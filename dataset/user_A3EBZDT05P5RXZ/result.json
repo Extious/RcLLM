@@ -1,0 +1,70 @@
+[
+  {
+    "title": "Cetaphil Restoraderm, Skin Restoring Body Wash, Formulated For Eczema, 10 Ounce",
+    "description": "",
+    "itemID": "B003UF0RB4",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 38
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Oils"
+      ]
+    ],
+    "price": 13.26,
+    "brand": "Cetaphil"
+  },
+  {
+    "title": "Cetaphil Gentle Cleansing Bar - 4.5 oz",
+    "description": "1 Bar ~ Net Wt 4.5 oz (127g)For Dry, Sensitive SkinMoisturizingNon-ComedogenicCetaphil&reg; gentle cleansing bar's non-soap formulation is as mild as the mildest bar cleanser, and is designed for cleansing dry, sensitive skin.&nbsp; Ideal for bath or shower use.&nbsp; Cetaphil&reg; gentle cleansing bar is non-comedogenic and contains no harsh detergents that might dry or irritate the skin.",
+    "itemID": "B00005NAOJ",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": NaN,
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Cleansers"
+      ]
+    ],
+    "price": 3.79,
+    "brand": "Cetaphil"
+  },
+  {
+    "title": "Cerave Hydrating Cleanser-12 Oz (Pack of 3)",
+    "description": "This hydrating cleanser is a vital part of a daily skin care routine. It gently removes dirt, oil and makeup without disrupting the skins natural protective barrier. Its patented MVE formulation helps essential ingredients penetrate deep into the skin to hydrate and nourish.",
+    "itemID": "B004RRC7YY",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 24009
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Cleansers"
+      ]
+    ],
+    "price": 32.29,
+    "brand": "CeraVe"
+  }
+]

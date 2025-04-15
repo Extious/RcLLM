@@ -1,0 +1,68 @@
+[
+  {
+    "title": "Batiste Dry Shampoo 5.05 oz. Tropical",
+    "description": "With a deliciously exotic fragrance, revitalises greasy, dull and lifeless hair between washes. Instantly leaves your hair feeling clean, full of body and smelling beautiful. Quick and convenient to use wherever you are. (5.05 oz.)",
+    "itemID": "B000KVH1QU",
+    "helpful": [
+      0,
+      1
+    ],
+    "overall": 1.0,
+    "salesRank": {
+      "Beauty": 71162
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 2.93,
+    "brand": "Batiste"
+  },
+  {
+    "title": "John Frieda Sheer Blonde Go Blonder Controlled Lightening Spray, 3.5 Ounce",
+    "description": "Versatile, patent-pending formula with citrus and chamomile works with styling heat to gradually lighten and brighten for a natural-looking, blonder blonde. Contains thermo-protectant. Patent-pending technology combines fixative and conditioning polymers that retain hydrogen peroxide, allowing for control of lightening. Visibly lightens in 3-5 uses.",
+    "itemID": "B004DK7DVC",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 1.0,
+    "salesRank": NaN,
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Hair Sprays"
+      ]
+    ],
+    "price": 6.99,
+    "brand": "John Frieda"
+  },
+  {
+    "title": "L'Oreal Paris True Match Roller, C4 Shell Beige, 0.30 Ounce",
+    "description": "How do you get perfectly even coverage without any streaks or mistakes?  With the first ever roller foundation.  It&#x2019;s L&#x2019;Oreal&#x2019;s new true match roller perfecting roll on makeup.  the unique roller applicator seamlessly applies the perfect amount of makeup.",
+    "itemID": "B002PBEAYE",
+    "helpful": [
+      0,
+      1
+    ],
+    "overall": 1.0,
+    "salesRank": {
+      "Beauty": 96992
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Foundation"
+      ]
+    ],
+    "price": 3.99,
+    "brand": "L&#39;Oreal Paris"
+  }
+]

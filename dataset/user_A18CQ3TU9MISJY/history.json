@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Kiss My Face Pure Olive Oil Bar Soap, 8-Ounce Bars (Pack of 8)",
+    "description": "",
+    "itemID": "B001E6O8WU",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 3858
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Oils & Serums"
+      ]
+    ],
+    "price": 26.42,
+    "brand": "Kiss My Face"
+  },
+  {
+    "title": "Eucerin Daily Protection Moisturizing Face Lotion, Broad Spectrum SPF 30",
+    "description": "",
+    "itemID": "B00008MNZH",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": NaN,
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Creams & Moisturizers",
+        "Fluids & Lotions",
+        "Lotions"
+      ]
+    ],
+    "price": 8.04,
+    "brand": "Eucerin"
+  },
+  {
+    "title": "Shany Cosmetics Everyday Travel Trio Eyeshadow Palette, Olive, Champagne, 4 Ounce",
+    "description": "Shany Trio is back with bold and mega size pans, which last a long time. It easily fits in any purse and can be worn over any primer. Trio palettes were made to replace the bigger palettes since they are hard to carry around. These palettes are great for people who usually uses couple of colors only, the small size and the compact kit. It's great when you are on the go. The quality is outstanding and pans are 1 inch in diameter. Each kit comes with a compact mirror.",
+    "itemID": "B0061KQG6K",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 143692
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Eyes",
+        "Eye Shadow"
+      ]
+    ],
+    "price": 9.99,
+    "brand": "SHANY Cosmetics"
+  }
+]

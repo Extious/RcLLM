@@ -1,0 +1,73 @@
+[
+  {
+    "title": "New Nordic Hair Volume,  30 Count",
+    "description": "Hair Volume 30 tablets",
+    "itemID": "B0090PHG7Q",
+    "helpful": [
+      1,
+      7
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Health & Personal Care": 1509
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Hair Loss Products",
+        "Hair Regrowth Treatments"
+      ]
+    ],
+    "price": 10.05,
+    "brand": "New Nordic"
+  },
+  {
+    "title": "L'Oreal Paris Telescopic Explosion Waterproof Mascara, Blackest Black, 0.27-Fluid Ounce",
+    "description": "Want lush, out-to-there lashes? Telescopic explosion mascara reaches 100% of lashes from every angle for a dramatic, fanned out effect.  The unique spherical brush lengthens, separates and adds volume to even tiny corner and lower lashes, transforming your look.",
+    "itemID": "B004BCT8JW",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 55076
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Eyes",
+        "Mascara"
+      ]
+    ],
+    "price": 6.95,
+    "brand": "L&#39;Oreal Paris"
+  },
+  {
+    "title": "Estee Lauder Resilience Lift Firming / Sculpting Face and Neck Creme SPF 15 for Normal / Combination .5 oz / 15 ml",
+    "description": "An anti-fatigue hydrating lotion for men Helps instantly tone &amp; awaken skin after shaving or cleansing Removes impurities from skin Infused with a refreshing scent Prepares skin for following hydrating regimen Skin appears clean &amp; energetic",
+    "itemID": "B005IDTVC2",
+    "helpful": [
+      1,
+      4
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 3138
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Creams & Moisturizers",
+        "Fluids & Lotions",
+        "Lotions"
+      ]
+    ],
+    "price": 1.49,
+    "brand": "Estee Lauder"
+  }
+]

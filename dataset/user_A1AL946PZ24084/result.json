@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Davines Conditioner, NouNou Illluminating with Tomato Extract for Colour Treated Hair, 8.45-Ounces",
+    "description": "Nourishing illuminating cream. With tomato extract, Colour treated hair.",
+    "itemID": "B000V193RY",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 3751
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Conditioners"
+      ]
+    ],
+    "price": 24.5,
+    "brand": "Davines"
+  },
+  {
+    "title": "MOROCCANOIL Gold Glimmer Shine 3.4oz",
+    "description": "Moroccanoil glimmer shine is a finishing spray that attracts and reflects light to give hair a gorgeous gloss. Infused with argan oil, vitamins and antioxidants, it creates an invisible veil of luminous shine and protects hair against environmental elements such as sun, salt water and chlorine. Glimmer shine can also be used to enhance color and highlights, adding the perfect touch to any style.",
+    "itemID": "B001QYBURQ",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 2875
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Creams, Gels & Lotions"
+      ]
+    ],
+    "price": 21.99,
+    "brand": "Moroccanoil"
+  }
+]

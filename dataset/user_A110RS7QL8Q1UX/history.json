@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Remington D3710 Ceramic Fast Finish Dual Fan Turbo Hair Dryer, 1875 Watts",
+    "description": "",
+    "itemID": "B0050QLDGY",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 111441
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Hair Dryers"
+      ]
+    ],
+    "price": NaN,
+    "brand": NaN
+  },
+  {
+    "title": "Cetaphil Dermacontrol Foam Wash, 8 Fluid Ounce",
+    "description": "",
+    "itemID": "B006L2137A",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 1533
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Cleansers",
+        "Washes"
+      ]
+    ],
+    "price": 10.45,
+    "brand": "Cetaphil"
+  },
+  {
+    "title": "CLEAR MEN SCALP THERAPY AntiDandruff Shampoo, Strong &amp; Full, 12.9 Fluid Ounce",
+    "description": "",
+    "itemID": "B007K449CE",
+    "helpful": [
+      1,
+      2
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 28838
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 7.5,
+    "brand": "Clear"
+  }
+]

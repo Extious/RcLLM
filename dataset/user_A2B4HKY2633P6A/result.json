@@ -1,0 +1,45 @@
+[
+  {
+    "title": "Urban Decay De Slick XL Oil Control Makeup Setting Spray 6 Oz.",
+    "description": NaN,
+    "itemID": "B006SBMKH6",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 151448
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup"
+      ]
+    ],
+    "price": NaN,
+    "brand": NaN
+  },
+  {
+    "title": "WEN by Chaz Dean Fig Cleansing Conditioner 16 oz",
+    "description": "WEN BY CHAZ DEAN by Chaz Dean WEN CLEANSING CONDITIONER FIG 16 OZ",
+    "itemID": "B0006Q3NTS",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 1272
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Conditioners"
+      ]
+    ],
+    "price": 30.75,
+    "brand": "WEN&reg; by Chaz Dean"
+  }
+]

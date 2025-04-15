@@ -1,0 +1,161 @@
+[
+  {
+    "title": "Lysol Healthy Touch No-Touch Hand Soap System,Soothing Cucumber Splash,1 kit (251 ml)",
+    "description": "",
+    "itemID": "B0035LCUVS",
+    "helpful": [
+      2,
+      2
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 27892
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Cleansers",
+        "Soaps"
+      ]
+    ],
+    "price": 10.89,
+    "brand": "Lysol"
+  },
+  {
+    "title": "Q-Tips Cotton Swabs, Precision Tips, 170 Count (Pack of 3)",
+    "description": "",
+    "itemID": "B005XIM6J2",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 2067
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Tools & Accessories",
+        "Cotton & Swabs",
+        "Cotton Swabs"
+      ]
+    ],
+    "price": 8.99,
+    "brand": "Q-Tips"
+  },
+  {
+    "title": "Seventh Generation Nourishing Body Wash, Lavender, 15 Ounce",
+    "description": "Pure rejuvenation, refreshingly scented with essential oils and botanical extracts. Our oh-so-gentle plant-based body wash rinses clean and leaves your skin feeling wonderfully revived.",
+    "itemID": "B008AGWLNU",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 797449
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Cleansers",
+        "Body Washes"
+      ]
+    ],
+    "price": NaN,
+    "brand": NaN
+  },
+  {
+    "title": "Suave Suave Naturals Rainforest Fresh Shampoo, 22.5 Ounce",
+    "description": "",
+    "itemID": "B00A0IWTDI",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 89890
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 6.99,
+    "brand": "Suave"
+  },
+  {
+    "title": "Suave Naturals 2 In 1 Almond Verbena Shampoo, 22.5 Ounce",
+    "description": "",
+    "itemID": "B00GTBZ85Q",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 6745
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 8.49,
+    "brand": "Suave"
+  },
+  {
+    "title": "Caress Body Wash, Juicy Escape, 18 Ounce",
+    "description": "Experience freshness like never before with caress juicy escape, infused with sun-kissed lily and pink grapefruit essence. Sparkling scents surprise your senses while lush, uplifting lather envelops your skin leaving it delicately scented and beautifully fresh.",
+    "itemID": "B00HSNWXV6",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 38548
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Cleansers",
+        "Body Washes"
+      ]
+    ],
+    "price": 10.59,
+    "brand": "Caress"
+  },
+  {
+    "title": "Axe Peace Shower Gel, 16 Fluid Ounce",
+    "description": "",
+    "itemID": "B00GTC1JHQ",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 3144
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Cleansers",
+        "Body Washes"
+      ]
+    ],
+    "price": 5.25,
+    "brand": "AXE"
+  }
+]

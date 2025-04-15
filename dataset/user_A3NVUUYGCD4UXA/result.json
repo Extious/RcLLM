@@ -1,0 +1,48 @@
+[
+  {
+    "title": "L'Oreal Paris Healthy Look Hair Color, 8.5 Blonde/White Chocolate",
+    "description": "Healthy look gives you natural-looking color with glossy, healthy-looking shine in just 10 little minutes. The ammonia-free formula deeply nourishes hair while also helping to counter dullness and prevent damage.  The cr&#xE8;me formula softly blends away gray.",
+    "itemID": "B002PMLGOU",
+    "helpful": [
+      4,
+      5
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 8028
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Hair Color",
+        "Color Refreshers"
+      ]
+    ],
+    "price": 15.09,
+    "brand": "L&#39;Oreal Paris"
+  },
+  {
+    "title": "Pur Minerals-Start Now Essentials Collection-4 ct-Porcelain",
+    "description": "See the flawless complexion that Pur Minerals has to offer with this all-inclusive kit. It jumpstarts your journey to a more beautiful appearance with skin-healthy makeup thats custom matched to suit your unique tone. The Starter Kit includes : 4-in-1 Pressed Mineral Makeup - Porcelain Mineral Glow Universal Marble Powder - Pink Chisel Makeup Brush Porcelain is for neutral, fair complexions.",
+    "itemID": "B000HGONKA",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 350543
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Foundation"
+      ]
+    ],
+    "price": NaN,
+    "brand": NaN
+  }
+]

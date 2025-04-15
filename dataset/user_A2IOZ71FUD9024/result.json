@@ -1,0 +1,95 @@
+[
+  {
+    "title": "[Nubar] T304 Foundation Base Coat",
+    "description": "Nubar Foundation Base Coat Display With 12 Bottles T304-12",
+    "itemID": "B003YNIK4S",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 109924
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Nails",
+        "Top & Base Coats"
+      ]
+    ],
+    "price": 5.88,
+    "brand": "Nubar"
+  },
+  {
+    "title": "Blue Lizard Australian Suncreen, Face SPF 30+, 5-Ounce",
+    "description": "Blue Lizard Face &#8211; Oil-free moisturizer with Hyaluronic Acid. Daily wear formula is enhanced with Caffeine, Green Tea and Vitamin E. Micronized Zinc Oxide, Octinoxate sunscreen.",
+    "itemID": "B000I5KCIW",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 792
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Sun",
+        "Skin Protection"
+      ]
+    ],
+    "price": 15.29,
+    "brand": "Blue Lizard"
+  },
+  {
+    "title": "Bed Head Deep Waver",
+    "description": "Want frizz-free, bouncy waves that last all day and night, then you will love bed head's 3/4 inch tourmaline ceramic deep waver. tourmaline technology leaves you with frizz-free shiny styles. ceramic technology provides high, even heat that penetrates hair from the inside-out, helping hair retain natural moisture for &#x201C;frizz-free&#x201D; styles.",
+    "itemID": "B003FBI9LS",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 179
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Irons",
+        "Curling Irons"
+      ]
+    ],
+    "price": 20.98,
+    "brand": "Bed Head"
+  },
+  {
+    "title": "essie Summer 2013 Nail Polish Collection (Rock The Boat)",
+    "description": "essie Summer 2013 Nail Polish Collection (Rock The Boat)",
+    "itemID": "B00BXS0IKU",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 1.0,
+    "salesRank": {
+      "Beauty": 23957
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Nails",
+        "Nail Polish"
+      ]
+    ],
+    "price": 5.5,
+    "brand": "Essie"
+  }
+]

@@ -1,0 +1,73 @@
+[
+  {
+    "title": "Australian Gold Moisture Lock Lotion, 16 Ounce",
+    "description": "Australian Gold Moisture Lock provides color-extending benefits and are packed with vital ingredients that enrich your skin leaving it luxuriously soft and smooth after each use.",
+    "itemID": "B000FCR7MM",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 4922
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Lotions"
+      ]
+    ],
+    "price": 12.93,
+    "brand": "Australian Gold"
+  },
+  {
+    "title": "TRESemme Thermal Creations Heat Tamer Spray, 8 Ounce (Pack of 6)",
+    "description": "Used by professionals. Minimizes heat damage, conditions & shines. Great with heat styling tools. Professional Formula: Lightweight styling mist; Contains a unique combination of conditioning and protecting ingredients. Professional Results: Protects hair while heat styling; Conditions for soft, shiny hair. Made in USA.",
+    "itemID": "B001ET6XRA",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 148186
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Hair Sprays"
+      ]
+    ],
+    "price": 34.25,
+    "brand": "TRESemme"
+  },
+  {
+    "title": "Got 2b Crazy Sleek  Flat Iron and Blow Dry Lotion 8.5-Ounce Bottle (Pack of 3)",
+    "description": "Works with the heat of your blow dryer and flat iron to deliver long-lasting smooth hair that resists curling.  Provides thermal protection.",
+    "itemID": "B001G7QYZQ",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 14682
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Irons",
+        "Flattening Irons"
+      ]
+    ],
+    "price": 19.75,
+    "brand": "GOT 2B"
+  }
+]

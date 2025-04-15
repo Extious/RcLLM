@@ -1,0 +1,73 @@
+[
+  {
+    "title": "Palmer's Formula Moisturizing Gel Oil, Cocoa Butter, 7.0 Fluid Ounce",
+    "description": "Palmer's cocoa butter formula moisturizing gel with SPF 15 is an advanced gel oil moisturizer that can be used all over the body.  This unique formula absorbs quickly and contains an exclusive blend of pure cocoa butter, vitamin E, shea butter, jojoba oil, with the added benefit of SPF 15 UVA UVB sun protection to moisturize, soothe and protect skin.  Our innovative product may be used on dry skin or after shower or bath on damp skin as needed.",
+    "itemID": "B002A4D5YM",
+    "helpful": [
+      2,
+      2
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 7797
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Lotions"
+      ]
+    ],
+    "price": 7.24,
+    "brand": "Palmer&#39;s"
+  },
+  {
+    "title": "Palmer's Cocoa Butter Formula Gentle Daily Cleanser, 5.25 Ounce",
+    "description": "This creamy cleanser foams lightly to remove dirt, oil and impurities without over-drying. Milk proteins and antioxidants brighten and hydrate, leaving skin soft, fresh and glowing.",
+    "itemID": "B004UA2SF6",
+    "helpful": [
+      1,
+      2
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 21099
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Cleansers"
+      ]
+    ],
+    "price": 10.45,
+    "brand": "Palmer&#39;s"
+  },
+  {
+    "title": "Palmer's Cocoa Butter Formula Exfoliating Facial Scrub, 5.25 Ounce",
+    "description": "Micro-fine crushed Cocoa Beans gently exfoliate, removing dead skin cells to reveal smoother skin beneath. This enhances the skin's surface allwing it to better absorb the daily moisturizer or night cream.",
+    "itemID": "B004UA2SLU",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 11199
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Exfoliators & Scrubs",
+        "Scrubs"
+      ]
+    ],
+    "price": 11.25,
+    "brand": "Palmer&#39;s"
+  }
+]

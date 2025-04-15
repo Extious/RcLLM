@@ -1,0 +1,73 @@
+[
+  {
+    "title": "Ole Henriksen Truth Serum Collagen Booster, 1.0 Fluid Ounce",
+    "description": "A great skin booster infused with a high powered vitamin c complex to help smooth out lines and wrinkles while preventing further damage loaded with anti-oxidants to fight off environment aggressors and moisture-binding ingredients to hydrate and keep your skin nourished and protected",
+    "itemID": "B000A0ADT8",
+    "helpful": [
+      13,
+      19
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 8788
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Oils & Serums"
+      ]
+    ],
+    "price": 54.2,
+    "brand": "Ole Henriksen"
+  },
+  {
+    "title": "Clarisonic Classic Sonic Skin Cleansing System - PINK",
+    "description": "Our original 2-speed Sonic Skin Cleansing System redefined skin cleansing to give you cleaner, healthier skin.\nSonic Skin Cleansing improves skin tone, reduces the appearance of pore size and helps skin care products work their best.  \nThe Clarisonic Skin Cleansing System uses a patented sonic frequency of more than 300 movements per second to clean, soften and smooth skin. In just 60 seconds, the micro-massage action removes 6X more makeup and 2X more dirt and oil than cleansing with your hands alone. Removing more dirt and oil from your pores also helps products work more effectively.",
+    "itemID": "B000V26BQY",
+    "helpful": [
+      2,
+      2
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 176997
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Tools & Accessories",
+        "Makeup Brushes & Tools",
+        "Treatment Tools",
+        "Face Cleansing Brushes"
+      ]
+    ],
+    "price": NaN,
+    "brand": NaN
+  },
+  {
+    "title": "NIA24 Physical Cleansing Scrub, 3.75 Fluid Ounce",
+    "description": "Nia 24 Physical Cleansing Scrub cleans, exfoliates and firms the skin to promote a brighter and younger complexion. Jojoba beads and Pro-Niacin get rid of dead skin cells and boost circulation to boost the skin&#039;s tone and texture. Sunflower oil imparts a healthy radiance while sage and chamomile soothe and calm.",
+    "itemID": "B0011FMDU8",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 4590
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Exfoliators & Scrubs",
+        "Scrubs"
+      ]
+    ],
+    "price": 18.29,
+    "brand": "NIA24"
+  }
+]

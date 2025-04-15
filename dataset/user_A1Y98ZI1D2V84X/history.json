@@ -1,0 +1,70 @@
+[
+  {
+    "title": "Obagi System Professional-C  10% Vitamin C Serum, 1-Ounce Bottle (30ml)",
+    "description": "Obagi Professional-C&#xA0;Serum provides antioxidant protection with deep penetration to the dermal&#xA0;layer.&#xA0; The 10% L-ascorbic acid helps in defending against damaging UVA and UVB rays, helps prevent premature signs of aging such as fine lines and wrinkles, and contributes to collagen synthesis.&#xA0; Obagi Professional-C Serum 10% is suitable for dry, sensitive or reactive skin.",
+    "itemID": "B001CJE0Y0",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 4175
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Creams & Moisturizers"
+      ]
+    ],
+    "price": 33.6,
+    "brand": "Obagi Medical"
+  },
+  {
+    "title": "Skinceuticals Sheer Physical Uv Defense SPF 50 Broad-spectrum Sunscreen Fluid, 1.7-Ounce",
+    "description": "Sheer Physical UV Defense is a physical transparent sunscreen with true broad spectrum coverage from UVA and UVB rays. This unique formulation provides a non-irritating, ultra sheer texture for all skin types, even the most sensitive.",
+    "itemID": "B003JUY38I",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Beauty": 1213
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Sun",
+        "Skin Protection"
+      ]
+    ],
+    "price": 22.24,
+    "brand": "SkinCeuticals"
+  },
+  {
+    "title": "Deepshine Protective Oil Treatment by Rusk, 4 Ounce",
+    "description": "Deepshine oil is a marine mineral-enriched argan oil treatment that smoothes the cuticle, eliminates frizz, and improves elasticity and hydration, leaving hair soft, silky and manageable. Deepshine oil is perfect for all hair types.",
+    "itemID": "B003MIQZTC",
+    "helpful": [
+      0,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 7224
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Hair & Scalp Treatments"
+      ]
+    ],
+    "price": 4.0,
+    "brand": "Rusk"
+  }
+]

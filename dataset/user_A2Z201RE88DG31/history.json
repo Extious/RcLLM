@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Benefit Cosmetics BADgal Lash Mascara",
+    "description": "With a big, bad brush and a rich, black formula, its like wearing a set of false eyelashes without the glue.",
+    "itemID": "B000FBF5BI",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 4432
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Eyes",
+        "Mascara"
+      ]
+    ],
+    "price": 9.75,
+    "brand": "Benefit Cosmetics"
+  },
+  {
+    "title": "Trish McEvoy High Volume Mascara - Jet Black 0.18oz (5g)",
+    "description": "This revolutionary tubular volumizing mascara forms water-resistant tubes 360 around lashes, dries instantly and will not smudge or smear. Better than waterproof, the 24-hour formula stays just-applied looking yet slides off with only warm water without leaving a trace. The precision brush grabs lashes at the roots to lengthen even the shortest hairs for the look of a naturally lush lash line.",
+    "itemID": "B00132FPFY",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 2482
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Eyes",
+        "Mascara"
+      ]
+    ],
+    "price": 36.99,
+    "brand": "Trish McEvoy"
+  },
+  {
+    "title": "Remington S8500 Shine Therapy  Moisturizing and Conditioning Digital Ceramic Hair Straightener, 1&quot;",
+    "description": "",
+    "itemID": "B001LF4I8I",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 16668
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Irons",
+        "Flattening Irons"
+      ]
+    ],
+    "price": 89.95,
+    "brand": "Remington"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Quantum Classic Extra Body Acid Perm",
+    "description": "Quantum Extra Body Firm Acid Perm defines curls with extra body. For normal to moderately porous, tinted or hightlighted hair. Ideal for clients who frequently shampoo and style, with easy-to-maintain air dry styles",
+    "itemID": "B0002Z8P1E",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 38002
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Hair Perms & Texturizers",
+        "Home Permanent Kits"
+      ]
+    ],
+    "price": 6.49,
+    "brand": "Zotos"
+  },
+  {
+    "title": "Natural Calm 16 Oz - Natural Vitality",
+    "description": "Natural&#xA0;Calm&#xA0;is the&#xA0;solution to&#xA0;both restoring a&#xA0;healthy magnesium level and&#xA0;balancing your calcium intake-the result of&#xA0;which is&#xA0;natural&#xA0;stress&#xA0;relief.",
+    "itemID": "B000OQ2DL4",
+    "helpful": [
+      1,
+      2
+    ],
+    "overall": 4.0,
+    "salesRank": NaN,
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Lotions"
+      ]
+    ],
+    "price": 23.97,
+    "brand": "Natural Vitality"
+  },
+  {
+    "title": "Acne.org 6 oz. AHA+ (10% Glycolic acid + Licochalcone)",
+    "description": "Glycolic acid (a.k.a. alpha hydroxy acid - AHA) powerfully exfoliates and helps bring new skin cells to the surface, which helps the complexion appear smoother. This product is a super high quality, completely non-comedogenic, 10% glycolic acid in a light feeling lotion which goes on clear and spreads easily. AHA+ also contains licochalcone, a licorice root extract which helps calm acne-prone skin. It is fragrance-free and dye-free.For the face:From Dan: \"I have always kept some glycolic acid around as a secret weapon. This is how I describe what it does: The Regimen (acne.org/regimen) will get you completely clear. Adding in glycolic acid will take clear to 'perfect.'\" When to start with AHA+: Perform The Regimen for a month before starting with AHA+. When you are ready to use it, you can either replace your nightly moisturizer with AHA+ 2-3 times a week or dispense 1/2 AHA+ and 1/2 moisturizer into your palm, mix, and apply every evening. You should notice your skin looking better and more even-toned and will undoubtedly get some compliments.For the body:AHA+ works alongside benzoyl peroxide to completely clear body acne. See The Body Regimen (acne.org/body) for instructions.As a spot treatment:If you see a zit forming, apply 2.5% benzoyl peroxide and allow it to dry. Then apply AHA+. Many people find that this prevents the zit from maturing. This works best is if you catch it very early.To combat irritation:When anything rubs against the skin repeatedly, such as a chin strap or helmet, it irritates the skin and can cause a breakout. Attempt to avoid or reduce irritation when possible. However, if you do end up irritating your skin, try applying AHA+ after your next Regimen application. This can help prevent an irritation-induced acne flare up.",
+    "itemID": "B001CLXNZ0",
+    "helpful": [
+      1,
+      2
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 5050
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Treatments & Masks",
+        "Acids & Peels",
+        "Glycolic Acid"
+      ]
+    ],
+    "price": 31.99,
+    "brand": "Acne.org"
+  }
+]

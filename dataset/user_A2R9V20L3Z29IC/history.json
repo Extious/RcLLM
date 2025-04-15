@@ -1,0 +1,76 @@
+[
+  {
+    "title": "CeraVe Facial Moisturizing Lotion AM -- 3 fl oz",
+    "description": "CeraVe AM Facial Moisturizing Lotion helps repair damaged skin and maintains the skin's natural protective function with ingredients not commonly found in other moisturizers. Its patented Multivesicular Emulsion [MVE] technology releases these ingredients over time, penetrating deep into the skin to hydrate and nourish. SPF 30: SPF 30 sunscreen provides broad spectrum protection against the suns damaging rays.Ceramides: Help replace lipid levels in damaged skin to repair, restore and maintain the skin's natural barrier. Essential in preventing water loss from the skin.Niacinamide: Helps the skin produce more natural ceramides and fatty acids essential for repairing and restoring the skin barrier. may reduce skin redness.Hyaluronic Acids: A humectant that attracts moisture to the top layer of the skin to ensure skin remains hydrated. Patented, controlled-release MVE technology: Works by trapping ingredients within multi-layered skin vesicles that are slowly released, layer by layer throughout the night.",
+    "itemID": "B004PECMDU",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 7235
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Creams & Moisturizers",
+        "Fluids & Lotions",
+        "Lotions"
+      ]
+    ],
+    "price": 11.8,
+    "brand": "CeraVe"
+  },
+  {
+    "title": "CeraVe Hydrating Cleanser, 12 Ounce",
+    "description": "CeraVe hydrating cleanser is a vital part of a daily skin care routine. It gently removes dirt, oil, and makeup without disrupting the skin's natural protective barrier. It patented MVE formulation helps essential ingredients penetrate deep into the skin to hydrate and nourish.",
+    "itemID": "B000YJ2SKM",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 266
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Cleansers",
+        "Washes"
+      ]
+    ],
+    "price": 9.69,
+    "brand": "CeraVe"
+  },
+  {
+    "title": "CeraVe Moisturizing Facial Lotion PM, 3 Ounce",
+    "description": "CeraVe facial moisturizing lotion PM helps repair damaged skin and maintain the skin's natural protective function with ingredients not commonly found in other moisturizers. Its patented multivesicular emulsion (MVE) technology releases theses ingredients over time, penetrating deep into the skin to hydrate and nourish.",
+    "itemID": "B00365DABC",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 277
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Creams & Moisturizers",
+        "Fluids & Lotions",
+        "Lotions"
+      ]
+    ],
+    "price": 11.44,
+    "brand": "CeraVe"
+  }
+]

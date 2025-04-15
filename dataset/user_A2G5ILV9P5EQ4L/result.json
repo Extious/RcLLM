@@ -1,0 +1,94 @@
+[
+  {
+    "title": "L'Oreal Paris HydraFresh Toner, 8.5 Fluid Ounce",
+    "description": "HydraFresh Toner's gentle, non-drying formula refreshes and softens skin in a splash, revealing a smoother, brighter complexion and leaving skin smooth and supple.  Beta Hydroxy Acid gently sweeps away dull, tired skin while Pro-Vitamin B5 helps protect against moisture loss. Dermatologist tested for gentleness.  99% alcohol free.",
+    "itemID": "B004BD9152",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 2298
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Toners & Astringents"
+      ]
+    ],
+    "price": 5.93,
+    "brand": "L&#39;Oreal Paris"
+  },
+  {
+    "title": "The Body Shop Shower Gel, Satsuma, 8.4 Fluid Ounce",
+    "description": "Use our satsuma shower gel to wake up with this invigorating, cleansing gel that leaves your skin clean and soft with a fresh citrus scent. The essential oil from the satsuma peel moisturizes the skin and provides the delicious citrus scent. Community trade organic soy oil is rich in essential fatty acids that repair skin's moisture barrier so skin is smooth and supple. Our community trade organic soy oil is produced in brazil, by the capanema farmers who practice sustainable farming methods without the use of chemicals. They are helping to preserve nature, as well as their traditional way of life. The body shop uses about 150 tons of soy oil a year, none of which, we can happily say, contributes to the destruction of the amazon rainforest.",
+    "itemID": "B0016J6M2E",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 152611
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Cleansers",
+        "Body Washes"
+      ]
+    ],
+    "price": 11.69,
+    "brand": NaN
+  },
+  {
+    "title": "Bath and Body Works WARM VANILLA SUGAR Body Lotion 8 FL OZ",
+    "description": "see the matching shower gel",
+    "itemID": "B001RB7UL8",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 38163
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Scrubs & Body Treatments",
+        "Body Scrubs"
+      ]
+    ],
+    "price": 8.98,
+    "brand": "Bath &amp; Body Works"
+  },
+  {
+    "title": "Maybelline New York Great Lash Clear Mascara for Lash and Brow 110, 0.44 Fluid Ounce",
+    "description": "Perfectly separates for a natural look. Use it on lashes or to set brows.",
+    "itemID": "B001KYQA1S",
+    "helpful": [
+      1,
+      2
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 482
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Eyes",
+        "Mascara"
+      ]
+    ],
+    "price": 12.95,
+    "brand": "Maybelline"
+  }
+]

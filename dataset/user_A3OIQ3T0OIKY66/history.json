@@ -1,0 +1,70 @@
+[
+  {
+    "title": "Upper Canada Soap And Candle Naturally Whipped Hand Repair, Sweet Vanilla Fig, 4-Ounce Tubes (Pack of 2)",
+    "description": "Naturally Whipped Hand Repair is nourishment for your hands! This botanical-based line is made with all-natural ingredients with known restorative properties to nourish the skin. Free of parabens, mineral oils and synthetic dyes. Upper Canada Soap and Candle has been bringing quality ingredients, innovative ideas and value to bath and body products since 1969.",
+    "itemID": "B001A5S3BM",
+    "helpful": [
+      4,
+      4
+    ],
+    "overall": 5.0,
+    "salesRank": NaN,
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Hands & Nails",
+        "Hand Creams & Lotions"
+      ]
+    ],
+    "price": NaN,
+    "brand": NaN
+  },
+  {
+    "title": "Glycolic Acid 50% Peel Gel easily penetrates your skin to exfoliate layers of dead skin cells that dull your complexion to immediately expose a clear, softer, more radiant face.",
+    "description": "CellBone's Glycolic Acid Peel Gel will also diminish the appearance of age spots, reduce hyper-pigmentation to even skin tone, prevent blemishes and help reduce acne scarring. At the same time, the gel will stimulate the growth of new cells so that your complexion will continue to stay healthy long-term.\n\nOur advanced formula has been buffered at pH2.4 contains Menthol and Cucumber Flower Extract for an amazingly cool, soothing and refreshing experience. This pure Glycolic Acid (purity of 99.7%) in the Peel Gel is used to enhance performance in many topical over the counter (OTC) and prescription (Rx) applications.",
+    "itemID": "B000VEG964",
+    "helpful": [
+      31,
+      31
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 32468
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Exfoliators & Scrubs",
+        "Exfoliators"
+      ]
+    ],
+    "price": 22.0,
+    "brand": NaN
+  },
+  {
+    "title": "Neutralizer skin pH balancer helps balance the pH of your skin for the safe and effective neutralization after peeling.",
+    "description": "Cellbone Technology skin pH balancer helps balance the pH of your skin for the safe and effective neutralization after peeling.",
+    "itemID": "B000VEN3RW",
+    "helpful": [
+      34,
+      39
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 1291
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Toners & Astringents"
+      ]
+    ],
+    "price": 10.0,
+    "brand": NaN
+  }
+]

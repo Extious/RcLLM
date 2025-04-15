@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Infiniti Professional Nano Tourmaline Ceramic Curling Iron, 1 1/2-Inch",
+    "description": "",
+    "itemID": "B000F5AG5E",
+    "helpful": [
+      5,
+      7
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 787
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Irons",
+        "Curling Irons"
+      ]
+    ],
+    "price": 20.0,
+    "brand": "Conair"
+  },
+  {
+    "title": "Clairol Natural Instincts  02 Sahara Light Blonde 1 Kit  (Pack of 3) (packaging may vary)",
+    "description": "",
+    "itemID": "B000271KR8",
+    "helpful": [
+      2,
+      2
+    ],
+    "overall": 4.0,
+    "salesRank": NaN,
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Hair Color",
+        "Chemical Hair Dyes"
+      ]
+    ],
+    "price": 23.1,
+    "brand": "Clairol"
+  },
+  {
+    "title": "Banana Boat Sport Cool Zone Sunscreen Continuous Spray SPF 50, 6 Fluid Ounce",
+    "description": "BANANA BOAT sunscreen ultra mist sport performance cool zone, SPF 50, 6-ounces. Long-lasting continuous spray sunscreen. Cool zone instantly cools and refreshes skin. Broad spectrum UVA or UVB protection. Invisible, rub-free, quick drying, and non-greasy. Very water or sweat resistant.",
+    "itemID": "B0063A432W",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 1702
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Sun",
+        "Skin Protection",
+        "Sports"
+      ]
+    ],
+    "price": 9.54,
+    "brand": "Banana Boat"
+  }
+]

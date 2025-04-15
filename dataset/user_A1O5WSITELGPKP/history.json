@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Infiniti Pro by Conair 3-in-1 Hair Styler",
+    "description": "Top technology and attachments that lock securely into place make this Infiniti by Conair 1875W hot-air styler perfect for all of today's hottest looks.  The swivel cord never gets in the way.  Salon results without the Salon from Infiniti by Conair.",
+    "itemID": "B001330XFA",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 903
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Hot-Air Brushes"
+      ]
+    ],
+    "price": 28.75,
+    "brand": "Conair"
+  },
+  {
+    "title": "Fantasia IC Hair Polisher Heat Protector Straightening Serum, 6 Ounce",
+    "description": "For those times when you apply heat to your hair, make sure you always protect it to prevent damage and breakage. Fantasia ic hair polisher heat protector straightening serum creates a barrier between heat appliances and your hair so you can style it without the fear of causing serious damage. It will add shine to your hair and moisturize it without leaving a greasy residue and heavy build up. Keep this serum next to your favorite heat styling appliance. For use with flat irons, blow dryers and other heat appliances in order to achieve a smooth, straight look to hair.",
+    "itemID": "B005IUGXBM",
+    "helpful": [
+      1,
+      2
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 56935
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Hair Styling Serums"
+      ]
+    ],
+    "price": 5.05,
+    "brand": "Fantasia"
+  },
+  {
+    "title": "Nailtiques Formula 2 Protein, .5 Ounce",
+    "description": "This formula treats nails that are naturally soft, peeling, split or just won't grow. The protein immediately acts to help bond nails that are splitting or peeling. It also assists in strengthening the nail to grow long, strong and healthy.",
+    "itemID": "B000BB9L0S",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 14029
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Hands & Nails",
+        "Nail Treatments",
+        "Nail Strengthening"
+      ]
+    ],
+    "price": 12.44,
+    "brand": "Nailtiques"
+  }
+]

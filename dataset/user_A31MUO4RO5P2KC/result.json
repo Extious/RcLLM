@@ -1,0 +1,93 @@
+[
+  {
+    "title": "Pureology Precious Oil Versatile Caring Oil, 4.2 Ounce",
+    "description": "A versatile, caring formula that helps to achieve maximum softness, shine and color protection. It equalizes porosity, restores manageability and replenishes the protective lipid layer to enhance color vibrancy.",
+    "itemID": "B007X8ZTNK",
+    "helpful": [
+      2,
+      4
+    ],
+    "overall": 1.0,
+    "salesRank": {
+      "Beauty": 19563
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Hair & Scalp Treatments"
+      ]
+    ],
+    "price": 19.99,
+    "brand": "Pureology"
+  },
+  {
+    "title": "BaByliss Pro BABP2800 Porcelain Ceramic 2000-Watt Dryer, Black",
+    "description": "BaByliss PRO Super Turbo Professional Commercial Grade Porcelain Ceramic 2000 Watt Hair Dryer with ionic technology emits negative ions eliminate static, reduces drying time. Ceramic generates far infrared heat to protect hair's luster.",
+    "itemID": "B001UHN0I6",
+    "helpful": [
+      24,
+      30
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 114
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Hair Dryers"
+      ]
+    ],
+    "price": 53.0,
+    "brand": "BaBylissPRO"
+  },
+  {
+    "title": "Nivea Body Daily Lotion, Essentially Enriched for Very Dry, Rough Skin, 13.5 fl oz (400 ml) (Pack of 3)",
+    "description": "Dramatically improves skin condition over time. With sea minerals, Vitamin E & almond oil.",
+    "itemID": "B001I90NM2",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 17504
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Lotions"
+      ]
+    ],
+    "price": 17.84,
+    "brand": "Nivea"
+  },
+  {
+    "title": "Agadir Argan Oil Daily Shampoo + Conditioner &quot;Combo Set&quot; 12.4oz/366ml",
+    "description": "Agadir Argan Oil Daily Shampoo + Conditioner \"Combo Set\" 12.4oz/366ml",
+    "itemID": "B0046D754G",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 2014
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoo & Conditioner Sets"
+      ]
+    ],
+    "price": 18.89,
+    "brand": "Agadir"
+  }
+]

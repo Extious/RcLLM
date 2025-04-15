@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Alba Botanica Very Emollient Body Lotion, Daily Shade Formula, SPF 15, 32-Ounce Bottle",
+    "description": "Since 1979, Alba Botanica has offered natural, 100% vegetarian personal care products that do beautiful for you, your friends and the animals and Earth you love. We make a full range of products packed with potent natural, botanical ingredients that are formulated to nourish the individualized needs of your skin and hair.",
+    "itemID": "B001441QE0",
+    "helpful": [
+      4,
+      5
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 5996
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Lotions"
+      ]
+    ],
+    "price": 16.99,
+    "brand": "Alba Botanica"
+  },
+  {
+    "title": "Sigma Brush Cup Holder",
+    "description": "The Sigma Beauty Brush Cup Holder is an innovative and functional container that turns into two brush holders designed to help you keep your brushes organized at home or on-the-go.\n\n 2013 Sigma Enterprises, LLC",
+    "itemID": "B005EM5DT2",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 1.0,
+    "salesRank": {
+      "Beauty": 4677
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Scrubs & Body Treatments",
+        "Body Scrubs"
+      ]
+    ],
+    "price": 25.0,
+    "brand": "Sigma Beauty"
+  },
+  {
+    "title": "Suave Professionals Moroccan Infusion Shine Conditioner 28 oz",
+    "description": "",
+    "itemID": "B00A0IWRU8",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 46538
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Conditioners"
+      ]
+    ],
+    "price": 7.29,
+    "brand": "Suave"
+  }
+]

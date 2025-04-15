@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Thayer Cucumber Witch Hazel, 12 Fluid Ounce",
+    "description": "Recommend: Apply with a cotton ball after cleansing or anytime throughout the day as a softening refresher. Does Not Contain: Alcohol.",
+    "itemID": "B001BR97A0",
+    "helpful": [
+      1,
+      2
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 582
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Toners & Astringents"
+      ]
+    ],
+    "price": 10.2,
+    "brand": "Thayer"
+  },
+  {
+    "title": "CHI Silk Infusion Leave-In Treatment, 12 Ounce",
+    "description": "Farouk CHI Silk Infusion is specifically developed to work in conjunction with the CHI Styling Tool product lines. CHI Silk Infusion is a rich leave-in-treatment formulated with pure silk, wheat and soy proteins that will penetrate deep.",
+    "itemID": "B000BX1Z00",
+    "helpful": [
+      1,
+      2
+    ],
+    "overall": 1.0,
+    "salesRank": {
+      "Beauty": 61432
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Creams, Gels & Lotions"
+      ]
+    ],
+    "price": NaN,
+    "brand": NaN
+  },
+  {
+    "title": "Clairol Perfect 10 by Nice 'n Easy Hair Color, 007.5A, Medium Ash Blonde",
+    "description": "Perfect 10 provides high gloss hair color in just 10 minutes. It has an advanced color cr&egrave;me with micro-pearls that gently accelerates the color development process, delivering rich, high gloss color and 100% gray coverage in just 10 minutes, while better protecting your hair*.",
+    "itemID": "B0012QD7EC",
+    "helpful": [
+      1,
+      2
+    ],
+    "overall": 1.0,
+    "salesRank": {
+      "Beauty": 184067
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Hair Color",
+        "Chemical Hair Dyes"
+      ]
+    ],
+    "price": 13.99,
+    "brand": "Clairol"
+  }
+]

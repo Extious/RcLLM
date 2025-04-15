@@ -1,0 +1,211 @@
+[
+  {
+    "title": "Rose - Auric Blends Perfume Oils",
+    "description": "Memories of an English Rose Garden, with a light and true, romantic and intoxicating fragrance.",
+    "itemID": "B0012E2I8A",
+    "helpful": [
+      0,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 20894
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Fragrance",
+        "Women's",
+        "Essential Oils"
+      ]
+    ],
+    "price": 7.99,
+    "brand": "Auric Blends"
+  },
+  {
+    "title": "Rose Milk Skin Care Lotion - 8 fl oz",
+    "description": "For Softer, Smoother, Younger Feeling Skin.",
+    "itemID": "B000087L6T",
+    "helpful": [
+      7,
+      8
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 13332
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Lotions"
+      ]
+    ],
+    "price": 10.75,
+    "brand": "LEE PHARMACEUTICAL CO."
+  },
+  {
+    "title": "Boots No7 Highlights Illuminating Lotion 1 fl oz (30 ml)",
+    "description": "This gorgeous pearly pink lotion contains light reflecting particles to illumina",
+    "itemID": "B0020BWQVI",
+    "helpful": [
+      5,
+      5
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 148504
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Lotions"
+      ]
+    ],
+    "price": NaN,
+    "brand": NaN
+  },
+  {
+    "title": "Biotique Botanicals Bhringraj Hair Growth ThERApeutic Oil, 4.2-Fluid Ounce",
+    "description": "This Bio Bhringraj Fresh Growth Therapeutic Oil nourishes the scalp and strengthens hair strands to encourage fresh growth and help diminish greying.",
+    "itemID": "B004C1VIPY",
+    "helpful": [
+      2,
+      6
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 7345
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Hair Loss Products",
+        "Hair Regrowth Treatments"
+      ]
+    ],
+    "price": 9.95,
+    "brand": "Biotique Botanicals"
+  },
+  {
+    "title": "Korres 24-Hour Moisturising and Brightening Cream, Wild Rose, 1.35 Ounce",
+    "description": "Moisturizing and brightening cream, with wild rose oil, a natural source of vitamin c, helps repair the look of fine lines and skin discolorations.",
+    "itemID": "B000IMPD3O",
+    "helpful": [
+      4,
+      4
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 10170
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Creams & Moisturizers"
+      ]
+    ],
+    "price": 33.78,
+    "brand": "Korres"
+  },
+  {
+    "title": "Babyface Night Renewal Cream 2% Encapsulated Retinol (1,700,000 IU/g) Non-Irritating Retinol OTC for Skin Tone Correction, Resurfacing, Anti-Aging, Acne",
+    "description": "2% Pure Retinol (Encapsulated for controlled release and stability). Strongest OTC strength Retinol Available.Why is Encapsulated Retinol better? Encapsulated Retinol releases a little at a time, benefiting the skin, but not shocking it into inflamed irritation. \nEncapsulation also preserves the potency of the Retinol molecule, ensuring it remains effective long term.Babyface's Night Renewal Cream is gentle, yet effective. With a strong potency (1700000 IU/g) it will get the job done, but without irritating like other products can. Best for those who have not used prescription retinoids before, or for those who prefer to achieve some of the same benefits, but without the irritation. Our effective formula was created to be a practical product that you can use daily. While not as fast acting as a prescription cream, the retinol in Night Renewal Creme is converted to retinoic acid slower and therefore there is little or no irritation. Compared to Retin-A, which usually produces results in about 4-8 weeks, the Night Renewal Creme is around 12 weeks.2% concentration of retinol (and 1700000 IU/g). Packaged in a light protected, airless jar for ease of use and to ensure freshness and effectiveness.Babyface Night Renewal Crme is a great option to harsher prescription products, and can also improve lines and discoloration, or be used as an acne treatment. Our retinol cream is gradually converted into retinoic acid (the active ingredient in the prescription creams) and results are seen at around 12 weeks for most people. Some will respond very quickly, but we do suggest giving it 3 months for real results.When using Retinol for treating hair loss, it is recommended to use it in combination with Minoxidil, as it's believed that Retinol boosts the penetration and effectiveness of the Minoxidil topical treatments.Cautions: Don't use vitamin A products if you are pregnant or breastfeeding.",
+    "itemID": "B007JBF99U",
+    "helpful": [
+      14,
+      20
+    ],
+    "overall": 1.0,
+    "salesRank": {
+      "Health & Personal Care": 8188
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Treatments & Masks"
+      ]
+    ],
+    "price": 26.0,
+    "brand": NaN
+  },
+  {
+    "title": "L'Oreal Paris Colour Riche Lip Gloss, Soft Coral, 0.23 Ounces",
+    "description": "La cr&#xE8;me de la cr&#xE8;me of lip gloss. Fragrance-free and infused with nurturing, ultra-hydrating omega 3 and protective vitamin e, color riche gloss finishes keep lips soft, smooth, and shiny. In 12 sheer shades with just a hint of shimmer, color riche gloss is one of the best.",
+    "itemID": "B004BCT950",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 61738
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Lips",
+        "Lip Glosses"
+      ]
+    ],
+    "price": 5.75,
+    "brand": "L&#39;Oreal Paris"
+  },
+  {
+    "title": "Maybelline SuperStay Gloss - Golden Pink",
+    "description": "Maybelline SuperStay GlossOur longest lasting gloss ever!&bull;Shiny color lasts 6X longer than the leading gloss&bull;Feels irresistibly soft, comfortable all day long&bull;In 16 glossy sheer shades&bull;Superaway Lipcolor Remover with Vitamin E gently removes all traces of long wear lip gloss",
+    "itemID": "B00168NIEK",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 165685
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Lips",
+        "Lip Glosses"
+      ]
+    ],
+    "price": 7.85,
+    "brand": "Maybelline"
+  },
+  {
+    "title": "KoKo du lait Daily Leave In Moisturizing Detangler For Wavy, Curly, Kinky, Relaxed &amp; Chemically Treated Hair",
+    "description": "KoKo du lait pronounced (coco-do-lay) is a daily leave in moisturizer and detangler that makes it easier to remove knots and tangles from all hair types . KoKo du lait also keeps your hair properly moisturized all day and infuses your hair with  moisturizing Coconut Milk. Use along with Cha'Cha Ultra Moisturizing Shampoo and TUKKA Natural Hair Treatment for great results!\n\nYou can also treat your hair to the intoxicating aroma  Le'Moka Chocolate Deep Conditioning Hair Mask to infuse your hair with moisture, vitamins and antioxidants.",
+    "itemID": "B006KWA6EW",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 23520
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Creams, Gels & Lotions"
+      ]
+    ],
+    "price": 11.5,
+    "brand": NaN
+  }
+]

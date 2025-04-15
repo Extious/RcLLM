@@ -1,0 +1,72 @@
+[
+  {
+    "title": "e.l.f. HD Blush, Superstar, 0.34 Ounce",
+    "description": "Rich and creamy HD blush naturally sculpts and highlights the cheekbones for a soft-focus effect that is great for everyday use. The vitamin E enriched formula conditions and hydrates the skin for a healthy, radiant glow.",
+    "itemID": "B009YXC3LS",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 1.0,
+    "salesRank": {
+      "Beauty": 23231
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Blush"
+      ]
+    ],
+    "price": 5.6,
+    "brand": "e.l.f. Cosmetics"
+  },
+  {
+    "title": "Opi Avoplex Nail and Cuticle Replenishing Oil, 0.5 Fluid Ounce",
+    "description": "Moisturizes and conditions cuticles and nails with OPI's exclusive avocado lipid complex.",
+    "itemID": "B000TBW0NA",
+    "helpful": [
+      0,
+      1
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 2008
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Hands & Nails",
+        "Cuticle Care",
+        "Cuticle Creams & Oils"
+      ]
+    ],
+    "price": 6.89,
+    "brand": "OPI"
+  },
+  {
+    "title": "L'Oreal Paris Dual Eye/Lipliner Sharpener with Cover",
+    "description": "L&#x2019;Oreal&#x2019;s Dual Sharpener is perfect for keeping all your pencils in shape for flawless application. Sharpens both traditional liners and jumbo pencils.",
+    "itemID": "B004BIZBF6",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 893
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Tools & Accessories",
+        "Makeup Brushes & Tools",
+        "Sharpeners"
+      ]
+    ],
+    "price": 2.69,
+    "brand": NaN
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Studio Tone Correcting Powder",
+    "description": "Create a balanced and radiant complexion that is beautiful and healthy. The lightweight formula evens out skin tone and absorbs excess oil, and sheer formula brightens, mattes and neutralizes the skin. The colors are meant to be blended together as the Blue neutralizes orange, the green neutralizes red, the pink neutralizes grey and the yellow brightens and neutralizes red.",
+    "itemID": "B002M0720M",
+    "helpful": [
+      0,
+      4
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Beauty": 33092
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Powder"
+      ]
+    ],
+    "price": 5.99,
+    "brand": "e.l.f. Cosmetics"
+  },
+  {
+    "title": "Hot Tools 2179 Deep Waver with Ceramic Tourmaline And Pulse Technology",
+    "description": "New plate design creates ultra-deep waves in any type of hair. Ceramic radiates far-infrared heat to preserve hair's natural moisture while tourmaline produces ions to seal the hair cuticle and increase shine.",
+    "itemID": "B003AKHQG8",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 2213
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Irons",
+        "Curling Irons"
+      ]
+    ],
+    "price": 34.99,
+    "brand": "Hot Tools"
+  },
+  {
+    "title": "e.l.f. Brush Shampoo, Clear, 4.1 Ounce",
+    "description": "Disinfects brushes to provide a fresh and clean application every time. Washes away traces of dirt, makeup, oil and debris from your brush while conditioning the hair to provide a clean and soft application for every use.",
+    "itemID": "B004DIZZH8",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 7695
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Tools & Accessories",
+        "Makeup Brushes & Tools",
+        "Brushes & Applicators"
+      ]
+    ],
+    "price": 7.34,
+    "brand": "e.l.f. Cosmetics"
+  }
+]

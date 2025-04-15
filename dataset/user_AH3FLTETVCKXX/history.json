@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Conair 213XP Infiniti Professional Tourmaline Ceramic Technology Ionic Styler, Black",
+    "description": "This stainless steel Conair 1875 watt hair dryer features tourmaline ceramic technology with a professional AC motor, cool shot, 3 heat/2 speed settings, removable filter, 7' professional line cord, diffuser and concentrator attachment.",
+    "itemID": "B000E8O8UQ",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 108605
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Hair Dryers"
+      ]
+    ],
+    "price": 43.99,
+    "brand": NaN
+  },
+  {
+    "title": "Olay Sensitive Foaming Face Wash, 6.8 fl. oz.  (Pack of 2)",
+    "description": "Gently cleanse and refresh sensitive skin",
+    "itemID": "B004CQXYYC",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 1.0,
+    "salesRank": {
+      "Beauty": 79148
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Cleansers",
+        "Washes"
+      ]
+    ],
+    "price": 13.99,
+    "brand": "Olay"
+  },
+  {
+    "title": "Method Gel Dish Pump Refill 36oz, Cucumber (Pack of 2)",
+    "description": "",
+    "itemID": "B004M2Y7RY",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Health & Personal Care": 2184
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Cleansers",
+        "Soaps"
+      ]
+    ],
+    "price": 16.72,
+    "brand": "Method"
+  }
+]

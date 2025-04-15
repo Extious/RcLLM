@@ -1,0 +1,49 @@
+[
+  {
+    "title": "California Tan Color Maximizer Lotion Sunless, 6 Ounce",
+    "description": "Exceptional quick-dry gel formulation allows dripless application and instant hydration to prime skin for darker color application.",
+    "itemID": "B005OHQUTO",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 15110
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Sun",
+        "Self-Tanners & Bronzers"
+      ]
+    ],
+    "price": 11.9,
+    "brand": "California Tan"
+  },
+  {
+    "title": "Red Cherry #43 False Eyelashes (Pack of 6 Pairs)",
+    "description": "Red Cherry lashes are made from 100% human hair",
+    "itemID": "B006LRRQK8",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 1028
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Tools & Accessories",
+        "Makeup Brushes & Tools",
+        "Eyelash Tools",
+        "Fake Eyelashes & Adhesives"
+      ]
+    ],
+    "price": 10.19,
+    "brand": "Red Cherry"
+  }
+]

@@ -1,0 +1,70 @@
+[
+  {
+    "title": "CLEAR SCALP &amp; HAIR BEAUTY Volumizing Root Boost Nourishing Shampoo, 12.9 Fluid Ounce",
+    "description": "",
+    "itemID": "B007RTR8AC",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 11379
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 1.66,
+    "brand": "Clear"
+  },
+  {
+    "title": "Hydroxatone Hydrolyze Intensive Under Eye Treatment, Net Wt. 0.5 Oz.",
+    "description": "",
+    "itemID": "B009XRFA88",
+    "helpful": [
+      1,
+      2
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 4721
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Eyes",
+        "Creams"
+      ]
+    ],
+    "price": 27.99,
+    "brand": "Hydroxatone"
+  },
+  {
+    "title": "Hydroxatone Intensive Overnight Repair Cream, 1 oz.",
+    "description": "",
+    "itemID": "B009XRFAJW",
+    "helpful": [
+      2,
+      2
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 30818
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Creams & Moisturizers"
+      ]
+    ],
+    "price": 38.0,
+    "brand": "Hydroxatone"
+  }
+]

@@ -1,0 +1,71 @@
+[
+  {
+    "title": "L'Oreal Paris Eye Defense, 0.5 Fluid Ounce",
+    "description": "This light, non-greasy gel-cream is specially formulated to defend against signs of premature aging around the eyes.  Liposomes penetrate the skin's surface to deliver hydrating and nurturing ingredients.  Reduces puffiness, smoothes fine line and wrinkles, and diminishes dark circles around the eyes. Dermatologically tested for gentleness.  Ophthalmologist tested, safe for contact lens wearers.   Fragrance-free.",
+    "itemID": "B00005333I",
+    "helpful": [
+      8,
+      9
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 18260
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Eyes",
+        "Dark Circle Treatments"
+      ]
+    ],
+    "price": 5.3,
+    "brand": "L&#39;Oreal Paris"
+  },
+  {
+    "title": "Paul Mitchell Super Skinny Serum, 5.1 Ounce",
+    "description": "Spend more time living and less time styling with paul mitchell smoothing super skinny serum. Helps smooth hair fast with reduced dry time and control frizz. Penetrates deep into the hair shaft where it displaces water and constricts the hair.",
+    "itemID": "B000NYL3NQ",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 576
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Hair Styling Serums"
+      ]
+    ],
+    "price": 11.99,
+    "brand": "Paul Mitchell"
+  },
+  {
+    "title": "L'Oreal Paris True Match Lumi Healthy Luminous Makeup, Soft Ivory/Classic Ivory, 1.0 Ounces",
+    "description": "Finally, makeup that creates skin so healthy - it's luminous. True match lumi healthy luminous makeup combines 3 powerful ingredients that work to improve your complexion the more you wear them. 40% pure water for all-day hydration. Antioxidants and vitamins C and E for improved clarity and skin tone. And liquid light technology for an instant, luminous glow.",
+    "itemID": "B008DF54K0",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 13061
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Foundation"
+      ]
+    ],
+    "price": 5.3,
+    "brand": "L&#39;Oreal Paris"
+  }
+]

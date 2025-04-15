@@ -1,0 +1,71 @@
+[
+  {
+    "title": "NARS Bronzing Powder, Casino",
+    "description": "Diffused powder with golden shimmer to create an all-over warmth and contour for the entire face. Bronzing Powder creates a natural looking glow which enhances or creates the look of tanned skin.",
+    "itemID": "B00021DPHW",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 23592
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Bronzers & Highlighters"
+      ]
+    ],
+    "price": 38.0,
+    "brand": "NARS"
+  },
+  {
+    "title": "MAKE UP FOR EVER HD Microfinish Powder 0.30 oz",
+    "description": "Softens the appearance of imperfections",
+    "itemID": "B0016M52EU",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 7047
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Powder"
+      ]
+    ],
+    "price": 38.62,
+    "brand": "Make Up For Ever"
+  },
+  {
+    "title": "Jessica Simpson Fancy Love Eau de Parfum Spray, 1.7 Ounce",
+    "description": "Buy Jessica Simpson Women's Perfumes - Fancy Love by Jessica Simpson for Women 1.7 oz Eau de Parfum Spray",
+    "itemID": "B002VQTI4K",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 132446
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Fragrance",
+        "Women's",
+        "Eau de Parfum"
+      ]
+    ],
+    "price": 23.54,
+    "brand": "Jessica Simpson"
+  }
+]

@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Pantene Pro-V Curly Hair Series Light Conditioning Hair Detangler 8.5 Fl Oz (Pack of 3)",
+    "description": "",
+    "itemID": "B003EGZZ1G",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 70721
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": NaN,
+    "brand": NaN
+  },
+  {
+    "title": "Halo II Headband",
+    "description": "",
+    "itemID": "B000UM2KCY",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Sports &amp; Outdoors": 77
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Styling Accessories",
+        "Headbands"
+      ]
+    ],
+    "price": NaN,
+    "brand": NaN
+  },
+  {
+    "title": "CoverGirl Advanced Radiance Age-Defying Pressed Powder, Natural Beige 120, 0.39 Ounce Pan",
+    "description": "",
+    "itemID": "B000QF8O8O",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 17430
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Powder"
+      ]
+    ],
+    "price": 8.78,
+    "brand": "COVERGIRL"
+  }
+]

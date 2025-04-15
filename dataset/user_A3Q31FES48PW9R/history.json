@@ -1,0 +1,71 @@
+[
+  {
+    "title": "bareMinerals Blush - I'm Amused Rouge",
+    "description": "Get cheeky with a pop of color that brightens your face and defines your features. Our creamy, lightweight bareMinerals Blush gives your skin a healthy, fresh vibrancy that looks and feels natural - because it is natural. Size: Medium",
+    "itemID": "B00021DUM2",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 36789
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Blush"
+      ]
+    ],
+    "price": 18.0,
+    "brand": NaN
+  },
+  {
+    "title": "Proactiv Solution Advanced Blemish Treatment 0.33 OZ, 9.45g",
+    "description": "Stop pimple panic with the quick relief of Advanced Blemish Treatment. This special formula delivers a concentrated dose of benzoyl peroxide to problem areas, penetrating to the root of the pimple and healing it fast. \nSize: 0.33 oz.\n\nBenefits: \nPenetrates quickly to speed up healing\n\nFormulated with skin conditioners allantoin and panthenol to soothe surrounding areas",
+    "itemID": "B000JVW9CC",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 242
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Treatments & Masks"
+      ]
+    ],
+    "price": 12.0,
+    "brand": "Proactiv"
+  },
+  {
+    "title": "Revlon ColorStay Lipliner with SoftFlex, Plum 665, 0.01 Ounce",
+    "description": "Defines lips and extends lipcolor wear. Pull-out sharpener. Rich definition. What It Does: Defines lips with smooth color. Blends easily and can be used to extend lipcolor wear. Prevents feathering and bleeding. How it works: Exclusive ColorStay formula with SoftFlex technology provides longwearing definition and makes lipcolor last longer. Made in Italy.",
+    "itemID": "B000TTHUDW",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 269829
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Lips",
+        "Lipstick"
+      ]
+    ],
+    "price": 7.99,
+    "brand": "Revlon"
+  }
+]

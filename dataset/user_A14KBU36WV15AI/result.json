@@ -1,0 +1,71 @@
+[
+  {
+    "title": "LAUNCH SALE!! Dr. Song 20% Salicylic Acid Gel Peel",
+    "description": "Salicylic Acid is best for: Acne, Acne Scars, Wrinkles, Large Pores & Blackheads, Oily Skin, Psoriasis, Razor Bumps and Warts",
+    "itemID": "B00DQ1N1P6",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 5370
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Treatments & Masks",
+        "Acids & Peels",
+        "Salicylic Acid"
+      ]
+    ],
+    "price": 9.99,
+    "brand": NaN
+  },
+  {
+    "title": "Replacement Brush Head for Deep Pore Cleansing (GENERIC) 4 Pack - by Quality Generix",
+    "description": "Generic Replacement brush heads",
+    "itemID": "B00H167AT0",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 3727
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face"
+      ]
+    ],
+    "price": 3.23,
+    "brand": "Generic"
+  },
+  {
+    "title": "Elasta Qp Soy Oyl UltraHydration Deep Conditioner, 32 oz",
+    "description": "Elasta QP Soy OYL Deep Conditioner helps prevent breakage and infuses hair with moisture.",
+    "itemID": "B0047ARSKE",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 91629
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Conditioners"
+      ]
+    ],
+    "price": 7.99,
+    "brand": "ElastaQP"
+  }
+]

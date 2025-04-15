@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Clean &amp; Clear Morning Glow Moisturizer, SPF 15, 4 Ounce",
+    "description": "From the invigorating Morning Burst collection comes Morning Burst Shine Control Moisturizer. The light, gentle formula is infused with an invigorating fragrance that's sure to enliven your senses. It hydrates and refreshes tired, dull skin while providing longlasting shine control.",
+    "itemID": "B00027DDEQ",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": NaN,
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Creams & Moisturizers",
+        "Fluids & Lotions",
+        "Lotions"
+      ]
+    ],
+    "price": 6.5,
+    "brand": "Clean &amp; Clear"
+  },
+  {
+    "title": "Simple Clean Simply Ivory Original Scent Body Wash, 24-Ounce Bottles (Pack of 6)",
+    "description": "",
+    "itemID": "B000GRB3SA",
+    "helpful": [
+      1,
+      2
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Health & Personal Care": 42248
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Cleansers",
+        "Body Washes"
+      ]
+    ],
+    "price": 32.59,
+    "brand": "Ivory"
+  },
+  {
+    "title": "Clean &amp; Clear Morning Burst Scrub with Bursting Beads, 5Ounce Tube",
+    "description": "From the invigorating Morning Burst collection comes Morning Burst Facial Scrub. This formula is infused with Vitamin C and Ginseng, and BurstING Beads which burst with energy and vitamins, and helps nourish skin. It gently cleanses and exfoliates tiredlooking skin, leaving you feeling radiant and refreshed.",
+    "itemID": "B000NN5HK2",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 17310
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Exfoliators & Scrubs",
+        "Scrubs"
+      ]
+    ],
+    "price": 6.53,
+    "brand": "Clean &amp; Clear"
+  }
+]

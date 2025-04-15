@@ -1,0 +1,74 @@
+[
+  {
+    "title": "Mavala Stop - Helps Cure Nail Biting and Thumb Sucking, 0.3-Fluid Ounce",
+    "description": "A transparent formula with a distinct bitter taste to discourage from nail biting and putting fingers into mouth.",
+    "itemID": "B0000YUXI0",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 16
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Hands & Nails",
+        "Cuticle Care",
+        "Cuticle Creams & Oils"
+      ]
+    ],
+    "price": 10.59,
+    "brand": "MAVALA"
+  },
+  {
+    "title": "Glytone Fading Lotion, 2-Ounce Package",
+    "description": "To treat.  2% hydroquinone and 1% kojic acid helps reduce hyperpigmentation.  Concentration of 5% glycolic acid.",
+    "itemID": "B002D48QPM",
+    "helpful": [
+      3,
+      5
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 6820
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Lotions"
+      ]
+    ],
+    "price": 27.99,
+    "brand": "Glytone"
+  },
+  {
+    "title": "Got 2b Crazy Sleek  Flat Iron and Blow Dry Lotion 8.5-Ounce Bottle (Pack of 3)",
+    "description": "Works with the heat of your blow dryer and flat iron to deliver long-lasting smooth hair that resists curling.  Provides thermal protection.",
+    "itemID": "B001G7QYZQ",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Beauty": 14682
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Irons",
+        "Flattening Irons"
+      ]
+    ],
+    "price": 19.75,
+    "brand": "GOT 2B"
+  }
+]

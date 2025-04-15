@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Xtreme Brite Brightening Gel 1oz",
+    "description": "Xtreme Brite Brightening Gel is highly concentrated gel helps to obtain a clearer and brighter complexion. Removes blackheads and cosmetic acne also has anti-bacterial and soothing properties. For best results use regularly together with other products from the Xtreme Brite brand.",
+    "itemID": "B0054GBXOW",
+    "helpful": [
+      1,
+      3
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 1090
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Treatments & Masks"
+      ]
+    ],
+    "price": 19.99,
+    "brand": "Xtreme Brite"
+  },
+  {
+    "title": "Babyliss Pro Onomh125s One 'n Only Argan Heat Ceramic Curling Iron, 1-1/4-Inches",
+    "description": "Argan oil derived from the moroccan argan tree smoothes the cuticle to eliminate frizz for brilliant shine and healthy looking hair. preserves color and integrity as it helps revitalize and condition hair.",
+    "itemID": "B004885USW",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 87971
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Irons",
+        "Curling Irons"
+      ]
+    ],
+    "price": 30.99,
+    "brand": "BaBylissPRO"
+  },
+  {
+    "title": "NYX Doll Eye Mascara, Extreme Black,  Volume,  DE02, 0.28 oz",
+    "description": "Hello doll-face! For irresistibly fluttery eyelashes, try this mascara on for size. Doll eye mascara uses a unique blend of natural oils, vitamin E and nylon fibers to extend eyelashes to almost faux proportions. This mascara will add the volume in your lashes that you desire.",
+    "itemID": "B000WYZ9Q4",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 3990
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Eyes",
+        "Mascara"
+      ]
+    ],
+    "price": 7.14,
+    "brand": "NYX"
+  }
+]

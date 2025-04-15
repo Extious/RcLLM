@@ -1,0 +1,70 @@
+[
+  {
+    "title": "Diane 2&quot; Bobby Pins, Black, 300-pack Tub",
+    "description": "2 inches bob pins for hair. Great for up-dos. Simulated rubber tips. Crimped style. Black. 300 per tub.",
+    "itemID": "B001A3ATP2",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 2015
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Styling Accessories",
+        "Hair Pins"
+      ]
+    ],
+    "price": 5.37,
+    "brand": "Diane"
+  },
+  {
+    "title": "Diane 2.5&quot; Jumbo Bob Pins, Bronze, 100-pack Tub",
+    "description": "2.5 inches jumbo bob pins for hair. Great for up-dos. Simulated rubber tips. Flat style. Bronze. 100 per tub.",
+    "itemID": "B002BDW2NW",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 17233
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Styling Accessories",
+        "Hair Pins"
+      ]
+    ],
+    "price": 4.87,
+    "brand": "Diane"
+  },
+  {
+    "title": "Aussie Hair Insurance Leave-In Conditioner 8 Fl Oz (Pack of 3)",
+    "description": "",
+    "itemID": "B0000530EZ",
+    "helpful": [
+      2,
+      2
+    ],
+    "overall": 5.0,
+    "salesRank": NaN,
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Conditioners"
+      ]
+    ],
+    "price": 14.0,
+    "brand": "Aussie"
+  }
+]

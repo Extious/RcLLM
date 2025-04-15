@@ -1,0 +1,48 @@
+[
+  {
+    "title": "Sebamed Face and Body Wash, 33.8-Fluid Ounces Bottle",
+    "description": "All Sebamed products are \"soap free\" and suitable for individuals even with the most sensitive skin.  Sebamed is recommended by dermatologists in over 85 countries and is supported by over 150 clinical studies",
+    "itemID": "B00381A7OW",
+    "helpful": [
+      1,
+      2
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 1077
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Cleansers",
+        "Body Washes"
+      ]
+    ],
+    "price": 47.94,
+    "brand": "Sebamed"
+  },
+  {
+    "title": "John Frieda Brilliant Brunette Liquid Shine Shine Shock Perfecting Glosser, 2.4 Ounce (Pack of 2)",
+    "description": "Formulated with an exclusive&#xA0;Shine-Infusing Complex, Brilliant Brunette Liquid Shine Illuminating Conditioner&#xA0;penetrates damaged areas within the hair while it polishes the exterior of each strand&#xA0;to optimize the reflection of light and create a crystalline shine.",
+    "itemID": "B005K95ZVA",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 6629
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Creams, Gels & Lotions"
+      ]
+    ],
+    "price": 12.99,
+    "brand": "John Frieda"
+  }
+]

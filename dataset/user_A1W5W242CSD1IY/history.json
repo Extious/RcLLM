@@ -1,0 +1,71 @@
+[
+  {
+    "title": "CLEAR SCALP &amp; HAIR BEAUTY Total Care Nourishing Shampoo, 12.9 Fluid Ounce",
+    "description": "",
+    "itemID": "B007RTR898",
+    "helpful": [
+      0,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 11950
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 5.96,
+    "brand": "Clear"
+  },
+  {
+    "title": "CLEAR SCALP &amp; HAIR BEAUTY Total Care Nourishing Conditioner, 12.7 Fluid Ounce",
+    "description": "",
+    "itemID": "B007RTR8UC",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 9629
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Conditioners"
+      ]
+    ],
+    "price": 5.99,
+    "brand": "Clear"
+  },
+  {
+    "title": "Simple Protecting Light Moisturizer Spf 15, 4.2 Ounce",
+    "description": "",
+    "itemID": "B009RNUH7M",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 4711
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Creams & Moisturizers",
+        "Fluids & Lotions",
+        "Lotions"
+      ]
+    ],
+    "price": 7.18,
+    "brand": "Simple"
+  }
+]

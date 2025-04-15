@@ -1,0 +1,70 @@
+[
+  {
+    "title": "Essie Nail Polish Marshmallow, .5 Ounce",
+    "description": "These high-quality nail polishes were vote the \"Best Overall Nail Polish Line\" by InStyle magazine. Essie pride themselves on producing great nail polishes that go on smooth and don't leave streaks. Celebrities who use Essie: Kristin Davis, Debra Messing, Britney Spears, Jennifer Lopez, Sharon Stone, Oprah Winfrey and Naomi Campbell ! What's in a name? Each season Essie Weingarten has the difficult task of naming six new colors of polish. Naming a polish is tricky; however the key to the success of Essie Cosmetics is not only the glorious colors, but the descriptive memorable names.",
+    "itemID": "B000142C1A",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 7849
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Nails",
+        "Nail Polish"
+      ]
+    ],
+    "price": 5.58,
+    "brand": "Essie"
+  },
+  {
+    "title": "American Crew Tea Tree Shampoo, 8.45-ounce",
+    "description": "Balancing Shampoo",
+    "itemID": "B000NVIFFS",
+    "helpful": [
+      1,
+      2
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 12111
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 9.95,
+    "brand": "AMERICAN CREW"
+  },
+  {
+    "title": "Konad Stamping Nail Art Image Plate - M36",
+    "description": "Konad nail art stencil with 7 designs.",
+    "itemID": "B006H2ZBKY",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 69733
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Lips",
+        "Lip Glosses"
+      ]
+    ],
+    "price": 4.95,
+    "brand": "KONAD Nail Art"
+  }
+]

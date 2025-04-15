@@ -1,0 +1,66 @@
+[
+  {
+    "title": "Herbal Essences, Hello Hydration Moisturizing Hair Conditioner With Coconut, 23.7 Fl Oz (Pack of 3)",
+    "description": "",
+    "itemID": "B003AYEG4O",
+    "helpful": [
+      3,
+      9
+    ],
+    "overall": 1.0,
+    "salesRank": {
+      "Beauty": 91455
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Conditioners"
+      ]
+    ],
+    "price": 17.82,
+    "brand": "Herbal Essences"
+  },
+  {
+    "title": "Trader Joe's Nourish Spa Balance Moisturizing Conditioner - Cruelty Free 16.9oz",
+    "description": "When your hair is dry, it needs to be nourished. This balanced hair remoisturizer is ideal for replenishing dry, brittle hair. Perfect for use daily, it infuses moisture and exceptional shine, without weighing hair down. Enhanced with organic botanicals, it does not contain laurel/laureth sulfates.",
+    "itemID": "B002LV317A",
+    "helpful": [
+      3,
+      4
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 29483
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Conditioners"
+      ]
+    ],
+    "price": 8.95,
+    "brand": "Trader Joe&#39;s"
+  },
+  {
+    "title": "OGX Renewing Argan Oil of Morocco Conditioner, 13 Ounce",
+    "description": "Organix Conditioner, Renewing Moroccan Argan Oil.  A precious blend of Moroccan argan oil which instantly penetrates the hair shaft restoring shine and softness while strengthening.  Derived from the southwest region of Morocco, argan oil protects from styling heat and UV damage while creating soft, seductive, silky perfection.",
+    "itemID": "B0048F38DY",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 1.0,
+    "salesRank": NaN,
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Conditioners"
+      ]
+    ],
+    "price": 7.89,
+    "brand": "OGX"
+  }
+]

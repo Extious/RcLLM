@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Dove Beauty Bar, Cool Moisture, 4 Bars",
+    "description": "Experience a bar that can refresh-and care for skin-at the same time. Dove has combined its &#xBC; hydrating lotion with the uplifting scent of cucumber and green tea for a bar that leaves you with the clean, cool feeling of hydrated skin.",
+    "itemID": "B001IACZEK",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 9611
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Cleansers",
+        "Soaps"
+      ]
+    ],
+    "price": 7.05,
+    "brand": "Dove"
+  },
+  {
+    "title": "Aquis Exfoliating Back Scrubber",
+    "description": "Get your skin glowing from head to toe with the innovative, two-sided technology of our Aquitex XF exfoliating material.  One side offers a textured, loofah-like surface that deeply exfoliates and massages, enhancing circulation and invigorating the skin.  The other side features a soft, smooth microfiber surface that gently deep-cleans even the most delicate skin.",
+    "itemID": "B000I20Q72",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 229
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Bathing Accessories",
+        "Loofahs, Sponges & Poufs"
+      ]
+    ],
+    "price": 10.49,
+    "brand": "Aquis"
+  },
+  {
+    "title": "Household Essentials Travel Tie Case, Black",
+    "description": "This padded tie case protects up to six neckties from wrinkles during travel. Its satiny lining won&#x92;t snag expensive silk ties, and each half features two wide elastic straps to hold ties securely in place. The zipper extends fully around three sides, allowing the case to open flat for easy access. The case measures 17 by 6 by 1-1/4 inches, is made of durable ramie-polyester fabric, and easily wipes clean.--Ann Bieri",
+    "itemID": "B0000CNR0E",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Home &amp; Kitchen": 4256
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Tools & Accessories",
+        "Bags & Cases",
+        "Travel Cases & Holders"
+      ]
+    ],
+    "price": 11.95,
+    "brand": "Household Essentials"
+  }
+]

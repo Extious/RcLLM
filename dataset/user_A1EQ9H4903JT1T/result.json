@@ -1,0 +1,94 @@
+[
+  {
+    "title": "Burt's Bees Intense Hydration Cream Cleanser, 6 Ounces",
+    "description": "",
+    "itemID": "B008HBMRIC",
+    "helpful": [
+      5,
+      6
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 5414
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Cleansers"
+      ]
+    ],
+    "price": 9.99,
+    "brand": "Burt&#39;s Bees"
+  },
+  {
+    "title": "BurnOut - Ocean Tested Physical Sunscreen 30 SPF - 3.4 oz.",
+    "description": "BurnOut Ocean Tested Physical Sunscreen 30 SPF - 3.4 oz. BurnOut Ocean Tested Physical Sunscreen contains a super moisturizing formula enriched with virgin hemp seed oil, aloe vera, and antioxidant vitamins to soothe and rejuvenate sun-damaged skin. Water-resistant, sweatproof, and will not run into eyes, BurnOut Ocean Tested Physical Sunscreen is formulated with 20% zinc oxide to provide UVA and UVB broad-spectrum protection. BurnOut Ocean Tested Physical Sunscreen contains is chemical-free, paraben-free, petroleum-free, PABA-free and is made for athletes pushing the limits. Frequently Asked Questions What's the difference between UVA and UVB rays?Sunlight has different types of ultraviolet radiation - UVA and UVB. UVA rays are deep penetrating and are linked to premature aging, wrinkling and sagging skin. Make sure your sunscreen has broad-spectrum protection. Historically, UVA was not seen as a culprit because the damage did not show up right away. UVA's don't cause sunburn, but their aging effects are very real and long lasting. UVA rays can penetrate deep into the dermis, where they can do permanent harm to our DNA, as well as the elastin and collagen fibers that make our skin supple and firm. UVB rays make your skin tan by triggering the skin's natural protection process. Depending on your skin type, these self-defense systems are damaged with prolonged exposure. What is an SPF?An SPF (Sun Protection Factor) indicates the amount of time you can stay in the sun. The SPF indicates the level of protection it offers against the sun. If you normally begin to burn after 10 minutes of sun exposure, a SPF 15 properly applied should protect you for 150 minutes.",
+    "itemID": "B000851N9E",
+    "helpful": [
+      0,
+      1
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 3965
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Sun",
+        "Skin Protection"
+      ]
+    ],
+    "price": 17.99,
+    "brand": "BurnOut"
+  },
+  {
+    "title": "Maybelline Dream Fresh BB Cream 100 Light Sheer Tint, 1.0 ounces",
+    "description": "Dream fresh BB cream 8-in-1 skin perfector is the 1-step wonder for a good skin day, everyday.&#xA0; Get 8 skin benefits in 1 simple step&#xA0; blurs imperfections, brightens, evens skin-tone, smoothes, hydrates, enhances, protects with SPF 30, and contains 0% oils and heavy ingredients.",
+    "itemID": "B008C130XS",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 15591
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Creams & Moisturizers"
+      ]
+    ],
+    "price": 9.0,
+    "brand": "Maybelline"
+  },
+  {
+    "title": "Eucerin Daily Protection SPF 15 Moisturizing Body Lotion 13.5 fl oz (400 ml)",
+    "description": "Eucerin Every Day Protective Moisturizing Body Lotion,  SPF 15.",
+    "itemID": "B0015HOB9S",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Beauty": 189879
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Scrubs & Body Treatments",
+        "Body Scrubs"
+      ]
+    ],
+    "price": NaN,
+    "brand": NaN
+  }
+]

@@ -1,0 +1,119 @@
+[
+  {
+    "title": "Aquasentials Exfoliating Bath Brush (15.5in) (Clear Handle)",
+    "description": NaN,
+    "itemID": "B005AYJ6EW",
+    "helpful": [
+      6,
+      6
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 7694
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Bathing Accessories",
+        "Bath Brushes"
+      ]
+    ],
+    "price": NaN,
+    "brand": NaN
+  },
+  {
+    "title": "MASH Premium Stainless Steel Cuticle Pusher Cutter Trimmer",
+    "description": "High quality stainless steel cuticle trimmer/pusher. This cuticle savor has a bell shaped end for pushing/and or cutting your cuticles to perfections, conforming to your nail.",
+    "itemID": "B0069SC0OQ",
+    "helpful": [
+      6,
+      9
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 530
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Tools & Accessories",
+        "Nail Tools",
+        "Cuticle Pushers"
+      ]
+    ],
+    "price": 1.5,
+    "brand": "MASH"
+  },
+  {
+    "title": "Schick Hydro Silk Disposable Razor, 3 Count",
+    "description": "",
+    "itemID": "B00AHF1GTM",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Health & Personal Care": 25629
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Oils"
+      ]
+    ],
+    "price": 9.95,
+    "brand": "Schick"
+  },
+  {
+    "title": "Jobst It Stays Roll-on Body Adhesive 2 oz. (3 pack)",
+    "description": "Roll-on body adhesive helps Jobst garments stay in place.",
+    "itemID": "B0000Y3LAC",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 11136
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Lotions"
+      ]
+    ],
+    "price": 22.96,
+    "brand": "Jobst"
+  },
+  {
+    "title": "Irish Spring Gear Body Wash, Exfoliating, 15 Fl. Ounce",
+    "description": "",
+    "itemID": "B00I6CRX04",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 2101
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Cleansers",
+        "Body Washes"
+      ]
+    ],
+    "price": 5.49,
+    "brand": "Irish Spring"
+  }
+]

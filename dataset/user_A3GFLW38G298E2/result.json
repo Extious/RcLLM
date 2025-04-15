@@ -1,0 +1,48 @@
+[
+  {
+    "title": "L'Oreal Paris Healthy Look Hair Color, 8.5 Blonde/White Chocolate",
+    "description": "Healthy look gives you natural-looking color with glossy, healthy-looking shine in just 10 little minutes. The ammonia-free formula deeply nourishes hair while also helping to counter dullness and prevent damage.  The cr&#xE8;me formula softly blends away gray.",
+    "itemID": "B002PMLGOU",
+    "helpful": [
+      1,
+      2
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 8028
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Hair Color",
+        "Color Refreshers"
+      ]
+    ],
+    "price": 15.09,
+    "brand": "L&#39;Oreal Paris"
+  },
+  {
+    "title": "KMS California Hair Play Molding Paste 5.1 oz [Health and Beauty]",
+    "description": "Maximum texture and firm, pliable hold with a matte finish! This is the best paste product on earth! Apply to towel dried or dry hair. For piecing and defining I find that applying to dry hair is excellent. Great for short hair styles and especially works well with the new shorter men's styles! If you want piecing and definition, separation, and/or just a little funky look....this is for you. Can also be used just to control unruly hair or frizzy hair. This is a great product, used and sold in many upscale salon.",
+    "itemID": "B000FP7ZLM",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 4324
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Creams, Gels & Lotions"
+      ]
+    ],
+    "price": 14.8,
+    "brand": "KMS"
+  }
+]

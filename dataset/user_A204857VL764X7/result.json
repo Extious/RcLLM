@@ -1,0 +1,48 @@
+[
+  {
+    "title": "John Frieda JFHA5 Hot Air Brush, 1.5 inch",
+    "description": "",
+    "itemID": "B0056GDG90",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 149
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Hot-Air Brushes"
+      ]
+    ],
+    "price": 28.69,
+    "brand": "John Frieda"
+  },
+  {
+    "title": "Covergirl Clump Crusher Mascara By Lashblast, Very Black 800, 0.44 Ounce",
+    "description": "",
+    "itemID": "B0094GHGQM",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 1.0,
+    "salesRank": {
+      "Beauty": 19665
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Eyes",
+        "Mascara"
+      ]
+    ],
+    "price": 8.86,
+    "brand": "COVERGIRL"
+  }
+]

@@ -1,0 +1,117 @@
+[
+  {
+    "title": "Axe Shower Gel Apollo, 16 Ounce",
+    "description": "",
+    "itemID": "B00AO4E9L8",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 76582
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Cleansers"
+      ]
+    ],
+    "price": 5.49,
+    "brand": "AXE"
+  },
+  {
+    "title": "Axe Harmony Shower Gel, 16 Fluid Ounce",
+    "description": "",
+    "itemID": "B00GTC1JVM",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Beauty": 7714
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Cleansers",
+        "Body Washes"
+      ]
+    ],
+    "price": 9.99,
+    "brand": "AXE"
+  },
+  {
+    "title": "Irish Spring Gear Body Wash, Exfoliating, 15 Fl. Ounce",
+    "description": "",
+    "itemID": "B00I6CRX04",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 2101
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Cleansers",
+        "Body Washes"
+      ]
+    ],
+    "price": 5.49,
+    "brand": "Irish Spring"
+  },
+  {
+    "title": "CeraVe Baby Lotion, 8 Ounce",
+    "description": "Developed with pediatric dermatologists, CeraVe Baby Moisturizing Lotion is formulated with 3 essential ceramides (ceramide 3, ceramide 6-II, ceramide 1) and is free of parabens and phthalates for a healthy way to care for your baby&#x2019;s delicate skin. Designed to temporarily protect and help relieve chafed, chapped or cracked skin. CeraVe Baby Moisturizing Lotion helps protect baby&#x2019;s skin from the drying effects of wind and cold weather.",
+    "itemID": "B00JF3RYPM",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 5952
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Lotions"
+      ]
+    ],
+    "price": 8.84,
+    "brand": "CeraVe"
+  },
+  {
+    "title": "Curel Rough Skin Rescue, 13 Ounce",
+    "description": "Curel Rough Skin Rescue lotion gently loosens flakes without irritation, allowing essential hydration to reach the areas that need it most",
+    "itemID": "B00KTLBDYM",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 4.0,
+    "salesRank": NaN,
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Lotions"
+      ]
+    ],
+    "price": 25.08,
+    "brand": NaN
+  }
+]

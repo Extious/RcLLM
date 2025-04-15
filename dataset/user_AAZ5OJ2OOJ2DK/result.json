@@ -1,0 +1,90 @@
+[
+  {
+    "title": "Nexxus Youth Renewal Rejuvenating Conditioner, 13.5 Ounce",
+    "description": "",
+    "itemID": "B00ALV8EJM",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 22582
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Conditioners"
+      ]
+    ],
+    "price": 12.97,
+    "brand": "Nexxus"
+  },
+  {
+    "title": "Nexxus Youth Renewal Rejuvenating Shampoo, 13.5 Ounce",
+    "description": "",
+    "itemID": "B00AE07FUE",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 14171
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 10.7,
+    "brand": "Nexxus"
+  },
+  {
+    "title": "Fekkai Technician Color Care Shampoo 236ml/8oz",
+    "description": "",
+    "itemID": "B00FRDPP6O",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Health & Personal Care": 7927
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 14.5,
+    "brand": "Fekkai"
+  },
+  {
+    "title": "Fekkai Full Blown Volume Conditioner 236ml/8oz",
+    "description": "",
+    "itemID": "B00FRDPR4O",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Health & Personal Care": 16372
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Conditioners"
+      ]
+    ],
+    "price": 9.57,
+    "brand": "Fekkai"
+  }
+]

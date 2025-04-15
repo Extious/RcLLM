@@ -1,0 +1,70 @@
+[
+  {
+    "title": "Moroccanoil Restorative Hair Mask 8.5 oz.",
+    "description": "This treatment penetrates deep into the hair to help restore elasticity and rebuild. Strength while repairing damage caused by chemicals and other environmental stresses. This unique formula is rich in vegetable proteins and will help bring out hair's inner health, leaving it incredibly moisturized with a brilliant shine.",
+    "itemID": "B002C4V3WG",
+    "helpful": [
+      6,
+      14
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 5529
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Hair & Scalp Treatments"
+      ]
+    ],
+    "price": 25.99,
+    "brand": "Moroccanoil"
+  },
+  {
+    "title": "MoroccanOil Intense Curl Cream,300ml Bottle",
+    "description": "Impressive anti-oxidants and intensive hydration capabilities, this breakthrough styling product is used to enhance and define curly hair.",
+    "itemID": "B002CMLS46",
+    "helpful": [
+      3,
+      4
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 985
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Creams, Gels & Lotions"
+      ]
+    ],
+    "price": 21.92,
+    "brand": "Moroccanoil"
+  },
+  {
+    "title": "Super Solano Professional Hair Dryer - Black",
+    "description": "Product Description\nColor: Black\nSuper Solano Professional Hair Dryer 232K has a super high velocity power motor, a cold shot button, fiberglass and concentrator nozzles. This 1875 Watts Super Solano Hair Dryer is really a super dryer as featured in the \"Best Beauty Buys\" in the April 2006 InStyle magazine. The Super Solano Hair Dryer has been reported to last for 10 years or more, even at the highest usage by professional stylists. Go ahead, go for the award winning Super Solano. It's made in Italy.",
+    "itemID": "B0006B66D8",
+    "helpful": [
+      35,
+      35
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 10451
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Hair Dryers"
+      ]
+    ],
+    "price": 94.99,
+    "brand": "Solano"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Motions Naturally You, Deep Conditioning Masque, 8 Ounce",
+    "description": "",
+    "itemID": "B0072XUY7W",
+    "helpful": [
+      1,
+      2
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 50922
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Creams, Gels & Lotions"
+      ]
+    ],
+    "price": 5.99,
+    "brand": "Motions"
+  },
+  {
+    "title": "Suave Professionals Moroccan Infusion Moroccan Argan Styling Oil, 3 Ounce",
+    "description": "",
+    "itemID": "B00A0IWSIO",
+    "helpful": [
+      40,
+      49
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 3404
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Hair Styling Serums"
+      ]
+    ],
+    "price": 6.65,
+    "brand": "Suave"
+  },
+  {
+    "title": "Remington Ci96z1 Silk Ceramic Elliptical Waving Wand",
+    "description": "",
+    "itemID": "B00BB8ZHJY",
+    "helpful": [
+      1,
+      2
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 55758
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Irons",
+        "Curling Irons"
+      ]
+    ],
+    "price": 25.32,
+    "brand": "Remington"
+  }
+]

@@ -1,0 +1,71 @@
+[
+  {
+    "title": "MAC Matte Lipstick - Russian Red",
+    "description": "This is a Mac Lipstick #338(12) perfect color, with vitamin A and SPF8, 3.8g",
+    "itemID": "B0006LNKYG",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 6554
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Lips",
+        "Lipstick"
+      ]
+    ],
+    "price": 15.17,
+    "brand": "M.A.C"
+  },
+  {
+    "title": "MAC Matte Lipstick Viva Glam I 3G",
+    "description": "MAC Viva Glam Matte Lipstick\nShade: Viva Glam I\nBrand new in the box.\n0.1 US Oz",
+    "itemID": "B000LVW25O",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 1.0,
+    "salesRank": {
+      "Beauty": 56969
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Lips",
+        "Lipstick"
+      ]
+    ],
+    "price": 19.37,
+    "brand": "M.A.C"
+  },
+  {
+    "title": "MAKE UP FOR EVER HD Microfinish Powder 0.30 oz",
+    "description": "Softens the appearance of imperfections",
+    "itemID": "B0016M52EU",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 7047
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Powder"
+      ]
+    ],
+    "price": 38.62,
+    "brand": "Make Up For Ever"
+  }
+]

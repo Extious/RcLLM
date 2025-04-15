@@ -1,0 +1,70 @@
+[
+  {
+    "title": "Conair HS18WPK Hot Sticks Hairsetter",
+    "description": "The hot roller system that's safe and gentle to hair and gives you all the curling power you need for fun, flirty and curly or wavy, romantic and elegant styles. Easy-to-use, flexible roller system for tight curly spirals or loose soft waves. Great for any hair length.",
+    "itemID": "B002DMMS6W",
+    "helpful": [
+      3,
+      5
+    ],
+    "overall": 1.0,
+    "salesRank": {
+      "Beauty": 30639
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Hair Rollers"
+      ]
+    ],
+    "price": 39.25,
+    "brand": "Conair"
+  },
+  {
+    "title": "POP Beauty Glitter Must Have Kit, Double Rainbow",
+    "description": "This kit is designed to make you sparkle &amp; shine. Embellish yourself with an endless array of glimmer, sparkle and glow. Dust onto skin, sprinkle over your hair or mix with nail polish or body lotion. There&rsquo;s no stopping the rainbow effects of these crafty little attention grabbers &ndash; simply a one-stop-shop to POP.",
+    "itemID": "B00591CPIK",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Health & Personal Care": 194059
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Eyes",
+        "Glitter & Shimmer"
+      ]
+    ],
+    "price": NaN,
+    "brand": NaN
+  },
+  {
+    "title": "Agadir Argan Oil Daily Shampoo and Conditioner Liter Combo Set 33.8 oz",
+    "description": "Agadir Argan Oil Daily Shampoo + Conditioner \"Liter Combo Set\" 33.8 oz",
+    "itemID": "B004D8T7F4",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 3506
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoo & Conditioner Sets"
+      ]
+    ],
+    "price": 45.85,
+    "brand": "Agadir"
+  }
+]

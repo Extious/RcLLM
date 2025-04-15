@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Freetress Equal Synthetic Wig - Gala-1",
+    "description": "Caring Instruction:Add a little amount of shampoo in cold water.&nbsp; (Hot water may change the shape of curls.)Gently shake the wig in the water.Rinse thoroughly in cold water.Shake out excess water. (Do not squeeze or wring the wig.)Dry on wig head. (Do not brush until hair is completely dry.)Brush into desired style.",
+    "itemID": "B005XCCE4A",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Beauty": 30829
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Hair Extensions & Wigs",
+        "Wigs"
+      ]
+    ],
+    "price": 16.99,
+    "brand": "Equal"
+  },
+  {
+    "title": "L'Oreal Paris True Match Super-Blendable Compact Makeup, Sand Beige, 0.30 Ounces",
+    "description": "Introducing the first compact makeup to precisely match your skin&#x2019;s tone and texture. the revolutionary formula feels like a liquid, but travels like a compact for an unbeatable compact makeup experience.",
+    "itemID": "B001QD0OYM",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 88339
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Foundation"
+      ]
+    ],
+    "price": 7.62,
+    "brand": "L&#39;Oreal Paris"
+  },
+  {
+    "title": "Maybelline New York Line Stiletto Ultimate Precision Liquid Eyeliner, 502 Black, 0.05 Fluid Ounce",
+    "description": "A liquid liner that allows you the ultimate control to create any line you want  elongates your lash line to shape and define eyes like never before. Our flexible felt tip glides on smoothly for the most precise control. No tugging. No dragging. all day wear up to 8 hours.",
+    "itemID": "B002LFNQT4",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 148910
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Eyes",
+        "Eyeliner"
+      ]
+    ],
+    "price": 7.8,
+    "brand": "Maybelline"
+  }
+]

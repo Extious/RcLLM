@@ -1,0 +1,143 @@
+[
+  {
+    "title": "Simple Hydrating Light Moisturizer, 4.2 Ounce",
+    "description": "",
+    "itemID": "B005TI7L7I",
+    "helpful": [
+      2,
+      3
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Beauty": 24071
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Creams & Moisturizers",
+        "Fluids & Lotions",
+        "Lotions"
+      ]
+    ],
+    "price": 8.49,
+    "brand": "Simple"
+  },
+  {
+    "title": "Maybelline Great Lash Mascara, Very Black -.43 Fluid Ounce",
+    "description": "Maybelline&#x92;s lash-doubling formula conditions as it thickens, making even tiny lashes 100% fuller and more healthy-looking. The lash-building brush builds full lashes with no clumps or globs. Available in five shades, in Washable, Waterproof, and Curved Brush.",
+    "itemID": "B00008MOQE",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 14072
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Eyes",
+        "Mascara"
+      ]
+    ],
+    "price": 3.79,
+    "brand": "Maybelline"
+  },
+  {
+    "title": "Maybelline New York Fit Me! Powder, 325 Cream Beige, 0.3 Ounce",
+    "description": "Flawless that lets the real you come through. It's makeup that doesn't mess with you. No oils. No waxes. No nonsense. Natural coverage that leaves skin the way it was meant to be: fresh, breathing, flawless.",
+    "itemID": "B004675BIE",
+    "helpful": [
+      1,
+      2
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 96018
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Powder"
+      ]
+    ],
+    "price": 5.99,
+    "brand": "Maybelline"
+  },
+  {
+    "title": "Aussie Sprunch Non-Aerosol Hairspray 8.5 Fl Oz (Pack of 3)",
+    "description": "",
+    "itemID": "B003AYEFU4",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 75137
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Hair Sprays"
+      ]
+    ],
+    "price": 15.38,
+    "brand": "Aussie"
+  },
+  {
+    "title": "Vaseline Body Lotion, Cocoa Butter, 32Ounce",
+    "description": "",
+    "itemID": "B004DBUAGG",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 36639
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Body Butter"
+      ]
+    ],
+    "price": 8.49,
+    "brand": "Vaseline"
+  },
+  {
+    "title": "Covergirl Outlast Stay Brilliant Nail Gloss, Perma-pink 120, 0.37 Ounce",
+    "description": "",
+    "itemID": "B0094GFW68",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 183717
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Nails",
+        "Nail Polish"
+      ]
+    ],
+    "price": 5.14,
+    "brand": "COVERGIRL"
+  }
+]

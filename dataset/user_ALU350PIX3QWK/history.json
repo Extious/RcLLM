@@ -1,0 +1,70 @@
+[
+  {
+    "title": "Dr. Dennis Gross Skincare Original Formula Alpha Beta 60 Count JAR",
+    "description": "Specifically proven results can only be achieved with 2 steps. The only peel on the market to combine 5 Alpha and Beta Hydroxy Acids PLUS Retinol, Ubiquinone, Resveratrol and a host of antioxidants, vitamins and soothing botanicals. The secret to youth and beauty does not come from a single ingredient- this product contains 44 ingredients to fight aging and produce immediate and lasting results.",
+    "itemID": "B003H87S0C",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 15909
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Treatments & Masks",
+        "Acids & Peels"
+      ]
+    ],
+    "price": 132.0,
+    "brand": "Dr. Dennis Gross Skincare"
+  },
+  {
+    "title": "Clinique Dramatically Different Moisturising Gel with Pump 4.2oz / 125ml",
+    "description": "Clinique Dramatically Different Moisturizing Gel. An essential daily lightweight moisturizing oi-free gel to soften, smooth, and improve the texture and condition of your skin.",
+    "itemID": "B000QXGBOU",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 7405
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care"
+      ]
+    ],
+    "price": 22.99,
+    "brand": "Clinique"
+  },
+  {
+    "title": "Clinique Pore Refining Correcting Serum for Unisex, All Skin Types, 1 Ounce",
+    "description": "Pore Refining Correcting Serum - All Skin Types was launched by the design house of Clinique.",
+    "itemID": "B004SODRDG",
+    "helpful": [
+      1,
+      3
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 43042
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Creams & Moisturizers"
+      ]
+    ],
+    "price": 44.0,
+    "brand": "Clinique"
+  }
+]

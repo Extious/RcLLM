@@ -1,0 +1,69 @@
+[
+  {
+    "title": "GiGi Mini Pro Waxing Kit",
+    "description": "The GiGi Mini Pro Waxing Kit is a perfect starter package for in salon or home use waxing.",
+    "itemID": "B000BJ1CGQ",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 1479
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face"
+      ]
+    ],
+    "price": 35.71,
+    "brand": "GiGi"
+  },
+  {
+    "title": "NYX Jumbo Eye Pencil 601 Black Bean",
+    "description": "Buy NYX Cosmetics Eyeliners - NYX Cosmetics Jumbo Eye Pencil Black Bean",
+    "itemID": "B001TJXI5U",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 19896
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Eyes",
+        "Liner & Shadow Combinations"
+      ]
+    ],
+    "price": 4.49,
+    "brand": "NYX"
+  },
+  {
+    "title": "Utopia Care Blackhead Blemish Remover Clear Tool Acne Pimple Extractor Double Loop Round",
+    "description": "Utopia Care Blackhead Blemish Remover Clear Tool Acne Pimple Extractors. 100% Stainless Steel and Double ended. Safely Extracts Whiteheads and Blackheads. Surgical grade for highest quality",
+    "itemID": "B00A6H2DD4",
+    "helpful": [
+      1,
+      2
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 1709
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face"
+      ]
+    ],
+    "price": 4.99,
+    "brand": NaN
+  }
+]

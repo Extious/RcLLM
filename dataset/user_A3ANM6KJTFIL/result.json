@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Opi Cajun Shrimp NLL64",
+    "description": "From the classic collection: spreads more quickly, evenly, and delivers a smooth, streak-free application. Color Number: NL L64/ Size: 0.5 FL oz - 15 ML",
+    "itemID": "B0013KA0BA",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 6686
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Nails",
+        "Nail Polish"
+      ]
+    ],
+    "price": 6.85,
+    "brand": "OPI"
+  },
+  {
+    "title": "Goody Clincher Comb 7&quot; Model #35963",
+    "description": "Goody Sabrina Banana Clips - 7 Inch, 3 Pcs.",
+    "itemID": "B0017QDKDA",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 54514
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Combs"
+      ]
+    ],
+    "price": 1.95,
+    "brand": "Goody"
+  },
+  {
+    "title": "Fruit Of The Earth 100% Aloe Vera 24oz Gel Pump",
+    "description": "For Sunburnt, Dry Or Irritated Skin Contains No Alcohol Promotes Healing No Added Color Fragrance-Free",
+    "itemID": "B000ALDK1A",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 150
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Sun",
+        "After Sun"
+      ]
+    ],
+    "price": 10.25,
+    "brand": "Fruit of the Earth"
+  }
+]

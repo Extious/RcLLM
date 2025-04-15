@@ -1,0 +1,72 @@
+[
+  {
+    "title": "The Wizard of Ohh Ahhz Retuns 6 Pieces / China Glaze / Nail Polish / Laquer / Enamel",
+    "description": "China Glaze nail polish 0.5oz",
+    "itemID": "B002WVG8MY",
+    "helpful": [
+      9,
+      9
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 149319
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Nails",
+        "Nail Polish"
+      ]
+    ],
+    "price": 25.0,
+    "brand": NaN
+  },
+  {
+    "title": "China Glaze: For Audrey, 0.5 oz",
+    "description": "China Glaze 'Something Blue' 6pc Counter Display, nail polish set features a limited edition \"For Audrey\" Tiffany inspired turquoise creme nail lacquer. This also makes a luxurious counter display.",
+    "itemID": "B001AL4DBA",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 19099
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Nails",
+        "Nail Polish"
+      ]
+    ],
+    "price": 5.69,
+    "brand": "China Glaze"
+  },
+  {
+    "title": "Remington S6600 Ultimate Styling Ceramic Hair Straightener",
+    "description": "",
+    "itemID": "B0050QJ0S2",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 5919
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Irons",
+        "Flattening Irons"
+      ]
+    ],
+    "price": 19.49,
+    "brand": "Remington"
+  }
+]

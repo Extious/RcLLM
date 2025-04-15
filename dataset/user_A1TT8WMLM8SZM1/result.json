@@ -1,0 +1,94 @@
+[
+  {
+    "title": "NYX Matte Lipstick, Nude",
+    "description": "NYX matte lipsticks are highly pigmented, richly formulated lipsticks that glide on smoothly, stay put and impart a non-glossy, high-fashion matte finish as they envelop lips in brilliant color. From pure red to nude, matte lipstick is available in 22 rich, shades.",
+    "itemID": "B005FYJB92",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 1.0,
+    "salesRank": {
+      "Beauty": 3930
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Lips",
+        "Lipstick"
+      ]
+    ],
+    "price": 5.88,
+    "brand": "NYX"
+  },
+  {
+    "title": "Coastal Scents 22 Piece Brush Set",
+    "description": "",
+    "itemID": "B005UBN5AQ",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 260
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Tools & Accessories",
+        "Makeup Brushes & Tools",
+        "Brushes & Applicators"
+      ]
+    ],
+    "price": 34.55,
+    "brand": "Coastal Scents"
+  },
+  {
+    "title": "Maybelline New York Eye Studio Master Precise Liquid Eyeliner, No.110 Black, 0.037 Fluid Ounce",
+    "description": "Experience a brighter idea in concealers. Dream lumi touch highlighting concealer's gel-based formula diffuses light like no other, so it illuminates as it covers imperfections, for instantly brighter looking skin.",
+    "itemID": "B006UET4XE",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 223
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Eyes",
+        "Eyeliner"
+      ]
+    ],
+    "price": 4.33,
+    "brand": "Maybelline"
+  },
+  {
+    "title": "e.l.f. Essential Healthy Glow Bronzing Powder MATTE BRONZE Bronzer Makeup ELF",
+    "description": "Achieve a sun-kissed complexion year round! The silky smooth, fine powder formula blends evenly and easily onto the skin for a lightweight feel. Use all over the body for a touch of sheer radiance. Perfect to buff onto the face, arms, shoulders, legs and dcollet for a gorgeous natural glow.",
+    "itemID": "B00853EU78",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 99767
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Bronzers & Highlighters"
+      ]
+    ],
+    "price": 10.0,
+    "brand": "e.l.f. Cosmetics"
+  }
+]

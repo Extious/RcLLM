@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Aquasentials Long Handle Bath Brush (Clear Handle)",
+    "description": "Apply soap, rub gently to create lather. Hang to dry after use. Recommend replacement every two month.",
+    "itemID": "B001D9U07A",
+    "helpful": [
+      6,
+      7
+    ],
+    "overall": 1.0,
+    "salesRank": {
+      "Beauty": 2514
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Bathing Accessories",
+        "Bath Brushes"
+      ]
+    ],
+    "price": 5.49,
+    "brand": NaN
+  },
+  {
+    "title": "Neutrogena Norwegian Formula Lip Moisturizer, SPF 15, 0.15 Ounce",
+    "description": "Conditions & Protects Dry, Chapped Lips Guards Against The Uva & Uvb Rays No Color, Fragrance Or Additives",
+    "itemID": "B0000Y3D4G",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 42049
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Oils"
+      ]
+    ],
+    "price": 4.31,
+    "brand": "Nuetrogena"
+  },
+  {
+    "title": "Utopia 4&frac12; inch Ice Tempered Stainless Steel Styling Shears / Scissors",
+    "description": "Made of ice tempered stainless steel. Extra sharp long-lasting cutting edges",
+    "itemID": "B00AVQ0JI6",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Health & Personal Care": 61117
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Scissors"
+      ]
+    ],
+    "price": 4.99,
+    "brand": NaN
+  }
+]

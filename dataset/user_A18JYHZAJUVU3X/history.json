@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Benefit Cosmetics Hoola",
+    "description": "This soft bronze matte powder gives your complexion a healthy, natural looking tan. Dust it lightly across cheeks, chin and forehead to bring the warm tan of the island to your skin and spirits. Use hoola for a year round healthy tan.",
+    "itemID": "B000FBNYSY",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 6003
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Bronzers & Highlighters"
+      ]
+    ],
+    "price": 29.49,
+    "brand": "Benefit Cosmetics"
+  },
+  {
+    "title": "Sexy Hair Big Sexy Hair Powder Play Volumizing and Texturizing Powder, 0.53 Ounce",
+    "description": "Big sexy hair powder play volumizing and texturizing powder powers up the volume in every hair type with no product feel! Its weightless, odorless and colorless on hair.",
+    "itemID": "B00390DN34",
+    "helpful": [
+      1,
+      3
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Beauty": 316
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Mousses & Foams"
+      ]
+    ],
+    "price": 11.95,
+    "brand": "Sexy Hair"
+  },
+  {
+    "title": "NYX Felt Tip Liner, Extreme Black",
+    "description": "Our felt tip eye liner eye marker creates a smudge-proof, budge-proof and waterproof line that lives up to its description as a &#x201C;one-day tattoo.&#x201D; The eye liner marker releases the ideal amount of ink for decidedly dramatic peepers. Available in 3 mysterious shades.",
+    "itemID": "B001TP0A8M",
+    "helpful": [
+      3,
+      3
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Beauty": 61577
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Eyes",
+        "Eyeliner"
+      ]
+    ],
+    "price": 6.98,
+    "brand": "NYX"
+  }
+]

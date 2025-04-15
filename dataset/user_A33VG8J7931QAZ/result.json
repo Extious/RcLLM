@@ -1,0 +1,49 @@
+[
+  {
+    "title": "Keratin Coppola Complex Infusion Keratin Replenisher 1.7 oz",
+    "description": "Keratin complex infusion is a unique formulation with advanced infusion technology.",
+    "itemID": "B003XOY70Y",
+    "helpful": [
+      3,
+      4
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 3170
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Hair Styling Serums"
+      ]
+    ],
+    "price": 19.5,
+    "brand": "Coppola"
+  },
+  {
+    "title": "Olay Wet Cleansing Towelette - Sensitive 30 Count (Pack of 2)",
+    "description": "Specially formulated for sensitive skin to remove dirt and make-up (even waterproof mascara!), leaving skin soft and smooth.",
+    "itemID": "B004CQXZD2",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 5842
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Cleansers",
+        "Cloths & Towelettes"
+      ]
+    ],
+    "price": 7.45,
+    "brand": "Olay"
+  }
+]

@@ -1,0 +1,96 @@
+[
+  {
+    "title": "Dove Strength and Shine Hairspray, Flexible Hold",
+    "description": "",
+    "itemID": "B006T8BXGW",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 67670
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Hair Sprays"
+      ]
+    ],
+    "price": 10.55,
+    "brand": "Dove"
+  },
+  {
+    "title": "Olay Regenerist Daily Regenerating Serum - Fragrance Free Moisturizer 1.7 Fl Oz",
+    "description": "",
+    "itemID": "B0000CC64W",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 35
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Creams & Moisturizers",
+        "Fluids & Lotions",
+        "Fluids"
+      ]
+    ],
+    "price": 14.75,
+    "brand": "Olay"
+  },
+  {
+    "title": "CND VINYLUX RUBBLE Weekly Polish Nail 0.5oz",
+    "description": "VINYLUX is a two-step polish system consisting of VINYLUX Weekly Polish (featuring a built-in basecoat) and VINYLUX Weekly Top Coat that offers durable, high-shine and week-long wear. The top coat becomes more durable when exposed to natural light, ensuring no chipping or scratching for at least one week. VINYLUX dries in just eight and a half minutes. Plus VINYLUX colors perfectly match CND ShellacTM shades, making for easy CND Shellac touchups on the go and for pedicures that perfectly match CND Shellac manicures.",
+    "itemID": "B00EA5AKLK",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 4703
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Nails",
+        "Nail Polish"
+      ]
+    ],
+    "price": 6.64,
+    "brand": "CND Cosmetics"
+  },
+  {
+    "title": "CND - VINYLUX TOP COAT Weekly Polish Creative Nail Design Manicure Lacquer 0.5oz",
+    "description": "What Is It\n\nFrom the makers of CND Shellac (The Original Power Polish!) comes VINYLUX Weekly Polish, the new breakthrough nail polish that provides 7+ days of high gloss, chip-free wear, without the use of a base coat!\n\nHow It Works\n\nThe innovative self-adhering color coat system, eliminates the need for a base coat and dries in under nine minutes, saving you time and hassle. While other polishes deteriorate on your nails over time, VINYLUX endures and strengthens in resistance. The ProLight technology of the VINYLUX Top Coat creates a network of cross-linked polymer bonds that build resistance when exposed to natural light, effortlessly securing shine and resistance while you go about your day!",
+    "itemID": "B00EA5B2VW",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 50
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Nails",
+        "Nail Polish"
+      ]
+    ],
+    "price": 6.52,
+    "brand": "CND Cosmetics"
+  }
+]

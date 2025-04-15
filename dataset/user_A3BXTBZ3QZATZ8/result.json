@@ -1,0 +1,48 @@
+[
+  {
+    "title": "Spornette's Luxury Cushion, Small, 3 Ounce",
+    "description": "Spornette's small uxury cushion brush has a great velvet finish that feels great in your hands! It has boar and nylon bristles. 2 sizes to choose from.",
+    "itemID": "B004LCD8D4",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 74466
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Brushes"
+      ]
+    ],
+    "price": 7.52,
+    "brand": "Spornette"
+  },
+  {
+    "title": "Tangle Teezer Original Pink",
+    "description": "The Tangle Teezer Original Detangling Brush is a very unique professional detangling brush that is ideal for all hair types, wet or dry.",
+    "itemID": "B00264NW7G",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 228
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Brushes"
+      ]
+    ],
+    "price": 9.32,
+    "brand": "Tangle Teezer"
+  }
+]

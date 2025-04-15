@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Doo Gro Stimulating Growth Oil",
+    "description": "Doo Gro Stimulating Growth Oil promotes strong, healthy, growing hair.",
+    "itemID": "B002BPY7H4",
+    "helpful": [
+      1,
+      2
+    ],
+    "overall": 1.0,
+    "salesRank": {
+      "Health & Personal Care": 13417
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Lotions"
+      ]
+    ],
+    "price": 7.45,
+    "brand": "Doo Gro"
+  },
+  {
+    "title": "Original Likas Papaya Skin Whitening Herbal Soap by Trinidad Cosmetics Laboratory - 135 grams",
+    "description": "Enriched with Papaya enzyme and blended with tropical herbs to whiten the skin. For clearer and fine skin complexion.It is made of 100% organic herbs enriched with Natural Papaya Enzyme that whitens your skin and keeps it smooth and young looking. Complexion becomes fair and acne-free.Its organic herbal content is so gentle and does not inhibit the natural oil production activity of the skin therefore it keeps young looking and your face free of aging lines. After use, it does not leave any greasy residue on the skin.",
+    "itemID": "B000OV3ZDO",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 1.0,
+    "salesRank": {
+      "Health & Personal Care": 11533
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Cleansers",
+        "Soaps"
+      ]
+    ],
+    "price": 1.99,
+    "brand": "Likas"
+  },
+  {
+    "title": "Shea Moisture Coconut Hibiscus Curl Enhancing Smoothie-12 oz",
+    "description": "SheaMoisture Coconut Hibiscus Curl Enhancing Smoothie",
+    "itemID": "B0038TVH3Y",
+    "helpful": [
+      1,
+      2
+    ],
+    "overall": 1.0,
+    "salesRank": {
+      "Beauty": 1648
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Creams, Gels & Lotions"
+      ]
+    ],
+    "price": 15.45,
+    "brand": "Shea Moisture"
+  }
+]

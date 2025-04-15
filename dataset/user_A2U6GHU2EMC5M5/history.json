@@ -1,0 +1,72 @@
+[
+  {
+    "title": "American Crew Pomade, 1.75 oz",
+    "description": "Buy American Crew Hair Styling Products - American Crew Pomade for Hold & Shine 1.75 oz. How-to-Use: Scoop a dime-sized amount of hair paste or wax into hands and work into hair for desired style.",
+    "itemID": "B0012134EK",
+    "helpful": [
+      6,
+      8
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 11295
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Pomades & Waxes"
+      ]
+    ],
+    "price": 1.35,
+    "brand": "AMERICAN CREW"
+  },
+  {
+    "title": "Remington S7230 Wet 2 Straight Flat Iron with Soy Hydra Complex, 2 Inch",
+    "description": "",
+    "itemID": "B009HKAWFC",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 817
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Irons",
+        "Flattening Irons"
+      ]
+    ],
+    "price": 24.84,
+    "brand": "Remington"
+  },
+  {
+    "title": "Hydroxatone Hydrolyze Intensive Under Eye Treatment, Net Wt. 0.5 Oz.",
+    "description": "",
+    "itemID": "B009XRFA88",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 1.0,
+    "salesRank": {
+      "Beauty": 4721
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Eyes",
+        "Creams"
+      ]
+    ],
+    "price": 27.99,
+    "brand": "Hydroxatone"
+  }
+]

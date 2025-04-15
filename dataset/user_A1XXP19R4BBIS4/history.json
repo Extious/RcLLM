@@ -1,0 +1,73 @@
+[
+  {
+    "title": "e.l.f. Makeup Mist and Set, Clear, 2.02 Ounce",
+    "description": "Wish you could have a product for your makeup like hairspray is for your hair. Well. Keep your makeup staying in place all day with a radiance boosting invisible hold with our new makeup mist and set. The lightweight, comfortable and alcohol free formula improves makeup wearability and prevents color from running or fading.",
+    "itemID": "B004X1QY20",
+    "helpful": [
+      0,
+      2
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 220
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Creams & Moisturizers",
+        "Fluids & Lotions",
+        "Fluids"
+      ]
+    ],
+    "price": 5.13,
+    "brand": "e.l.f. Cosmetics"
+  },
+  {
+    "title": "John Frieda Brilliant Brunette Shine Shock Glosser - 2.4 oz",
+    "description": "INDICATIONS:John Frieda brilliant brunette shine shock, leave on perfecting glosser. Ultra gloss, flawless shine.Perfects and polishes. Illuminates natural, color treated or highlighted brunette hair.",
+    "itemID": "B000GCZZZC",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 15623
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Creams, Gels & Lotions"
+      ]
+    ],
+    "price": 5.29,
+    "brand": "John Frieda"
+  },
+  {
+    "title": "Sigma P80 - Precision Flat TM",
+    "description": "Unique Feature: Small, dense and flat head\nFunction: Precise concealer application\nRecommended Use: Stipple concealer onto sun spots, blemishes, and other small imperfections.\nBristle Type: Synthetic Sigmax\n\n 2013 Sigma Enterprises, LLC",
+    "itemID": "B005V1NPZU",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 47961
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Tools & Accessories",
+        "Makeup Brushes & Tools",
+        "Brushes & Applicators"
+      ]
+    ],
+    "price": 21.0,
+    "brand": "Sigma Beauty"
+  }
+]

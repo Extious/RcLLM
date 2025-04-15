@@ -1,0 +1,95 @@
+[
+  {
+    "title": "Coastal Scents The Brush Guard, Variety Pack, 0.60-Ounce",
+    "description": "The coastal scents brush guard keeps your makeup brushes like new! This variety pack contains six different size brush guards perfect for any brush that you want to protect from damage.",
+    "itemID": "B004ZD2LIW",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 17089
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Tools & Accessories",
+        "Bags & Cases",
+        "Travel Cases & Holders"
+      ]
+    ],
+    "price": 2.9,
+    "brand": "Coastal Scents"
+  },
+  {
+    "title": "Coastal Scents The Brush Guard, Shadow/Liner Pack, 0.45-Ounce",
+    "description": "The coastal scents brush guard keeps your makeup brushes like new! This shadow/liner pack contains ten brush guards perfect for your shadow/liner brushes that you want to protect from damage.",
+    "itemID": "B004ZD2M6S",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 13251
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Tools & Accessories",
+        "Bags & Cases",
+        "Travel Cases & Holders"
+      ]
+    ],
+    "price": 9.88,
+    "brand": "Coastal Scents"
+  },
+  {
+    "title": "Infiniti by Conair YOU Root Boost 1/2 inch Styler",
+    "description": "",
+    "itemID": "B0052BHMOE",
+    "helpful": [
+      1,
+      2
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 5019
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Irons",
+        "Flattening Irons"
+      ]
+    ],
+    "price": 17.4,
+    "brand": "Conair"
+  },
+  {
+    "title": "Maybelline New York Eye Studio Master Precise Liquid Eyeliner, No.110 Black, 0.037 Fluid Ounce",
+    "description": "Experience a brighter idea in concealers. Dream lumi touch highlighting concealer's gel-based formula diffuses light like no other, so it illuminates as it covers imperfections, for instantly brighter looking skin.",
+    "itemID": "B006UET4XE",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Beauty": 223
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Eyes",
+        "Eyeliner"
+      ]
+    ],
+    "price": 4.33,
+    "brand": "Maybelline"
+  }
+]

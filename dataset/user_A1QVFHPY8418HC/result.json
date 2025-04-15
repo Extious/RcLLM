@@ -1,0 +1,114 @@
+[
+  {
+    "title": "Remington Ac2015 Tstudio Salon Collection Pearl Ceramic Hair Dryer",
+    "description": "",
+    "itemID": "B003V264WW",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 504
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Hair Dryers"
+      ]
+    ],
+    "price": 28.69,
+    "brand": "Remington"
+  },
+  {
+    "title": "Q-Tips Cotton Swabs, Precision Tips, 170 Count (Pack of 3)",
+    "description": "",
+    "itemID": "B005XIM6J2",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 2067
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Tools & Accessories",
+        "Cotton & Swabs",
+        "Cotton Swabs"
+      ]
+    ],
+    "price": 8.99,
+    "brand": "Q-Tips"
+  },
+  {
+    "title": "Suave Professionals Moroccan Infusion Shine Shampoo 28 oz",
+    "description": "",
+    "itemID": "B00A0IWRT4",
+    "helpful": [
+      3,
+      4
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 23768
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 6.29,
+    "brand": "Suave"
+  },
+  {
+    "title": "Dove Men+Care Fresh Clean Fortifying 2 in 1 (12oz)",
+    "description": "",
+    "itemID": "B00AAJTDLI",
+    "helpful": [
+      0,
+      2
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 194
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 7.49,
+    "brand": "Dove"
+  },
+  {
+    "title": "Tresemme Renewal Hair and Scalp Shampoo, 25 Ounce",
+    "description": "",
+    "itemID": "B00GYB17XI",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 15797
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 11.06,
+    "brand": "TRESemme"
+  }
+]

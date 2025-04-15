@@ -1,0 +1,73 @@
+[
+  {
+    "title": "Neutrogena Rapid Clear Oil-Eliminating Foaming Cleanser, 6 Ounce",
+    "description": "Rapid Clear OilControl Foaming Cleanser is clinically proven to control oil for hours. Rich, creamy, oilfree cleanser foams up to rapidly and effectively remove oil and control shine. It clears surface oil without overdrying. Your skin feels completely clean, oilfree and refreshed. Get fresh skin with oilcontrol that lasts for hours.",
+    "itemID": "B000FH4T3M",
+    "helpful": [
+      3,
+      3
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 4709
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Creams & Moisturizers",
+        "Fluids & Lotions",
+        "Lotions"
+      ]
+    ],
+    "price": 7.79,
+    "brand": "Neutrogena"
+  },
+  {
+    "title": "Lime Crime True Red Retrofuturist Opaque Lipstick",
+    "description": "Color description\nIntensified true red. Snow White's lips if she worked on a spacecraft!",
+    "itemID": "B002RJUPS4",
+    "helpful": [
+      7,
+      9
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 7994
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Lips",
+        "Lipstick"
+      ]
+    ],
+    "price": 18.0,
+    "brand": "Lime Crime"
+  },
+  {
+    "title": "L'Oreal Paris Extra-Intense Liquid Pencil Eyeliner, Black #798",
+    "description": "The Ultimate Eyeliner: The glide and intensity of a liquid; the precision of a pencil. L'Oreal presents Extra-Intense Liquid Pencil Eyeliner. Now get the gliding application, intense look, and long-wear of a liquid eyeliner with the easy application and control of a pencil. Rich, dramatically bold lines; pencil formula glides on smoothly and easily; smudge-proof, all day wear; ophthalmologist tested; suitable for sensitive eyes and contact lens wearers. Made in Germany.",
+    "itemID": "B002LFNQ2Q",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Beauty": 96702
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Eyes",
+        "Eyeliner"
+      ]
+    ],
+    "price": 9.36,
+    "brand": "L&#39;Oreal Paris"
+  }
+]

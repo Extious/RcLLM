@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Olay Quench In-Shower Body Lotion 15.2 Oz (Pack of 2)",
+    "description": "",
+    "itemID": "B001JQLNJG",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Health & Personal Care": 13907
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Cleansers",
+        "Body Washes"
+      ]
+    ],
+    "price": 20.0,
+    "brand": "Olay"
+  },
+  {
+    "title": "Suave Cocoa Butter Shea Body Lotion Unisex Body, 18 Ounce",
+    "description": "Suave&#xAE; Cocoa Butter with Shea Body Lotion.Clinically-proven.Moisturization.Softens rough, dry skin.18 fl oz (532ml).",
+    "itemID": "B000NURPK0",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 28278
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Body Butter"
+      ]
+    ],
+    "price": 2.09,
+    "brand": "Suave"
+  },
+  {
+    "title": "Tresemme Smooth &amp; Silky Shampoo with Moroccan Argan Oil, 32 Ounce",
+    "description": "",
+    "itemID": "B004600K00",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 2313
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 8.94,
+    "brand": "TRESemme"
+  }
+]

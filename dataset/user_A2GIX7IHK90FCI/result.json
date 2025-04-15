@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Kenra: Classic Volume Aerosol Spray 25 55% VOC, 10 oz (2 pack)",
+    "description": "Kenra's Volume Spray provides the maximum amount of volume and hold possible. It leaves hair looking natural and shiny while imparting strength and volume necessary to make any style last all day. This super hold finishing spray provides excellent humidit.",
+    "itemID": "B000YZ4MSC",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 1000
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Hair Sprays"
+      ]
+    ],
+    "price": 23.9,
+    "brand": "Kenra"
+  },
+  {
+    "title": "Kenra by Kenra Platinum Silkening Gloss for Polish and Shine for Unisex, 2.26 Ounce",
+    "description": "KENRA by Kenra PLATINUM SILKENING GLOSS FOR POLISH AND SHINE 2.26 OZKENRA by Kenra possesses a blend of Kenra Products Are Recognized For Consistent Reliable Performance And Have Universal Appeal, Products Are Not Tested On Animals, Packaging Is Manufactured With Recycled Materials, Formulated With Pharmaceutical-Grade Ingredients",
+    "itemID": "B0013VY4AM",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 3804
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Creams, Gels & Lotions"
+      ]
+    ],
+    "price": 15.95,
+    "brand": "Kenra"
+  },
+  {
+    "title": "Redken Wax Blast 10 High Impact Finishing Spray Wax, 4.4 Ounce",
+    "description": "Spray on perfectly undone texture. Aerosol wax adds body and dimension with a choppy, satin-matte finish and creates rebellious styles.",
+    "itemID": "B003PARWS0",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 10807
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Pomades & Waxes"
+      ]
+    ],
+    "price": 14.4,
+    "brand": "Redken"
+  }
+]

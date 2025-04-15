@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Mary Kay Mineral Powder Foundation Beige 2",
+    "description": "Mary Kay Mineral Powder Foundation is a weightless, skin-perfecting powder that makes lines, wrinkles and other imperfections seem to disappear. You get the coverage of a foundation with the comfort of a powder.It's a foundation. It's a powder. It's a skin perfecter. That's the beauty of Mary Kay Mineral Powder Foundation. It allows you to even out your skin tone to get a flawless look and beautiful base for color cosmetics-- Buildable coverage blends effortlessly with the sweep of a brush for a flawless look-- Long-wearing, transfer-resistant formula won't fade away by midday-- Controls shine and imparts a matte finish",
+    "itemID": "B003H2MR2W",
+    "helpful": [
+      3,
+      4
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 20948
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Foundation"
+      ]
+    ],
+    "price": 8.4,
+    "brand": "Mary Kay"
+  },
+  {
+    "title": "NYX Cosmetics Concealer Jar, Lavender, 0.21 Ounce",
+    "description": "Super concentrated lightweight concealer. Provides medium to heavy coverage. Natural finish never looks caked-on or clumpy.",
+    "itemID": "B001V3TVEQ",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 78553
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Concealers & Neutralizers"
+      ]
+    ],
+    "price": 4.0,
+    "brand": "NYX"
+  },
+  {
+    "title": "NYX Eyebrow Cake Powder, Black/Gray",
+    "description": "Our recipe for cooking up exquisite eyebrows includes wax, tools and a pair of complementary powders, black and gray, which can be customized to create the ideal shade. Each eyebrow cake powder kit includes a slanted brush and a round wand to shape, style and tame eyebrows.",
+    "itemID": "B002QI1E9K",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 5689
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Eyes",
+        "Eyebrow Color"
+      ]
+    ],
+    "price": 5.89,
+    "brand": "NYX"
+  }
+]

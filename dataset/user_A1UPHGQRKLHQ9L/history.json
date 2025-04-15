@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Palty Hair Dye (Caramel Brown)",
+    "description": "Bitter, but cute brown called Caramel Brown. Colors your hair moist, shiny and beautiful. Fresh fruity floral scent. The hair color contains Camellia oil for shine, Silicon for smoothness, Votanical protein for protection from damage. Camellia oil hair essence conditions and moisturizes the color treated hair after coloring.",
+    "itemID": "B0015XNAS0",
+    "helpful": [
+      1,
+      2
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 145803
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Hair Color",
+        "Chemical Hair Dyes"
+      ]
+    ],
+    "price": 14.66,
+    "brand": "Palty"
+  },
+  {
+    "title": "Fran Wilson Instant Brows Arched",
+    "description": "Fran Wilson Instant Brows create perfect brows every time!",
+    "itemID": "B0013WFHAC",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 1.0,
+    "salesRank": {
+      "Beauty": 38496
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Eyes",
+        "Eyebrow Color"
+      ]
+    ],
+    "price": 5.81,
+    "brand": "Fran Wilson"
+  },
+  {
+    "title": "Maybelline New York Line Stiletto Ultimate Precision Liquid Eyeliner, 502 Black, 0.05 Fluid Ounce",
+    "description": "A liquid liner that allows you the ultimate control to create any line you want  elongates your lash line to shape and define eyes like never before. Our flexible felt tip glides on smoothly for the most precise control. No tugging. No dragging. all day wear up to 8 hours.",
+    "itemID": "B002LFNQT4",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 148910
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Eyes",
+        "Eyeliner"
+      ]
+    ],
+    "price": 7.8,
+    "brand": "Maybelline"
+  }
+]

@@ -1,0 +1,141 @@
+[
+  {
+    "title": "Axe Gravity Defying Dust Messy Look, 0.035 Ounce",
+    "description": "",
+    "itemID": "B00AE07CT8",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 162619
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools"
+      ]
+    ],
+    "price": 5.89,
+    "brand": "AXE"
+  },
+  {
+    "title": "Axe Styling Gum Messy Look, 3.2 Ounce",
+    "description": "",
+    "itemID": "B00AE07BMQ",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 9336
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Creams, Gels & Lotions"
+      ]
+    ],
+    "price": 4.36,
+    "brand": "AXE"
+  },
+  {
+    "title": "Axe Spiking Glue Spiked Up Look, 3.2 Ounce",
+    "description": "",
+    "itemID": "B00AE07BDU",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 24839
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Creams, Gels & Lotions"
+      ]
+    ],
+    "price": 6.97,
+    "brand": "AXE"
+  },
+  {
+    "title": "Tweezerman LTD Deluxe Metal Eyelash Curler",
+    "description": "Our best-selling eyelash curler is expertly crafted to create  beautifully enduring curl.",
+    "itemID": "B007SA3CD2",
+    "helpful": [
+      11,
+      12
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 2343
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Tools & Accessories",
+        "Makeup Brushes & Tools",
+        "Eyelash Tools",
+        "Curlers"
+      ]
+    ],
+    "price": 12.34,
+    "brand": "Tweezerman"
+  },
+  {
+    "title": "Ellen Tracy Daytime Moisturizer Size Morning Moisturizer 1.77 OZ / 50 G",
+    "description": "Instantly re-hydrate skin, with Ellen Tracy daytime positively ageless moisturizer. Repair skins moisture, returning its natural petal soft texture. This daytime positively ageless moisturizer, re-hydrates and softens skin while creating a moisture barrier to help keep skin soft all day. Known for our high quality, Ellen Tracy now offers you a face care collection that focuses on your most important feature- your skin! Designed using intense moisturizing formulas, our products take you one step closer to healthy, smooth, soft skin.",
+    "itemID": "B00EHWP67E",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 171138
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Oils & Serums"
+      ]
+    ],
+    "price": 4.95,
+    "brand": NaN
+  },
+  {
+    "title": "Cetaphil Gentle Skin Cleansing Cloths, 25 Count",
+    "description": "Thoroughly removes dirt and makeup without irritation. Ultra soft and gentle for even the most sensitive skin. Dermatologist developed and tested. Great for travel.",
+    "itemID": "B00GZ18LL8",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 21965
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Cleansers",
+        "Cloths & Towelettes"
+      ]
+    ],
+    "price": 10.24,
+    "brand": "Cetaphil"
+  }
+]

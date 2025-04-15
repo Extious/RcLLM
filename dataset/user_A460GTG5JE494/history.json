@@ -1,0 +1,70 @@
+[
+  {
+    "title": "WEN Sweet Almond Mint Cleansing Conditioner 6 Oz.",
+    "description": "WEN Sweet Almond Mint Cleansing Conditioner 6 Oz.",
+    "itemID": "B0041P9E7A",
+    "helpful": [
+      0,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 20783
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 15.95,
+    "brand": NaN
+  },
+  {
+    "title": "KORRES Quercetin &amp; Oak Antiageing Face Primer",
+    "description": "Korres - Complexion - Quercetin &amp; Oak Antiageing Face Primeries A silicone-free, skin-perfecting face primer Helps minimize the appearance of fine lines & wrinkles Corrects skin's texture while adding a healthy glow Ensures long-lasting make-up wear Can be worn alone or under foundation Immediately creates an even, smooth & flawless complexion",
+    "itemID": "B007JXLT9M",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 139630
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Foundation Primers"
+      ]
+    ],
+    "price": 49.99,
+    "brand": "Korres"
+  },
+  {
+    "title": "Etude House Good-bye Pore-ever Pore Primer Essence 20ml",
+    "description": "Moisturizing makeup primer masks pores to subdue sebum and improve makeup coverage.",
+    "itemID": "B00563CM5M",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 4424
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Treatments & Masks"
+      ]
+    ],
+    "price": 10.01,
+    "brand": "Etude House"
+  }
+]

@@ -1,0 +1,71 @@
+[
+  {
+    "title": "SOHO Pro Eyeliner Brush",
+    "description": "The SOHO Eyeliner Brush has a compact, flat tip that makes it the perfect tool for applying single-stroke color, providing instant definition.",
+    "itemID": "B007TLGZO8",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 1.0,
+    "salesRank": {
+      "Beauty": 122663
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Tools & Accessories",
+        "Makeup Brushes & Tools",
+        "Brushes & Applicators"
+      ]
+    ],
+    "price": 7.49,
+    "brand": "SOHO"
+  },
+  {
+    "title": "e.l.f. Cream Eyeliner, Coffee, 0.17 Ounce",
+    "description": "The cream formula creates smooth lines that are defined and precise. Smudge-proof, budge-proof and water-resistant coverage for all day wear to combat against sweat, tears or rain. Achieve thin or bold lines with ease. Slanted eyeliner brush included. Smudge-proof, budge-proof and water-resistant coverage for all day wear to combat against sweat, tears or rain.",
+    "itemID": "B004DIUX16",
+    "helpful": [
+      2,
+      2
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 42064
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Eyes",
+        "Eyeliner"
+      ]
+    ],
+    "price": 5.2,
+    "brand": "e.l.f. Cosmetics"
+  },
+  {
+    "title": "elf Studio High Definition Loose Face Powder",
+    "description": "The e.l.f. High Definition Powder is a translucent, versatile loose powder that creates a flawless, \"soft focus\" effect to the skin. Masks fine lines and imperfections for a glowing, radiant complexion. This incredibly soft and invisible powder is ideal for everyday wear, either alone or over your favorite e.l.f. foundation. Our HD Powder is a makeup artist and e.l.f. customer favorite.",
+    "itemID": "B004DIXYUI",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 573
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Powder"
+      ]
+    ],
+    "price": 8.98,
+    "brand": "e.l.f. Cosmetics"
+  }
+]

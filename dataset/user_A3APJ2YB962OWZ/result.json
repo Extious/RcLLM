@@ -1,0 +1,74 @@
+[
+  {
+    "title": "CeraVe Moisturizing Facial Lotion PM, 3 Ounce",
+    "description": "CeraVe facial moisturizing lotion PM helps repair damaged skin and maintain the skin's natural protective function with ingredients not commonly found in other moisturizers. Its patented multivesicular emulsion (MVE) technology releases theses ingredients over time, penetrating deep into the skin to hydrate and nourish.",
+    "itemID": "B00365DABC",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 277
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Creams & Moisturizers",
+        "Fluids & Lotions",
+        "Lotions"
+      ]
+    ],
+    "price": 11.44,
+    "brand": "CeraVe"
+  },
+  {
+    "title": "My Konjac Sponge All Natural Fiber Volcanic Scoria Facial Sponge",
+    "description": "Enjoy your bath time with this all natural fiber volcanic scoria konjac facial sponge by My Konjac Sponge. This product is made from 100% eco friendly ingredients and features a natural sponge created from the konjac plant.",
+    "itemID": "B00B1U577Y",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 23906
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Bathing Accessories",
+        "Loofahs, Sponges & Poufs"
+      ]
+    ],
+    "price": 10.0,
+    "brand": NaN
+  },
+  {
+    "title": "Goody Clear Elastic Bands ~ 52 Bands",
+    "description": "Goody Elastic-Band 52 pcs hairhints Try this look. Gather top section of hair into a ponytail and secure with a ponytailer. Gather the lower section of hair including the top ponytail and secure.",
+    "itemID": "B00122CP30",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 5437
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Styling Accessories",
+        "Ponytail Holders"
+      ]
+    ],
+    "price": 5.23,
+    "brand": "Goody"
+  }
+]

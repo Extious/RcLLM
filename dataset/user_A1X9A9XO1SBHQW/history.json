@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Duri Cosmetics Rejuvacote 0.61oz",
+    "description": "Rajuva cote nail treatment will heal and cure your split, cracked and acrylic eaten nails. In a matter of weeks you will enjoy the look and feel of strong, vital, natural nails.",
+    "itemID": "B000G33KEO",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 910
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Hands & Nails",
+        "Nail Treatments",
+        "Growth Formula"
+      ]
+    ],
+    "price": 8.3,
+    "brand": NaN
+  },
+  {
+    "title": "Moroccanoil Hair Treatment (.85oz)",
+    "description": "This \\product is specifically designed for hair that has been severely damaged by chemical processing and stripped of its natural moisture and elasticity.Repair luster to sun-ravaged hair with this nutrient rich treatment. The results are instant and outstanding and will leave hair hydrated with a lightweight, silky texture.",
+    "itemID": "B001RQOSBS",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 1874
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Hair & Scalp Treatments"
+      ]
+    ],
+    "price": 12.45,
+    "brand": "Moroccanoil"
+  },
+  {
+    "title": "OPI Nail Envy Original Natural Nail Strengthener 0.5oz/15ml",
+    "description": "Maximum strength formula with Hydrolyzed Protein and Calcium helps nails grow harder, longer and stronger and resist peeling, cracking and splitting.",
+    "itemID": "B000QTFT2Y",
+    "helpful": [
+      0,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 4581
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Hands & Nails",
+        "Nail Treatments",
+        "Nail Strengthening"
+      ]
+    ],
+    "price": 10.55,
+    "brand": "OPI"
+  }
+]

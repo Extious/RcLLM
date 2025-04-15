@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Motions Naturally You, Hydrate My Curls Pudding 8 Ounce",
+    "description": "",
+    "itemID": "B0072XT8BA",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 14990
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Creams, Gels & Lotions"
+      ]
+    ],
+    "price": 5.49,
+    "brand": "Motions"
+  },
+  {
+    "title": "Pantene Pro-V Expert Collection Agedefy Conditioner 8.4 Fl Oz",
+    "description": "",
+    "itemID": "B0098JU8T2",
+    "helpful": [
+      0,
+      1
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 5489
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Conditioners"
+      ]
+    ],
+    "price": 6.85,
+    "brand": "Pantene"
+  },
+  {
+    "title": "Dove Men+Care Hydrate + Shave Gel",
+    "description": "",
+    "itemID": "B00A0J09C0",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 14582
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Oils"
+      ]
+    ],
+    "price": 7.09,
+    "brand": "Dove"
+  }
+]

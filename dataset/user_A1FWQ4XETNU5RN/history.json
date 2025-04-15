@@ -1,0 +1,71 @@
+[
+  {
+    "title": "L'Oreal Dermo-Expertise Sublime Bronze Self-Tanning Gelee, Medium-Natural , 5 fl oz (150 ml)",
+    "description": "Sublime Bronze Gelee's unique ultra-lightweight formula applies easily and dries quickly. Made with Vitamin E and gentle Alpha Hydroxyl Acid (AHA) derivative, Sublime Bronze Self-Tanning Gelee for Medium Natural Tan leaves your skin feeling soft and smooth.  Gelee for Medum Natural Tan will be two shades darker than your natural skin tone. Results may vary. Continue to use Sublime Bronze until you have reached your desired level of tan.",
+    "itemID": "B0009F3NGE",
+    "helpful": [
+      2,
+      2
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 12541
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Sun",
+        "Self-Tanners & Bronzers"
+      ]
+    ],
+    "price": 5.28,
+    "brand": "L&#39;Oreal Paris"
+  },
+  {
+    "title": "Xtreme Brite Brightening Gel 1oz",
+    "description": "Xtreme Brite Brightening Gel is highly concentrated gel helps to obtain a clearer and brighter complexion. Removes blackheads and cosmetic acne also has anti-bacterial and soothing properties. For best results use regularly together with other products from the Xtreme Brite brand.",
+    "itemID": "B0054GBXOW",
+    "helpful": [
+      1,
+      3
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 1090
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Treatments & Masks"
+      ]
+    ],
+    "price": 19.99,
+    "brand": "Xtreme Brite"
+  },
+  {
+    "title": "Mary Kay Acne Treatment Gel*,1 oz. net wt.",
+    "description": "For blemishes, smooth on Acne Treatment Gel. It's clinically proven to dry and clear acne blemishes, allowing skin to heal.",
+    "itemID": "B000QUKAUE",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 92640
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Treatments & Masks"
+      ]
+    ],
+    "price": NaN,
+    "brand": NaN
+  }
+]

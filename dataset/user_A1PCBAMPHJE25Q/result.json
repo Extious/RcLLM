@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Dr. T's Supergoop! SPF 35 Daily Correct CC Cream-Medium/Dark",
+    "description": "Supergoop CC Cream Daily Correct SPF 35 works as a primer, foundation and hydrating sunscreen that self-adjusts to your skin tone to even your complexion and conceal imperfections. Featuring a unique blend of antioxidants and omega-3 and -6, it gently exfoliates as it offers antioxidant benefits to combat visible signs of aging and promote youthful, radiant skin. Formulated with SPF 35, the lightweight moisturizer combats UVA and UVB rays to protect while mica deflects light, diminishing the appearance of fine lines and large pores to create a flawless look that lasts. Medium/Dark is ideal for medium to dark skin tones.",
+    "itemID": "B00BXKET7G",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 19371
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Creams & Moisturizers"
+      ]
+    ],
+    "price": 30.62,
+    "brand": "Dr. T&#39;s Supergoop!"
+  },
+  {
+    "title": "Keratin Complex Express Blow Out 4.oz",
+    "description": "a ONE HOUR service with a unique formulation utilizing Trionic Keratin Protein and a Co-Polymer delivery system reducing frizz, curl, and styling time.",
+    "itemID": "B005XOWZII",
+    "helpful": [
+      1,
+      2
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Health & Personal Care": 56978
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Hair & Scalp Treatments"
+      ]
+    ],
+    "price": 49.9,
+    "brand": "Smoothing"
+  }
+]

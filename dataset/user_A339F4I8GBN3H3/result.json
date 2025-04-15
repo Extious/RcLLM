@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Gold Bond  Ultimate Healing Skin Therapy Lotion, Aloe, 14 Ounce Pump",
+    "description": "Specially formulated for all over body moisturization to help heal extremely dry, rough, cracked and irritated skin. Gold bond ultimate contains 7 intensive moisturizers clinically tested to provide 24-hour moisturization. Plus, it contains 3 essential sk",
+    "itemID": "B001QFDTWO",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Health & Personal Care": 45308
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Lotions"
+      ]
+    ],
+    "price": 9.0,
+    "brand": "Gold Bond"
+  },
+  {
+    "title": "Nivea For Men Maximum Hydration 3 In 1 Moisturizer Body, Face and Hands, 13.5 Ounce",
+    "description": "Nivea For Men Maximum Hydration 3 in 1 Moisturizer Body, Face & Hands boosts the moisture level in the skin and intensively moisturizes.   Its special formula with Hydra-IQ technology absorbs in seconds leaving no greasy feeling on the skin.",
+    "itemID": "B007PWRXHO",
+    "helpful": [
+      1,
+      2
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Beauty": 22818
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Lotions"
+      ]
+    ],
+    "price": 6.99,
+    "brand": "Nivea Men"
+  }
+]

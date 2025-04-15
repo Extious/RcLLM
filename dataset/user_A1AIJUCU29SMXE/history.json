@@ -1,0 +1,70 @@
+[
+  {
+    "title": "Just For Me Hair Milk Conditioner, 13.5-Ounce Bottle",
+    "description": "",
+    "itemID": "B002MO9BW0",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Beauty": 14376
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Conditioners"
+      ]
+    ],
+    "price": 4.99,
+    "brand": "Just For Me"
+  },
+  {
+    "title": "Banana Boat Protect and Hydrate Sunscreen Lotion Spf 30, 6 Ounce",
+    "description": "Lightweight 2-in-1 sunscreen and moisturizer lotion combines Broad Spectrum UVA/UVB protection with aloe and antioxidants to maintain 100% of the skin's natural moisture during sun exposure.",
+    "itemID": "B009FKNGRA",
+    "helpful": [
+      3,
+      3
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 18774
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Sun",
+        "Skin Protection",
+        "Sports"
+      ]
+    ],
+    "price": 3.7,
+    "brand": "Banana Boat"
+  },
+  {
+    "title": "Pantene Pro-V Heat Shield Heat Potion Serum 50 Ml, 1.7-Ounce",
+    "description": "With weigtless heat activated oils for guilt-free styling",
+    "itemID": "B00CP0R5LK",
+    "helpful": [
+      10,
+      10
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 23783
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 4.27,
+    "brand": "Pantene"
+  }
+]

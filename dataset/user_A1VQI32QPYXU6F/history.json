@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Clear Men Scalp &amp; Hair 2 in 1 Shampoo and Conditioner, Clean &amp; Refresh, 12.9 Fluid Ounce",
+    "description": "",
+    "itemID": "B007JT7AEY",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 3718
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 6.79,
+    "brand": "Clear"
+  },
+  {
+    "title": "Pond's luminous clean daily exfoliating cleanser, 5oz",
+    "description": "",
+    "itemID": "B0089JVEPO",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 17619
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Exfoliators & Scrubs",
+        "Scrubs"
+      ]
+    ],
+    "price": 6.64,
+    "brand": "Pond&#39;s"
+  },
+  {
+    "title": "Motions Naturally You, Define My Curls Cr&egrave;me, 8 Ounce",
+    "description": "",
+    "itemID": "B007A592HU",
+    "helpful": [
+      1,
+      2
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 18412
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Creams, Gels & Lotions"
+      ]
+    ],
+    "price": 7.99,
+    "brand": "Motions"
+  }
+]

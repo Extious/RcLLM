@@ -1,0 +1,95 @@
+[
+  {
+    "title": "Maybelline New York Eye Studio Lasting Drama Gel Eyeliner, Eggplant 956, 0.106 Ounce",
+    "description": "The most intense line for lasting drama. Eye studio lasting drama gel eyeliner holds highly concentrated pigments in a clear gel base, so color is more intense and lines resist wear for 24 hours. Smudge proof and waterproof.",
+    "itemID": "B0030HKJ8I",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 43862
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Eyes",
+        "Eyeliner"
+      ]
+    ],
+    "price": 7.57,
+    "brand": "Maybelline"
+  },
+  {
+    "title": "Simple Foaming Cleanser, 5 Ounce",
+    "description": "",
+    "itemID": "B009RNUH54",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 4254
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Cleansers"
+      ]
+    ],
+    "price": 9.99,
+    "brand": "Simple"
+  },
+  {
+    "title": "Olay Ultra Moisture Moisturizing Body Wash With Shea Butter 13.5 Oz",
+    "description": "",
+    "itemID": "B00B22BCJS",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Health & Personal Care": 369
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Body Butter"
+      ]
+    ],
+    "price": 7.99,
+    "brand": "Olay"
+  },
+  {
+    "title": "Simple Soothing Facial Toner, 6.7 Ounce (Pack of 2)",
+    "description": "",
+    "itemID": "B005TI7NPI",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 131597
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Toners & Astringents"
+      ]
+    ],
+    "price": 17.2,
+    "brand": "Simple"
+  }
+]

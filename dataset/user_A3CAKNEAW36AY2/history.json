@@ -1,0 +1,70 @@
+[
+  {
+    "title": "Nioxin Scalp Therapy, System 2 (Noticeably Thinning ) Conditioner, 33.8 Ounce",
+    "description": "A daily volumizing scalp and hair conditioner that moisturizes and improves resilience, while promoting a healthy scalp environment with soothing essential oils, special anti-oxidants and enzymatic complexes. Rinse-out conditioner.",
+    "itemID": "B000XTCFME",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 856
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Hair & Scalp Treatments"
+      ]
+    ],
+    "price": 17.75,
+    "brand": "Nioxin"
+  },
+  {
+    "title": "Revlon Luxurious Color Satin Eye Shadow, Nude Slip, 0.08 Ounce",
+    "description": "Revlon Luxurious Color Satin Eye Shadow, Nude Slip",
+    "itemID": "B003NHEOPY",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 34172
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Eyes",
+        "Eye Shadow"
+      ]
+    ],
+    "price": 1.97,
+    "brand": "Revlon"
+  },
+  {
+    "title": "Bumble and Bumble Thickening Conditioner (8 Ounces)",
+    "description": "A featherweight moisturizer and detangler for fine or limp hair with ultra-light silk fibers that separate strands to create a fuller look.",
+    "itemID": "B000BIUGUK",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 6204
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Hair Relaxers",
+        "Conditioners"
+      ]
+    ],
+    "price": 25.92,
+    "brand": "Bumble and Bumble"
+  }
+]

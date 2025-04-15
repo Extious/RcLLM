@@ -1,0 +1,49 @@
+[
+  {
+    "title": "Sally Hansen Double Duty Base and Top Coat, 0.45 Fluid Ounce",
+    "description": "Sally Hansen double duty is a 2-in-1 base and top coat that protects and strengthens nails. This all-in-one patented strengthening base and top coat works double time, for double protection. As a base coat, double duty moisturizes and hydrates nails with panthenol. As a top coat, double duty protects with nylon. Nails are shielded with a hard, shiny, chip-resistant finish.",
+    "itemID": "B000AADEP8",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 4079
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Hands & Nails",
+        "Nail Treatments",
+        "Growth Formula"
+      ]
+    ],
+    "price": 1.55,
+    "brand": "Sally Hansen"
+  },
+  {
+    "title": "Proactiv Solution Original Repairing Lotion 2 oz",
+    "description": "Step three of our Proactiv Solution daily essentials, this light, luxurious lotion contains 2.5% finely milled benzoyl peroxide to penetrate deep beneath the skin's surface to help stop acne at its source. \nSize: 2 oz",
+    "itemID": "B001E6OC44",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 2006
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Treatments & Masks"
+      ]
+    ],
+    "price": 6.1,
+    "brand": "Proactiv"
+  }
+]

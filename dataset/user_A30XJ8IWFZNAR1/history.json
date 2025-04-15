@@ -1,0 +1,70 @@
+[
+  {
+    "title": "Extra Strength Hair Nutrient Tablets, 60-Tablets",
+    "description": "",
+    "itemID": "B002JPJ2ZS",
+    "helpful": [
+      2,
+      4
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Beauty": 14
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Hair Loss Products",
+        "Hair Regrowth Treatments"
+      ]
+    ],
+    "price": 32.35,
+    "brand": "Viviscal"
+  },
+  {
+    "title": "Shea Moisture Organic Raw Shea Butter Deep Treatment Hair Masque",
+    "description": "Shea Moisture Raw Shea Butter Deep Treatment Masque.Established 1912.W/sea kelp & argan oil.Dry, damaged hair.Heal, grow & strengthen.Sulfate free & color safe.",
+    "itemID": "B0038U4U3M",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Health & Personal Care": 13995
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Hair & Scalp Treatments"
+      ]
+    ],
+    "price": 15.45,
+    "brand": "Shea Moisture"
+  },
+  {
+    "title": "Mebco Tortoise Shower Detangler",
+    "description": "Popular professional comb styles in an elegant tortoise finish. Come in several different styles.",
+    "itemID": "B0000YUX4O",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 2148
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Combs"
+      ]
+    ],
+    "price": 2.95,
+    "brand": "Fromm"
+  }
+]

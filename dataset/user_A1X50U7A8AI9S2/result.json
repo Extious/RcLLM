@@ -1,0 +1,71 @@
+[
+  {
+    "title": "MOROCCANOIL Gold Glimmer Shine 3.4oz",
+    "description": "Moroccanoil glimmer shine is a finishing spray that attracts and reflects light to give hair a gorgeous gloss. Infused with argan oil, vitamins and antioxidants, it creates an invisible veil of luminous shine and protects hair against environmental elements such as sun, salt water and chlorine. Glimmer shine can also be used to enhance color and highlights, adding the perfect touch to any style.",
+    "itemID": "B001QYBURQ",
+    "helpful": [
+      3,
+      5
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Beauty": 2875
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Creams, Gels & Lotions"
+      ]
+    ],
+    "price": 21.99,
+    "brand": "Moroccanoil"
+  },
+  {
+    "title": "Benefit Cosmetics erase paste concealer - dark 03",
+    "description": "Signs of stress & fatigue are a thing of the past with this innovative formula. This concentrated, creamy, blendable concealer instantly brightens & camouflages all-in-one. The three brightening neutral shades give every gal correction perfection.",
+    "itemID": "B0011ULXB8",
+    "helpful": [
+      2,
+      3
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 260413
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Concealers & Neutralizers"
+      ]
+    ],
+    "price": 39.59,
+    "brand": NaN
+  },
+  {
+    "title": "Benefit Cosmetics The POREfessional",
+    "description": "What it is:A PRO balm that minimizes the appearance of pores.What it does:The POREfessional quickly minimizes the appearance of pores. Apply this silky, lightweight balm to achieve translucent pore coverage and smoother-than-smooth skin. Poresanow you see 'em, now you don't!What else you need to know:Oil-free. Instructions included.",
+    "itemID": "B003OIPJZ6",
+    "helpful": [
+      1,
+      2
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 4505
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Treatments & Masks"
+      ]
+    ],
+    "price": 38.99,
+    "brand": "Benefit Cosmetics"
+  }
+]

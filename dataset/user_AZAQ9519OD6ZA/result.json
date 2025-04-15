@@ -1,0 +1,46 @@
+[
+  {
+    "title": "Mrs. Meyer's Clean Day Dish Soap, Lavender, 16 Ounce Bottle",
+    "description": "Here's something you simply can't live without. Our Dish Soap is rich, thick and makes grease disappear like nobody's business. We even added Soap Bark Extract, another ingredient from nature and one of its best degreasers. All you need is a squirt or two and you're on your way.",
+    "itemID": "B0000UTUVU",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": NaN,
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Lotions"
+      ]
+    ],
+    "price": 8.19,
+    "brand": "Mrs. Meyer&#39;s Clean Day"
+  },
+  {
+    "title": "Mrs. Meyer's Clean Day Liquid Hand Soap, Lavender, 12.5 Ounce Bottle",
+    "description": "Hands have never had it so good. Our Liquid Hand Soap contains Aloe Vera Gel, Olive Oil, Glycerine and a unique blend of essential oils to create a hard-working, yet softening cleanser for your busy hands. They deserve it.",
+    "itemID": "B0000UTUW4",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": NaN,
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Lotions"
+      ]
+    ],
+    "price": 3.64,
+    "brand": "Mrs. Meyers"
+  }
+]

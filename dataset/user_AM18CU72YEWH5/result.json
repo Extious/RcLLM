@@ -1,0 +1,166 @@
+[
+  {
+    "title": "CLEAR SCALP &amp; HAIR BEAUTY Damage &amp; Color Repair Nourishing Shampoo, 12.9 Fluid Ounce",
+    "description": "",
+    "itemID": "B007RTR89S",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 14850
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 4.46,
+    "brand": "Clear"
+  },
+  {
+    "title": "CLEAR SCALP &amp; HAIR BEAUTY Damage &amp; Color Repair Nourishing Conditioner, 12.7 Fluid Ounce",
+    "description": "",
+    "itemID": "B007RTR8TS",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 40820
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care"
+      ]
+    ],
+    "price": 4.25,
+    "brand": "Clear"
+  },
+  {
+    "title": "Simple Smoothing Facial Scrub, 5 Ounce (Pack of 2)",
+    "description": "",
+    "itemID": "B005TI7NQ2",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 136942
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Exfoliators & Scrubs",
+        "Scrubs"
+      ]
+    ],
+    "price": 16.21,
+    "brand": "Simple"
+  },
+  {
+    "title": "Schick Hydro 5 Disposable Razor, 3 Count",
+    "description": "",
+    "itemID": "B00AHF1GK6",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Health & Personal Care": 17391
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Oils"
+      ]
+    ],
+    "price": 9.97,
+    "brand": "Schick"
+  },
+  {
+    "title": "Schick Hydro Silk Disposable Razor, 3 Count",
+    "description": "",
+    "itemID": "B00AHF1GTM",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Health & Personal Care": 25629
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Oils"
+      ]
+    ],
+    "price": 9.95,
+    "brand": "Schick"
+  },
+  {
+    "title": "Own Products Rejuvenating Facial Cleanser",
+    "description": "The Own Difference: To truly solve a problem, you need a new approach. In the fight against aging, the same companies, same formulas and ways of thinking have persisted. For years, we've seen products with impossible claims, read lists of unrecognizable toxic and harsh ingredients, and heard a false dichotomy between \"natural\" and \"effective\". The Entrepreneurial people behind Own saw a need for a new way of thinking. They couldn't find clinically proven, quality, good-for-you anti-aging treatments so they started Own and created the products that they wanted for themselves. Own is a San Francisco based skin-health company that believes in the holistic (complete) approach towards healthy skin. Own believes that there are too many chemicals that are in our everyday lives - in our food, in our environment, and even in our skincare products. Own's foundation is in developing unique, innovative formulas that are effective in improving skin's overall health, but without the need for harsh chemicals. Beyond products, Own advocates for lifestyle changes to make real improvements in their skin health. Using SF Bay Area technology, Own created the first-to-market aging analysis app that empowers people to see their current aging situation. Now armed with personalized information about wellness, nutrition and beauty, people can make wiser choices for their healthiest skin. Own is the NEW way of looking at OLD.",
+    "itemID": "B005KJ353U",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 133722
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Cleansers",
+        "Washes"
+      ]
+    ],
+    "price": NaN,
+    "brand": NaN
+  },
+  {
+    "title": "St. Ives Fresh Skin Invigorating Apricot Scrub, 10 Ounce",
+    "description": "",
+    "itemID": "B000UVWGGA",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 433
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Creams & Moisturizers",
+        "Fluids & Lotions",
+        "Fluids"
+      ]
+    ],
+    "price": 8.14,
+    "brand": "St. Ives"
+  }
+]

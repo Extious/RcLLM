@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Straight Arrow Mane 'N Tail Herbal Gro Maximum 5.5oz",
+    "description": "Maximum Herbal Gro is an advanced herbal styling and conditioning solution.Herbal Gro utilizes the natural power of herbs in an exclusively prepared formula to transform dull,lifeless hair and dry scalp into beautiful hair and a healthy conditioned scalp.",
+    "itemID": "B000AAAWAI",
+    "helpful": [
+      18,
+      23
+    ],
+    "overall": 1.0,
+    "salesRank": {
+      "Beauty": 46371
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Hair & Scalp Treatments"
+      ]
+    ],
+    "price": 6.09,
+    "brand": "Straight Arrow"
+  },
+  {
+    "title": "Lottabody Texturizing Setting Lotion - Extra Body: 8 OZ",
+    "description": "Lottabody texturizing setting lotion, extra body formula. For maximum body, use Lottabody Texturizing Setting Lotion, Extra Body formula to create a firm hold, that is easy to comb and results in a silky smooth glossy set. Features Creates a firm, glossy hold Conditioning ingredients leave hair soft and smooth Adds incredible body and shine Quick drying Non-flaking 8 FL OZ (236mL)",
+    "itemID": "B000P9IF9Y",
+    "helpful": [
+      2,
+      10
+    ],
+    "overall": 1.0,
+    "salesRank": {
+      "Beauty": 71438
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Hair Perms & Texturizers",
+        "Texturizers"
+      ]
+    ],
+    "price": 7.79,
+    "brand": "Lottabody"
+  },
+  {
+    "title": "Ardell Lashgrip Adhesive Dark .236 oz. Tube (Black Package)",
+    "description": "Ardell Lashgrip Adhesive Dark 0.25oz. Tube (Black Package)",
+    "itemID": "B002BGDLDO",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 6037
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Tools & Accessories",
+        "Makeup Brushes & Tools",
+        "Eyelash Tools",
+        "Fake Eyelashes & Adhesives"
+      ]
+    ],
+    "price": 4.7,
+    "brand": "Ardell"
+  }
+]

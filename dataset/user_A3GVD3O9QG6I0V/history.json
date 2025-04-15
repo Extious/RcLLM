@@ -1,0 +1,70 @@
+[
+  {
+    "title": "Simple Cleansing Facial Wipes, 25 Count (Pack of 2)",
+    "description": "",
+    "itemID": "B005TI7LHS",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 17651
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Cleansers",
+        "Cloths & Towelettes"
+      ]
+    ],
+    "price": 10.9,
+    "brand": "Simple"
+  },
+  {
+    "title": "CLEAR SCALP &amp; HAIR BEAUTY Total Care Nourishing Shampoo, 12.9 Fluid Ounce",
+    "description": "",
+    "itemID": "B007RTR898",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 11950
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 5.96,
+    "brand": "Clear"
+  },
+  {
+    "title": "CLEAR MEN SCALP THERAPY 2 in 1 AntiDandruff Shampoo and Conditioner, Dry Scalp Hydration, 12.9oz",
+    "description": "",
+    "itemID": "B007JT7AIA",
+    "helpful": [
+      2,
+      3
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 4949
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 4.0,
+    "brand": "Clear"
+  }
+]

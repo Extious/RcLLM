@@ -1,0 +1,71 @@
+[
+  {
+    "title": "OPI Natural Nail Base Coat, 0.5-Fluid Ounce",
+    "description": "Enriched formula prevents staining of natural nails and promotes a long-lasting manicure. the perfect base for opi nail lacquer.",
+    "itemID": "B004220C6E",
+    "helpful": [
+      2,
+      5
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 3595
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Nails",
+        "Nail Polish"
+      ]
+    ],
+    "price": 6.15,
+    "brand": "OPI"
+  },
+  {
+    "title": "OPI Nail Lacquer, Glow Up Already, 0.5-Fluid Ounce",
+    "description": "OPI Burlesque Colors",
+    "itemID": "B0045M2SZY",
+    "helpful": [
+      2,
+      2
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 53642
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Nails",
+        "Nail Polish"
+      ]
+    ],
+    "price": 8.7,
+    "brand": "OPI"
+  },
+  {
+    "title": "Bare Escentuals bareMinerals Skincare Deep Cleansing Foam [Misc.]",
+    "description": "Deeply cleanse skin and lift away impurities with this luxurious cleanser. Powered by our 100% pure RareMinerals ActiveSoil Complex, this non-drying formula bursts into a rich lather when activated with water to deep clean pores, instantly refresh skin, and give you a naturally luminous glow. Size: 119 g / 4.2. Oz.",
+    "itemID": "B004OGB21M",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 17980
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Cleansers"
+      ]
+    ],
+    "price": 12.95,
+    "brand": "Bare Escentuals"
+  }
+]

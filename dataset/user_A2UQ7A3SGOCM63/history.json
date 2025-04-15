@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Coastal Scents Contour and Blush Palette",
+    "description": "This palette contains 6 contouring, shading, concealing, and blush shades. The powders are all matte.",
+    "itemID": "B002QFGKUQ",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 845
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Blush"
+      ]
+    ],
+    "price": 11.75,
+    "brand": "Coastal Scents"
+  },
+  {
+    "title": "Coastal Scents 10 Piece Professional Blush Palette",
+    "description": "This palette comes with 6 in a beautiful sheen of shimmer and 4 matte blushes.",
+    "itemID": "B002QFMY42",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 6568
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Blush"
+      ]
+    ],
+    "price": 12.29,
+    "brand": "Coastal Scents"
+  },
+  {
+    "title": "BH Cosmetics 120 Color Eyeshadow Palette 2nd Edition",
+    "description": "Long lasting, easy to match different make-up styles! Super-fine Powder Produce even and long lasting makeup.\nFeels light and soft.Easily create clear and brilliant eye makeup finish. Includes matte and shimmer colors. Case size is 9\" x 6\"\nFeels light and soft.Easily create clear and brilliant eye makeup finish. Includes matte and shimmer colors. Case size is 9\" x 6\"",
+    "itemID": "B002TPQPEE",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 1378
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Eyes",
+        "Eye Shadow"
+      ]
+    ],
+    "price": 23.99,
+    "brand": "BHCosmetics"
+  }
+]

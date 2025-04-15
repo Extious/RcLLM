@@ -1,0 +1,236 @@
+[
+  {
+    "title": "Hydroxatone AM/PM Anti-Wrinkle Complex SPF 15",
+    "description": "",
+    "itemID": "B000R46I1O",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Beauty": 7047
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face"
+      ]
+    ],
+    "price": 33.99,
+    "brand": "Hydroxatone"
+  },
+  {
+    "title": "Dove Men+Care Sensitive + Face Lotion 1.69 FL.Oz.",
+    "description": "",
+    "itemID": "B009YSSLAU",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 10488
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Creams & Moisturizers",
+        "Fluids & Lotions",
+        "Lotions"
+      ]
+    ],
+    "price": 6.5,
+    "brand": "Dove"
+  },
+  {
+    "title": "Simple Protecting Light Moisturizer Spf 15, 4.2 Ounce",
+    "description": "",
+    "itemID": "B009RNUH7M",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 4711
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Creams & Moisturizers",
+        "Fluids & Lotions",
+        "Lotions"
+      ]
+    ],
+    "price": 7.18,
+    "brand": "Simple"
+  },
+  {
+    "title": "Tresemme Platinum Strength Heat Protect Spray, 8 Ounce",
+    "description": "",
+    "itemID": "B00AE07FQI",
+    "helpful": [
+      1,
+      2
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Beauty": 11518
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Hair Sprays"
+      ]
+    ],
+    "price": 4.27,
+    "brand": "TRESemme"
+  },
+  {
+    "title": "Simple Radiance Wipes, 25 Count",
+    "description": "",
+    "itemID": "B00AO4EMKQ",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 2332
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Scrubs & Body Treatments",
+        "Body Scrubs"
+      ]
+    ],
+    "price": 8.97,
+    "brand": "Simple"
+  },
+  {
+    "title": "Tweezerman LTD Deluxe Metal Eyelash Curler",
+    "description": "Our best-selling eyelash curler is expertly crafted to create  beautifully enduring curl.",
+    "itemID": "B007SA3CD2",
+    "helpful": [
+      3,
+      3
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Beauty": 2343
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Tools & Accessories",
+        "Makeup Brushes & Tools",
+        "Eyelash Tools",
+        "Curlers"
+      ]
+    ],
+    "price": 12.34,
+    "brand": "Tweezerman"
+  },
+  {
+    "title": "L'Oreal Paris Age Perfect BB Cream Instant Radiance, 2.5 Fluid Ounce",
+    "description": "This luxurious 5-in-1 BB Cream instantly restores skin's healthy glow with advanced skin matching tone enhancers - all in one step. It's the first BB cream formulated exclusively for mature skin. Age Perfect BB Cream Instant Radiance works to perfect and restore resiliency with powerful anti-aging properties. Over time, age spots diminish thanks to a powerful Vitamin C complex that restores vibrancy. Soy seed proteins absorb instantly to help silken and nourish skin leaving it toned and resilient. SPF 20 helps protect against future damage.",
+    "itemID": "B00AXRBAEA",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 17220
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Creams & Moisturizers"
+      ]
+    ],
+    "price": 8.99,
+    "brand": "L&#39;Oreal Paris"
+  },
+  {
+    "title": "Twist Holder Clip Bun Hair Twist Braid Tool, Set of 2",
+    "description": "Simple and elegant hair style, not only embellishes the shape of head and face, but also achieves graceful and sweet temperament.Steps:step 1: Put braid into curler and then roll up you hairsstep 2: Roll up your braid, until all of the hair be on the twist curler clampstep 3: Hook the two hooks, then finished",
+    "itemID": "B006K9OQSC",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 1808
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Braid Maintenance"
+      ]
+    ],
+    "price": 1.65,
+    "brand": "Bonamart"
+  },
+  {
+    "title": "Cristophe Professional Volumizing Spray Tonic, 6 Ounce",
+    "description": "Cristophe Profesisonal Volumizing Spray Tonic adds fullness to fine, limp hair and helps you create a full body style just like Cristophe. Special thickening ingredients deliver long lasting volume without weighing down your hair. This salon formula nourishes and adds body to eliminate flat and lifeless hair.",
+    "itemID": "B009G0E90M",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 169107
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Hair Sprays"
+      ]
+    ],
+    "price": NaN,
+    "brand": NaN
+  },
+  {
+    "title": "Dove Hair Styling Oxygen Moisture Root Lift Spray, 3.3 Ounce",
+    "description": "",
+    "itemID": "B00HM6IVXI",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 56554
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Hair Sprays"
+      ]
+    ],
+    "price": 17.95,
+    "brand": "Dove"
+  }
+]

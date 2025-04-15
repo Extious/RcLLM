@@ -1,0 +1,92 @@
+[
+  {
+    "title": "John Frieda JF1 Full Volume Hair Dryer",
+    "description": "",
+    "itemID": "B004YZMKKU",
+    "helpful": [
+      1,
+      2
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 4317
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Hair Dryers"
+      ]
+    ],
+    "price": 35.89,
+    "brand": "John Frieda"
+  },
+  {
+    "title": "Fekkai Glossing Hair Products Starter 1 Kit",
+    "description": "",
+    "itemID": "B0030GFY02",
+    "helpful": [
+      0,
+      1
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 39515
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care"
+      ]
+    ],
+    "price": 22.95,
+    "brand": "Fekkai"
+  },
+  {
+    "title": "Sunburnt Therapeutic After Sun Relief, 6-Ounce Tube",
+    "description": "Too much time in the Sun can wreak havoc on our skin, causing painful sunburn, dryness and insightly peeling.  SunBurnt&#x2122; Therapeutic After Sun Relief helps your skin recover from an afternoon at the beach, in the garden or at a ballgame.  With all-natural homeopathic active ingredients, SunBurnt&#x2122; will cool overheated skin, soothe and hydrate sunburned skin, and help to reduce skin peeling.",
+    "itemID": "B001FWXJ4G",
+    "helpful": [
+      1,
+      2
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 9256
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Sun",
+        "After Sun"
+      ]
+    ],
+    "price": 7.85,
+    "brand": "Sunburnt"
+  },
+  {
+    "title": "Olay Regenerist Anti-Aging Starter Trio Pack 1 Kit",
+    "description": "Olay Regenerist Skin Care Starter Trio Pack beautifully regenerates skin's appearance for significantly younger-looking skin without drastic measures such as cosmetic fillers and injections. Formulated with an exclusive Olay Amino-Peptide +B3 complex, Olay Regenerist renews skin's outer layer one cell at a time while strengthening skin's moisture barrier. The Olay Regenerist Daily Regenerating Cleanser - 5OZ, provides the beautifully regenerated look of a detoxifying mini-professional treatment. The Olay Regenerist Deep Hydration Regenerating Cream - .5OZ, visibly regenerates skin's appearance and intensely hydrates skin. The Olay Regenerist Eye Lifting Serum - .5OZ, hydrates to firm and visibly lift skin around the entire eye area.",
+    "itemID": "B002UUT3YM",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 9592
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Sets & Kits"
+      ]
+    ],
+    "price": 22.59,
+    "brand": "Olay"
+  }
+]

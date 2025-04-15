@@ -1,0 +1,69 @@
+[
+  {
+    "title": "It's A 10 Miracle Leave In Product, 4-Ounces",
+    "description": "It's A 10 does 10 things instantly: 1. Repairs dry damaged hair. 2. Adds shine. 3. Smoothes and controls frizz. 4. Seas and protects hair color. 5. Detangles. 6. Prevents split ends. 7. Stops hair breakage. 8. Creates silkiness. 9. Enhances natural body. 10. Flat iron spray and thermal protector.",
+    "itemID": "B000TKH6G2",
+    "helpful": [
+      0,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 1112
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Conditioners"
+      ]
+    ],
+    "price": 12.45,
+    "brand": "Its a 10"
+  },
+  {
+    "title": "Maybelline New York Great Lash Clear Mascara for Lash and Brow 110, 0.44 Fluid Ounce",
+    "description": "Perfectly separates for a natural look. Use it on lashes or to set brows.",
+    "itemID": "B001KYQA1S",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 482
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Eyes",
+        "Mascara"
+      ]
+    ],
+    "price": 12.95,
+    "brand": "Maybelline"
+  },
+  {
+    "title": "Travel Smart by Conair 1-in. Ceramic Curling Iron",
+    "description": NaN,
+    "itemID": "B002WQ93F8",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": NaN,
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Irons",
+        "Curling Irons"
+      ]
+    ],
+    "price": 18.04,
+    "brand": "Conair"
+  }
+]

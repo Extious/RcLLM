@@ -1,0 +1,70 @@
+[
+  {
+    "title": "Manic Panic Virgin Snow",
+    "description": "Manic Panic Classic Formula Semi Permanent Hair Color Cream is the best of its kind! Gives hair bold, brilliant color.",
+    "itemID": "B000NSQI4Q",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Health & Personal Care": 35212
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Hair Color",
+        "Chemical Hair Dyes"
+      ]
+    ],
+    "price": 9.18,
+    "brand": "Manic Panic"
+  },
+  {
+    "title": "BareMinerals Well-cared for Brush Conditioning Shampoo, Large 4oz. Tube",
+    "description": "Bare Escentuals id Well-Cared for Brush Conditioning Shampoo 4 fl ozProlong your brushes' lives by regularly using this rich foaming conditioning cleanser containing nourishing ingredients.Well-Cared For Brush Conditioning Shampoo washes away all traces of dirt, makeup, oil, and debris and conditions the hair and fibers to a soft finish. }",
+    "itemID": "B001VD8DDG",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 17868
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 12.95,
+    "brand": "Bare Escentuals"
+  },
+  {
+    "title": "ecoTOOLS Make-Up Kabuki Brush Set",
+    "description": "This ecoTOOLS 4 piece Kabuki Set is a special limited edition and offers 4 different brush heads for maximum coverage. Includes 4 full size brush heads conceal, bronze, contour, and buff.",
+    "itemID": "B005TKZS76",
+    "helpful": [
+      2,
+      3
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 617
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Tools & Accessories",
+        "Makeup Brushes & Tools",
+        "Brushes & Applicators"
+      ]
+    ],
+    "price": 9.99,
+    "brand": "EcoTools"
+  }
+]

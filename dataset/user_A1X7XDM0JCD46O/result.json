@@ -1,0 +1,47 @@
+[
+  {
+    "title": "L'Oreal Paris EverCreme Sulfate-Free Moisture System Cleansing Conditioner, 8.3 Fluid Ounce",
+    "description": "Evercreme is the first sulfate-free moisture lock system that delivers lush 48-hour hydration without heavy coating waxes. Rich in natural omega 3-9.",
+    "itemID": "B005HIH7YM",
+    "helpful": [
+      1,
+      2
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 478
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Conditioners"
+      ]
+    ],
+    "price": 5.82,
+    "brand": "L&#39;Oreal Paris"
+  },
+  {
+    "title": "RoC Daily Resurfacing Disks, 3 Inch, 28 Disks",
+    "description": "RoC Daily Resurfacing Disks are clinically shown to help diminish the look of fine lines and wrinkles, and improve the appearance of skin in just one week. Infused with skinconditioning cleansers, the selffoaming disk is textured on one side to gently exfoliate away dirt, oil, and complexion dulling impurities, and smooth on the other side to gently cleanse and remove makeup around the delicate eye area. The resultyoungerlooking, more beautiful skin. Gentle enough for everyday use. Results after clinical testing: In just 1 week, the appearance of fine lines is reduced; Skin tone and texture is improved. After 4 weeks, signs of photoaging appear diminished. After 12 weeks, the appearance of wrinkles and pores is diminished.",
+    "itemID": "B005I2MP62",
+    "helpful": [
+      0,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 1055
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Treatments & Masks"
+      ]
+    ],
+    "price": 9.98,
+    "brand": "RoC"
+  }
+]

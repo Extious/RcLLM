@@ -1,0 +1,73 @@
+[
+  {
+    "title": "Aqua Glycolic Face Cream, 2-Ounces",
+    "description": "Dermatologist recommended. Aqua Glycolic Face Cream gently removes the dead skin cells from rough, dry, sun-damaged skin; Smooths the appearance of fine lines and imperfections; and helps restore proper moisture balance. For all over body use.",
+    "itemID": "B000T7P0KO",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 1083
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Oils"
+      ]
+    ],
+    "price": 19.0,
+    "brand": "Aqua Glycolic"
+  },
+  {
+    "title": "Neutrogena Oil-Free Acne Wash Daily Scrub, 4.2 Ounce",
+    "description": "Cleans deep into pores and helps stop breakouts before they start. This breakthrough formula features MicroClear a powerful technology clinically shown to boost delivery of acne medicine, clear congested pores and speed treatment deep to the source. MicroClear and gentle microbeads work together to cut through oil, dissolving dirt and impurities without overdrying or irritation. Skin is left clear and smooth.",
+    "itemID": "B000NWDSAE",
+    "helpful": [
+      0,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 4837
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Exfoliators & Scrubs",
+        "Scrubs"
+      ]
+    ],
+    "price": 6.17,
+    "brand": "Neutrogena"
+  },
+  {
+    "title": "Clean &amp; Clear ESSENTIALS Dual Action Moisturizer, 4 Ounce",
+    "description": "Salicylic acid acne medication Moisturizes dry skin Treats & helps prevent pimples Active: Salicylic Acid 0.5%. For external use only.",
+    "itemID": "B000052YJM",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": NaN,
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Creams & Moisturizers",
+        "Fluids & Lotions",
+        "Fluids"
+      ]
+    ],
+    "price": 5.9,
+    "brand": "Clean &amp; Clear"
+  }
+]

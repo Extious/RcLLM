@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Gelish Basix Kit",
+    "description": "The Gelish Basix Kit a complete package of the essential products necessary to properly apply Gelish from start to finish!",
+    "itemID": "B0057JCYYE",
+    "helpful": [
+      14,
+      19
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 2717
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Tools & Accessories",
+        "Nail Tools",
+        "False Nails"
+      ]
+    ],
+    "price": 31.53,
+    "brand": "Gelish"
+  },
+  {
+    "title": "Thermal Spa 49135 Professional U/V Gel Light Nail Dryer",
+    "description": "Thermal spa professional u/v light gel dryer for beautiful manicures. with 45 watts of power reduces drying time for u/v top coat and gel applications. made with heavy-duty steel construction for durability, with a sleek design.",
+    "itemID": "B001RMP7M6",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 911
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Tools & Accessories",
+        "Nail Tools",
+        "Nail Dryers"
+      ]
+    ],
+    "price": 56.33,
+    "brand": "Thermal Spa"
+  },
+  {
+    "title": "Starry Long Lasting Waterproof Eyeliner Gel with Brush Choclate Brown",
+    "description": "This innovative eyeliner offers the precision of liquid eyeliner and the ease of a gel based formula. The color is long-wearing and water resistant. Can be used to create subtle to dramatic looks. Every package comes with an brush.\nIt is available in 12 pretty colors.",
+    "itemID": "B0049MFMXK",
+    "helpful": [
+      0,
+      1
+    ],
+    "overall": 1.0,
+    "salesRank": {
+      "Beauty": 55142
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Eyes",
+        "Eyeliner"
+      ]
+    ],
+    "price": 4.85,
+    "brand": "Starry"
+  }
+]

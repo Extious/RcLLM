@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Philosophy Hope in a Jar Daily Moisturizer, Dry Skin, 2 Ounce",
+    "description": "A creamy, soothing daily moisturizer that helps improve the natural moisture balance, while soothing and comforting the skin.",
+    "itemID": "B00021B8L2",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 12304
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Creams & Moisturizers"
+      ]
+    ],
+    "price": 25.38,
+    "brand": "Philosophy"
+  },
+  {
+    "title": "Max Green Alchemy Scalp Rescue Shampoo 8.8 oz",
+    "description": "This wonderful shampoo uses a superior blend of botanical extracts, vitamins and essential oils that create healthy scalps and beautiful strong, lustrous hair while avoiding harsh detergents found in mainstream and even so called 'natural' shampoos. Our proprietary herbal infusion assists the treatment of dry and itchy scalps.",
+    "itemID": "B000A35L56",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 13571
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 14.99,
+    "brand": "Max Green Alchemy"
+  },
+  {
+    "title": "Olay Regenerist Detoxifying Pore Scrub 6.5 Fl Oz (Packaging May Vary) (Pack of 2)",
+    "description": "Olay Regenerist Detoxifying Pore Scrub exfoliates and deep cleans down to the pores to purify your skin&rsquo;s complexion. The amino-peptide cleansing complex with derma-smoothers polishes away dull skin and helps minimize the appearance of pores, leaving skin with a regenerated clarity.",
+    "itemID": "B001F51TR2",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 19078
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Exfoliators & Scrubs",
+        "Scrubs"
+      ]
+    ],
+    "price": 20.52,
+    "brand": "Olay"
+  }
+]

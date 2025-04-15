@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Dove Body Wash with NutriumMoisture, Sensitive Skin Nourishing, 24 Ounce",
+    "description": NaN,
+    "itemID": "B000AO2NXS",
+    "helpful": [
+      0,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 18679
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Cleansers",
+        "Body Washes"
+      ]
+    ],
+    "price": 11.5,
+    "brand": "Dove"
+  },
+  {
+    "title": "Mary Kay Oil-Free Eye Makeup Remover,3.75 fl. oz.",
+    "description": "Gently removes eye makeup, including waterproof mascara, without tugging or pulling the delicate skin in the eye area. Formula does not leave skin feeling dry.",
+    "itemID": "B000QUM5LG",
+    "helpful": [
+      2,
+      2
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 698
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Scrubs & Body Treatments",
+        "Body Scrubs"
+      ]
+    ],
+    "price": 12.59,
+    "brand": "Mary Kay"
+  },
+  {
+    "title": "HD High-Definition Glamour Creme Palette, Neutral #1",
+    "description": "Size: .39oz., 11g",
+    "itemID": "B0044XXO84",
+    "helpful": [
+      0,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 51013
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Foundation"
+      ]
+    ],
+    "price": 20.95,
+    "brand": "Graftobian"
+  }
+]

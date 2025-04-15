@@ -1,0 +1,68 @@
+[
+  {
+    "title": "Clean &amp; Clear Continuous Control Acne Cleanser,  5 oz  (141g)",
+    "description": "Clean & Clear Continuous Control Acne Cleanser not only removes dirt and oil, it also features a porepenetrating technology that deposits acne medicine to help fight and help prevent breakouts long after you wash. Your skin is clean and becomes clearer with continued use.",
+    "itemID": "B0000534VO",
+    "helpful": [
+      2,
+      3
+    ],
+    "overall": 5.0,
+    "salesRank": NaN,
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Cleansers"
+      ]
+    ],
+    "price": 6.13,
+    "brand": "Clean &amp; Clear"
+  },
+  {
+    "title": "Too Faced Cosmetics Kabuki Brush",
+    "description": "This one-stop shop of a brush is a serious multi-tasker! Our perfectly portable retractable Kabuki Brush is the ideal tool to apply bronzers blushers powders and shimmers flawlessly. Our world-famous Teddy Bear Hair bristles grab and blend color without any of the cruelty or hygiene problems associated with animal-hair brushes.",
+    "itemID": "B000VWP156",
+    "helpful": [
+      11,
+      11
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 36869
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Tools & Accessories",
+        "Makeup Brushes & Tools",
+        "Brushes & Applicators"
+      ]
+    ],
+    "price": 22.99,
+    "brand": "Too Faced"
+  },
+  {
+    "title": "Moroccan Oil Hair Treatment 3.4 Oz Bottle with Blue Box",
+    "description": "Moroccanoil is an ultra-light formula which is absorbed by the hair instantly, resulting in a natural, silky finish and brilliant shine.  Moroccanoil has the ability to restore over-processed hair damaged by environmental factors and chemical procedures - it also revives, hydrates and detangles hair, wigs and hair extensions.",
+    "itemID": "B001AO0WCG",
+    "helpful": [
+      19,
+      23
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Beauty": 15
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Hair & Scalp Treatments"
+      ]
+    ],
+    "price": 29.46,
+    "brand": "Moroccanoil"
+  }
+]

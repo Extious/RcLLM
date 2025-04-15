@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Dove Bar Soap, Rebalance, 8 Count",
+    "description": "",
+    "itemID": "B00AE07IEM",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 120350
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Cleansers",
+        "Soaps"
+      ]
+    ],
+    "price": 15.98,
+    "brand": "Dove"
+  },
+  {
+    "title": "Lysol Touch of Foam Foaming Hand Soap, Creamy Vanilla Orchid, Pump, 8.5 Ounce",
+    "description": "Lysol touch of foam foaming hand soap pump creamy vanilla orchid 8.5 ounce. Kills 99.9% of bacounteria on hands. Enriched with moisturizing ingredients.",
+    "itemID": "B00AIQOKDY",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Health & Personal Care": 79387
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Hands & Nails",
+        "Hand Soaps"
+      ]
+    ],
+    "price": 6.68,
+    "brand": "Lysol"
+  },
+  {
+    "title": "John Frieda Precision Foam Hair Color, Glosser Warm Red, 6 Fluid Ounce",
+    "description": "An in-shower, non-damaging weekly color extending treatment that adds back lost color pigments for true to tone, salon-fresh color in-between colorings. Instantly restore vibrant salon-fresh color and shine. Adds fiery copper tones to counteract fading. An in-shower non-damaging weekly color extending treatment that adds back lost color pigments. Delivers true to tone salon-fresh color in-between colorings.",
+    "itemID": "B00GLS55DC",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 27031
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Hair Color",
+        "Chemical Hair Dyes"
+      ]
+    ],
+    "price": 4.25,
+    "brand": "John Frieda"
+  }
+]

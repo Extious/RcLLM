@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Opi Nail Lacquer, Not So Bora Pink, 0.5 Fluid Ounce",
+    "description": "A rich, creamy pink with an exotic twist. Whenever you find yourself stuck in the office or in traffic staring down at your pink nails, this not so boring pink will have you longing for a tropical trip to Bora Bora.",
+    "itemID": "B000142FVW",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 37439
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Nails",
+        "Nail Polish"
+      ]
+    ],
+    "price": 6.56,
+    "brand": "OPI"
+  },
+  {
+    "title": "OPI Nail Polish Matte Nail Envy NTT82 Nail Strengthener",
+    "description": "Matte Nail Envy - Natural Nail Strengthener \nStrengthens natural nails and prevents peeling, cracking & splitting. Same strengthening benefits of Original Nail Envy with a natural-looking matte finish.",
+    "itemID": "B000ORM4EE",
+    "helpful": [
+      11,
+      12
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 114178
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Hands & Nails",
+        "Nail Treatments",
+        "Nail Strengthening"
+      ]
+    ],
+    "price": 9.99,
+    "brand": "OPI"
+  },
+  {
+    "title": "Seche Vite Dry Fast Top Nail Coat, 0.5 Ounce",
+    "description": "Nailtiques nail varnishes are formulated with the same strengthening ingredients that the cult favorite protein formulas are enriched with. Giving your nail protein treatments an added boost, this luxurious nail polish allows the protein to penetrate through the polish, for maximum benefits.",
+    "itemID": "B00150LT40",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 29
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Nails",
+        "Top & Base Coats"
+      ]
+    ],
+    "price": 4.7,
+    "brand": "Seche"
+  }
+]

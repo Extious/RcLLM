@@ -1,0 +1,68 @@
+[
+  {
+    "title": "Cetaphil Daily Facial Cleanser, Normal to Oily Skin - 8 fl oz",
+    "description": "Cleanses without drying. Non-comedogenic. Cetaphil Daily Facial Cleanser for normal to oily skin was formulated for dermatologists as a gentle, non-irritating cleanser for normal to oily skin. Removes surface oils, dirt and makeup without leaving skin tight or overly dry; Non-comedogenic, so it won't clog pores; Rinses clean without having any irritating residue.",
+    "itemID": "B000056I89",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": NaN,
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Oils & Serums"
+      ]
+    ],
+    "price": 6.72,
+    "brand": "Cetaphil"
+  },
+  {
+    "title": "MAC Studio Fix Powder Plus Foundation NC45",
+    "description": "Buy MAC Foundations - MAC Studio Fix Powder Plus Foundation NC45. How-to-Use: Apply powder foundation evenly to face and neck with makeup brush or sponge.",
+    "itemID": "B0002DO1RS",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 23131
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Foundation"
+      ]
+    ],
+    "price": 36.97,
+    "brand": "M.A.C"
+  },
+  {
+    "title": "Nexxus Polymedic Emergency Reconstructor Conditioner, 16.9 Ounce",
+    "description": "Aloxxi polymedic-emergency reconstructor is unsurpassed in repairing and strengthening hopelessly damaged hair. Emergence is unmatched to stop hair breakage. This exceptional formulation contains a renewing blend of polymers, elastins, amino acids and collagen, creating an internal framework within the hair shaft to restore integrity. Use once every two weeks to structurally reinforce hair that has been chemically damaged or abused by thermal styling appliances. Each treatment will dramatically improve hair's health, condition and shine. Nexxus aloxxi polymedic-emergency reconstructor helps hopelessly damaged hair, chronic breakage, degraded cuticle, chemically abused, disintegrated structure, excessively dry and brittle hair.",
+    "itemID": "B000THCTOO",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 4132
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Conditioners"
+      ]
+    ],
+    "price": 22.48,
+    "brand": "Nexxus"
+  }
+]

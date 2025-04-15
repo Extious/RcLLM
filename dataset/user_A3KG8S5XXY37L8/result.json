@@ -1,0 +1,116 @@
+[
+  {
+    "title": "Clearasil Ultra Acne Treatment Daily Face Wash, 6.78 Ounce (Pack of 3)",
+    "description": "",
+    "itemID": "B001U0ONNY",
+    "helpful": [
+      1,
+      2
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 3280
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Cleansers",
+        "Washes"
+      ]
+    ],
+    "price": 17.39,
+    "brand": "Clearasil"
+  },
+  {
+    "title": "Aveeno Clear Complexion Daily Moisturizer, 4 Ounce",
+    "description": "This daily moisturizer has a unique formula with an exclusive total soy complex to help naturally even out skin tone and smooth texture. It also contains salicylic acid to help clear up and prevent blemishes. This fast absorbing moisturizer is gentle enough for sensitive skin and helps maintain healthylooking skin and improve your complexion. Aveeno clear complexion daily moisturizer leaves skin soft and smooth. Improves skin texture. Evens out skin tone. Improves skin clarity. Prevents breakouts. Clears up blemishes. Discover Aveeno active naturals simply put, active naturals are Ingredients derived from nature and uniquely formulated to reveal skin's natural health and beauty. A pioneer in the study of natural Ingredients for efficacious skin care, Aveeno has captured the naturally active benefits of soy. Long known for its health benefits, soy also delivers multiple skin benefits including moisturization, smoothing texture, and evening out skin tone. Aveeno offers facial care products that are noncomedogenic, hypallergenic, and gentle enough for everyday use.",
+    "itemID": "B00006FRW7",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": NaN,
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Cleansers"
+      ]
+    ],
+    "price": 4.65,
+    "brand": "Aveeno"
+  },
+  {
+    "title": "Denman Styling Brush, Heavy Weight, 9-Row",
+    "description": "9 row, heavyweight styling brush. Smooth nylon pins in an anti-static, natural rubber pad.",
+    "itemID": "B0002Z8QG8",
+    "helpful": [
+      0,
+      1
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Beauty": 12187
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Brushes"
+      ]
+    ],
+    "price": 13.81,
+    "brand": "Denman"
+  },
+  {
+    "title": "St. Ives Body Wash Creamy Coconut Triple Butters, 24 Ounce (Pack of 2)",
+    "description": "",
+    "itemID": "B004HJ1QGC",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 51355
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Cleansers",
+        "Body Washes"
+      ]
+    ],
+    "price": 16.99,
+    "brand": "St. Ives"
+  },
+  {
+    "title": "Dove Purely Pampering Nourishing Body Wash, Coconut Milk with Jasmine Petals, 24 Ounce (Pack of 2)",
+    "description": "",
+    "itemID": "B002TSA94I",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 35306
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Cleansers",
+        "Body Washes"
+      ]
+    ],
+    "price": 15.99,
+    "brand": "Dove"
+  }
+]

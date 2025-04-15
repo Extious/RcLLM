@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Gena Hoof Lacquer, 5 Ounce",
+    "description": "Pamper your hands and feet with Hoof Lacquer from Gena. Beauty begins with professional quality hand and body treatments that soften and soothe or polish and perfect. Try it today for healthy and renewed skin and nails.",
+    "itemID": "B0002Z8GEK",
+    "helpful": [
+      3,
+      4
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 16703
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Hands & Nails",
+        "Nail Treatments",
+        "Growth Formula"
+      ]
+    ],
+    "price": 4.14,
+    "brand": "Gena"
+  },
+  {
+    "title": "Garnier Clinical Dark Spot Corrector Skin Renew, 1.7 Ounce",
+    "description": "Daily moisturizer fades discoloration for even skin tone,  dark spots, age spots, acne marks.",
+    "itemID": "B0057RIM5G",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 1.0,
+    "salesRank": {
+      "Beauty": 4138
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Eyes",
+        "Rollers & Pens"
+      ]
+    ],
+    "price": 7.37,
+    "brand": "Garnier"
+  },
+  {
+    "title": "NARS Blush, Taj Mahal",
+    "description": "Made with transparent pigments for a soft and sheer look. Imparts a natural, healthy glow for any skin tone and may be worn alone or layered together for more depth and intensity.",
+    "itemID": "B00021DJ32",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 46941
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Blush"
+      ]
+    ],
+    "price": 49.99,
+    "brand": "NARS"
+  }
+]

@@ -1,0 +1,70 @@
+[
+  {
+    "title": "Coastal Scents 88 Color Palette, Warm",
+    "description": "The warm palette is a beautiful palette filled with matte, shimmer, smokey, and neutral shadows. Colors contained are in silver blues, camo greens, earthy peach & stone, rich plums, and many different shades of brown.",
+    "itemID": "B002ON11RW",
+    "helpful": [
+      48,
+      53
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 3925
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Makeup Palettes"
+      ]
+    ],
+    "price": 8.12,
+    "brand": "Coastal Scents"
+  },
+  {
+    "title": "NYX Cosmetics Eye Shadow Base, White, 0.21 Ounce",
+    "description": "Cream based eye primer. Available in three tones. Intensifes any shade of eye shadow and helps colors last longer. White helps color appear up to 100x more vivid. Pearl helps maximize any iridescent effect. Skin tone helps color hold naturally.",
+    "itemID": "B0030O3VRW",
+    "helpful": [
+      131,
+      135
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 4669
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Foundation Primers"
+      ]
+    ],
+    "price": 6.49,
+    "brand": "NYX"
+  },
+  {
+    "title": "Grisi Sulfur Soap with Lanolin for Acne - 2 Pack",
+    "description": "SULFUR SOAP WITH LANOLIN",
+    "itemID": "B003OXO61O",
+    "helpful": [
+      1,
+      3
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Health & Personal Care": 33106
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Cleansers",
+        "Soaps"
+      ]
+    ],
+    "price": 7.99,
+    "brand": "Grisi"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Almay Toner 2, for Dry Skin with Cucumber, 5.1-Ounce bottles",
+    "description": "Step 2 of the Almay 3-step facial care system. Cleanse - tone - moisturize. Clears away impurities without drying skin. Improves skin tone; helps skin absorb moisturizer. Infused with cucumber to help hydrate and replenish skin. Hypoallergenic. Won' t clog pores. Made in USA with US and non-US components.",
+    "itemID": "B000H3ENH6",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 105084
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Toners & Astringents"
+      ]
+    ],
+    "price": 8.99,
+    "brand": "Almay"
+  },
+  {
+    "title": "L'Oreal Paris Go 360 Clean Deep Exfoliating Scrub, 6.0 Fluid Ounce",
+    "description": "Go 360 Clean offers a complete range of four expertly formulated, high-foam cleansers that are perfectly calibrated to perform with the Scrublet. The Deep Exfoliating Scrub is a gentle yet effective scrub, which exfoliates skin with natural apricot seed powder and salicylic acid to reveal perfectly clean, smoother skin. With a rich lather and fruity, apricot fragrance, this exfoliating scrub is gentle enough for daily use.",
+    "itemID": "B002PBCAEQ",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 635
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Cleansers",
+        "Washes"
+      ]
+    ],
+    "price": 6.99,
+    "brand": "L&#39;Oreal Paris"
+  },
+  {
+    "title": "Coastal Scents 10 Piece Professional Blush Palette",
+    "description": "This palette comes with 6 in a beautiful sheen of shimmer and 4 matte blushes.",
+    "itemID": "B002QFMY42",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 6568
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Blush"
+      ]
+    ],
+    "price": 12.29,
+    "brand": "Coastal Scents"
+  }
+]

@@ -1,0 +1,76 @@
+[
+  {
+    "title": "Body Shop Tea Tree Oil",
+    "description": "The Body Shop Tea Tree Oil - 0.33 fl oz : A natural, targeted solution to help clear blemishes quickly and effectively without over drying the skin. * Lemon tea tree and Community Trade tea tree oil from Kenya contain anti-bacterial properties that help fight blemishes and prevent new ones from forming. * Tamanu oil from Madagascar has a soothing effect and helps to calm irritation and redness.",
+    "itemID": "B002K8XXQ8",
+    "helpful": [
+      0,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 4966
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Oils"
+      ]
+    ],
+    "price": 6.0,
+    "brand": "The Body Shop"
+  },
+  {
+    "title": "The Body Shop Tea Tree Skin Clearing Lotion, 1.69-Fluid Ounce",
+    "description": "Moisturize with a light, mattifying lotion that hydrates skin and controls oil while helping to clear and prevent blemishes. Our Tea tree range contains Lemon tea tree and Community Trade Tea tree oil which fight blemishes and help prevent new ones from forming. Tamanu oil has a soothing effect and helps to calm irritation and redness.",
+    "itemID": "B002K8UB9A",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 1.0,
+    "salesRank": {
+      "Beauty": 2002
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Creams & Moisturizers",
+        "Fluids & Lotions",
+        "Lotions"
+      ]
+    ],
+    "price": 8.4,
+    "brand": "The Body Shop"
+  },
+  {
+    "title": "The Body Shop Tea Tree Blemish Fade Night Lotion, 1.0-Fluid Ounce",
+    "description": "Improve the appearance of blemished damaged skin, and control oiliness while moisturizing skin while you sleep. A light, moisturizing yet non-oily lotion that sinks into skin. Our Tea tree range contains Lemon tea tree and Community Trade Tea tree oil which fight blemishes and help prevent new ones from forming. Tamanu oil has a soothing effect and helps to calm irritation and redness.",
+    "itemID": "B004O3BTKO",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 1.0,
+    "salesRank": {
+      "Beauty": 10282
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Creams & Moisturizers",
+        "Fluids & Lotions",
+        "Lotions"
+      ]
+    ],
+    "price": 7.6,
+    "brand": "The Body Shop"
+  }
+]

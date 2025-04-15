@@ -1,0 +1,48 @@
+[
+  {
+    "title": "e.l.f. Eyeshadow 32 Piece Palette, Everyday, 0.99 Ounce",
+    "description": "The studio eye shadow mini palette includes 32 eye shadow colors and 1 double-sided eye shadow applicator. Endless colors and textures. Built-in mirror. Flawless touch-ups.",
+    "itemID": "B00AB4W2H4",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 5876
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Eyes",
+        "Eye Shadow"
+      ]
+    ],
+    "price": 6.54,
+    "brand": "e.l.f. Cosmetics"
+  },
+  {
+    "title": "e.l.f. 3 Piece Lipstain Set, 0.234 Ounce",
+    "description": "Get beautiful precision color that lasts for hours with this pigment rich lip stain marker. The pen-like tip lets you draw on color easily for a streak and smudge free professional look. Infused with nourishing vitamin e to hydrate and moisturize lips.",
+    "itemID": "B00FLKP5UO",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 146780
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Lips",
+        "Lip Stains"
+      ]
+    ],
+    "price": NaN,
+    "brand": NaN
+  }
+]

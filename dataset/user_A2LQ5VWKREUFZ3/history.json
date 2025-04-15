@@ -1,0 +1,70 @@
+[
+  {
+    "title": "OGX Shampoo, Nourishing Coconut Milk, 13oz",
+    "description": "The luxuriously creamy, foaming, hydrating formula leaves your hair feeling clean, glowing, softly scented and super soft. Unique blend of Sulphate free product surfactants. Paraben free product.",
+    "itemID": "B000TGEJT8",
+    "helpful": [
+      2,
+      2
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 4541
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoo & Conditioner Sets"
+      ]
+    ],
+    "price": 3.14,
+    "brand": "OGX"
+  },
+  {
+    "title": "Diane Cold Wave Rods, Yellow, 3/16&quot;, 12/bag",
+    "description": "Traditional cold wave rod with rubber band. 3/16 inches size in yellow and 12 per bag. It has extra wide slots for even fluid distribution which is always easy to clean.",
+    "itemID": "B000YD6B8S",
+    "helpful": [
+      3,
+      3
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 63795
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Hair Rollers"
+      ]
+    ],
+    "price": 3.27,
+    "brand": "Diane"
+  },
+  {
+    "title": "Conair Anti-static Detangling Comb, Colors may vary",
+    "description": "Conair's anti-static detangling comb gives you static free detangling and styling with maximum control. style dry hair more easily whle you smooth and shine without fly-away frizzies. widely spaced teeth evenly distribute conditioner throughout hair without pulling or causing split ends. use it for all hair types to create volume while styling. good for wet or dry styling.",
+    "itemID": "B002QF4UYY",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 809
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Combs"
+      ]
+    ],
+    "price": 9.49,
+    "brand": "Conair"
+  }
+]

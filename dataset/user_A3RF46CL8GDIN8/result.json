@@ -1,0 +1,137 @@
+[
+  {
+    "title": "Cotz Face Natural Skin Tone SPF 40, 1.5 Ounce",
+    "description": "A sheer mineral formula, offering elegance and superior sun protection, in a silky matte finish. A cosmetically elegant physical sunscreen helps prevent pre-mature skin aging, sun-induced wrinkles and loss of firmness. This lightly-tinted formulation works very well as a daily makeup primer.",
+    "itemID": "B0073P01RC",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 835
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Sun",
+        "Skin Protection"
+      ]
+    ],
+    "price": 15.76,
+    "brand": "CoTZ"
+  },
+  {
+    "title": "Nexxus Hydralight Weightless Moisture Leave-In Conditioning Foam, 5.5 Ounce",
+    "description": "",
+    "itemID": "B00ALV8EKQ",
+    "helpful": [
+      3,
+      3
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Beauty": 22577
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Conditioners"
+      ]
+    ],
+    "price": 9.49,
+    "brand": "Nexxus"
+  },
+  {
+    "title": "Tresemme Keratin Smooth Smoothing Creme Serum, 3.5 Ounce",
+    "description": "",
+    "itemID": "B00GYB17P6",
+    "helpful": [
+      0,
+      1
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 17583
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Creams, Gels & Lotions"
+      ]
+    ],
+    "price": 8.65,
+    "brand": "TRESemme"
+  },
+  {
+    "title": "John Frieda Precision Foam Hair Color, Glosser Cool Red, 6 Fluid Ounce",
+    "description": "An in-shower, non-damaging weekly color extending treatment that adds back lost color pigments for true to tone, salon-fresh color in-between colorings. Instantly restore vibrant salon-fresh color and shine. Adds vivid red tones to counteract fading. An in-shower non-damaging weekly color extending treatment that adds back lost color pigments. Delivers true to tone salon-fresh color in-between colorings.",
+    "itemID": "B00GLS5938",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 45043
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Hair Color",
+        "Highlights"
+      ]
+    ],
+    "price": 8.75,
+    "brand": "John Frieda"
+  },
+  {
+    "title": "Tresemme 7 Day Keratin Smooth Shampoo, 9 Ounce",
+    "description": "",
+    "itemID": "B00GYB1AQM",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 7111
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 4.0,
+    "brand": "TRESemme"
+  },
+  {
+    "title": "Tresemme 7 Day Keratin Smooth Conditioner, 9 Ounce",
+    "description": "",
+    "itemID": "B00GYB1ECW",
+    "helpful": [
+      0,
+      1
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 6519
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Conditioners"
+      ]
+    ],
+    "price": 5.86,
+    "brand": "TRESemme"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Conair 1600 Watt Folding Handle Hair Dryer",
+    "description": "124ANP Features: Mini turbo folding hair dryer with 2 Heat/speed settings.Dual voltage for worldwide travel.",
+    "itemID": "B000094ZDX",
+    "helpful": [
+      27,
+      28
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 9277
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Hair Dryers"
+      ]
+    ],
+    "price": 9.49,
+    "brand": "Conair"
+  },
+  {
+    "title": "Olay Professional Pro-X Anti-Aging Starter Kit",
+    "description": "Olay Professional ProX Anti-Aging Kit (3pcs). This incredible kit comes with (1) Olay Professional Pro-X Age Repair lotion with SPF 30, (1) Olay Professional Pro-X Wrinkle Smoothing Cream and (1) Olay Professional Pro-X Eye Restoration Complex. Olay Professional is always working in science and anti-aging technology. They guarantee your complete satisfaction using these products.Instructions for better results: Protect skin in the morning with Age Repair Lotion SPF 30, spreading evenly over your face and neck. Treat skin morning and night by applying Eye Restoration Complex to corners, lid, and eye area, massaging until absorbed. Transform skin at night with Wrinkle Smoothing Cream by smoothing over your face and neck.",
+    "itemID": "B001JQLNNW",
+    "helpful": [
+      10,
+      11
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 2620
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Sets & Kits"
+      ]
+    ],
+    "price": 19.49,
+    "brand": "Olay"
+  },
+  {
+    "title": "Vaseline Sheer Infusion Body Lotion, Mineral Renewal, 13.5-Ounce Bottles (Pack of 2)",
+    "description": "Some moisturizers only treat the top layers of your surface skin, leaving it feeling greasy. Others sink through quickly and your skin is not thoroughly moisturized. New Vaseline Sheer Infusion with Stratys-3 infuses and suspends superior* moisture across all layers of your skin.** Only Vaseline Sheer Infusion delivers superior moisture* and an unmatched silky feel.",
+    "itemID": "B0027CT5VO",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 334668
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Lotions"
+      ]
+    ],
+    "price": NaN,
+    "brand": NaN
+  }
+]

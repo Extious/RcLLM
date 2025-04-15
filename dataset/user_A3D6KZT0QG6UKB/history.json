@@ -1,0 +1,66 @@
+[
+  {
+    "title": "Upper Canada Soap And Candle Naturally Whipped Hand Repair, Sweet Vanilla Fig, 4-Ounce Tubes (Pack of 2)",
+    "description": "Naturally Whipped Hand Repair is nourishment for your hands! This botanical-based line is made with all-natural ingredients with known restorative properties to nourish the skin. Free of parabens, mineral oils and synthetic dyes. Upper Canada Soap and Candle has been bringing quality ingredients, innovative ideas and value to bath and body products since 1969.",
+    "itemID": "B001A5S3BM",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": NaN,
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Hands & Nails",
+        "Hand Creams & Lotions"
+      ]
+    ],
+    "price": NaN,
+    "brand": NaN
+  },
+  {
+    "title": "Fekkai Glossing Hair Products Starter 1 Kit",
+    "description": "",
+    "itemID": "B0030GFY02",
+    "helpful": [
+      1,
+      2
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 39515
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care"
+      ]
+    ],
+    "price": 22.95,
+    "brand": "Fekkai"
+  },
+  {
+    "title": "Pantene Pro-V Volume Conditioner 25.4 Fl Oz (Pack of 3) (packaging may vary)",
+    "description": "",
+    "itemID": "B003EH20ZO",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 7583
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Conditioners"
+      ]
+    ],
+    "price": 20.97,
+    "brand": "Pantene"
+  }
+]

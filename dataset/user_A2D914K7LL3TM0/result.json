@@ -1,0 +1,48 @@
+[
+  {
+    "title": "e.l.f. Blush, Blushing Rose, 0.168 Ounce",
+    "description": "The soft sheer texture blends into the skin for a silky finish. Designed to be worn alone or layered for more depth. Highlight your complexion with a subtle healthy glow.",
+    "itemID": "B00373MSNE",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 88159
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Blush"
+      ]
+    ],
+    "price": 6.89,
+    "brand": "e.l.f. Cosmetics"
+  },
+  {
+    "title": "e.l.f. Studio Baked Highlighter 83704 Moonlight Pearls",
+    "description": "Create a radiant glow with this illuminating powder that highlights the skin with a sheer wash of shimmering color. Infused with Vitamin E, Jojoba, Sunflower, Apricot and Grape to nourish and hydrate the skin. The long-lasting baked shimmering color can be applied wet for a vibrant effect or dry for sheer pigmentation.",
+    "itemID": "B00EL1HZ34",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Health & Personal Care": 2479
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Blush"
+      ]
+    ],
+    "price": 6.84,
+    "brand": "e.l.f. Cosmetics"
+  }
+]

@@ -1,0 +1,48 @@
+[
+  {
+    "title": "Bare Escentuals Maximum Coverage Concealer Brush",
+    "description": "Broken capillaries. Scars. Blemishes. Conceal and conquer any imperfection with this soft brush, which gives you fuller, more concentrated coverage. That's because the firm, medium-sized brush head holds more SPF 20 Multi-Tasking Concealer. Use a patting technique to cover imperfections before or after applying your foundation, and you'll get maximum coverage that blends completely and doesn't leave a line.",
+    "itemID": "B0001EL658",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 8115
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Tools & Accessories",
+        "Makeup Brushes & Tools",
+        "Brushes & Applicators"
+      ]
+    ],
+    "price": 6.95,
+    "brand": "Bare Escentuals"
+  },
+  {
+    "title": "John Frieda JFHA5 Hot Air Brush, 1.5 inch",
+    "description": "",
+    "itemID": "B0056GDG90",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 149
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Hot-Air Brushes"
+      ]
+    ],
+    "price": 28.69,
+    "brand": "John Frieda"
+  }
+]

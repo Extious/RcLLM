@@ -1,0 +1,71 @@
+[
+  {
+    "title": "The Brush Guard Blush Pack 8 Small",
+    "description": "Buy The Brush Guard Makeup Brushes & Applicators - The Brush Guard Blush Pack 8 Small",
+    "itemID": "B004BOUWD6",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 50250
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Tools & Accessories",
+        "Makeup Brushes & Tools",
+        "Brushes & Applicators"
+      ]
+    ],
+    "price": 8.95,
+    "brand": NaN
+  },
+  {
+    "title": "Coastal Scents 26 Shadow Blush Combo Palette",
+    "description": "The 26 shadow blush palette comes in nearly nude, browns, taupes, peaches, pinks, rose, and rich plums. There are 21 shadows and 5 blushes in shimmer, pearl, and matte shades. Some of the shadows can be used as blushes with great results.",
+    "itemID": "B002QB52W2",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 30940
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Blush"
+      ]
+    ],
+    "price": 19.85,
+    "brand": "Coastal Scents"
+  },
+  {
+    "title": "Bdellium Tools Professional Antibacterial Makeup Studio Line Basic 7pc. Brush Set with Roll-Up Pouch",
+    "description": "This professional basic brush set from Bdellium's studio line is hand-crafted with a yellow wood handle and an aluminum ferrule. Hand-crafted brushes. Professional anti-bacterial brushes. Eco-friendly products.",
+    "itemID": "B00390RRX6",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 153033
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Tools & Accessories",
+        "Makeup Brushes & Tools",
+        "Brushes & Applicators"
+      ]
+    ],
+    "price": 69.99,
+    "brand": "Bdellium Tools"
+  }
+]

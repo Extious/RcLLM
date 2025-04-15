@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Regenerist Micro-Sculpting Cream 1.7 Oz",
+    "description": "",
+    "itemID": "B0012J30LY",
+    "helpful": [
+      3,
+      4
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 64
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Creams & Moisturizers",
+        "Fluids & Lotions",
+        "Lotions"
+      ]
+    ],
+    "price": 11.45,
+    "brand": "Olay"
+  },
+  {
+    "title": "John Frieda Frizz-Ease Expert Finish Polishing Serum, 1.69 Fluid Ounce",
+    "description": "John Frieda Frizz-Ease Expert Finish Polishing Serum, 1.69 Fluid Ounce",
+    "itemID": "B000SA8FRM",
+    "helpful": [
+      0,
+      1
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 20454
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Hair Styling Serums"
+      ]
+    ],
+    "price": 1.0,
+    "brand": "Frizz-Ease"
+  },
+  {
+    "title": "Frizz-Ease Creme Serum Overnight Repair formula by John Frieda for Unisex Serum, 1.69 Ounce",
+    "description": "Instantly and dramatically transforms dry, frizzy, or chemically-treated hair into incredibly smooth, glossy hair. An exceptional blend of silicones immediately smooths texture while delivering a layer of crystal-clear gloss for perfectly polished, frizz-resistant styles.",
+    "itemID": "B0015KO3LQ",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 81395
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Hair & Scalp Treatments"
+      ]
+    ],
+    "price": 19.54,
+    "brand": "John Frieda"
+  }
+]

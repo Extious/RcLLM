@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Enjoy Luxury Duo (Shampoo and Conditioner) - 33.8 Oz",
+    "description": "Enjoy Luxury Duo (Shampoo and Conditioner) - 33.8 Oz",
+    "itemID": "B0019LP8UQ",
+    "helpful": [
+      1,
+      2
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Health & Personal Care": 2391
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoo & Conditioner Sets"
+      ]
+    ],
+    "price": 53.69,
+    "brand": "EN Joy"
+  },
+  {
+    "title": "Enjoy Shine and Smooth, 3.4 Ounce",
+    "description": "Eliminates frizziness. Makes hair soft and silky without weight. Great for hair and skin locks in moisture, blocks out humidity.",
+    "itemID": "B000O2KACM",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 3715
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Hair Styling Serums"
+      ]
+    ],
+    "price": 7.9,
+    "brand": "Enjoy"
+  },
+  {
+    "title": "Acqua Di Gio By Giorgio Armani For Men. Eau De Toilette Spray 1.7 Oz.",
+    "description": "Inspired by beauty of Pantellerie, where he spent his vacation, Armani created the aroma of Aqua di Gio for men and women. The fragrance for men is a scent of freedom, full of wind and water. The composition is built of a perfect harmony of sweet and salty notes of sea water and nuances of sunny warmth on your skin. Aqua di Gio is full of scorching Mediterranean sun. Bitter citrus with aromatic nuance of rosemary intertwines with salty, sea nuances and pellucid hedione. Sharp notes of spices are softened by woody base with warm, musky trail. It was created in 1996 by Alberto Morillas.",
+    "itemID": "B0009OAGXI",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 615
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Lotions"
+      ]
+    ],
+    "price": 40.95,
+    "brand": NaN
+  }
+]

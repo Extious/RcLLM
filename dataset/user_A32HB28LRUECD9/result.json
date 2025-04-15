@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Brazilian Blowout 12oz Anti-Frizz Shampoo",
+    "description": "Acai Anti-Frizz Shampoo 350ml/12oz",
+    "itemID": "B008H5GGGM",
+    "helpful": [
+      2,
+      2
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Health & Personal Care": 3684
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 16.97,
+    "brand": "Brazilian Blowout"
+  },
+  {
+    "title": "St. Ives Body Wash Oatmeal and Shea Butter, 24 Ounce (Pack of 2)",
+    "description": "",
+    "itemID": "B004JLEGM4",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 8582
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Body Butter"
+      ]
+    ],
+    "price": 12.99,
+    "brand": "St. Ives"
+  },
+  {
+    "title": "Bed Head BH313 Orange Crush 1-inch Styler",
+    "description": "Create loose curls and waves with this 1-inch barrel styler. Tourmaline ceramic barrel provides high, even heat with rapid heat recovery. Clamp-free wrap-and-go design gives you salon-quality styling. Includes heat protective gloves to protect your hands.",
+    "itemID": "B007ISRNJS",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 470
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Hair Extensions & Wigs",
+        "Hair Extensions"
+      ]
+    ],
+    "price": 23.99,
+    "brand": "Bed Head"
+  }
+]

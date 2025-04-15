@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Fake Bake Face Self-Tanning Lotion, 2-Ounces",
+    "description": "Fake Bake Face Self-Tanning Lotion, 2oz",
+    "itemID": "B00117YN2C",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Health & Personal Care": 7468
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Sun",
+        "Self-Tanners & Bronzers"
+      ]
+    ],
+    "price": 13.24,
+    "brand": "Fake Bake"
+  },
+  {
+    "title": "Belli Acne Clearing Facial Wash, 6.7 fl. oz.",
+    "description": "Acne Clearing Facial Wash is an exfoliating wash; rich in powerful acne-ridding ingredients that leaves skin clear and refined, without over-drying. The safest acne solution for pregnancy, Belli Acne Clearing Facial Wash uses hydroxyacid to lift away dirt, oil and bacteria, promoting clean and blemish-free skin. Most acne treatments are contra-indicated during pregnancy because of adverse effects to baby. Belli's breakthrough formulation is the first to safely address pregnancy-related acne using lactic acid &#xBF; an ingredient that is naturally found in the body.",
+    "itemID": "B000V1DJBA",
+    "helpful": [
+      0,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 70598
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Cleansers",
+        "Washes"
+      ]
+    ],
+    "price": NaN,
+    "brand": NaN
+  },
+  {
+    "title": "Body Bath Honey Mango Alba Botanica 12 oz Liquid",
+    "description": "Since 1979, Alba Botanica has offered natural, 100% vegetarian personal care products that do beautiful for you, your friends and the animals and Earth you love. We make a full range of products packed with potent natural, botanical ingredients that are formulated to nourish the individualized needs of your skin and hair.",
+    "itemID": "B00005REAT",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Beauty": 86574
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Cleansers",
+        "Body Washes"
+      ]
+    ],
+    "price": 7.21,
+    "brand": "Alba Botanica"
+  }
+]

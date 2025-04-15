@@ -1,0 +1,116 @@
+[
+  {
+    "title": "Banana Boat Sport Cool Zone Sunscreen Continuous Spray SPF 50, 6 Fluid Ounce",
+    "description": "BANANA BOAT sunscreen ultra mist sport performance cool zone, SPF 50, 6-ounces. Long-lasting continuous spray sunscreen. Cool zone instantly cools and refreshes skin. Broad spectrum UVA or UVB protection. Invisible, rub-free, quick drying, and non-greasy. Very water or sweat resistant.",
+    "itemID": "B0063A432W",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 1.0,
+    "salesRank": {
+      "Beauty": 1702
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Sun",
+        "Skin Protection",
+        "Sports"
+      ]
+    ],
+    "price": 9.54,
+    "brand": "Banana Boat"
+  },
+  {
+    "title": "Just For Me Hair Milk Conditioner, 13.5-Ounce Bottle",
+    "description": "",
+    "itemID": "B002MO9BW0",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 14376
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Conditioners"
+      ]
+    ],
+    "price": 4.99,
+    "brand": "Just For Me"
+  },
+  {
+    "title": "Just For Me Hair Milk Shampoo, 13.5-Ounce Bottle",
+    "description": "",
+    "itemID": "B002MO780W",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 17243
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 6.95,
+    "brand": "Just For Me"
+  },
+  {
+    "title": "Banana Boat Sport Coolzone Sunscreen Lotion Spf 50, 6 Ounce",
+    "description": "Sunscreen lotion that instantly cools and refreshes the skin while also providing broad spectrum protection.",
+    "itemID": "B009FKNGGQ",
+    "helpful": [
+      0,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 12731
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Sun",
+        "Skin Protection",
+        "Sports"
+      ]
+    ],
+    "price": 6.75,
+    "brand": "Banana Boat"
+  },
+  {
+    "title": "Clear Scalp and Hair Intense Hydration Nourishing Mask, 6 Ounce",
+    "description": "Resilient, beautiful hair starts with the right foundation. Clear scalp and hair has a dual-action formulation: a white stripe of deep hydrating treatment, and an aqua stripe infused with cactus extract. It deeply hydrates the scalp and leaves hair resilient and beautiful.",
+    "itemID": "B00HNKRWX8",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Beauty": 13128
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Conditioners"
+      ]
+    ],
+    "price": 4.48,
+    "brand": NaN
+  }
+]

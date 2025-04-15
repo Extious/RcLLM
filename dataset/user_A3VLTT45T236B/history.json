@@ -1,0 +1,74 @@
+[
+  {
+    "title": "Vaseline Rich Conditioning Petroleum Jelly, Cocoa Butter, 7.5Ounce (Pack of 4)",
+    "description": "",
+    "itemID": "B003ZYM8CQ",
+    "helpful": [
+      6,
+      8
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 10630
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Creams"
+      ]
+    ],
+    "price": 17.49,
+    "brand": "Vaseline"
+  },
+  {
+    "title": "Lubriderm Men's 3-in-1 Lotion, Body, Face and Post-shave Lotion, Light Fragrance, 16 Ounce",
+    "description": "Simplify your daily skincare routine with Lubriderm Men's 3-in-1 Lotion. This specialized lotion, with minerals and essential moisturizers found in men's skin, can be used as a body, face, and post-shave lotion. This lightweight, fast-absorbing formula moisturizes and soothes skin, so now your dry skin's needs can be met with a single bottle.",
+    "itemID": "B004D2DPNK",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 26089
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Lotions"
+      ]
+    ],
+    "price": 12.28,
+    "brand": "Lubriderm"
+  },
+  {
+    "title": "Vaseline Vaseline Body Lotion, Intensive Repair, Repairing Moisture, 32 Ounce",
+    "description": "",
+    "itemID": "B004DBXLU8",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 13662
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Lotions"
+      ]
+    ],
+    "price": 18.87,
+    "brand": "Vaseline"
+  }
+]

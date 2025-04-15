@@ -1,0 +1,277 @@
+[
+  {
+    "title": "Suave Professionals Moroccan Infusion Shine Shampoo 28 oz",
+    "description": "",
+    "itemID": "B00A0IWRT4",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 23768
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 6.29,
+    "brand": "Suave"
+  },
+  {
+    "title": "Simple Soothing Facial Toner, 6.7 Ounce (Pack of 2)",
+    "description": "",
+    "itemID": "B005TI7NPI",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 131597
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Toners & Astringents"
+      ]
+    ],
+    "price": 17.2,
+    "brand": "Simple"
+  },
+  {
+    "title": "Pantene Pro-V Heat Shield Heat Potion Serum 50 Ml, 1.7-Ounce",
+    "description": "With weigtless heat activated oils for guilt-free styling",
+    "itemID": "B00CP0R5LK",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 23783
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 4.27,
+    "brand": "Pantene"
+  },
+  {
+    "title": "CoverGirl 250 Ink It by Perfect Point Plus Eyeliner, Charcoal Ink, 0.008 Ounce",
+    "description": "",
+    "itemID": "B00C64GX4K",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 181710
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Eyes",
+        "Eyeliner"
+      ]
+    ],
+    "price": 2.0,
+    "brand": "COVERGIRL"
+  },
+  {
+    "title": "TS-2 Millennium Professional Flat Iron",
+    "description": "",
+    "itemID": "B00CYDSAO4",
+    "helpful": [
+      3,
+      4
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 83460
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Irons",
+        "Flattening Irons"
+      ]
+    ],
+    "price": 99.95,
+    "brand": "TS-2"
+  },
+  {
+    "title": "Suave Naturals 2 In 1 Almond Verbena Shampoo, 22.5 Ounce",
+    "description": "",
+    "itemID": "B00GTBZ85Q",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 6745
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 8.49,
+    "brand": "Suave"
+  },
+  {
+    "title": "Jergens BB Body Cream for lighter Skin Tones, 7.5 Ounce",
+    "description": "",
+    "itemID": "B00GLS5DKM",
+    "helpful": [
+      3,
+      5
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 1836
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Lotions"
+      ]
+    ],
+    "price": 11.45,
+    "brand": "Jergens"
+  },
+  {
+    "title": "Suave Moroccan Infusion Dry Shampoo, 5 Ounce",
+    "description": "",
+    "itemID": "B00GTC0IY6",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 81194
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 7.95,
+    "brand": "Suave"
+  },
+  {
+    "title": "Bic Soleil Shave And Trim Shaver, 4 Count",
+    "description": "BIC Soleil Shave and Trim offers 3 flexible blades for a flawlessly smooth shave and a safe bikini groomer. The BIC Soleil Shave and Trim is the first disposable shaver and bikini trimmer in one. Conveniently shave all body parts and trim your bikini with just one product. BIC's best triple blade technology and trimming innovation now in a Women's shaver.",
+    "itemID": "B00D18ZDM8",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Health & Personal Care": 69741
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Oils"
+      ]
+    ],
+    "price": 8.95,
+    "brand": NaN
+  },
+  {
+    "title": "John Frieda Precision Foam Hair Color, Glosser Warm Red, 6 Fluid Ounce",
+    "description": "An in-shower, non-damaging weekly color extending treatment that adds back lost color pigments for true to tone, salon-fresh color in-between colorings. Instantly restore vibrant salon-fresh color and shine. Adds fiery copper tones to counteract fading. An in-shower non-damaging weekly color extending treatment that adds back lost color pigments. Delivers true to tone salon-fresh color in-between colorings.",
+    "itemID": "B00GLS55DC",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Beauty": 27031
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Hair Color",
+        "Chemical Hair Dyes"
+      ]
+    ],
+    "price": 4.25,
+    "brand": "John Frieda"
+  },
+  {
+    "title": "Suave Professionals Natural Infusion Macadamia Oil and White Orchid Shampoo, 12.6 Ounce",
+    "description": "",
+    "itemID": "B00HSNWZFU",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 13653
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 7.0,
+    "brand": "Suave"
+  },
+  {
+    "title": "Curel Rough Skin Rescue, 20 Ounce",
+    "description": "Curel Rough Skin Rescue lotion gently loosens flakes without irritation, allowing essential hydration to reach the areas that need it most",
+    "itemID": "B00KTLBEEQ",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 219738
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Lotions"
+      ]
+    ],
+    "price": 8.88,
+    "brand": NaN
+  }
+]

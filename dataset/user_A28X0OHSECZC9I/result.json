@@ -1,0 +1,49 @@
+[
+  {
+    "title": "NYX Eye Brow Shaper Wax",
+    "description": "Tame unruly eyebrows with this ingenious wax eye brow sharper pencil. The blend of waxes is enriched with vitamin E and leaves arches in tip-top condition and impeccable shape, with just a few strokes.",
+    "itemID": "B0048KSGZO",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 548
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Eyes",
+        "Eyebrow Color"
+      ]
+    ],
+    "price": 7.91,
+    "brand": "NYX"
+  },
+  {
+    "title": "CONAIR CD700CS Double Ceramic Curling Iron, 3/4 Inch",
+    "description": "Create beautiful styles while eliminating frizz with the CONAIR double ceramic curling iron. The new double ceramic coating doubles your frizz control while remaining safe without causing any damage. It has 30 high heat settings that create long lasting curls. The multiple settings give you versatile styling, too. It includes a bonus heat shield to keep your hands and fingers burn-free.",
+    "itemID": "B006Z43V38",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 9832
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Irons",
+        "Curling Irons"
+      ]
+    ],
+    "price": 20.79,
+    "brand": "Conair"
+  }
+]

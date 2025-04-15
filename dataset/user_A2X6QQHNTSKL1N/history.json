@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Desert Essence - Tea Tree Oil Skin Ointment, 1 fl oz cream",
+    "description": "A blend of soothing essential oils and herbal extracts helps relieve minor skin irritations and dry, chapped skin on face and body. It also provides cooling relief after waxing, and can be used to moisturize damaged cuticles and your hands and feet. Excellent for soothing razor burn.",
+    "itemID": "B00199YUBG",
+    "helpful": [
+      1,
+      2
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Health & Personal Care": 4678
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Oils"
+      ]
+    ],
+    "price": 4.97,
+    "brand": "Desert Essence"
+  },
+  {
+    "title": "Crystal Glass Nail File, 5.5 Inches, Free Carrying Case from Sassella",
+    "description": "Ordinary nail files create tiny fractures in your nail which can weaken the nail and cause the nail to split and become brittle. Because the glass file is so hard and the filing surface so extremely fine, you can file in any direction without damaging the nail. It will leave your nails incredibly smooth! Amazingly the glass file works very well on extremely hard nails as well as very soft nails. Since the surface of the glass nail file is so fine and uniform, regular use will actually help grow more beautiful nails, they will be healthier and smoother.",
+    "itemID": "B00283O7LK",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 21153
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Tools & Accessories",
+        "Nail Tools",
+        "Nail Files & Buffers"
+      ]
+    ],
+    "price": 6.49,
+    "brand": NaN
+  },
+  {
+    "title": "Maybelline New York Instant Age Rewind Primer Skin Transformer, Clear, 0.85 Fluid Ounce",
+    "description": "Instantly create a perfectly smooth canvas for ideal makeup application with instant age rewind primer skin transformer. Lines, wrinkles, pores and imperfections appear to instantly vanish in just one step. Enhances skin's radiance. Subtle pink tint for a youthful glow",
+    "itemID": "B002ZTT9II",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 1364
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Foundation Primers"
+      ]
+    ],
+    "price": 5.66,
+    "brand": "Maybelline"
+  }
+]

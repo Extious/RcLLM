@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Kerastase Nutritive Nectar Thermique, 5.1 Ounce",
+    "description": "Protects hair from the harmful effects of heat-styling tools. Nourishes, softens and moisturizes hair. Gives hair optimal shine from roots to ends. Improves hair straightening and drying performance.",
+    "itemID": "B001U5B5HQ",
+    "helpful": [
+      2,
+      2
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 597
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products"
+      ]
+    ],
+    "price": 32.4,
+    "brand": "Kerastase"
+  },
+  {
+    "title": "Neutrogena Cosmetics  Makeup Remover, 3.8 oz",
+    "description": "Oil-Free Eye Makeup Remover takes off even waterproof eye makeup without leaving an oily residue.  Forget harsh tugging and pulling. This ultra-gentle dual phase formula activates when shaken to remove all eye makeup ;even waterproof mascara ;without any greasy residue. It is ophthalmologist tested, safe for contact lens wearers and oil free.  Take off all your eye makeup the gentle way.",
+    "itemID": "B00027D0DU",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 6653
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Makeup Remover",
+        "Eyes"
+      ]
+    ],
+    "price": 7.07,
+    "brand": "Neutrogena"
+  },
+  {
+    "title": "NOW Foods Rose Hip Seed Oil, 1 ounce",
+    "description": "Rich in Omega-6 essential fatty acids, Rose Hip Seed Oil continues to serve as one of the personal care industry's most sought-after&#xA0;natural oils.&#xA0; NOW&#xAE; Rose Hip Seed Oil is 100% Pure and Natural, and extracted from the seeds of Rose mosqueta.",
+    "itemID": "B0014UAHQW",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Health & Personal Care": 1109
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Oils"
+      ]
+    ],
+    "price": 6.71,
+    "brand": "Now Foods"
+  }
+]

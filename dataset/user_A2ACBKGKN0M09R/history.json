@@ -1,0 +1,70 @@
+[
+  {
+    "title": "Softsoap Lavender and Chamomile - Liquid Hand Soap Refill, 32 Ounce",
+    "description": NaN,
+    "itemID": "B007L0CBZO",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": NaN,
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Hands & Nails",
+        "Hand Soaps"
+      ]
+    ],
+    "price": 12.22,
+    "brand": "Softsoap"
+  },
+  {
+    "title": "Softsoap Coconut and Ginger - Liquid Hand Soap Refill, 32 Ounce",
+    "description": "Softsoap Coconut and Warm Ginger Hand Soap Refill - an exotic fragrance inspired by the fruit and spice of faraway lands.  The clear formula holds an unexpected treasure: moisturizing ingredients to soften and smooth.",
+    "itemID": "B007RVHDAK",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Health & Personal Care": 7768
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Hands & Nails",
+        "Hand Soaps"
+      ]
+    ],
+    "price": 3.95,
+    "brand": "Softsoap"
+  },
+  {
+    "title": "Remington Wet 2 Straight 2&quot; Wide Plate Wet/Dry Ceramic Hair Straightening Iron with Tourmaline",
+    "description": "",
+    "itemID": "B00067YSLO",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 2879
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Irons",
+        "Flattening Irons"
+      ]
+    ],
+    "price": 49.98,
+    "brand": "Remington"
+  }
+]

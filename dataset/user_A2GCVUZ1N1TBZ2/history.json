@@ -1,0 +1,69 @@
+[
+  {
+    "title": "De La Cruz Sulfur Ointment Cream",
+    "description": "De La Cruz Pomada de azufre sulfur ointment is used for treatment of acne, this ointment penetrates the pores, dries and clears pimples and blackheads. Helps to keep new pimples and blackheads from forming. Does not contain preservatives, or artificial colors.",
+    "itemID": "B00411B4CC",
+    "helpful": [
+      8,
+      12
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 3008
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Pomades & Waxes"
+      ]
+    ],
+    "price": 7.41,
+    "brand": "De La Cruz"
+  },
+  {
+    "title": "CLEAR SCALP &amp; HAIR BEAUTY Volumizing Root Boost Nourishing Shampoo, 12.9 Fluid Ounce",
+    "description": "",
+    "itemID": "B007RTR8AC",
+    "helpful": [
+      1,
+      3
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 11379
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 1.66,
+    "brand": "Clear"
+  },
+  {
+    "title": "CLEAR SCALP &amp; HAIR BEAUTY Volumizing Root Boost Nourishing Conditioner, 12.7 Fluid Ounce",
+    "description": "",
+    "itemID": "B007RTR8UM",
+    "helpful": [
+      2,
+      2
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Beauty": 27362
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Conditioners"
+      ]
+    ],
+    "price": 4.48,
+    "brand": "Clear"
+  }
+]

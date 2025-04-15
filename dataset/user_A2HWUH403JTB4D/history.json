@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Pharmaceutical Specialties Free and Clear Shampoo 12 oz.",
+    "description": "Pharmaceutical Specialties Free and Clear Shampoo features an advanced formula designed to work with your body&#039;s natural chemistry so as not to disturb your hair and scalp&#039;s delicate pH or cause irritation. It gently removes dirt, excess oil and product build-up to leave your hair soft, clean and dandruff-free.",
+    "itemID": "B0006FMK98",
+    "helpful": [
+      3,
+      3
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 1293
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 11.19,
+    "brand": "Pharmaceutical Specialties"
+  },
+  {
+    "title": "SHANY Deluxe Make up kit 44pc GIFT SET",
+    "description": "Once you have this kit, you will no longer have to carry around a big, heavy make up bag with you. All you need is in one small kit that you can take with you everywhere.  34 colors of eyeshadow, 5 different and popular shades of lip color, 2 lip glosses,",
+    "itemID": "B0034KYDTM",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 17000
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Makeup Sets"
+      ]
+    ],
+    "price": 12.95,
+    "brand": "SHANY Cosmetics"
+  },
+  {
+    "title": "La Roche Posay Thermal Spring Water",
+    "description": "LAROCHE-POSAY THERMAL SPRING WATER      100% pure natural spring water. This soothing water tones and refreshes skin, preparing it for treatment. Also appropriate for anti-inflammatory care following in-office procedures like chemical peels, laser resurfacing and microdermabrasion.     Indications             Intolerant skin                             Eczema (atopic dermatitis)                                                                                             Rosacea                    All skin types                       Anti-inflammatory care following                              Chemical Peels                Laser resurfacing                Microdermabrasion                Environmental exposure (sun, wind, etc...)                              Benefits        Refreshes, soothes and tones on contact      Provides antioxidant protection                                Gentle, fine mist        Contains no additives        Perfect for use during work travel and play",
+    "itemID": "B000E4AR8C",
+    "helpful": [
+      1,
+      2
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 186563
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Creams & Moisturizers",
+        "Fluids & Lotions",
+        "Lotions"
+      ]
+    ],
+    "price": 9.99,
+    "brand": NaN
+  }
+]

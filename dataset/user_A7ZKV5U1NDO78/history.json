@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Bioelements Sensitive Skin Cleanser, 4-Ounce",
+    "description": "An extra gentle cleanser with complexion-calming oils to melt away makeup, pollutants and excess sebum without any irritating side effects. Does not contain chemical preservatives, artificial colorants, synthetic fragances or animal by-products. A touch of water is all it takes to transform this cleanser into a foam that easily rinses away, leaving sensitive skin soft, comfortable and sparkly clean. Helps strengthen skin's protective barrier against moisture loss and irritation.",
+    "itemID": "B000W8JZII",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 36310
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Cleansers",
+        "Gels"
+      ]
+    ],
+    "price": 32.04,
+    "brand": "Bioelements"
+  },
+  {
+    "title": "Eufora Beautifying Serum for Hair Skin and Scalp, 4.2 Ounce",
+    "description": "This deep penetrating serum provides exceptional results for hair, skin and scalp health. Our blend of cranberry, neem, kukui, and argan oils are rich in omega essential acids, vitamins and minerals, delivering superb moisturizing and antioxidant benefits. Essential oils provide soothing and antibacterial benefits with a pleasant aroma. No artificial colorants or fragrances.",
+    "itemID": "B003HGOIOS",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 5371
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Hair & Scalp Treatments"
+      ]
+    ],
+    "price": 26.25,
+    "brand": "Eufora"
+  },
+  {
+    "title": "Skinceuticals Sport UV Defense Active Use Broad-spectrum UVA/UVB Sunscreen Lotion SPF 50, 3fl oz",
+    "description": "For people with active lifestyles, this true broad-spectrum sunscreen is waterproof and sweatproof to deliver maximum protection during high-energy activities. Contains transparent Zinc Oxide as well as other sunscreens to help protect against damaging UVA rays.",
+    "itemID": "B001CJE0MC",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 7342
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Sun",
+        "Skin Protection"
+      ]
+    ],
+    "price": 33.5,
+    "brand": "SkinCeuticals"
+  }
+]

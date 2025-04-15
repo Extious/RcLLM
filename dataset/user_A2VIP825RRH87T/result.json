@@ -1,0 +1,119 @@
+[
+  {
+    "title": "Proactiv Solution Original Repairing Lotion 2 oz",
+    "description": "Step three of our Proactiv Solution daily essentials, this light, luxurious lotion contains 2.5% finely milled benzoyl peroxide to penetrate deep beneath the skin's surface to help stop acne at its source. \nSize: 2 oz",
+    "itemID": "B001E6OC44",
+    "helpful": [
+      37,
+      47
+    ],
+    "overall": 1.0,
+    "salesRank": {
+      "Beauty": 2006
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Treatments & Masks"
+      ]
+    ],
+    "price": 6.1,
+    "brand": "Proactiv"
+  },
+  {
+    "title": "Sally Hansen Hard as Nails Hard as Wraps, Clear, 0.4 Fluid Ounce",
+    "description": "Powerful acrylic protection instantly seals and hardens nails in 1 easy step. Patented breakthrough formula provides an instant, long-lasting, wrap-like surface for fragile, soft, torn, chipped or cracked nails.",
+    "itemID": "B0033H00ZW",
+    "helpful": [
+      67,
+      68
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 8499
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Hands & Nails",
+        "Nail Treatments",
+        "Growth Formula"
+      ]
+    ],
+    "price": 5.49,
+    "brand": "Sally Hansen"
+  },
+  {
+    "title": "Neutrogena Clear Pore Cleanser/Mask, 4.2 Ounce",
+    "description": "Clear Pore Cleanser/Mask is a breakthrough acne-fighting formula that can be used two ways as a daily cleanser or as a mask.  This dermatologist-tested formula has the acne-fighting power of Benzoyl Peroxide to kill bacteria and treat existing breakouts. Cooling intensity builds as it penetrates deep into pores. Use as a daily cleanser to kill bacteria. Or use as an intensive mask for Deep CLEANsing and extra oil control.",
+    "itemID": "B000NSIGE6",
+    "helpful": [
+      62,
+      65
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 5584
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Treatments & Masks",
+        "Masks"
+      ]
+    ],
+    "price": 8.56,
+    "brand": "Neutrogena"
+  },
+  {
+    "title": "Mimi's Diva Dryer by Aquis Microfiber Hair Turban, Patented Design, White",
+    "description": "Diva Dryer is made of Aquitex.  Aquitex is a super-absorbent microfiber material that dries a girl's hair quicker than an ordinary hair towel.  Dry your hair in half the time!",
+    "itemID": "B000AMA4DQ",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 73219
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Styling Accessories",
+        "Hair Drying Towels"
+      ]
+    ],
+    "price": 5.95,
+    "brand": "Mimi&#39;s Diva Dryer by Aquis"
+  },
+  {
+    "title": "Moist 3 Minute Miracle Deep Conditioner 8 Fl Oz (Pack of 4)",
+    "description": "",
+    "itemID": "B001F51PXA",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 1039
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Conditioners"
+      ]
+    ],
+    "price": 19.01,
+    "brand": "Aussie"
+  }
+]

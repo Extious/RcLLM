@@ -1,0 +1,73 @@
+[
+  {
+    "title": "The Naked Bee Moisturizing Orange Blossom Honey Lip Balm",
+    "description": "Buy The Naked Bee Lip Treatment/Balms - The Naked Bee Orange Blossom Honey Lip Balm 0.15 oz",
+    "itemID": "B001ANOONK",
+    "helpful": [
+      3,
+      5
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Beauty": 14871
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Lips",
+        "Lipstick Primers"
+      ]
+    ],
+    "price": 4.75,
+    "brand": "The Naked Bee"
+  },
+  {
+    "title": "Garnier Skincare Cleanser The Refreshing Remover Cleansing Towelette",
+    "description": "Garnier Refreshing Remover Cleansing Towelettes are 100% oil free and instantly remove impurities, oil, and makeup in one convenient step! Dermatologist tested for safety, ophthalmologist tested, non comedogenic&#x2014;won&#x2019;t clog pores, gentle to skin, and allergy tested.",
+    "itemID": "B000WOU3I8",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 2142
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Cleansers",
+        "Cloths & Towelettes"
+      ]
+    ],
+    "price": 5.45,
+    "brand": "Garnier"
+  },
+  {
+    "title": "Revlon Texturizing Cleanser for Synthetic Hair - 8 Fl Oz",
+    "description": "Revlon Texturizing Cleanser for Synthetic Hair removes dulling film, oils and salts.",
+    "itemID": "B003KPEHGU",
+    "helpful": [
+      13,
+      13
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 6144
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Hair Extensions & Wigs",
+        "Hair Extensions"
+      ]
+    ],
+    "price": 13.97,
+    "brand": "Revlon"
+  }
+]

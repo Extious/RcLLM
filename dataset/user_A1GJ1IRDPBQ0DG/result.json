@@ -1,0 +1,48 @@
+[
+  {
+    "title": "Essie Mirror Metallic Collection Summer 2012, Blue Rhapsody",
+    "description": "A jazzy blue metallic.",
+    "itemID": "B007ZR2RIE",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 25325
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Nails",
+        "Nail Polish"
+      ]
+    ],
+    "price": 5.84,
+    "brand": "Essie"
+  },
+  {
+    "title": "Essie Fall 2013 For The Twill of It",
+    "description": "Essie Fall 2013 For The Twill of It",
+    "itemID": "B00D7MZ224",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 7675
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Nails",
+        "Nail Polish"
+      ]
+    ],
+    "price": 4.1,
+    "brand": "Essie"
+  }
+]

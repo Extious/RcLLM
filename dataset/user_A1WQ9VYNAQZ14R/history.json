@@ -1,0 +1,68 @@
+[
+  {
+    "title": "Neutrogena Clean Conditioner, Replenishing , 10.1 Fluid Ounce",
+    "description": "&lt;P&gt;Moisturizing Conditioner&lt;/P&gt; &lt;P&gt;&lt;STRONG&gt;Replenishes Moisture to Improve Hair and Add Shine&#xA0;&#xA0; Rinsese Clean Without Build-Up&lt;/STRONG&gt;&lt;/P&gt; &lt;P&gt;&lt;STRONG&gt;Neutrogena Clean Replenishing&#8482; Conditioner &lt;/STRONG&gt;hydrates and conditions to improve dry, damaged hair, without leaving heavy build-up.&#xA0; This moisture-enriched formula softens hair while it penetrates dry, damaged strands to strengthen and make hair more resilient.&#xA0; It rinses clean and won't weigh hair down, so it's great for everyday use.&#xA0; This lightweight formula, with its fresh, clean scent, leaves hair shiny, silky and healthy-looking.&lt;/P&gt;",
+    "itemID": "B0000532VT",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": NaN,
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Conditioners"
+      ]
+    ],
+    "price": 12.99,
+    "brand": "Neutrogena"
+  },
+  {
+    "title": "Vagisil Deodorant Powder Talc-Free, 8 Ounce",
+    "description": "Odor Block Protection to keep odor from happening",
+    "itemID": "B000RTDUOW",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Health & Personal Care": 27475
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Oils"
+      ]
+    ],
+    "price": 3.08,
+    "brand": "Vagisil"
+  },
+  {
+    "title": "Neutrogena Shampoo, Anti-Residue Formula, 6 Ounce",
+    "description": "",
+    "itemID": "B00099E8ZA",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 1527
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 7.85,
+    "brand": "Neutrogena"
+  }
+]

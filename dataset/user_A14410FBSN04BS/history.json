@@ -1,0 +1,71 @@
+[
+  {
+    "title": "The Brush Guard Variety Pack",
+    "description": "The Brush Guard is an entirely new brush care product which allows brushes to be washed and then dried in the best way possible: bristles down, and then stored with the vulnerable bristles protected.  The Brush Guard is a new, patented product which takes brush care to a whole new level of easy, effective hygiene.  Visit our website for more information: thebrushguard.com",
+    "itemID": "B0049J7P3S",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 4960
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Tools & Accessories",
+        "Makeup Brushes & Tools",
+        "Brushes & Applicators"
+      ]
+    ],
+    "price": 8.95,
+    "brand": NaN
+  },
+  {
+    "title": "The Brush Guard--Shadow/Liner Package",
+    "description": "The Brush Guard is an entirely new brush care product which allows brushes to be washed and then dried in the best way possible: bristles down, and then stored with the vulnerable bristles protected.  The Brush Guard is a new, patented product which takes brush care to a whole new level of easy, effective hygiene.  Visit our website for more information: thebrushguard.com",
+    "itemID": "B0049RBZRC",
+    "helpful": [
+      2,
+      2
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Health & Personal Care": 32780
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Tools & Accessories",
+        "Makeup Brushes & Tools",
+        "Brushes & Applicators"
+      ]
+    ],
+    "price": 8.95,
+    "brand": NaN
+  },
+  {
+    "title": "The Brush Guard Blush Pack 8 Small",
+    "description": "Buy The Brush Guard Makeup Brushes & Applicators - The Brush Guard Blush Pack 8 Small",
+    "itemID": "B004BOUWD6",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 50250
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Tools & Accessories",
+        "Makeup Brushes & Tools",
+        "Brushes & Applicators"
+      ]
+    ],
+    "price": 8.95,
+    "brand": NaN
+  }
+]

@@ -1,0 +1,48 @@
+[
+  {
+    "title": "Josie Maran Argan Color Stick (Love)",
+    "description": "Rosey color stick for your lips and cheeks.",
+    "itemID": "B0073L982K",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 110656
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Blush"
+      ]
+    ],
+    "price": 23.25,
+    "brand": NaN
+  },
+  {
+    "title": "Maybelline New York Expert Wear Twin Brow and Eye Pencils, 101 Velvet Black, 0.03 Ounce",
+    "description": "Dual purpose pencils work as defining brow filler and a precision eyeliner. Two pencils per pack.Waterproof formula lasts all day.",
+    "itemID": "B000V5BXNM",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 4933
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Eyes",
+        "Eyebrow Color"
+      ]
+    ],
+    "price": 1.67,
+    "brand": "Maybelline"
+  }
+]

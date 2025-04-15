@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Solia Professional Ceramic Ion Flat Iron (1-3/4&quot;)Solia",
+    "description": "Solia's 1-3/4\" model is designed for customers with thick, long hair (longer than shoulder length).",
+    "itemID": "B0002TSD08",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 14023
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Irons",
+        "Flattening Irons"
+      ]
+    ],
+    "price": 87.45,
+    "brand": "Solia"
+  },
+  {
+    "title": "Ogx Hydrating Tea Tree Mint Shampoo, 13 oz",
+    "description": "**Product has been recently updated by the manufacturer. Packaging may vary.** Rejuvenate Your Hair with Tea Tree Oil Re-energize and moisturize your hair with the help of the Ogx Hydrating Tea Tree Mint Shampoo. This shampoo nourishes and strengthens you",
+    "itemID": "B000N5QVOG",
+    "helpful": [
+      0,
+      1
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Health & Personal Care": 109886
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 6.73,
+    "brand": "OGX"
+  },
+  {
+    "title": "Jergens Skin Firming Daily Toning Moisturizer, 16.8 Ounce",
+    "description": "Jergens skin firming moisturizing lotion restores elasticity for a silky and smooth look. Daily toner moisturizer with natural extracts reduces the appearance of cellulite. Jergens skin firming daily toner moisturizer rules with a firm hand to tone and tighten the look of cellulite-prone skin. This body lotion instantly hydrates skin leaving it smooth, healthier-looking and supple.",
+    "itemID": "B000P9B3NY",
+    "helpful": [
+      5,
+      11
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 15025
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Lotions"
+      ]
+    ],
+    "price": 11.55,
+    "brand": "Jergens"
+  }
+]

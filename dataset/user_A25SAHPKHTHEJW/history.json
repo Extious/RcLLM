@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Irish Spring Body Wash, Original, 15 Ounce",
+    "description": "Irish Spring body wash original with 8 hour scent system keeps you feeling fresh and clean all day. The fresh scent and rich lather get you clean as a whistle.",
+    "itemID": "B007C49D0K",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Health & Personal Care": 69441
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Cleansers",
+        "Body Washes"
+      ]
+    ],
+    "price": 7.5,
+    "brand": "Irish Spring"
+  },
+  {
+    "title": "Original Scent Dry Skin Moisturizer by Jergens, 21 Ounce",
+    "description": "EXPERIENCE ALL THE WAYS THE JERGENS COLLECTION OF MOISTURIZERS GIVE SKIN A SUBTLE ALLURE THAT CAPTIVATES. MOISTURIZE INTO MEMORABLY SOFT SKIN.",
+    "itemID": "B000P9BR4Y",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 86283
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Lotions"
+      ]
+    ],
+    "price": 4.56,
+    "brand": "Jergens"
+  },
+  {
+    "title": "Dial Spring Water Antibacterial Deodorant Soap Soap for Unisex, 4 oz. Bars, 8 Count",
+    "description": "Dial Clean and Refresh Antibacterial Deodorant Bar Soap, Spring Water rinses clean without drying skin. This bar soap delivers a clean as invigorating as a dip in a natural spring. With dial long-lasting deodorant protection, you will enjoy that clean, refreshed feeling all day.",
+    "itemID": "B004QQMD9K",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 850
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Cleansers",
+        "Soaps"
+      ]
+    ],
+    "price": 10.99,
+    "brand": "Dial"
+  }
+]

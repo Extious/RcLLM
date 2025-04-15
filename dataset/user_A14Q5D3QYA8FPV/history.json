@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Bumble and Bumble Thickening Hair Spray (8 Ounces)",
+    "description": "It's pretty much what it says it is (only it's not just for fine hair). It's for blow-drying, setting, protecting from heat and adding volume, lift and control.",
+    "itemID": "B000BIUGV4",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 1318
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Hair Sprays"
+      ]
+    ],
+    "price": 32.0,
+    "brand": "Bumble and Bumble"
+  },
+  {
+    "title": "Prada Infusion D,iris By Prada For Women. Eau De Parfum Spray 1.7-Ounce Bottle",
+    "description": "Prada Infusion d'Iris was introduces in 2007 as oriental-woodsy fragrance. The name of this fragrance was inspired by the old method of producing iris extract which took six months of soaking until the sweetly fresh iris notes were extracted.This modern and elegant fragrance opens with notes of mandarin, galbanum, orange and orange blossom which lead to the heart composed of iris, cedar and vetiver. The base is composed of incense and benzoin.The fragrance was designed by Daniela Roche-Andrier of Givaudan. It is captured in an elegant glass bottle reminiscent of retro perfume bottles.",
+    "itemID": "B00152SZL8",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 33087
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Fragrance",
+        "Women's",
+        "Eau de Parfum"
+      ]
+    ],
+    "price": 41.0,
+    "brand": "Prada"
+  },
+  {
+    "title": "Olay Regenerist Eye Lifting Serum, 0.5 Fluid Ounce",
+    "description": "",
+    "itemID": "B000EBZ7XK",
+    "helpful": [
+      197,
+      231
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 3806
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Oils"
+      ]
+    ],
+    "price": 16.89,
+    "brand": "Olay"
+  }
+]

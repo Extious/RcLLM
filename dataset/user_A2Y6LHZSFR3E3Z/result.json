@@ -1,0 +1,71 @@
+[
+  {
+    "title": "e.l.f. 144 Piece Eyeshadow Palette",
+    "description": "This set includes 144 shades of eyeshadow for an endless amount of amazing looks. All the eyeshadow you can ever want. Create any look that refelects your personal style.",
+    "itemID": "B005EFYXLI",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 9407
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Eyes",
+        "Eye Shadow"
+      ]
+    ],
+    "price": 15.0,
+    "brand": "e.l.f. Cosmetics"
+  },
+  {
+    "title": "SHANY Nail Art Set (24 Famouse Colors Nail Art Polish, Nail Art Decoration)",
+    "description": "This 24 piece nail art set has every color you need to design fabulous nails. Let your imagination run wild. Use the thin brush to create different patterns like feather strokes, checkered squares, rainbows, flowers and much more. Tip layer glitters over design to add sparkle. The possibilities are endless with so many hues you cannot go wrong with this set that contains lime green (pearl), neon green, yellow (matte), neon pink, fuchsia (pearl), neon purple, red (matte), neon yellow, white (matte), black (matte), silver (glitter), gold (glitter), pink (glitter), blue (glitter), green (glitter), dark grey (matte), pink (matte), sky blue (matte), lavender (matte), brick (matte), navy (pearl), forest green (matte), orange (matte), purple (pearl).",
+    "itemID": "B005X2F7KI",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 137
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Nails",
+        "Nail Polish"
+      ]
+    ],
+    "price": 19.95,
+    "brand": NaN
+  },
+  {
+    "title": "12 Classic Color Elegant Blush Set",
+    "description": "This Classic set of 12 color blush, feature all the color you need to bring out the best look.Perfect for everyday use.  Comes in 2 carry size pallette.",
+    "itemID": "B00BMW24TU",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 3910
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Blush"
+      ]
+    ],
+    "price": 2.95,
+    "brand": NaN
+  }
+]

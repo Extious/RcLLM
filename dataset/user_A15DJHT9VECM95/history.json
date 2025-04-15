@@ -1,0 +1,70 @@
+[
+  {
+    "title": "Rapidlash Eyelash Enhancing Serum (3ml), 0.1-Fluid Ounces Bottle",
+    "description": "This innovative high-performance serum formulated with advanced polypeptides helps amplify the length, thickness and volume of eyelashes with a simple once a day application.  Ideal for women and men, brittle, weak, thin or short lashes and eyebrows.",
+    "itemID": "B002WTC38O",
+    "helpful": [
+      2,
+      3
+    ],
+    "overall": 5.0,
+    "salesRank": NaN,
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Eyes",
+        "Eyebrow Color"
+      ]
+    ],
+    "price": 23.0,
+    "brand": "RapidLash"
+  },
+  {
+    "title": "L'Oreal Paris Studio Secrets Professional Color Correcting Primers Anti-Redness Primer, 0.68 Ounces",
+    "description": "Discover the secret to a flawlessly even skin tone&#x2014;in an instant. studio secrets professional color correcting primers glide on smoothly to immediately correct and improve the look of your complexion.",
+    "itemID": "B002PBAJ4Y",
+    "helpful": [
+      6,
+      7
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 5885
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Foundation Primers"
+      ]
+    ],
+    "price": 15.99,
+    "brand": "L&#39;Oreal Paris"
+  },
+  {
+    "title": "Ardell Brow and Lash Growth Accelerator",
+    "description": "Ardell Brow and Lash Accelerator Treatment Gel is a concentrated serum of multi proteins that works to immediately repair weak lashes and restore thickness of over tweezed or thinning brows. Added conditioners soften dry, brittle lashes enabling them to grow longer, thicker and fuller. Use nightly. After cleansing face, brush on to lashes and or brows. Leave on all night.",
+    "itemID": "B000VDUOFM",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 4365
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Tools & Accessories",
+        "Makeup Brushes & Tools",
+        "Eyelash Tools",
+        "Fake Eyelashes & Adhesives"
+      ]
+    ],
+    "price": 1.79,
+    "brand": "Ardell"
+  }
+]

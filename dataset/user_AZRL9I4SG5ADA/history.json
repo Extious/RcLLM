@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Philosophy Coconut Frosting Shampoo/Shower Gel/Bubble Bath, 16 Ounces",
+    "description": "Pamper your skin, while you swoon to the sweet, creamy scent of coconut frosting in our shampoo, shower gel & bubble bath. The moisturizing formula gently cleanses and conditions.",
+    "itemID": "B00021B95W",
+    "helpful": [
+      0,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 31298
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Cleansers",
+        "Body Washes"
+      ]
+    ],
+    "price": 14.0,
+    "brand": "Philosophy"
+  },
+  {
+    "title": "Evian Facial Water Spray 1.7 Oz",
+    "description": "Evian Mineral Water Spray from the base of the French Alps. Propelled under high pressure by nitrogen (80% of the air we breathe is nitrogen, 20% oxygen), the ultrafine pure mist allows the skin to absorb a unique balance of beneficial minerals along with the water. No other water contains the same balance of magnesium, calcium and phosphorous which explains Evian's superb compatibility with facial skin. A heavy soaking morning and evening removes all traces of cleansers and harmful hard tap water often containing fluoride and chlorine. Evian Mineral Water Spray helps to enhance the performance of all other skincare products by hydrating the skin prior to the use of moisturizers. It relieves dry, irritated skin caused by high altitude and poor air quality during air travel. A light spray of Evian 'sets' makeup by blending it with skin while highlighting color so it can be used all through the day.",
+    "itemID": "B0002UEDWE",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 75436
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Treatments & Masks"
+      ]
+    ],
+    "price": 7.0,
+    "brand": NaN
+  },
+  {
+    "title": "MAC Amplified Creme Lipstick ~Saint Germain~ NIB",
+    "description": "Provides a high colour payoff Smooth texture and moderate shine Contains Vitamin E and Vitamin C Vanilla is added for aroma and flavourProduct Line: Mac - Lip Color - LipstickProduct Size: 3g/0.1oz",
+    "itemID": "B002RKKA0G",
+    "helpful": [
+      1,
+      2
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 8967
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Lips",
+        "Lipstick"
+      ]
+    ],
+    "price": 16.35,
+    "brand": "M.A.C"
+  }
+]

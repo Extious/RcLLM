@@ -1,0 +1,71 @@
+[
+  {
+    "title": "e.l.f. Studio Mineral Infused Face Primer",
+    "description": "Transform your face into a flawless and smooth canvas with the Mineral Infused Face Primer. Developed to combat against excess oil, flaky dryness, enlarged pores and fine lines. This clear multipurpose skin primer will prepare your skin so makeup goes on evenly for a long lasting satin finish.",
+    "itemID": "B004DIXYWG",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 117
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Foundation Primers"
+      ]
+    ],
+    "price": 5.98,
+    "brand": "e.l.f. Cosmetics"
+  },
+  {
+    "title": "Maybelline New York Instant Age Rewind Eraser Dark Circles Treatment Concealer, Brightener 60, 0.2-fluid Ounce",
+    "description": "Instantly creates a radiant, refreshed looking eye area. Super concentrated formula with goji berry and haloxyl helps to erase the appearance of dark circles and fine lines, while visibly diminishing the appearance of puffiness around the eyes.",
+    "itemID": "B004Y9GY44",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 9791
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Concealers & Neutralizers"
+      ]
+    ],
+    "price": 18.41,
+    "brand": NaN
+  },
+  {
+    "title": "e.l.f. Daily Moisture Stick, Clear, 0.53 Ounce",
+    "description": "Daily Moisture Stick is an easy to use clear gel formulation that nourishes and hydrates the skin. This light-weight and soothing multi-purpose balm is enriched with antioxidants and anti-aging.",
+    "itemID": "B009ZB6MKM",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 31349
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Creams & Moisturizers"
+      ]
+    ],
+    "price": 8.49,
+    "brand": "e.l.f. Cosmetics"
+  }
+]

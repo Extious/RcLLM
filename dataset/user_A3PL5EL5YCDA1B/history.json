@@ -1,0 +1,67 @@
+[
+  {
+    "title": "Clairol Natural Instincts  02 Sahara Light Blonde 1 Kit  (Pack of 3) (packaging may vary)",
+    "description": "",
+    "itemID": "B000271KR8",
+    "helpful": [
+      2,
+      3
+    ],
+    "overall": 1.0,
+    "salesRank": NaN,
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Hair Color",
+        "Chemical Hair Dyes"
+      ]
+    ],
+    "price": 23.1,
+    "brand": "Clairol"
+  },
+  {
+    "title": "Pantene Pro-V Expert Collection AgeDefy Advanced Thickening Treatment, 4.2 Fluid Ounce",
+    "description": "",
+    "itemID": "B0098JU8TC",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 1.0,
+    "salesRank": {
+      "Beauty": 1506
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Hair & Scalp Treatments"
+      ]
+    ],
+    "price": 13.63,
+    "brand": "Pantene"
+  },
+  {
+    "title": "Nexxus Youth Renewal Rejuvenating Shampoo, 13.5 Ounce",
+    "description": "",
+    "itemID": "B00AE07FUE",
+    "helpful": [
+      0,
+      1
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 14171
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 10.7,
+    "brand": "Nexxus"
+  }
+]

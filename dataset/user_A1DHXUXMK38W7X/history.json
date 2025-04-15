@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Josie Maran Argan Oil 0.5 oz",
+    "description": "Josie Maran Argan Oil 0.5 oz",
+    "itemID": "B002UJ31HS",
+    "helpful": [
+      3,
+      4
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 3065
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Oils"
+      ]
+    ],
+    "price": 13.5,
+    "brand": "Josie Maran"
+  },
+  {
+    "title": "CHI Silk Infusion, 6 Fluid Ounce",
+    "description": "CHI Infra is the first hair care line of its kind utilizing CHI 44 Ceramic and Cationic Hydration Interlink. It provides moisture and strength by interlocking it into the inner structure of the hair.",
+    "itemID": "B003XFKACM",
+    "helpful": [
+      0,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 70122
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Hair Styling Serums"
+      ]
+    ],
+    "price": NaN,
+    "brand": NaN
+  },
+  {
+    "title": "Wild Ferns Manuka Honey Eye Cream 30ml",
+    "description": "Size:30ml PotThis rich emollient crme contains pure Active Manuka AAH (Antibacterial Antioxidant Honey) 650+ which is renowned for its beneficial properties.\n\nFortified with Vitamins A, C & E to help protect the delicate area around the eyes, this nourishing blend hydrates and restores the skins elasticity and texture to help diminish the appearance of fine lines.",
+    "itemID": "B00161I2NO",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 18812
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Eyes",
+        "Creams"
+      ]
+    ],
+    "price": 13.6,
+    "brand": NaN
+  }
+]

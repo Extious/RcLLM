@@ -1,0 +1,45 @@
+[
+  {
+    "title": "Mastex Thermal Heat Cap",
+    "description": "3 Heat Settings.",
+    "itemID": "B000HTNBB4",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 19632
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Tools & Accessories"
+      ]
+    ],
+    "price": 29.35,
+    "brand": "Mastex"
+  },
+  {
+    "title": "Dabur Vatika Enriched Coconut Hair Oil 300ml (Pack of 2 Bottles)",
+    "description": "Vatika Hair Oil is a delicate mix of pure coconut oil with special hair care herbs including henna, amla and lemon. Blended together to strengthen each strand of hair from within. Vatika provides natural nourishment to your hair. Giving it body and radiance, taking care of the critical balance of nutrients.",
+    "itemID": "B000JWM7FA",
+    "helpful": [
+      3,
+      4
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 6632
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Hair & Scalp Treatments"
+      ]
+    ],
+    "price": 12.89,
+    "brand": "Dabur"
+  }
+]

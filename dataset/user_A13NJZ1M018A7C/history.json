@@ -1,0 +1,72 @@
+[
+  {
+    "title": "L'Oreal Paris RevitaLift Triple Power SPF 30 Day Lotion, 1.7 Fluid Ounce",
+    "description": "L'Oreal Paris Revitalift presents the next generation of skincare.  This powerful, luxurious moisturizer goes beyond a simple anti-aging cream to fight wrinkles, re-firm contours and replenish facial volume.  Powered by our highest concentration of Pro-Xylane, a patented L'Oreal ingredient that is shown to stimulate collagen production and  formulated with Hyaluronic Acid to quickly penetrate skin to help fight each wrinkle.  In 1 week, skins texture appears smoother In 4 weeks, elasticity is increased and skin looks younger, firmer and lifted.  Provides broad spectrum UVA/UVB SPF 30 protection.",
+    "itemID": "B00AYOHWQW",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 7675
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Creams & Moisturizers",
+        "Fluids & Lotions",
+        "Lotions"
+      ]
+    ],
+    "price": 6.25,
+    "brand": "L&#39;Oreal Paris"
+  },
+  {
+    "title": "Eclos Moisture Therapy Regenerative Cream, 2-Ounce",
+    "description": "The latest in Plant Stem Cell technology is believed to be the holy grail of anti-aging skin care. This remarkable facial cream containing high potency Plant Stem Cells is formulated specifically to help protect your own skin stem cells. As a result, it promotes the self-renewal capacity of the skin and helps slow the signs of aging. By revitalizing your skin stem cells, it helps tighten sagging skin and postpones wrinkling. The added benefits of Chamomile and Cucumber found in the powerhouse complex PhytoPlex24 provides the ultimate in soothing and defensive properties for the skin.New Hope for Aging Skin. Researcher have found that Plant Stem Cells extracted from a rare Swiss apple, (Uttwiler Spatlauber), show tremendous ability to stimulate skin stem cells, encouraging aging skin to behave like younger skin.PhytoPlex24, a proprietary complex of plant extracts, vitamins, and antioxidants known to work in synergy to minimize the appearance of fine lines, wrinkles, and tired skin while delivering a smooth and radiant complexion.",
+    "itemID": "B003JTF3VK",
+    "helpful": [
+      0,
+      1
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 12439
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Creams & Moisturizers"
+      ]
+    ],
+    "price": 24.99,
+    "brand": "Eclos"
+  },
+  {
+    "title": "Pantene Pro-V Expert Collection Advanced+ Keratin Repair Keragloss Oil Mist, 3.4 Fluid Ounce",
+    "description": "The Pantene Pro-V Expert Collection is a premium line born from our Swiss heritage and has been specially crafted for those who seek an exceptional level of care.",
+    "itemID": "B00CA05FO4",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 43236
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Hair & Scalp Treatments"
+      ]
+    ],
+    "price": 13.13,
+    "brand": "Pantene"
+  }
+]

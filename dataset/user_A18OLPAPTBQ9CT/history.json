@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Jan Marini Bioglycolic Facial Cleanser 8 oz",
+    "description": "Jan Marini Skin Research products are designed to be used under the supervision of a physician or licensed skin care professional. If you have any questions regarding skin care concerns,appropriate products, product usage, or technologies, we recommend that you contact us prior to your purchase.Jan Marini Skin Research Bioglycolic Facial Cleanser with glycolic acid is a gentle cleanser suitable for all skin types. This formula is soap-free, nonirritating, and rinses completely without the need for a post-cleansing toner or astringent. Our thorough deep cleansing product also contains sorbitol, a natural humectant derived from berries, that leaves the skin soft and hydrated. By incorporating glycolic acid as a follicular cleansing agent, the skin is further prepared for other product application.",
+    "itemID": "B003YJ9YBU",
+    "helpful": [
+      0,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 680
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Cleansers"
+      ]
+    ],
+    "price": 16.78,
+    "brand": "Jan Marini"
+  },
+  {
+    "title": "CHI Silk Infusion, Silk Reconstructing Complex, 2 Ounce",
+    "description": "CHI Silk Infusion&#x2122; - Reconstructing Complex is specially formulated for thermal styling and hair repair. CHI Silk Infusion contains no alcohol, so it won't dry your hair out as a leave in treatment - and it'll leave your hair with the head-turning, lustrous shine of pure silk.Strengthens hair for incredible softness, manageability, and shine without any build up.",
+    "itemID": "B0018HH444",
+    "helpful": [
+      0,
+      2
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 2911
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Creams, Gels & Lotions"
+      ]
+    ],
+    "price": 11.99,
+    "brand": NaN
+  },
+  {
+    "title": "John Frieda Precision Foam Colour, Medium Natural Blonde 8N",
+    "description": "Precision Foam Colour is the first ever premium permanent home hair colour that uses foam technology to deliver salon-quality results at home.With 20 flattering shades to choose from, achieving flawless, natural-looking results at home has never been quicker or easier.",
+    "itemID": "B004DK46XK",
+    "helpful": [
+      2,
+      3
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 17634
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Hair Color",
+        "Chemical Hair Dyes"
+      ]
+    ],
+    "price": 9.64,
+    "brand": "John Frieda"
+  }
+]

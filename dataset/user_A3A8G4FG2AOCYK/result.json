@@ -1,0 +1,94 @@
+[
+  {
+    "title": "elf Studio High Definition Loose Face Powder",
+    "description": "The e.l.f. High Definition Powder is a translucent, versatile loose powder that creates a flawless, \"soft focus\" effect to the skin. Masks fine lines and imperfections for a glowing, radiant complexion. This incredibly soft and invisible powder is ideal for everyday wear, either alone or over your favorite e.l.f. foundation. Our HD Powder is a makeup artist and e.l.f. customer favorite.",
+    "itemID": "B004DIXYUI",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 573
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Powder"
+      ]
+    ],
+    "price": 8.98,
+    "brand": "e.l.f. Cosmetics"
+  },
+  {
+    "title": "NYX Soft Matte Lip Cream, London",
+    "description": "Neither lipstick nor lip gloss&#x2014;this is matte lip cream. A new kind of pout paint that goes on silky smooth and sets to a matte finish. Soft matte lip cream is surprisingly durable and, unlike some matte lipstick formulas, also moisturizing. Available in 11 lip colors.",
+    "itemID": "B004LXHEX8",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 58656
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Lips",
+        "Lip Glosses"
+      ]
+    ],
+    "price": 4.74,
+    "brand": "NYX"
+  },
+  {
+    "title": "NYX Mechanical Lip Pencil, Nectar",
+    "description": "Take your look to a whole new level of beautiful by emphasizing your eyes! The creamy texture of our mechanical pencil for eyes delivers intense pigmentation while it moisturizes. The formula is renowned for its lasting power. Illuminate your eyes with a variety of 15 mesmerizing eye shades!",
+    "itemID": "B005G9LPAY",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 107773
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Lips",
+        "Lip Liners"
+      ]
+    ],
+    "price": 4.1,
+    "brand": "NYX"
+  },
+  {
+    "title": "e.l.f. Eye Enhancing Eyeshadow, Blue Eyes 1, 0.25 Ounce",
+    "description": "This collection of 6 coordinating eye shadow shades are designed to enhance and complement the color of your eyes. Create custom blended color to define and contour the eye for a flawless day or night look.",
+    "itemID": "B009Q1YPNW",
+    "helpful": [
+      1,
+      3
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 149253
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Eyes",
+        "Eye Shadow"
+      ]
+    ],
+    "price": 10.85,
+    "brand": NaN
+  }
+]

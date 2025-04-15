@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Vaseline Body Lotion, Cocoa Butter, 32Ounce",
+    "description": "",
+    "itemID": "B004DBUAGG",
+    "helpful": [
+      2,
+      3
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 36639
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Body Butter"
+      ]
+    ],
+    "price": 8.49,
+    "brand": "Vaseline"
+  },
+  {
+    "title": "St. Ives Apricot Scrub Naturally Clear Blemish and Blackhead Control, 10 Ounce (Pack of 2)",
+    "description": "",
+    "itemID": "B004JLEGTC",
+    "helpful": [
+      0,
+      2
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 5052
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Exfoliators & Scrubs",
+        "Scrubs"
+      ]
+    ],
+    "price": 12.78,
+    "brand": "St. Ives"
+  }
+]

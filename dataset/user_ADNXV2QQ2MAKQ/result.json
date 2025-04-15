@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Softsoap Apricot Sunshine - Liquid Hand Soap, 7.5 Ounce",
+    "description": "Softsoap Apricot Sunshine liquid hand soap - fragrance and formula inspired by nature.  Apricot Sunshine is infused with apricot extract to awaken your senses.  Escape to a relaxing weekend retreat.",
+    "itemID": "B007K6MIKC",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Health & Personal Care": 32163
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Hands & Nails",
+        "Hand Soaps"
+      ]
+    ],
+    "price": 7.38,
+    "brand": "Softsoap"
+  },
+  {
+    "title": "Yerba Prima Tampico Skin Brush 1 Ea",
+    "description": "The Yerba Prima Tampico Skin Brush is a wonderful, revitalizing health and beauty aid. Removing the top layer of dead skin and stimulating the circulation of blood feeding the skin are essential for maintaining youthful, glowing and supple skin",
+    "itemID": "B00016RIIA",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 421
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Bathing Accessories",
+        "Bath Brushes"
+      ]
+    ],
+    "price": 7.75,
+    "brand": "Yerba Prima"
+  },
+  {
+    "title": "Vaseline Intensive Care Total Moisture Dry Skin Lotion with Vitamin E &amp; A with pro-vitamin B5 20.3 Ounce",
+    "description": "Vaseline intensive care total moisture dry skin lotion with vitamin E is a multi-vitamin moisturizer. It replenishes 100% of daily hydration, along with the essential nutrients that skin needs to be vibrant and feel healthy everyday.",
+    "itemID": "B000UF5TQK",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 15868
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Lotions"
+      ]
+    ],
+    "price": 12.9,
+    "brand": "Vaseline"
+  }
+]

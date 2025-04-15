@@ -1,0 +1,68 @@
+[
+  {
+    "title": "L'Oreal Paris EverStrong Sulfate-Free Fortify System Reconstruct Shampoo, 8.5 Fluid Ounce",
+    "description": "Introducing formulas so gentle, yet so strengthening. Free of harsh sulfates, the EverStrong Sulfate-Free Fortify System contains our patented bio-ceramide complex, which strengthens the hair fiber after just one use, helping it resist breakage. A rich lather and natural aromatic properties from rosemary and mint help energize and invigorate the senses.",
+    "itemID": "B002PBJL8O",
+    "helpful": [
+      3,
+      11
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Beauty": 13597
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 6.99,
+    "brand": "L&#39;Oreal Paris"
+  },
+  {
+    "title": "Agadir Argan Oil Daily Shampoo + Conditioner &quot;Combo Set&quot; 12.4oz/366ml",
+    "description": "Agadir Argan Oil Daily Shampoo + Conditioner \"Combo Set\" 12.4oz/366ml",
+    "itemID": "B0046D754G",
+    "helpful": [
+      5,
+      7
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 2014
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoo & Conditioner Sets"
+      ]
+    ],
+    "price": 18.89,
+    "brand": "Agadir"
+  },
+  {
+    "title": "Agadir Hair Oil &quot;10 ~ 1/4 oz Travel Tubes&quot; ~ New Name",
+    "description": "Agadir Hair Oil is a formula that is light weight and non greasy It will leave your hair shiny and healthy",
+    "itemID": "B002G392OE",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 9943
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Hair & Scalp Treatments"
+      ]
+    ],
+    "price": 1.57,
+    "brand": "Agadir"
+  }
+]

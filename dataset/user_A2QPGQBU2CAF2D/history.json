@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Dove Men and Care Body and Face Wash, Clean Comfort, 18 Ounce (Pack of 3)",
+    "description": "",
+    "itemID": "B002TSA916",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 3565
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Cleansers",
+        "Washes"
+      ]
+    ],
+    "price": 9.75,
+    "brand": "Dove"
+  },
+  {
+    "title": "Remington Ci96x1 Silk Ceramic Wide Styling Wand",
+    "description": "",
+    "itemID": "B00BB8ZHJE",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 15509
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Irons",
+        "Curling Irons"
+      ]
+    ],
+    "price": 29.41,
+    "brand": "Remington"
+  },
+  {
+    "title": "Nexcare Acne Absorbing Cover, Two Sizes, 36 Count",
+    "description": "",
+    "itemID": "B00BRGUNV2",
+    "helpful": [
+      0,
+      2
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Beauty": 237
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face"
+      ]
+    ],
+    "price": 7.49,
+    "brand": "Nexcare"
+  }
+]

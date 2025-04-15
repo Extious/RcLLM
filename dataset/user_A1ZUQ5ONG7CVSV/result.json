@@ -1,0 +1,48 @@
+[
+  {
+    "title": "Bare Minerals Ready Eyeshadow, The Truth, 0.17 Ounce",
+    "description": "A limited-edition eye shadow palette contains four pure, intense, stay-true shades.",
+    "itemID": "B005Q8P3OE",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 12115
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Eyes",
+        "Eye Shadow"
+      ]
+    ],
+    "price": 19.75,
+    "brand": "Bare Escentuals"
+  },
+  {
+    "title": "Burt's Bees Natural Acne Solutions Maximum Strength Spot Treatment Cream, 0.5 Ounces",
+    "description": "Go from blemish to beautiful with Burt&#x2019;s Bees&#xAE; Natural Acne Solutions Maximum Strength Spot Treatment Cream. Dermatologist tested and noncomedogenic, this 99.5% natural formula helps reduce and improve the appearance of blemishes without irritating your skin. Easy to apply, this acne cream is formulated with licorice root extract to help reduce the appearance of redness while tamanu oil helps promote healthy looking skin. It also contains salicylic acid, derived naturally from willow bark extract, to penetrate clogged pores, help reduce acne and prevent future breakouts. For best results, use as part of the Burt&#x2019;s Bees&#xAE; Natural Acne Solutions regimen. Put the power of nature to work for your skin with Burt&#x2019;s Bees.",
+    "itemID": "B006YQ7Z3E",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 2988
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Cleansers"
+      ]
+    ],
+    "price": 6.44,
+    "brand": "Burt&#39;s Bees"
+  }
+]

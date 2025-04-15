@@ -1,0 +1,73 @@
+[
+  {
+    "title": "CoverGirl Smoothers Concealer, Fair 705,  0.14 Ounce Package",
+    "description": "",
+    "itemID": "B0018QHW92",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 12640
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Concealers & Neutralizers"
+      ]
+    ],
+    "price": 4.95,
+    "brand": "COVERGIRL"
+  },
+  {
+    "title": "Hard Candy Glamoflauge HEAVY DUTY CONCEALER with pencil (light color 312)",
+    "description": "Create a flawless surface by covering birth marks, freckles, dark circles and even tattoos!",
+    "itemID": "B005C2O3PO",
+    "helpful": [
+      2,
+      2
+    ],
+    "overall": 1.0,
+    "salesRank": {
+      "Beauty": 4521
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Concealers & Neutralizers"
+      ]
+    ],
+    "price": 11.49,
+    "brand": "Hard Candy"
+  },
+  {
+    "title": "Garnier Skincare Moisture Rescue Refreshing Gel-Cream for Dry Skin for Dry Skin, 1.7 Fluid Ounce",
+    "description": "Garnier moisture rescue captures the power of antioxidant fruit water. Together with skin-healthy humectants that resemble skin's natural water-binding functions, this refreshing gel-cream, helps replenish skin's moisture reserves for 24 hours and helps defend skin from external aggressors. This ultra-lightweight, oil-free gel-cream contains 2x more moisturizing agents than our moisture rescue refreshing gel-cream for normal skin.",
+    "itemID": "B00ALB397Y",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 1.0,
+    "salesRank": {
+      "Beauty": 4264
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Creams & Moisturizers",
+        "Fluids & Lotions",
+        "Fluids"
+      ]
+    ],
+    "price": 14.99,
+    "brand": "Garnier"
+  }
+]

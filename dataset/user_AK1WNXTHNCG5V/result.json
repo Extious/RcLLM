@@ -1,0 +1,255 @@
+[
+  {
+    "title": "John Frieda Volume Curls 1&frac12; Inch  Curling Iron",
+    "description": "",
+    "itemID": "B004YZMKLE",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 24975
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Irons",
+        "Curling Irons"
+      ]
+    ],
+    "price": 15.99,
+    "brand": "John Frieda"
+  },
+  {
+    "title": "Remington S8590 Keratin Therapy Straightener with Smart Sensor",
+    "description": "",
+    "itemID": "B007E0FQ1W",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 1658
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Irons",
+        "Flattening Irons"
+      ]
+    ],
+    "price": 39.99,
+    "brand": "Remington"
+  },
+  {
+    "title": "Motions At Home Foaming Wrap Lotion, 8.5-Ounce Pump Bottles (Pack of 6)",
+    "description": "",
+    "itemID": "B000YZGP4G",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 331591
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Mousses & Foams"
+      ]
+    ],
+    "price": 24.99,
+    "brand": NaN
+  },
+  {
+    "title": "Motions At Home Shine Enhancing Pomade, 3.5-Ounce Jars (Pack of 6)",
+    "description": "",
+    "itemID": "B000YZLP4Q",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 194743
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Pomades & Waxes"
+      ]
+    ],
+    "price": 17.34,
+    "brand": NaN
+  },
+  {
+    "title": "Motions Salon Haircare Marula Natural Therapy Hair and Scalp Oil, 8 Ounce",
+    "description": "",
+    "itemID": "B001T8MN16",
+    "helpful": [
+      0,
+      1
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 80594
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Hair & Scalp Treatments"
+      ]
+    ],
+    "price": 9.86,
+    "brand": "Motions"
+  },
+  {
+    "title": "Motions At Home Oil Moisturizer Hair Lotion, 12-Ounce Bottles (Pack of 6)",
+    "description": "",
+    "itemID": "B000YZJMHS",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 128675
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Creams, Gels & Lotions"
+      ]
+    ],
+    "price": 20.94,
+    "brand": NaN
+  },
+  {
+    "title": "Motions Naturally You, Radiating Hair Gloss, 5.8 Ounce",
+    "description": "",
+    "itemID": "B0072XR560",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 1.0,
+    "salesRank": {
+      "Beauty": 165399
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products"
+      ]
+    ],
+    "price": 8.99,
+    "brand": "Motions"
+  },
+  {
+    "title": "Motions Naturally You, Moisturizing Cleanser, 8 Ounce",
+    "description": "",
+    "itemID": "B0072XRJ20",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Beauty": 52404
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 8.09,
+    "brand": "Motions"
+  },
+  {
+    "title": "Motions Naturally You, Deep Conditioning Masque, 8 Ounce",
+    "description": "",
+    "itemID": "B0072XUY7W",
+    "helpful": [
+      0,
+      1
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 50922
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Creams, Gels & Lotions"
+      ]
+    ],
+    "price": 5.99,
+    "brand": "Motions"
+  },
+  {
+    "title": "Suave Suave Kids Ocean Blast Gel, 7 Ounce",
+    "description": "",
+    "itemID": "B00A0IWTEW",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 9391
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Creams, Gels & Lotions"
+      ]
+    ],
+    "price": 3.48,
+    "brand": "Suave"
+  },
+  {
+    "title": "Remington Products CI97M1A Ultimate Stylist Teardrop Wand",
+    "description": "The remington ultimate stylist teardrop ceramic styler gives you the look you want every time. With a ceramic barrel that reaches up to 410 degrees you can create luscious waves with the teardrop wand attachment. Plus, the additional conical wand and extra long curling iron attachments are compatible to complete your collection (sold separately).",
+    "itemID": "B00H345TXO",
+    "helpful": [
+      1,
+      2
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 90474
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Irons",
+        "Curling Irons"
+      ]
+    ],
+    "price": 27.99,
+    "brand": NaN
+  }
+]

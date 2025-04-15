@@ -1,0 +1,47 @@
+[
+  {
+    "title": "John Frieda Sheer Blonde Colour Renew Tone-Correcting Shampoo, 8.45 Ounces (Pack of 2)",
+    "description": "John frieda color renew tone-restoring shampoo-8.45 fluid ounce-renews color for noticeably brighter blonde in 3 washes.",
+    "itemID": "B005MIFIWK",
+    "helpful": [
+      8,
+      12
+    ],
+    "overall": 1.0,
+    "salesRank": {
+      "Beauty": 4759
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 8.98,
+    "brand": "John Frieda"
+  },
+  {
+    "title": "Adovia Facial Serum - Anti Aging, Skin Lifting, Facial Serum with Vitamin C, Dead Sea Salt and Green Tea - Get Firmer, More Radiant Looking Skin - Non-Oily Deep Moisturizer Delivers Minerals &amp; Nutrients Deep Into Skin - Satisfaction Guaranteed",
+    "description": "Also Conatains seaweed for a Rich Infusion of Nutrients to Feed and Nourish Your Skin",
+    "itemID": "B00KHGIK54",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 43112
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Oils & Serums"
+      ]
+    ],
+    "price": 50.0,
+    "brand": NaN
+  }
+]

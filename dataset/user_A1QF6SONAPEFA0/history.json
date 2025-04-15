@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Essie Nail Lacquer, Sugar Daddy, 0.5 Fluid Ounce",
+    "description": "Essie nail lacquer goes on smooth and last long Shimmery pink shade Chip-resistant DBP, Toluene and Formaldehyde free.",
+    "itemID": "B0002Z8HAI",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 13867
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Nails",
+        "Nail Polish"
+      ]
+    ],
+    "price": 5.45,
+    "brand": "Essie"
+  },
+  {
+    "title": "Essie New Winter 2009 Collection Mint Candy Apple 702",
+    "description": "ESSIE New Winter 2009 collection ~Mint Candy Apple~ 702",
+    "itemID": "B002ULRAQE",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 1447
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Nails",
+        "Nail Polish"
+      ]
+    ],
+    "price": 5.75,
+    "brand": "Essie"
+  },
+  {
+    "title": "OPI Nail Lacquer, Take the Stage, 0.5-Fluid Ounce",
+    "description": "OPI Burlesque Colors",
+    "itemID": "B0045EAMXW",
+    "helpful": [
+      0,
+      1
+    ],
+    "overall": 1.0,
+    "salesRank": {
+      "Beauty": 57830
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Nails",
+        "Nail Polish"
+      ]
+    ],
+    "price": 9.65,
+    "brand": "OPI"
+  }
+]

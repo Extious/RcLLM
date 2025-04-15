@@ -1,0 +1,141 @@
+[
+  {
+    "title": "Cetaphil Gentle Cleansing Bar, 4.5-Ounce Bar (Pack of 6)",
+    "description": "",
+    "itemID": "B001I45ZFC",
+    "helpful": [
+      1,
+      2
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 170
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Cleansers",
+        "Soaps"
+      ]
+    ],
+    "price": 18.65,
+    "brand": "Cetaphil"
+  },
+  {
+    "title": "Vaseline Spray and Go Moisturizer in Total Moisture, 6.5 Ounce",
+    "description": "",
+    "itemID": "B009RNUH4A",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 4589
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Lotions"
+      ]
+    ],
+    "price": 7.86,
+    "brand": "Vaseline"
+  },
+  {
+    "title": "Tree Hut Shea Sugar Scrub, Hawaiian Kukui, 18 Ounce (Pack of 3)",
+    "description": "Experience a rejuvenating exfoliation with Tree Hut Sugar Scrub with the warm scent of Hawaiian Kukui. Natural Kukui nut Oil repairs and conditions cracked and neglected skin, absorbs quickly into skin and provides elasticity and long lasting moisturization. This gentle sugar scrub is infused with certified organic Shea butter, Kukui nut Oil and an array of natural oils, including Evening Primrose, sweet Almond, Avocado, Macadamia Seed and Orange oil. The sugar grains will softly polish away dead skin cells, leaving your skin soft, smooth and healthy looking.",
+    "itemID": "B0018DAUKI",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 11687
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Scrubs & Body Treatments",
+        "Body Scrubs"
+      ]
+    ],
+    "price": 21.73,
+    "brand": "Tree Hut"
+  },
+  {
+    "title": "NYX Cosmetics Concealer Wand, Nutmeg, 0.11  Oz",
+    "description": "Light-weight, emollient concealer. Provides medium to natural coverage for larger areas of the face. Non-comedogenic formula works on all skin types.",
+    "itemID": "B002S8RWYY",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 88655
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Concealers & Neutralizers"
+      ]
+    ],
+    "price": 4.98,
+    "brand": "NYX"
+  },
+  {
+    "title": "Revlon ColorStay Makeup, Combination/Oily Skin, Cappuccino, 1 Ounce",
+    "description": "Revlon ColorStay Makeup for Combination/Oily Skin Longwearing coverage with a lightweight formula that won't cake, fade, or rub off. With Time Release Technology specifically formulated for combination or oily skin to control oil absorption and shine. Your look stays flawless throughout the day.- Makeup feels comfortable and wears up to 24 hours.- Medium to full coverage.- Comes in 20 beautiful shades. TIPS: &#x2022; Apply to clean skin.&#x2022; Using your fingertips or applicator, blend foundation onto skin, starting in the center of your face, forehead, nose and chin blending outward.",
+    "itemID": "B0039UT9QE",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 53396
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Foundation"
+      ]
+    ],
+    "price": 9.48,
+    "brand": "Revlon"
+  },
+  {
+    "title": "Covergirl Clump Crusher Mascara By Lashblast, Very Black 800, 0.44 Ounce",
+    "description": "",
+    "itemID": "B0094GHGQM",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 19665
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Eyes",
+        "Mascara"
+      ]
+    ],
+    "price": 8.86,
+    "brand": "COVERGIRL"
+  }
+]

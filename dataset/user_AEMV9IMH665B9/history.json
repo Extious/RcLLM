@@ -1,0 +1,71 @@
+[
+  {
+    "title": "L'Oreal Paris Colour Rays Hair Color, Fuschia Flash",
+    "description": "Color rays are bright, highly visible highlights that show up on even the darkest hair. In one simple step, you can swirl on a few bold flashes, brighten up bangs, or brush on an all-over effect.",
+    "itemID": "B0013ND45G",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 23393
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Hair Color",
+        "Chemical Hair Dyes"
+      ]
+    ],
+    "price": 4.52,
+    "brand": "L&#39;Oreal Paris"
+  },
+  {
+    "title": "Kleancolor Neon Nail Lacquer - Candy Cast - Mini Collection (NPC593)",
+    "description": "KleanColor presents its long wearing and chip-resistant Nail Lacquers in petite, travel-friendly size. The set features bright neon colors for playfulness to complete the look of sweet girl who enjoys her creativity.",
+    "itemID": "B004NYSL9Q",
+    "helpful": [
+      7,
+      7
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Health & Personal Care": 5224
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Nails",
+        "Nail Polish"
+      ]
+    ],
+    "price": 5.66,
+    "brand": "Kleancolor"
+  },
+  {
+    "title": "OPI Nail Lacquer, Pirates of The Caribbean Collection, Stranger Tides, 0.5 Fluid Ounce",
+    "description": "The Pirates of the Caribbean collection captures the bright colors and breathtaking adventure of the Disney release. Trend-settings shades of pink, lavender, sage and the new silver shatter.",
+    "itemID": "B0001433OU",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 148645
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Nails",
+        "Nail Polish"
+      ]
+    ],
+    "price": 5.18,
+    "brand": "OPI"
+  }
+]

@@ -1,0 +1,70 @@
+[
+  {
+    "title": "Cetaphil Restoraderm, Skin Restoring Body Wash, Formulated For Eczema, 10 Ounce",
+    "description": "",
+    "itemID": "B003UF0RB4",
+    "helpful": [
+      3,
+      4
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 38
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Oils"
+      ]
+    ],
+    "price": 13.26,
+    "brand": "Cetaphil"
+  },
+  {
+    "title": "Rapidlash Eyelash Enhancing Serum (3ml), 0.1-Fluid Ounces Bottle",
+    "description": "This innovative high-performance serum formulated with advanced polypeptides helps amplify the length, thickness and volume of eyelashes with a simple once a day application.  Ideal for women and men, brittle, weak, thin or short lashes and eyebrows.",
+    "itemID": "B002WTC38O",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": NaN,
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Eyes",
+        "Eyebrow Color"
+      ]
+    ],
+    "price": 23.0,
+    "brand": "RapidLash"
+  },
+  {
+    "title": "Neocutis Biorestorative Cream with Psp 50 Ml, 1.69-ounce",
+    "description": "Reduce appearance of fine lines and wrinkles. free of fragrance and color additives. scientifically formulated for optimal efficacy.",
+    "itemID": "B00406ZI3E",
+    "helpful": [
+      3,
+      10
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 1151
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Eyes",
+        "Puffiness Treatments"
+      ]
+    ],
+    "price": 100.89,
+    "brand": "NEOCUTIS"
+  }
+]

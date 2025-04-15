@@ -1,0 +1,95 @@
+[
+  {
+    "title": "Olay Fresh Effects Va-Va-Vivid! Powered Contour Cleansing System 1 Kit",
+    "description": "",
+    "itemID": "B009GEUPDS",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 34634
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Sets & Kits"
+      ]
+    ],
+    "price": 6.2,
+    "brand": "Olay"
+  },
+  {
+    "title": "Acne-d Professional Comedone Extractor (Whitehead/Blackhead Remover)",
+    "description": "The Acne-dTM comedone extractor offers a quick, safe and easy way to remove blackheads and whiteheads.",
+    "itemID": "B008H7RWH2",
+    "helpful": [
+      2,
+      2
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Beauty": 9051
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face"
+      ]
+    ],
+    "price": 2.99,
+    "brand": "Acne-d"
+  },
+  {
+    "title": "Banana Boat Sport Coolzone Sunscreen Lotion Spf 50, 6 Ounce",
+    "description": "Sunscreen lotion that instantly cools and refreshes the skin while also providing broad spectrum protection.",
+    "itemID": "B009FKNGGQ",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 12731
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Sun",
+        "Skin Protection",
+        "Sports"
+      ]
+    ],
+    "price": 6.75,
+    "brand": "Banana Boat"
+  },
+  {
+    "title": "Schick Hydro Silk Disposable Razor, 3 Count",
+    "description": "",
+    "itemID": "B00AHF1GTM",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Health & Personal Care": 25629
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Oils"
+      ]
+    ],
+    "price": 9.95,
+    "brand": "Schick"
+  }
+]

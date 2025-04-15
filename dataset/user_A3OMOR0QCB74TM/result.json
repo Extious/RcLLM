@@ -1,0 +1,68 @@
+[
+  {
+    "title": "Tresemme 7 Day Keratin Smooth Shampoo, 9 Ounce",
+    "description": "",
+    "itemID": "B00GYB1AQM",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 7111
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 4.0,
+    "brand": "TRESemme"
+  },
+  {
+    "title": "Tresemme 7 Day Keratin Smooth Conditioner, 9 Ounce",
+    "description": "",
+    "itemID": "B00GYB1ECW",
+    "helpful": [
+      0,
+      1
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 6519
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Conditioners"
+      ]
+    ],
+    "price": 5.86,
+    "brand": "TRESemme"
+  },
+  {
+    "title": "Fekkai Brilliant Glossing Shampoo 236ml/8oz",
+    "description": "",
+    "itemID": "B00FRDPRQ2",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Health & Personal Care": 3973
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 13.0,
+    "brand": "Fekkai"
+  }
+]

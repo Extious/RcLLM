@@ -1,0 +1,49 @@
+[
+  {
+    "title": "Bubble Bath Rosemary and Mint 17.5 Ounces",
+    "description": "This strong and stylish bubble bath from Deep Steep is like stepping into a little oasis: a wonderful opposite to the day's stresses. It creates mounds of fragrant bubbles, just like traditional bubble bath, but without any harsh surfactants or chemicals. So draw yourself a bath, sink deep into warm water, and emerge refreshed, relaxed, and silky smooth. Ideal for all ages and skin types.",
+    "itemID": "B000OQ6YTG",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 16201
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Lotions"
+      ]
+    ],
+    "price": 8.66,
+    "brand": "Deep Steep"
+  },
+  {
+    "title": "Fine Fabric Wash (16.9 Ounce): Eucalyptus",
+    "description": "No Rinse Delicate Wash. Cleans & softens all fine washables with amazing results and no rinsing. Concentrate contains fiber restoring lanolin & moth inhibiting eucalyptus oil. 95 hand washes",
+    "itemID": "B000WZ6P34",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Arts, Crafts & Sewing": 1825
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Cleansers",
+        "Body Washes"
+      ]
+    ],
+    "price": 10.66,
+    "brand": "Eucalan Delicate Wash"
+  }
+]

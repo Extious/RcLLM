@@ -1,0 +1,71 @@
+[
+  {
+    "title": "PCA Skin Nutrient Toner (Phaze 5), 4.4 Fluid Ounce",
+    "description": "pHaze 5 Nutrient Toner is a special combination of enzymes, vitamins and AHA that help refine pores for an even complexion with regular use.",
+    "itemID": "B000R92XHM",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 1993
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Toners & Astringents"
+      ]
+    ],
+    "price": 18.77,
+    "brand": "PCA Skin"
+  },
+  {
+    "title": "PCA Skin A and C Synergy Serum (Phaze 23), 1 Fluid Ounce",
+    "description": "A groundbreaking treatment serum Efficaciously minimizes discoloration, regulates oil production and bacterial proliferation Contains L-ascorbic acid, retinol and four different natural brightening ingredients.",
+    "itemID": "B000TD2QXC",
+    "helpful": [
+      2,
+      3
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 8867
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Oils & Serums"
+      ]
+    ],
+    "price": 39.8,
+    "brand": "PCA Skin"
+  },
+  {
+    "title": "PCA Skin Eyexcellence (Phaze 12), 0.5 Ounce",
+    "description": "Enhances the beauty of your eyes by addressing problems such as puffiness, under-eye dark circles, wrinkles and fine lines. It contains peptides to strengthen leaky capillaries, promote collagen production and reduce visible signs of eye aging",
+    "itemID": "B000B7VO66",
+    "helpful": [
+      1,
+      4
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Beauty": 5585
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Eyes",
+        "Dark Circle Treatments"
+      ]
+    ],
+    "price": 24.45,
+    "brand": "PCA Skin"
+  }
+]

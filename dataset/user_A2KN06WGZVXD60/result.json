@@ -1,0 +1,51 @@
+[
+  {
+    "title": "C. Booth 4-In-1 Multi-Action Body Lotion, Lemon Sugar, 32 Fluid Ounce",
+    "description": "Lemon and succulent sugar create a tangy-sweet infusion to hydrate the driest of skin. Rich, non-greasy cream with luxurious. Hydrate. Nourish. Beautify. C.Booth is luxurious bath and body care inspired by apothecaries, influenced by skin care science, and made for all. Get custom-blended bath care for nourished, gorgeous skin.",
+    "itemID": "B009P3CCYA",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 16360
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Lotions"
+      ]
+    ],
+    "price": 8.99,
+    "brand": "c. Booth"
+  },
+  {
+    "title": "Mary Kay TimeWise Age Fighting Moisturizer, Normal/Dry Skin (3 fl. oz.)",
+    "description": "Reduce the appearance of fine lines for younger-looking skin with this oil-free lotion. It's formulated with antioxidants that help guard against free radicals which cause the skin to age. The patented complex helps accelerate skin's renewal process - hydrates, smooths, firms and softens.",
+    "itemID": "B000GHGGKK",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 924
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Creams & Moisturizers",
+        "Fluids & Lotions",
+        "Lotions"
+      ]
+    ],
+    "price": 12.98,
+    "brand": "Mary Kay"
+  }
+]

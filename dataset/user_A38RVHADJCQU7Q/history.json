@@ -1,0 +1,71 @@
+[
+  {
+    "title": "It's A 10 Miracle Hair Mask , 8-Ounces Jars",
+    "description": "1. Detangles 2. Restores Moisture 3. Instantly Restores Elasticity 4. Softens 5. Smoothes 6. Imparts Luminous Shine 7. Enhances Natural Body 8. Nourishes 9. Defrizzes 10. Improves color vibrancy",
+    "itemID": "B000ZLVUYO",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 280
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Hair & Scalp Treatments"
+      ]
+    ],
+    "price": 17.15,
+    "brand": "Its a 10"
+  },
+  {
+    "title": "The Regimen - Complete acne treatment kit from Acne.org (Travel Kit - 4-5 days)",
+    "description": "Hi everybody, I'm Dan. I suffered for years with acne and tried everything. Like many of you have probably experienced as well, nothing worked. So, I went to work researching everything I possibly could about acne and after years of trial and error I found a treatment routine that cleared me up completely using only common drugstore products. I made Acne.org to share my regimen with the world. Pretty much everyone who follows it closely gets clear--even people with severe acne. After 6 years of The Regimen being completely not-for-profit, I developed a line of larger sized, higher quality products to make The Regimen more affordable and effective for everybody. Here they are! -Dan",
+    "itemID": "B001MAAG0Q",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 141398
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Treatments & Masks"
+      ]
+    ],
+    "price": NaN,
+    "brand": NaN
+  },
+  {
+    "title": "Dr. Hauschka Day Cream, Rose, 1.0-Ounce Box",
+    "description": "Dr. Hauschka - Rose Day Cream Travel Size - 0.17 oz",
+    "itemID": "B001V9LUZS",
+    "helpful": [
+      2,
+      3
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 19889
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Creams & Moisturizers",
+        "Day Creams"
+      ]
+    ],
+    "price": 59.95,
+    "brand": NaN
+  }
+]

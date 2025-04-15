@@ -1,0 +1,69 @@
+[
+  {
+    "title": "ATOMIC PINK SPECIAL EFFECTS/HAIR",
+    "description": "The most intense long-lasting semi-permanent hair color on the market. Generally lasts 3 to 6 weeks on most hair types. Lasts longer on bleached or pre-lightened hair.",
+    "itemID": "B000NL34JU",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Health & Personal Care": 25928
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Hair Color"
+      ]
+    ],
+    "price": 13.49,
+    "brand": NaN
+  },
+  {
+    "title": "Healing Color Care Trauma Treatment Treatment Unisex by L'Anza, 5.1 Ounce",
+    "description": "Apply to towel-dried hair and leave-in for continuous healing action. Style as desired. Use as often as needed to heal traumatized hair. Regular use will improve color attachment during color services and improve color longevity after color services.",
+    "itemID": "B000GI3U6C",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 82244
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Hair & Scalp Treatments"
+      ]
+    ],
+    "price": 18.25,
+    "brand": "L&#39;anza"
+  },
+  {
+    "title": "REVLON Colorburst Lip Butter, Sweet Tart, 0.09 Ounce",
+    "description": "Color burst lip butter combines beautiful color with a buttery balm to give you baby soft, healthy glowing lips. It has a pampering gel formula which glides on lips buttery smooth and instantly hydrates lips.",
+    "itemID": "B006GQEI0A",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 8269
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Lips",
+        "Lipstick"
+      ]
+    ],
+    "price": 9.83,
+    "brand": "Revlon"
+  }
+]

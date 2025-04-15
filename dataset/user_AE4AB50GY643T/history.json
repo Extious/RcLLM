@@ -1,0 +1,71 @@
+[
+  {
+    "title": "OPI Nail Envy Original, 0.5 Ounce",
+    "description": "You wouldn't face harsh elements without a coat, so why leave your nails unprotected Fortify, protect, and harden thin, brittle natural nails with the Original Nail Envy. For results, apply two coats, followed by a one-coat application every other day.",
+    "itemID": "B00178TVXG",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 200
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Nails",
+        "Nail Polish"
+      ]
+    ],
+    "price": 9.5,
+    "brand": "OPI"
+  },
+  {
+    "title": "e.l.f. Cosmetics 12 Piece Brush Set",
+    "description": "Set includes concealer brush blush/bronzer brush foundation brush blending eye brush smudge eye sponge eye liner brush total face brush defining eye brush eyelash and brow wand lip defining brush brow comb and brush eye shadow brush.",
+    "itemID": "B001HKR6WM",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 177
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Tools & Accessories",
+        "Makeup Brushes & Tools",
+        "Brushes & Applicators"
+      ]
+    ],
+    "price": 12.99,
+    "brand": "e.l.f. Cosmetics"
+  },
+  {
+    "title": "Eltamd UV Clear SPF 46, 48-Gram 1.7 oz.",
+    "description": "Elta MD UV Shield 46 helps reduce the appearance of blemishes, discoloration, and photo-damaged skin while protecting from broad spectrum of UVA/UVB rays. UV Shield is lightweight and contributes to maintaining clean, clear, smooth skin. This product is great for all skin types, including acne-prone skin and also oil-free, paraben-free, non-comedogenic, sensitivity-free, and fragrance-free.UV Clear is formulated with 5% pure form Niacinamide, which is a part of the family of Vitamin B3 or niacine without the same toxic effects. The purer form used in this product has less or no nicotinic acid which can cause flushing or irritation and is also odorless.",
+    "itemID": "B002MSN3QQ",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 13
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Sun",
+        "Skin Protection"
+      ]
+    ],
+    "price": 22.67,
+    "brand": "EltaMD"
+  }
+]

@@ -1,0 +1,48 @@
+[
+  {
+    "title": "Godefroy Shape and Tint, Medium Brown, 3 Count",
+    "description": "Now you can achieve professional salon results at home. Shape and Tint gives you the tools you need to shape your brows and enhance your brow color in one complete kit. No more daily application of eye pencils or eye powders. It covers the most resistant gray hair 100% in less than 5 minutes.",
+    "itemID": "B000F4GLQS",
+    "helpful": [
+      0,
+      1
+    ],
+    "overall": 1.0,
+    "salesRank": {
+      "Beauty": 40391
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Eyes",
+        "Eyebrow Color"
+      ]
+    ],
+    "price": 9.94,
+    "brand": "Godefroy"
+  },
+  {
+    "title": "Too Faced Boudoir Eyes Soft and Sexy Eye Shadow Collection, 0.39 Ounce",
+    "description": "Why we love it: our new hand-picked collection of eye shadows create looks for the bedroom and beyond. Along with four boudoir-worthy colors, we created five new shades just for this palette for a total of nine soft and sexy colors.",
+    "itemID": "B00AVUE1S6",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 8258
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Eyes",
+        "Eye Shadow"
+      ]
+    ],
+    "price": 33.96,
+    "brand": "Too Faced"
+  }
+]

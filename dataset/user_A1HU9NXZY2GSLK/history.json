@@ -1,0 +1,72 @@
+[
+  {
+    "title": "L'Oreal Paris HiP Studio Secrets Professional Shocking Shadow Pigments, Restless, 0.05 Ounce",
+    "description": "Discover the secret for luminous, beautifully highlighting eye color with hip studio secrets professional shocking shadow pigments.  The rich, loose shadows are available in 12 intensely pigmented shades and each comes with a professional brush.",
+    "itemID": "B001H928KI",
+    "helpful": [
+      0,
+      1
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 51003
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Eyes",
+        "Eye Shadow"
+      ]
+    ],
+    "price": 5.5,
+    "brand": "L&#39;Oreal Paris"
+  },
+  {
+    "title": "Ardell Brow and Lash Growth Accelerator",
+    "description": "Ardell Brow and Lash Accelerator Treatment Gel is a concentrated serum of multi proteins that works to immediately repair weak lashes and restore thickness of over tweezed or thinning brows. Added conditioners soften dry, brittle lashes enabling them to grow longer, thicker and fuller. Use nightly. After cleansing face, brush on to lashes and or brows. Leave on all night.",
+    "itemID": "B000VDUOFM",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 4365
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Tools & Accessories",
+        "Makeup Brushes & Tools",
+        "Eyelash Tools",
+        "Fake Eyelashes & Adhesives"
+      ]
+    ],
+    "price": 1.79,
+    "brand": "Ardell"
+  },
+  {
+    "title": "NYX Cosmetics Black Label Lipstick, Heiress, 0.15 Ounce",
+    "description": "NYX first class color collection for the lips. Ultra creamy texture glides on smoothly. Provides rich, long-lasting color. Emollients moisturize, condition and protect lips.",
+    "itemID": "B002QXINAS",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 107353
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Lips",
+        "Lipstick"
+      ]
+    ],
+    "price": 7.49,
+    "brand": "NYX"
+  }
+]

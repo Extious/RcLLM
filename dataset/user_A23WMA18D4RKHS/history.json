@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Wild Growth Hair Oil 4 Oz",
+    "description": "Wild Growth Hair Oil is made of 100% natural ingredients that work together to condition, detangle and help you achieve longer-lasting presses.",
+    "itemID": "B000V8MTIC",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 1446
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Hair Loss Products",
+        "Hair Regrowth Treatments"
+      ]
+    ],
+    "price": 8.19,
+    "brand": "Wild Growth"
+  },
+  {
+    "title": "Organic R/S Root Stimulator Olive Oil Heat Protection Serum, 6 Ounce",
+    "description": "Provides heat protection for hair. It helps to straighten the hair while shielding it from heat damage caused by using hot tools including blow dryers, curling and flat irons. Infused with coconut oil and essence of olive oil to add shine and moisture. Aids in leaving the hair silky, shiny and smooth.",
+    "itemID": "B003GQQDQK",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 67696
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Lotions"
+      ]
+    ],
+    "price": 2.64,
+    "brand": "Organic R/S"
+  },
+  {
+    "title": "Revlon Compact Emery Boards, 24 Count",
+    "description": "Revlon Compact Emery Boards is a 24 pack of disposable, compact files",
+    "itemID": "B004K0MVKS",
+    "helpful": [
+      1,
+      2
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 37312
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Tools & Accessories",
+        "Nail Tools",
+        "Nail Files & Buffers"
+      ]
+    ],
+    "price": 4.04,
+    "brand": "Revlon"
+  }
+]

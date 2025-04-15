@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Skincare LdeL Cosmetics, Retinol Enriched Anti-Wrinkle Facial Serum, 1-Ounce Bottle",
+    "description": "Retinol Anti-Wrinkle Facial Serum is formulated with the highest concentration of Retinol Palmitate within the entire Skincare LdeL Cosmetics line.",
+    "itemID": "B002RL8IYA",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 11070
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Creams & Moisturizers"
+      ]
+    ],
+    "price": 13.2,
+    "brand": "Skincare LdeL Cosmetics Retinol"
+  },
+  {
+    "title": "Creative Nail Creative Nail Design Vinylux Nail Lacquer, Weekly Top Coat, 0.5 Fluid Ounce",
+    "description": "Vinylux weekly polish and weekly top coat are a system that is uniquely design to work together. Patent-pending pro-light technology creates a powerful network of cross-linked polymer bonds that build resistance to chips, and enhance durability with exposure to natural light over time.",
+    "itemID": "B00CNE2GOO",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 173
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Nails",
+        "Nail Polish"
+      ]
+    ],
+    "price": 6.5,
+    "brand": "Creative Nail"
+  },
+  {
+    "title": "Phytodefrisant Botanical Hair Relaxing Balm, 3.5-Ounce",
+    "description": "Phytodefrisant is a relaxing balm for all hair types, naturally curly or permed hair. Ferula, horseradish and garlic extracts coat and straighten hair without any chemical action. The non-oily formula won't weaken hair. Imparts shine as hair is blow-dried to smooth, straight perfection.",
+    "itemID": "B000HLRP7S",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 49158
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Hair Relaxers",
+        "Creams"
+      ]
+    ],
+    "price": 17.99,
+    "brand": "Phyto"
+  }
+]

@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Upper Canada Soap And Candle Naturally Whipped Hand Repair, Sweet Vanilla Fig, 4-Ounce Tubes (Pack of 2)",
+    "description": "Naturally Whipped Hand Repair is nourishment for your hands! This botanical-based line is made with all-natural ingredients with known restorative properties to nourish the skin. Free of parabens, mineral oils and synthetic dyes. Upper Canada Soap and Candle has been bringing quality ingredients, innovative ideas and value to bath and body products since 1969.",
+    "itemID": "B001A5S3BM",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": NaN,
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Hands & Nails",
+        "Hand Creams & Lotions"
+      ]
+    ],
+    "price": NaN,
+    "brand": NaN
+  },
+  {
+    "title": "Axe Styling Aid, Hold Plus Touch, Spiking Glue, 3.2 Ounce",
+    "description": "AXE Hold+Touch Spiking Glue for strong hold plus touchable feel for normal hair.",
+    "itemID": "B004UKENRC",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 54200
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Creams, Gels & Lotions"
+      ]
+    ],
+    "price": 4.78,
+    "brand": "AXE"
+  },
+  {
+    "title": "Neutrogena Ultra Gentle Soothing Lotion SPF 15, 4  Ounce",
+    "description": "Neutrogena Ultra Gentle Soothing Lotion is clinically proven to instantly soothe even the most sensitive skin.",
+    "itemID": "B0054MSBZA",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 34157
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Creams & Moisturizers",
+        "Fluids & Lotions",
+        "Lotions"
+      ]
+    ],
+    "price": 12.75,
+    "brand": "Neutrogena"
+  }
+]

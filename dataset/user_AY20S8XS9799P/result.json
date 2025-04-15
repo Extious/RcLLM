@@ -1,0 +1,118 @@
+[
+  {
+    "title": "Motions Naturally You, Moisturizing Cleanser, 8 Ounce",
+    "description": "",
+    "itemID": "B0072XRJ20",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 52404
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 8.09,
+    "brand": "Motions"
+  },
+  {
+    "title": "Suave Professionals Moroccan Infusion Moroccan Argan Styling Oil, 3 Ounce",
+    "description": "",
+    "itemID": "B00A0IWSIO",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 3404
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Hair Styling Serums"
+      ]
+    ],
+    "price": 6.65,
+    "brand": "Suave"
+  },
+  {
+    "title": "Biore Deep Cleansing Pore Strips Combo Pack, 14 strips",
+    "description": "Instantly removes pore-clogging dirt, oil and blackheads. Give yourself the confidence your crave and the looks you desire with the Deep Cleansing formula.",
+    "itemID": "B0068G8EZ8",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 6978
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Treatments & Masks",
+        "Pore Cleansing Strips"
+      ]
+    ],
+    "price": 8.99,
+    "brand": "Biore"
+  },
+  {
+    "title": "Vaseline, Total Moisture, Cocoa Radiant, Body Lotion, 20.3 oz Bottle (Pack of 3)",
+    "description": "",
+    "itemID": "B001ECQ5CA",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 52457
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Lotions"
+      ]
+    ],
+    "price": 17.96,
+    "brand": "Vaseline"
+  },
+  {
+    "title": "Miss Jessie's Curly Buttercreme-2 oz",
+    "description": "Our legendary super softening souffle spiked with extra cooling peppermint essence is the premium ultimate for growing out natural hair and preventing peppercorn tangled knotted ends. SUPREMELY HYDRATING HAIRDRESS FOR PARCHED KINKS and CURLS. Instructions for use: Apply a nickel sized dollop to instantly soften dry, crunchy curls. Excellent for taming hairline edges, moisturizing pony puffs, two strand twists, coils, braids, cornrows, naturals. Great for: 2 Strand Twists, Pony Puffs, Braids, Hairline Grooming Creme, Short Naturals and Fades, Growing out Natural Hair.",
+    "itemID": "B001G0W96G",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 84537
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Curl Enhancers"
+      ]
+    ],
+    "price": 9.95,
+    "brand": "Miss Jessie&#39;s"
+  }
+]

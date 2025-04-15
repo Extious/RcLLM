@@ -1,0 +1,96 @@
+[
+  {
+    "title": "e-cloth Kitchen Pack, 2-Piece",
+    "description": "",
+    "itemID": "B0026UIFUE",
+    "helpful": [
+      0,
+      1
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Home &amp; Kitchen": 32858
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Lotions"
+      ]
+    ],
+    "price": 13.98,
+    "brand": "E-Cloth"
+  },
+  {
+    "title": "Banana Boat Sport Cool Zone Sunscreen Continuous Spray SPF 50, 6 Fluid Ounce",
+    "description": "BANANA BOAT sunscreen ultra mist sport performance cool zone, SPF 50, 6-ounces. Long-lasting continuous spray sunscreen. Cool zone instantly cools and refreshes skin. Broad spectrum UVA or UVB protection. Invisible, rub-free, quick drying, and non-greasy. Very water or sweat resistant.",
+    "itemID": "B0063A432W",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 1702
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Sun",
+        "Skin Protection",
+        "Sports"
+      ]
+    ],
+    "price": 9.54,
+    "brand": "Banana Boat"
+  },
+  {
+    "title": "Authentic Organic African Shea Butter FILTERED &amp; CREAMY 32 Oz",
+    "description": "Why do we filter it? Raw Unrefined Shea Butter is shipped from Africa full of impurities and broken shells etc. We Systematically clean most of it, we pack it well and we sell it as such. However 10% of all the impurities cannot be removed unless we melt the Shea Butter at a controlled temperature. Then We mechanically filter it, add shea oil to it to increase the ratio of the fatty acids then restore it to its solid state through a process we ( Organic Herbal Essence ) mastered in our Lab so that the final product is nevrer grainy nor brittle but rather soft and creamy. Please Note that Shea Butter hardens in cool temperature and softens when slightly heated. The filtered shea butter is much superior at the unfiltered one although both are RAW AND UNREFINED, it also saves time and money since the filtered Shea butter is ready for use right away.",
+    "itemID": "B004XL4IN2",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 43040
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Body Butter"
+      ]
+    ],
+    "price": 16.25,
+    "brand": NaN
+  },
+  {
+    "title": "Suave Professionals Natural Infusion Macadamia Oil and White Orchid Shampoo, 12.6 Ounce",
+    "description": "",
+    "itemID": "B00HSNWZFU",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 13653
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 7.0,
+    "brand": "Suave"
+  }
+]

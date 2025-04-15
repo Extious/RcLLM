@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Cetaphil Daily Facial Moisturizer with Sunscreen, SPF 50+, 1.7 Fluid Ounce (Pack of 2) - Packaging May Vary",
+    "description": "",
+    "itemID": "B001GIOW3G",
+    "helpful": [
+      4,
+      5
+    ],
+    "overall": 1.0,
+    "salesRank": {
+      "Beauty": 10502
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Creams & Moisturizers"
+      ]
+    ],
+    "price": 26.73,
+    "brand": "Cetaphil"
+  },
+  {
+    "title": "Laura Mercier Lip Glace - Blush",
+    "description": "Laura Mercier Lip Glace is a high-shine, perfectly pigmented lip gloss with rich, long-lasting colour and brilliant shine that makes lip appear fuller, virtually enhancing any skin tone by creating a subtle contrast in texture",
+    "itemID": "B00166IQ6W",
+    "helpful": [
+      4,
+      5
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Health & Personal Care": 189118
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Lips",
+        "Lip Glosses"
+      ]
+    ],
+    "price": 20.44,
+    "brand": "laura mercier"
+  },
+  {
+    "title": "Biore Deep Cleansing Pore Strips Combo 14 Ea",
+    "description": "Pore Perfect&reg;New!&nbsp;LookUnclogs &amp; DiminishesContains 7 Face Strips &amp; 7 Nose Strips.Do a double take on clogged pores.&nbsp; Deep cleansi",
+    "itemID": "B0009EILI0",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 53266
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Cleansers"
+      ]
+    ],
+    "price": 8.89,
+    "brand": "Biore"
+  }
+]

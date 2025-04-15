@@ -1,0 +1,71 @@
+[
+  {
+    "title": "e.l.f. Blush Brush",
+    "description": "The tailored design allows for easy maneuvering and precise color application creates a beautifully defined and sculpted look can be used to apply blush or bronzer.",
+    "itemID": "B00373OK3A",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 75465
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Tools & Accessories",
+        "Makeup Brushes & Tools",
+        "Brushes & Applicators"
+      ]
+    ],
+    "price": 5.97,
+    "brand": "e.l.f. Cosmetics"
+  },
+  {
+    "title": "NYX Matte Lipstick, Nude",
+    "description": "NYX matte lipsticks are highly pigmented, richly formulated lipsticks that glide on smoothly, stay put and impart a non-glossy, high-fashion matte finish as they envelop lips in brilliant color. From pure red to nude, matte lipstick is available in 22 rich, shades.",
+    "itemID": "B005FYJB92",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Beauty": 3930
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Lips",
+        "Lipstick"
+      ]
+    ],
+    "price": 5.88,
+    "brand": "NYX"
+  },
+  {
+    "title": "Z palette Customizable Makeup Palette, Small 1 ea",
+    "description": "Are you tired of all that clutter that results from having products from all different brands of makeup? Do your favorite shadows and blushes only come in packaged form instead of pan form ready for palettes? Get organized and downsize with Z palette. It's your first step to get efficient and clean up that valuable space.The high quality palette and its exclusive design will allow for all sizes and shapes of shadows and blushes to fit together in one palette. It's slim, durable, and interchangeable to your preference. No need to taking multiple cases of shadows for just that one color. Now you can have your everyday basics and your special occasion colors all in one place. The best part is the clear window to let you know immediately what's inside. It also features a foldable top portion to take up les space on your vanity.Designed by an Emmy award-winning Hollywood makeup artist, Z palette was created to help the makeup professional and the everyday woman get streamlined once and for all.",
+    "itemID": "B0038O0YEC",
+    "helpful": [
+      2,
+      2
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 6168
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Tools & Accessories",
+        "Bags & Cases",
+        "Refillable Containers"
+      ]
+    ],
+    "price": 13.0,
+    "brand": "Z Palette"
+  }
+]

@@ -1,0 +1,71 @@
+[
+  {
+    "title": "All Season Glass Dappen Dish",
+    "description": "The All Season Glass Dappen Dish is sanitary, economical and sturdy. A must for every salon!",
+    "itemID": "B003UM6TJG",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 5445
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Tools & Accessories",
+        "Nail Tools",
+        "Nail Art Equipment"
+      ]
+    ],
+    "price": 1.72,
+    "brand": "ASP"
+  },
+  {
+    "title": "niceEshop Nail Clipper Acrylic Uv GEL False Tips Cutter 46p(Nail Clipper)",
+    "description": "Package includes: 1 x Pink Nail Clipper Cutter",
+    "itemID": "B006L16BHS",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 510
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Tools & Accessories",
+        "Nail Tools",
+        "Clippers & Trimmers"
+      ]
+    ],
+    "price": 2.21,
+    "brand": "Nail Clipper"
+  },
+  {
+    "title": "500pcs Lady White French Acrylic Style Artificial False Nails Half Tips",
+    "description": "Products trademarked VRG are marketed and sold exclusively by VRGamerz",
+    "itemID": "B006T8T0P8",
+    "helpful": [
+      0,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 1417
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Tools & Accessories",
+        "Nail Tools",
+        "False Nails"
+      ]
+    ],
+    "price": 2.69,
+    "brand": "nail world365"
+  }
+]

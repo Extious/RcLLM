@@ -1,0 +1,73 @@
+[
+  {
+    "title": "Conair 1875 Watt 3-in-1 Ionic Hair Styler",
+    "description": "The Ionic Styler 1875-watt styler features a delivery system that locks your favorite hair style into place. with 2 heat and 2 speed settings and a hinged filter, any style is your style. with convenient dual voltage for your worldwide travels and a shape and size that makes it easily packed, you can take this dryer anywhere. the thermal styling brush and 2 comb attachments and cool shot option locks your style in place.",
+    "itemID": "B000JUV816",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 1606
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Hair Dryers"
+      ]
+    ],
+    "price": 26.08,
+    "brand": "Conair"
+  },
+  {
+    "title": "St. Ives Facial Moisturizer, Timeless Skin Collagen Elastin, 10oz",
+    "description": "",
+    "itemID": "B000UVZU1S",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 277
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Creams & Moisturizers",
+        "Fluids & Lotions",
+        "Lotions"
+      ]
+    ],
+    "price": 7.46,
+    "brand": "St. Ives"
+  },
+  {
+    "title": "Cold By United Colors Of Benetton For Men. Eau De Toilette Spray 3.3 Ounce",
+    "description": "Launched by the design house of Benetton in 1997, COLD is a men's fragrance that possesses a blend of lemon, mandarin, and geranium.  It is recommended for romantic wear.When&#xA0;applying&#xA0;any fragrance please consider that there are several factors which can affect the natural smell of your skin and, in turn, the way a scent smells on you.&#xA0; For instance, your mood, stress level, age, body chemistry,&#xA0;diet, and current medications may all alter the scents you wear.&#xA0;&#xA0;Similarly, factor such as dry or oily&#xA0;skin can even affect the amount of time a fragrance will last after being applied",
+    "itemID": "B000VOLJGO",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 5912
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Fragrance",
+        "Men's",
+        "Eau de Toilette"
+      ]
+    ],
+    "price": 10.23,
+    "brand": "Benetton"
+  }
+]

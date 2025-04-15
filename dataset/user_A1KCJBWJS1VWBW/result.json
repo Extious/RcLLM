@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Albolene Moisturizing Cleanser, 12oz",
+    "description": "Enhances warm-up time, weight loss and the sweating process during workouts.",
+    "itemID": "B000NLHXEC",
+    "helpful": [
+      7,
+      11
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 606
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Oils"
+      ]
+    ],
+    "price": 13.25,
+    "brand": "Albolene"
+  },
+  {
+    "title": "Remington H-1015 Ceramic Compact, Large and Medium Roller",
+    "description": "All the Power! All the Features! All the Style!",
+    "itemID": "B000EPJNMW",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 1882
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Hair Rollers"
+      ]
+    ],
+    "price": 17.97,
+    "brand": "Remington"
+  },
+  {
+    "title": "Enjoy Hair &amp; Skin Treatment Oil (3.4 oz)",
+    "description": "This incredible non-greasy, dry lightweight formula instantly penetrates and absorbs into hair and skin reducing drying time dramatically without buildup. Smooth, condition, and seal with amazing shine. Eliminates frizz. Locks in moisture, blocks out humidity. Alcohol-Free. For All Hair Types. Excellent for use on dry skin areas, cuticles, nails, feet, hands and elbows.  (3.4 oz)",
+    "itemID": "B0028NA9US",
+    "helpful": [
+      11,
+      11
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 3117
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Hair & Scalp Treatments"
+      ]
+    ],
+    "price": 7.23,
+    "brand": "Enjoy"
+  }
+]

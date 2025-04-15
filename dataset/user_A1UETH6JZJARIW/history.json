@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Aquis Exfoliating Back Scrubber",
+    "description": "Get your skin glowing from head to toe with the innovative, two-sided technology of our Aquitex XF exfoliating material.  One side offers a textured, loofah-like surface that deeply exfoliates and massages, enhancing circulation and invigorating the skin.  The other side features a soft, smooth microfiber surface that gently deep-cleans even the most delicate skin.",
+    "itemID": "B000I20Q72",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 229
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Bathing Accessories",
+        "Loofahs, Sponges & Poufs"
+      ]
+    ],
+    "price": 10.49,
+    "brand": "Aquis"
+  },
+  {
+    "title": "Maybelline New York Illegal Length Fiber Extensions Washable Mascara, Very Black, 0.22 Fluid Ounce",
+    "description": "Build lashes with 4 mm of measurable extensions illegal length mascara's fiber extensions break every law of lengthening. Created with the longest fibers ever in a mascara, illegal length's patented sealing formula and fiber-fix brush give your lashes a dramatically longer look. Available in washable and waterproof formula.",
+    "itemID": "B006UET9HK",
+    "helpful": [
+      3,
+      3
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 64756
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Eyes",
+        "Mascara"
+      ]
+    ],
+    "price": 4.99,
+    "brand": "Maybelline"
+  },
+  {
+    "title": "Maybelline New York Instant Age Rewind Primer Skin Transformer, Clear, 0.85 Fluid Ounce",
+    "description": "Instantly create a perfectly smooth canvas for ideal makeup application with instant age rewind primer skin transformer. Lines, wrinkles, pores and imperfections appear to instantly vanish in just one step. Enhances skin's radiance. Subtle pink tint for a youthful glow",
+    "itemID": "B002ZTT9II",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 1364
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Foundation Primers"
+      ]
+    ],
+    "price": 5.66,
+    "brand": "Maybelline"
+  }
+]

@@ -1,0 +1,71 @@
+[
+  {
+    "title": "GiGi Mini Pro Waxing Kit",
+    "description": "The GiGi Mini Pro Waxing Kit is a perfect starter package for in salon or home use waxing.",
+    "itemID": "B000BJ1CGQ",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 1479
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face"
+      ]
+    ],
+    "price": 35.71,
+    "brand": "GiGi"
+  },
+  {
+    "title": "OPI: Lacquer NLS86 Bubble Bath, 0.5 oz",
+    "description": "Nothing completes a look more beautifully than nails wearing the seasons most significant colors. Changing a Nail Lacquer shade can change a womans entire look _ and her outlook. With over 200 shades, you are sure to find what you're looking for.",
+    "itemID": "B000CECSAO",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 866
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Nails",
+        "Nail Polish"
+      ]
+    ],
+    "price": 4.35,
+    "brand": "OPI"
+  },
+  {
+    "title": "Opi Avoplex Nail and Cuticle Replenishing Oil, 0.5 Fluid Ounce",
+    "description": "Moisturizes and conditions cuticles and nails with OPI's exclusive avocado lipid complex.",
+    "itemID": "B000TBW0NA",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 2008
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Hands & Nails",
+        "Cuticle Care",
+        "Cuticle Creams & Oils"
+      ]
+    ],
+    "price": 6.89,
+    "brand": "OPI"
+  }
+]

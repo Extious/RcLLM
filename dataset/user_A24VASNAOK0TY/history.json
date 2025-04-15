@@ -1,0 +1,71 @@
+[
+  {
+    "title": "CHI Silk Infusion Leave-In Treatment, 12 Ounce",
+    "description": "Farouk CHI Silk Infusion is specifically developed to work in conjunction with the CHI Styling Tool product lines. CHI Silk Infusion is a rich leave-in-treatment formulated with pure silk, wheat and soy proteins that will penetrate deep.",
+    "itemID": "B000BX1Z00",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 61432
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Creams, Gels & Lotions"
+      ]
+    ],
+    "price": NaN,
+    "brand": NaN
+  },
+  {
+    "title": "L'Oreal Paris Voluminous Smoldering Eyeliner, Black, 0.087 Ounces",
+    "description": "L'Oreal, building on the popularity of prestige kajal liners, introduces the first true kajal pencil to the mass market with a custom sharpener. Kajal inspired smoldering liner adds intense black definition to your eye.",
+    "itemID": "B005EIIAPA",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 5219
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Eyes",
+        "Eyeliner"
+      ]
+    ],
+    "price": 6.36,
+    "brand": "L&#39;Oreal Paris"
+  },
+  {
+    "title": "Covergirl Lip Perfection Lipliner Radiant 230, 0.04-Ounce",
+    "description": "For fifty years, COVERGIRL has created must-have beauty products that bring out the best in women. We understand the transformative effect makeup can have not just on the outside, but the inside as well and have always been an advocate of women rocking their unique kind of beautiful. Since 1961, COVERGIRL has made it easy, breezy, and beautiful to be yourself.",
+    "itemID": "B0043TUVNU",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 136587
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Lips",
+        "Lip Liners"
+      ]
+    ],
+    "price": 3.99,
+    "brand": "COVERGIRL"
+  }
+]

@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Moroccan Oil Intense Hydrating Mask 8.5 Ounce",
+    "description": "Introducing the power of Moroccanoil. The Moroccanoil treatments have the ability to restore condition to over-processed hair, caused by colour procedures, perms and enviromental factors. This Intense Hydrating Mask is a rich, creamy treatment, designed to hydrate and help repair damaged hair. Moroccanoil's Intense Hydrating Mask is a high performace mask that does not need heat to be activated; only 5 to 7 minutes will treat hair with needed moisture whilst helping to add shine and elasticity.With continued use, this highly effective mask helps revitalise hair, restoring shine and manageability.",
+    "itemID": "B002N5MKMG",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 325
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Fragrance",
+        "Women's",
+        "Eau de Parfum"
+      ]
+    ],
+    "price": 23.6,
+    "brand": "Moroccanoil"
+  },
+  {
+    "title": "100 Percent Pure Luminous Primer 1 oz.",
+    "description": "100% Pure Luminous Primer is full of vitamins and antioxidants to nourish and protect your skin, while creating a radiant complexion. Red wine resveratrol, a powerful antioxidant, helps slow down the effects of aging as vitamins further protect and smooth your skin. The light-reflecting pigments perfect your complexion, for a healthy, glowing appearance.",
+    "itemID": "B0042PEBMM",
+    "helpful": [
+      6,
+      6
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Health & Personal Care": 30303
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Creams & Moisturizers"
+      ]
+    ],
+    "price": 26.03,
+    "brand": "100 Percent Pure"
+  },
+  {
+    "title": "Benefit Cosmetics Lemon Aid",
+    "description": "What it is:A color-correcting eyelid primer.What it does:Benefit Lemon Aid is a miracle-working soft-yellow correcting cream that instantly hides redness and discoloration on your eyelids.What else you need to know:In a snap, eyes look refreshed, frisky, and ready for fun.",
+    "itemID": "B001CJMLHS",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 20127
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Eyes",
+        "Eye Shadow"
+      ]
+    ],
+    "price": 20.49,
+    "brand": "Benefit Cosmetics"
+  }
+]

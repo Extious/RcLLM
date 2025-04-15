@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Remington D1001 Ceramic Airwave Hair Dryer with Wave Attachment and Anti Static Technology",
+    "description": "The emi Airwave infused with anit-static technology is a unique dryer that includes attachments to different looks. The airwave attachment twirls hair into gorgeous lose waves while the concentrator creates smooth straight looks. The dryer also contain ionic ceramic and has 2 heat and 3 speed settings. The 1875 watt dryer has a cool shot which helps you set your style and has a 2 year warranty.",
+    "itemID": "B001LF4G44",
+    "helpful": [
+      8,
+      9
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 221158
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Hair Dryers"
+      ]
+    ],
+    "price": NaN,
+    "brand": NaN
+  },
+  {
+    "title": "Ardell Brow and Lash Growth Accelerator",
+    "description": "Ardell Brow and Lash Accelerator Treatment Gel is a concentrated serum of multi proteins that works to immediately repair weak lashes and restore thickness of over tweezed or thinning brows. Added conditioners soften dry, brittle lashes enabling them to grow longer, thicker and fuller. Use nightly. After cleansing face, brush on to lashes and or brows. Leave on all night.",
+    "itemID": "B000VDUOFM",
+    "helpful": [
+      29,
+      32
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 4365
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Tools & Accessories",
+        "Makeup Brushes & Tools",
+        "Eyelash Tools",
+        "Fake Eyelashes & Adhesives"
+      ]
+    ],
+    "price": 1.79,
+    "brand": "Ardell"
+  },
+  {
+    "title": "Eucerin Intensive Repair Extra-Enriched Hand Creme, 2.7 Ounce Tube",
+    "description": "",
+    "itemID": "B001699TI8",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 488
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Hands & Nails",
+        "Hand Creams & Lotions"
+      ]
+    ],
+    "price": 5.5,
+    "brand": "Eucerin"
+  }
+]

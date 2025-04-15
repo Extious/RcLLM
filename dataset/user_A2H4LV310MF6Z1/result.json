@@ -1,0 +1,94 @@
+[
+  {
+    "title": "Ardell Brow and Lash Growth Accelerator",
+    "description": "Ardell Brow and Lash Accelerator Treatment Gel is a concentrated serum of multi proteins that works to immediately repair weak lashes and restore thickness of over tweezed or thinning brows. Added conditioners soften dry, brittle lashes enabling them to grow longer, thicker and fuller. Use nightly. After cleansing face, brush on to lashes and or brows. Leave on all night.",
+    "itemID": "B000VDUOFM",
+    "helpful": [
+      0,
+      1
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 4365
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Tools & Accessories",
+        "Makeup Brushes & Tools",
+        "Eyelash Tools",
+        "Fake Eyelashes & Adhesives"
+      ]
+    ],
+    "price": 1.79,
+    "brand": "Ardell"
+  },
+  {
+    "title": "NOW Foods Vegetable Glycerine, 4 Ounce",
+    "description": "NOW Foods Vegetable Glycerine",
+    "itemID": "B0015C0RIC",
+    "helpful": [
+      2,
+      2
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Health & Personal Care": 3324
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers"
+      ]
+    ],
+    "price": 5.27,
+    "brand": "Now Foods"
+  },
+  {
+    "title": "Revlon ColorBurst Lipstick, Baby Pink, 0.13 Fluid Ounces",
+    "description": "Innovative pigments provide immediate, high-pigment color release on lips with a featherlight feelMoisturizers and antioxidants, including sweet almond oil, improves lip texture. Elasticolor technology hugs lips with burst of vitually weightless color and moves comfortably with lips like a second skin. Contains film-forming polymers for longer wear and skin conditioning properties.Naturally fragrant with Vanilla Absolute and is Paraben free.",
+    "itemID": "B0030HAF4G",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 72568
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Lips",
+        "Lipstick"
+      ]
+    ],
+    "price": 7.29,
+    "brand": "Revlon"
+  },
+  {
+    "title": "COPPOLA by Coppola: KERATIN COMPLEX VANILLA BEAN DEEP CONDITIONER WITH KERATIN 7 OZ",
+    "description": "COPPOLA by Coppola KERATIN COMPLEX VANILLA BEAN DEEP CONDITIONER WITH KERATIN 7 OZ",
+    "itemID": "B003E0W9W0",
+    "helpful": [
+      5,
+      5
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Health & Personal Care": 18927
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Conditioners"
+      ]
+    ],
+    "price": 14.3,
+    "brand": "Keratin Complex"
+  }
+]

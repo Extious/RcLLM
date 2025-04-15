@@ -1,0 +1,48 @@
+[
+  {
+    "title": "The Brush Guard--Foundation Pack",
+    "description": "The Brush Guard is an entirely new brush care product which allows brushes to be washed and then dried in the best way possible: bristles down, and then stored with the vulnerable bristles protected.  The Brush Guard is a new, patented product which takes brush care to a whole new level of easy, effective hygiene.  Visit our website for more information: thebrushguard.com",
+    "itemID": "B004BOS5BM",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 50243
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Tools & Accessories",
+        "Makeup Brushes & Tools",
+        "Brushes & Applicators"
+      ]
+    ],
+    "price": 8.95,
+    "brand": NaN
+  },
+  {
+    "title": "The Brush Guard Blush Pack 8 Small",
+    "description": "Buy The Brush Guard Makeup Brushes & Applicators - The Brush Guard Blush Pack 8 Small",
+    "itemID": "B004BOUWD6",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 50250
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Tools & Accessories",
+        "Makeup Brushes & Tools",
+        "Brushes & Applicators"
+      ]
+    ],
+    "price": 8.95,
+    "brand": NaN
+  }
+]

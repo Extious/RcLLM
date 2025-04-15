@@ -1,0 +1,73 @@
+[
+  {
+    "title": "Olay Pro-X Advanced Cleansing System 0.68 Fl Oz, 1-Count",
+    "description": "",
+    "itemID": "B0043OYFKU",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 6
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Treatments & Masks",
+        "Microdermabrasion"
+      ]
+    ],
+    "price": 26.99,
+    "brand": "Olay"
+  },
+  {
+    "title": "BaByliss Pro - Porcelain Plate Ceramic Flat Iron - 1 Inch - model: BABP9557",
+    "description": "Commercial grade porcelain ceramic creates shiny, smooth finish. Porcelain emits negative ions that smooth and relax hair while generating far-infrared heat to protect hair's luster.",
+    "itemID": "B003H0U5BY",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 690
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Irons",
+        "Flattening Irons"
+      ]
+    ],
+    "price": 35.5,
+    "brand": "Babyliss Pro"
+  },
+  {
+    "title": "L'Oreal Excellence Creme Haircolor, Medium Blonde 8",
+    "description": "For soft, luminous streaks of light discover excellence cr&#xE8;me lights. The gentle, non-drip formula lets you create creamy, beautifully blended highlights in a few simple steps.  The result: rich, radiant highlights and not a gray in sight.",
+    "itemID": "B000GCVZSI",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 10500
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Hair Color",
+        "Chemical Hair Dyes"
+      ]
+    ],
+    "price": 7.18,
+    "brand": "L&#39;Oreal Paris"
+  }
+]

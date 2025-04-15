@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Renpure Originals My Pretty Hair is Parched! Moisturizing Conditioner, 13.5-Ounce",
+    "description": "Our family has been making hair care products for over 40 years with over a billion bottles produced worldwide.  we became concerned about all the chemicals our family was exposed to on a daily basis, so we developed a new line of hair care products free from harmful chemicals.  we use only 100% certified organic extracts and safe, fresh, natural ingredients.",
+    "itemID": "B0023AV2UM",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 1.0,
+    "salesRank": {
+      "Beauty": 36747
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Conditioners"
+      ]
+    ],
+    "price": 9.45,
+    "brand": "Renpure Organics"
+  },
+  {
+    "title": "Cor Silver Soap 120 g",
+    "description": "Fight acne with the antibacterial power of silver. Cor Silver Soap makes it easy to achieve clearer, younger-looking skin by cleansing, treating, and protecting the skin each time you wash--eliminating the need for separate products. Pomegranate 120 g....",
+    "itemID": "B000NC2QN4",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 83050
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Cleansers",
+        "Soaps"
+      ]
+    ],
+    "price": 87.36,
+    "brand": "Cor"
+  },
+  {
+    "title": "Murad Acne Clarifying Body Spray, Step 2 Treat/Repair, 4.3 fl oz (125 ml)",
+    "description": "Clears and prevents blemishes and skin breakouts. Reduces Acne Blemishes on Contact By: Treating and preventing breakouts. Healing and keeping skin healthy. 0.5% Salicylic Acid Acne Treatment. Revolutionary 360 degrees spray works upside down to fight breakouts in hard to reach places. Powerful anti-bacterial ingredients purify and clarify skin from head to toe. Salicylic Acid penetrates pores to clear up acne and prevent new breakouts from forming. Skin conditioners soothe and hydrate irritated skin. Dermatologist developed and tested. Murad does not test on animals. Made in the USA.",
+    "itemID": "B000GDDKJY",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 1.0,
+    "salesRank": {
+      "Beauty": 6029
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Treatments & Masks",
+        "Acids & Peels",
+        "Salicylic Acid"
+      ]
+    ],
+    "price": 24.89,
+    "brand": "Murad"
+  }
+]

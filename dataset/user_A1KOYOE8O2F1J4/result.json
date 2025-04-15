@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Remington D8410 Keratin Therapy Dryer",
+    "description": "",
+    "itemID": "B007E0FR84",
+    "helpful": [
+      1,
+      2
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 21530
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Hair Dryers"
+      ]
+    ],
+    "price": 31.3,
+    "brand": "Remington"
+  },
+  {
+    "title": "Schick Hydro 5 Disposable Razor, 3 Count",
+    "description": "",
+    "itemID": "B00AHF1GK6",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Health & Personal Care": 17391
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Oils"
+      ]
+    ],
+    "price": 9.97,
+    "brand": "Schick"
+  },
+  {
+    "title": "Zadro Z Fogless Water Mirror with LED Light Panel and Tri Accessory Holder, 6-Inch, Stainless Steel",
+    "description": "Looking our best requires reflecting the best. Get a brighter and clearer view with this 6\" Z Fogless Water Mirror with LED Light Panel & Tri Accessory Holder Stainless Steel from Zadro. These technologically advanced mirrors are fog resistant, making a mirror in the shower an absolute advantage to getting that clean shave because hot water opens pores making shaving smoother and faster. Zadro has been continually providing functional and award winning product designs for over 30 years. Zadro reflects the ever-changing lifestyles and needs of customers with a broad array of Personal Care Mirrors, Bath Accessories, Cosmetic Accessories and Health & Wellness Products!.",
+    "itemID": "B00A3Q9LPG",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 1.0,
+    "salesRank": {
+      "Home &amp; Kitchen": 251206
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Tools & Accessories",
+        "Mirrors",
+        "Shower Mirrors"
+      ]
+    ],
+    "price": 49.99,
+    "brand": "Zadro"
+  }
+]

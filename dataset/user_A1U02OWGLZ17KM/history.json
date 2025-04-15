@@ -1,0 +1,66 @@
+[
+  {
+    "title": "Florastor - 50 count, 250mg",
+    "description": NaN,
+    "itemID": "B000NB1OMO",
+    "helpful": [
+      8,
+      10
+    ],
+    "overall": 5.0,
+    "salesRank": NaN,
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care"
+      ]
+    ],
+    "price": 30.9,
+    "brand": "Biocodex"
+  },
+  {
+    "title": "CHI Deep Brilliance Reflect Silk Reflection for Unisex, 12 Ounce",
+    "description": "12 ounce Treatment",
+    "itemID": "B002LZ1QVY",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Beauty": 164083
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Hair Loss Products"
+      ]
+    ],
+    "price": NaN,
+    "brand": NaN
+  },
+  {
+    "title": "Method Gel Hand Wash Refill 34oz, Green Tea &amp; Aloe, (Pack of 6)",
+    "description": "glasses are better half-full. hand wash bottles, too. better yet, totally full. and for that, we offer this refill. it&#x2019;s full of enough biodegradable, naturally derived gel hand wash to refill your bottle nearly 3x. because the only thing worse than dirty hands is employing jeans-wiping as an interim solution.",
+    "itemID": "B002Y26V00",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Health & Personal Care": 17628
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Hands & Nails",
+        "Hand Soaps"
+      ]
+    ],
+    "price": 57.85,
+    "brand": "Method"
+  }
+]

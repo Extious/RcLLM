@@ -1,0 +1,70 @@
+[
+  {
+    "title": "Lysol No-Touch Kitchen System Dish Soap Dispenser Starter Kit, Tangerine, 8.5 Ounce",
+    "description": "",
+    "itemID": "B005YVI3UO",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Health & Personal Care": 15230
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Cleansers",
+        "Soaps"
+      ]
+    ],
+    "price": 9.99,
+    "brand": "Lysol"
+  },
+  {
+    "title": "Motions At Home Lavish Conditioning Shampoo, 13 Ounce Bottles (Pack of 6)",
+    "description": "",
+    "itemID": "B000YZGOZQ",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 183525
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 22.02,
+    "brand": NaN
+  },
+  {
+    "title": "Nivea Touch Of Happiness Moisturizing Body Wash, Orange Blossom, 16.9-Ounce Bottles (Pack of 3)",
+    "description": "This silky cream-gel with nourishing bamboo essence gives you incredibly soft skin while cleansing very mildly. Its indulging intense lathering formula is enriched with energizing orange blossom scent to awaken your senses.Formulated with NIVEA&#x2019;s Skin Sensation Technology to leave your skin smooth and moisturized, and to provide a shower experience that lasts and lingers.",
+    "itemID": "B001MIZMN4",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 1234
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Cleansers",
+        "Body Washes"
+      ]
+    ],
+    "price": 2.99,
+    "brand": "Nivea"
+  }
+]

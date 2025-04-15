@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Oribe Maximista Thickening Hair Spray 6.8 oz",
+    "description": "This thickening spray from Oribe is an update of technology. It provides a protective coating while lifting and holding the fullest hair. Gives great volume and can be used on color treated hair.",
+    "itemID": "B004UMYEIS",
+    "helpful": [
+      5,
+      8
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 2927
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Hair Sprays"
+      ]
+    ],
+    "price": 29.99,
+    "brand": "Oribe"
+  },
+  {
+    "title": "Oribe Dry Texturing Hair Spray, 8.5 Ounce",
+    "description": "Looking for big hair, then try this glamorous texture spray from Oribe. It provides volume and texture all elegant women are striving for.",
+    "itemID": "B003NXM9HS",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 258
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Hair Sprays"
+      ]
+    ],
+    "price": 43.98,
+    "brand": "Oribe"
+  },
+  {
+    "title": "Creative Nail Cuticle Away, 6 Fluid Ounce",
+    "description": "A professional cuticle remover and callus softener. This liquid gel dissolves dead skin around the nail for quick, easy and painless cuticle removal. Formulated with aloe vera to prevent over drying of the skin and nails, CND Cuticle Away can also be used to soften calluses for easy removal.",
+    "itemID": "B0012K3RFM",
+    "helpful": [
+      5,
+      5
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 2265
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Hands & Nails",
+        "Cuticle Care",
+        "Cuticle Removers"
+      ]
+    ],
+    "price": 5.8,
+    "brand": "Creative Nail"
+  }
+]

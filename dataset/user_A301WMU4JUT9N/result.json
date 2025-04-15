@@ -1,0 +1,47 @@
+[
+  {
+    "title": "WEN&reg; Lavender Volumizing Treatment Spray - 6oz",
+    "description": "This nourishing spray is designed to bring out your hair's full potential--not only adding volume and body but also targeting stress-related and environmental issues.",
+    "itemID": "B002YJIKHU",
+    "helpful": [
+      1,
+      2
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 10435
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Hair Sprays"
+      ]
+    ],
+    "price": 25.0,
+    "brand": "Chaz Dean Studio"
+  },
+  {
+    "title": "WEN&reg; Sweet Almond Mint Cleansing Conditioner 16oz",
+    "description": "Sweet Almond Mint is the perfect balance of nourishing herbs and natural ingredients designed to hydrate and replenish hair that has been damaged due to shampoo and other harsh elements. May be used as often as necessary, it thoroughly cleanses hair and scalp without stripping them of their natural oils, providing it with added moisture, strength and sheen.",
+    "itemID": "B0048O2R1E",
+    "helpful": [
+      1,
+      2
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 718
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Conditioners"
+      ]
+    ],
+    "price": 30.0,
+    "brand": "WEN&reg; by Chaz Dean"
+  }
+]

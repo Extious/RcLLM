@@ -1,0 +1,49 @@
+[
+  {
+    "title": "Dove Men+Care Aqua Impact Body and Face Bar, 8 count - 4 ounce bars",
+    "description": "",
+    "itemID": "B00AE07JJ6",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 422
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Cleansers",
+        "Soaps"
+      ]
+    ],
+    "price": 9.91,
+    "brand": "Dove"
+  },
+  {
+    "title": "21st Century Herbal Clear Deodorant, Aloe Fresh, 2.65-Ounce",
+    "description": "Obtain ultimate protection with the help of 21st Century Herbal Deodorant! This aloe fresh stick features vitamins A & E for long-lasting freshness.",
+    "itemID": "B000GCLDOO",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Health & Personal Care": 8483
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Oils"
+      ]
+    ],
+    "price": 2.99,
+    "brand": "Herbal Clear"
+  }
+]

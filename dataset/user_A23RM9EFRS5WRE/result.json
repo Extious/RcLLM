@@ -1,0 +1,49 @@
+[
+  {
+    "title": "Now Foods: Tea Tree Oil, 4 oz",
+    "description": "Tea tree oil has been a favorite among Australians for centuries. Only in recent years however, has it gained popularity in aromatherapy. With strong antiseptic and germicidal properties, Tea Tree is now used for a number of applications ranging from cosm",
+    "itemID": "B000ELP5KA",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Health & Personal Care": 240
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Oils"
+      ]
+    ],
+    "price": 17.15,
+    "brand": "Now Foods"
+  },
+  {
+    "title": "Noble Formula 2% Pyrithione Zinc Bar Soap",
+    "description": "Noble Formula 2% Pyrithione Zinc Bar Soap - Original Formulawas especially formulated for those with psoriasis, eczema and dry skin, although it is an excellent cleansing bar for any skin type or condition.In addition to pyrithione zinc (ZnP) NF Bar Soap also contains a high percentage of nourishing olive oil, moisturizing emu oil and a gently exfoliating oatmeal.Noble Formula Bar Soap is handmade, hand shaped and may vary slightly in size and shape, but will always equal or exceed 3.25 oz.",
+    "itemID": "B004R3TBEC",
+    "helpful": [
+      1,
+      2
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 1407
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Cleansers",
+        "Soaps"
+      ]
+    ],
+    "price": 12.99,
+    "brand": NaN
+  }
+]

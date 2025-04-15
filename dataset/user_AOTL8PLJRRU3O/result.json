@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Shea Moisture Coconut Hibiscus Curl Enhancing Smoothie-12 oz",
+    "description": "SheaMoisture Coconut Hibiscus Curl Enhancing Smoothie",
+    "itemID": "B0038TVH3Y",
+    "helpful": [
+      3,
+      9
+    ],
+    "overall": 1.0,
+    "salesRank": {
+      "Beauty": 1648
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Creams, Gels & Lotions"
+      ]
+    ],
+    "price": 15.45,
+    "brand": "Shea Moisture"
+  },
+  {
+    "title": "Tropic Isle Jamaican Black Castor Oil Hair Food, 4 Ounce",
+    "description": "Tropic isle living jamaican black castor oil shampoo with shea butter gently cleans, conditions hair, restores moisture and promotes healthy scalp. Contains jamaican black castor oil, cactus oil and shea butter. Spreads easily in hair and on scalp.",
+    "itemID": "B003CTU5MO",
+    "helpful": [
+      1,
+      2
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 3019
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Hair & Scalp Treatments"
+      ]
+    ],
+    "price": 6.62,
+    "brand": "Tropic Isle"
+  }
+]

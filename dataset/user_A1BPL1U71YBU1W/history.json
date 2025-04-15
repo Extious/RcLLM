@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Conair Instant Heat Compact Hot Rollers",
+    "description": "The Conair Instant Heat Compact Hot Rollers give you flawless curls on the go. This dual-voltage hot roller set includes 10 multi-size rollers (4 Small, 3 Medium and 3 Large) and clips for a variety of styles. It features a patented roller design with starter strip for quick, easy setting and 90-second heat-up feature for instant results. The soft handy pouch makes it easy to carry in gym bag, backpack or suitcase.",
+    "itemID": "B001ELJO0Q",
+    "helpful": [
+      30,
+      33
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 3622
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Hair Rollers"
+      ]
+    ],
+    "price": 20.99,
+    "brand": "Conair"
+  },
+  {
+    "title": "The Original Hyaluronic Acid Serum 100% Pure 2 oz.",
+    "description": "The Original Hyaluronic Acid Serum 100% Pure 2 oz.",
+    "itemID": "B003MJ7Z0O",
+    "helpful": [
+      409,
+      453
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 311
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Oils & Serums"
+      ]
+    ],
+    "price": 13.95,
+    "brand": NaN
+  },
+  {
+    "title": "Tresemme Flawless Curls Touchable Curls Shaping Milk, 4.5 Ounce",
+    "description": "This is a lightweight styling cream designed specifically for curly hair. This shaping milk will give you soft, defined curls.",
+    "itemID": "B000EODF9A",
+    "helpful": [
+      18,
+      19
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 53166
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Curl Enhancers"
+      ]
+    ],
+    "price": 15.5,
+    "brand": NaN
+  }
+]

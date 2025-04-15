@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Maybelline Mineral Power Blush - Fresh Plum",
+    "description": "Mineral Power Blush with micro-minerals provides a soft, healthy glow to cheeks. Blends naturally with skin tone for a fresh flush of color. Skin looks healthy and fresh. Talc-free, lightweight formula, fragrance-free, and oil-free. Dip it: Dip brush into cap.Tap it: Tap brush to remove excess.Sweep it: Sweep onto cheeks",
+    "itemID": "B001KYO08S",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 51668
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Blush"
+      ]
+    ],
+    "price": 9.79,
+    "brand": "Maybelline"
+  },
+  {
+    "title": "China Glaze No Chip Top Coat 0.5oz",
+    "description": "Provides a protective shield, which prevents lacquer from chipping and peeling. Available in .65 Fl. Oz.",
+    "itemID": "B000QUMBP6",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 1.0,
+    "salesRank": {
+      "Beauty": 153053
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Nails",
+        "Nail Polish"
+      ]
+    ],
+    "price": 7.95,
+    "brand": "China Glaze"
+  },
+  {
+    "title": "Dove Strength and Shine Hairspray, Extra Hold, 7 Ounce",
+    "description": "",
+    "itemID": "B006T8BXC6",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Beauty": 68708
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Hair Sprays"
+      ]
+    ],
+    "price": 6.91,
+    "brand": "Dove"
+  }
+]

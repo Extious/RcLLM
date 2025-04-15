@@ -1,0 +1,48 @@
+[
+  {
+    "title": "CLEAR MEN SCALP THERAPY 2 in 1 AntiDandruff Shampoo and Conditioner, Dry Scalp Hydration, 12.9oz",
+    "description": "",
+    "itemID": "B007JT7AIA",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 4949
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 4.0,
+    "brand": "Clear"
+  },
+  {
+    "title": "Banana Boat Sport Coolzone Sunscreen Lotion Spf 50, 6 Ounce",
+    "description": "Sunscreen lotion that instantly cools and refreshes the skin while also providing broad spectrum protection.",
+    "itemID": "B009FKNGGQ",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 12731
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Sun",
+        "Skin Protection",
+        "Sports"
+      ]
+    ],
+    "price": 6.75,
+    "brand": "Banana Boat"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Avon Anew Clinical Eye Lift Pro Dual Eye System",
+    "description": "Dual eye system includes: UPPER EYE & BROW BONE GEL: instantly, eyes appear tighter and lifted. UNDER EYE CREAM: instantly, undereye shadows are visibly reduced.",
+    "itemID": "B0053PTTU4",
+    "helpful": [
+      9,
+      10
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 1061
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Eyes",
+        "Puffiness Treatments"
+      ]
+    ],
+    "price": 10.99,
+    "brand": "Avon"
+  },
+  {
+    "title": "Remington S-9951 Frizz Therapy, Humidity Resistant Ceramic Flat Hairstyling Iron, 1 Inch",
+    "description": "",
+    "itemID": "B002LIXTFC",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 60859
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Irons",
+        "Flattening Irons"
+      ]
+    ],
+    "price": 55.9,
+    "brand": NaN
+  },
+  {
+    "title": "L'Oreal Paris Couleur Experte Express Hair Color, 6.1 Light Ash Brown/French Eclair",
+    "description": "Couleur Experte is the only at-home dual-system coloring kit that combines in just one box permanent base color with harmonizing highlights. Thanks to perfectly coordinated shades, you can achieve a rich, elegant, salon-like look in just two easy steps.  Color + Highlights in One.  Fast Application.  Experte Highlights.",
+    "itemID": "B000KOHSQA",
+    "helpful": [
+      15,
+      16
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 21963
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Hair Color",
+        "Chemical Hair Dyes"
+      ]
+    ],
+    "price": 12.34,
+    "brand": "L&#39;Oreal Paris"
+  }
+]

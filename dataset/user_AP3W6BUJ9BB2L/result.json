@@ -1,0 +1,48 @@
+[
+  {
+    "title": "Revlon Colorstay Overtime Lipcolor, Eternal Rose, 0.07-Ounce",
+    "description": "Ultra-creamy saturated lip color that delivers beautiful, lightweight matte color without any dryness, caking or fading",
+    "itemID": "B004GC54NQ",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 30669
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Lips",
+        "Lipstick"
+      ]
+    ],
+    "price": 5.49,
+    "brand": "Revlon"
+  },
+  {
+    "title": "MASH Premium Stainless Steel Cuticle Pusher Cutter Trimmer",
+    "description": "High quality stainless steel cuticle trimmer/pusher. This cuticle savor has a bell shaped end for pushing/and or cutting your cuticles to perfections, conforming to your nail.",
+    "itemID": "B0069SC0OQ",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 530
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Tools & Accessories",
+        "Nail Tools",
+        "Cuticle Pushers"
+      ]
+    ],
+    "price": 1.5,
+    "brand": "MASH"
+  }
+]

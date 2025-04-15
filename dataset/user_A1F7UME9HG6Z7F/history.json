@@ -1,0 +1,70 @@
+[
+  {
+    "title": "Pureology Hydrate Shampoo, 8.5 Ounce",
+    "description": "Serious colour care.",
+    "itemID": "B0006ZHK7A",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 17777
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 17.99,
+    "brand": "Pureology"
+  },
+  {
+    "title": "Pureology Anti-Fade Complex Hydrate Condition, 8.5 Ounce",
+    "description": "Daily hair care product for colour-treated hair in need of essential hydration, nourishment, enhanced colour brilliance and colour protection.  Use with Hydrate Shampoo.",
+    "itemID": "B0009I4MCU",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 8902
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Conditioners"
+      ]
+    ],
+    "price": 24.7,
+    "brand": "Pureology"
+  },
+  {
+    "title": "Andis 67410 Curved Edge Professional Heat Flat Iron, 1 Inch",
+    "description": "",
+    "itemID": "B00512CREO",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 15930
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Irons",
+        "Flattening Irons"
+      ]
+    ],
+    "price": 23.03,
+    "brand": "Andis"
+  }
+]

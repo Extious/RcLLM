@@ -1,0 +1,117 @@
+[
+  {
+    "title": "Cetaphil Antibacterial Gentle Cleansing Bar, 4.5-Ounce Bar (Pack of 6)",
+    "description": "",
+    "itemID": "B001ET76E4",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 333
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Cleansers",
+        "Soaps"
+      ]
+    ],
+    "price": 27.82,
+    "brand": "Cetaphil"
+  },
+  {
+    "title": "Sigma E05 - Eye Liner",
+    "description": "Unique Feature: Fine tipped and tapered\nFunction: Create smooth and even lines\nRecommended Use: Use with gel or liquid liners.\n\n 2013 Sigma Enterprises, LLC",
+    "itemID": "B005OZC2MU",
+    "helpful": [
+      1,
+      2
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 28413
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Tools & Accessories",
+        "Makeup Brushes & Tools",
+        "Brushes & Applicators"
+      ]
+    ],
+    "price": 9.95,
+    "brand": "Sigma Beauty"
+  },
+  {
+    "title": "Cetaphil Gentle Cleansing Bar, 4.5-Ounce Bar (Pack of 6)",
+    "description": "",
+    "itemID": "B001I45ZFC",
+    "helpful": [
+      3,
+      3
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 170
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Cleansers",
+        "Soaps"
+      ]
+    ],
+    "price": 18.65,
+    "brand": "Cetaphil"
+  },
+  {
+    "title": "Clinique NEW Even Better Clinical Dark Spot Corrector 1oz",
+    "description": "Dermatologist-developed to be safe, comfortable. Yet in clinical trials our serum was comparable to a leading prescription ingredient in creating a more even skin tone. A verified 53% improvement in skin tone. For all ethnicities: See results starting in as little as 4 weeks. At 12 weeks, see a visible reduction in dark spots, age spots, and traces of acne past.",
+    "itemID": "B003XLAMVU",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Health & Personal Care": 57286
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Treatments & Masks"
+      ]
+    ],
+    "price": 46.89,
+    "brand": "Clinique"
+  },
+  {
+    "title": "Kleancolor Nail Polish - Awesome Metallic Full Size Lacquer Lot of 12-pc Set",
+    "description": "It's all about COLORS !\n \nSmooth and long lasting nail polish \nFeatures Very Long Wearing Chip-resistance .\n \nThe set features bright metallic colors for playfulness to complete the look of sweet girl who enjoys her creativity!\n\nDon't just colorize Your Look !KleanColorize Your Divine Beauty !",
+    "itemID": "B00AVP37G8",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Health & Personal Care": 1905
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Nails",
+        "Nail Polish"
+      ]
+    ],
+    "price": 12.8,
+    "brand": "Kleancolor"
+  }
+]

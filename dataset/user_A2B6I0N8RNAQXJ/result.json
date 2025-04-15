@@ -1,0 +1,73 @@
+[
+  {
+    "title": "Gold Bond Medicated Body Lotion, 14-Ounce Pump Bottle",
+    "description": "Triple Action Relief; Moisturizing, Itch Relief, Soothing",
+    "itemID": "B001KYGV94",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Health & Personal Care": 11316
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Lotions"
+      ]
+    ],
+    "price": 6.97,
+    "brand": "Gold Bond"
+  },
+  {
+    "title": "Ponds Caring Classic Extra, Rich Dry Skin Cream, 10.1 oz",
+    "description": "Unilever Bestfoods Ponds Caring Classic Dry Skin Cream, 10.1 Ounce -- 12 per case.",
+    "itemID": "B000BFTAMS",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 31942
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Creams"
+      ]
+    ],
+    "price": 0.01,
+    "brand": "Unilever Bestfoods"
+  },
+  {
+    "title": "Tigi Bed Head Candy Fixation Totally Baked Volumizing and Prepping Hair Meringue, 7 Ounce",
+    "description": "Start your style with this sweet treat. Apply throughout damp hair. A long lasting boost of hold. Good volume and texture.",
+    "itemID": "B005SHR4LS",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 4031
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Mousses & Foams"
+      ]
+    ],
+    "price": 12.79,
+    "brand": "Tigi"
+  }
+]

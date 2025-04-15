@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Axe Refined Clean-cut Look Pomade, 2.64-Ounce Jars (Pack of 3)",
+    "description": "",
+    "itemID": "B001FSK8SA",
+    "helpful": [
+      20,
+      25
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 1586
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Pomades & Waxes"
+      ]
+    ],
+    "price": 18.98,
+    "brand": "AXE"
+  },
+  {
+    "title": "Infiniti Pro by Conair Spin Air Rotating Styler",
+    "description": "",
+    "itemID": "B004INUWX0",
+    "helpful": [
+      0,
+      1
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 114
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Hot-Air Brushes"
+      ]
+    ],
+    "price": 36.73,
+    "brand": "Conair"
+  },
+  {
+    "title": "Olay Pro-X Advanced Cleansing System 0.68 Fl Oz, 1-Count",
+    "description": "",
+    "itemID": "B0043OYFKU",
+    "helpful": [
+      0,
+      1
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 6
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Treatments & Masks",
+        "Microdermabrasion"
+      ]
+    ],
+    "price": 26.99,
+    "brand": "Olay"
+  }
+]

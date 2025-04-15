@@ -1,0 +1,48 @@
+[
+  {
+    "title": "Kerastase Paris Resistance Ciment Thermique - 125ml",
+    "description": "Hair fibers are smoothed from the root to tip, leaving it feeling strong, supple and flowing with a long lasting shine",
+    "itemID": "B000U4WNC4",
+    "helpful": [
+      2,
+      2
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 1078
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Hair & Scalp Treatments"
+      ]
+    ],
+    "price": 32.15,
+    "brand": "Kerastase"
+  },
+  {
+    "title": "MiniYOU by Conair 1/2&quot; Ceramic Straightener",
+    "description": "The ceramic technology has plates that glide across hair easily and evenly for silky smooth hair.  The high temperature setting delivers salon results.  This mini pro straightener delivers powerful performance.",
+    "itemID": "B001ELJO0G",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 8199
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Irons",
+        "Flattening Irons"
+      ]
+    ],
+    "price": 18.5,
+    "brand": "Conair"
+  }
+]

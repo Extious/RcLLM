@@ -1,0 +1,70 @@
+[
+  {
+    "title": "Tree Hut Body Scrub, Vanilla Spice, 18 Ounce",
+    "description": "Delight your senses as you smooth your skin with this rich, exfoliating olive and shea sugar body scrub. The whole sugar grains provide a gentle yet deep exfoliation, the olive oil and shea help preserve your skin's natural moisture and the vitamin c keeps your skin looking healthy. Certified organic shea butter, natural moisturizer, hydrates dry skin and promotes skin elasticity.",
+    "itemID": "B005TI2A74",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 120087
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Scrubs & Body Treatments",
+        "Body Scrubs"
+      ]
+    ],
+    "price": NaN,
+    "brand": NaN
+  },
+  {
+    "title": "Proactiv Solution Advanced Formula Renewing Cleanser 4 oz",
+    "description": "Using this soap-free cleanser is best because scrubbing with soap can irritate skin, making acne worse. Medicated with prescription-grade, micro-crystal benzoyl peroxide (2.5%) to kill acne-causing bacteria. Tiny exfoliating beads remove layers of dead skin cells to help keep pores from clogging. Chamomile and other soothing ingredients are designed to help keep skin balanced and hydrated.",
+    "itemID": "B003E0KC2Y",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Beauty": 1895
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Cleansers"
+      ]
+    ],
+    "price": 23.74,
+    "brand": "Proactiv Solution"
+  },
+  {
+    "title": "Organic Excellence  Mint Shampoo, 16 Ounce",
+    "description": "Chemical free products. The mint haircare system. Contains only natural ingredients. Maintains natural pH. Balance. You can feel it working instantly. Excellent for all hair types. No sodium lauryl sulfate. No quarternium-15 (formaldehyde releaser). No propylene glycol (anti-freeze). Why Organic Excellence? The reason is simple. Organic Excellence Chemical Free Mint Shampoo hardly lathers at all compared to commercial shampoos. This shampoo contains No alcohol, No chemical foam booster, No detergents, and No sodium lauryl sulfate, propylene glycol, olefin sulfinate, or mureth sulfate, Organic Excellence Chemical Free Mint Shampoo is an important part of restoring the scalp and hair follicles to their healthy, natural state.",
+    "itemID": "B00022F1DW",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 9826
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 10.95,
+    "brand": "Organic Excellence"
+  }
+]

@@ -1,0 +1,73 @@
+[
+  {
+    "title": "CoverGirl Smoothers SPF 21 Tinted Moisturizer, Fair To Light 805, 1.35 Ounce",
+    "description": "",
+    "itemID": "B000V33OGS",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 1.0,
+    "salesRank": {
+      "Beauty": 6913
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Foundation"
+      ]
+    ],
+    "price": 0.01,
+    "brand": "COVERGIRL"
+  },
+  {
+    "title": "Body Toolz Double Loop Facial Skin Care Tool",
+    "description": "Double loop extractor for removing blackheads and whiteheads. Textured non-slip handle for easy use.",
+    "itemID": "B001B7GJ2E",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Beauty": 1681
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Tools & Accessories",
+        "Makeup Brushes & Tools",
+        "Treatment Tools",
+        "Blemish Tools"
+      ]
+    ],
+    "price": 7.76,
+    "brand": "Body Toolz"
+  },
+  {
+    "title": "STOCKING WIG CAP BLACK (2 PACK)",
+    "description": "Package of two caps. Color is black. Prevents breakage. Naturally controls wig without pins. Ultra light and comfortable. Quality you can trust from the Donna Premium Collection.",
+    "itemID": "B0028SVO98",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 25720
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Hair Extensions & Wigs",
+        "Wigs"
+      ]
+    ],
+    "price": 2.05,
+    "brand": "BWH"
+  }
+]

@@ -1,0 +1,73 @@
+[
+  {
+    "title": "Mario Badescu Drying Lotion - 1 oz",
+    "description": "Our best selling product, Mario Badescu's Drying Lotion is an excellent spot treatment made with a blend of Calamine and Salicylic Acid to clear up and soothe unsightly whiteheads overnight. A dab of this lotion will heal and dry pimples quickl",
+    "itemID": "B0017SWIU4",
+    "helpful": [
+      6,
+      7
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 117
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Lotions"
+      ]
+    ],
+    "price": 15.0,
+    "brand": "Mario Badescu"
+  },
+  {
+    "title": "Prestige Liquid Eyeliner, Legend, 0.1 Ounce",
+    "description": "Prestige cosmetics liquid eyeliner adds drama and definition with stunning results in just one stroke!  unique fiber tipped applicator provides maximum control.",
+    "itemID": "B00021W26M",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 151057
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Eyes",
+        "Eyeliner"
+      ]
+    ],
+    "price": 5.59,
+    "brand": "Prestige"
+  },
+  {
+    "title": "Nail Tek Intensitive Therapy II With Free Foundation II (Size.5x2)",
+    "description": "For Soft, Peeling Nails Intensive Therapy helps heal weak, thin soft or peeling nails.  This unique protein formulation seals the layers of the nail together.  With each application, Intensive Therapy reinforces and thickens nails while promoting strength and flexibility.5 fl, oz.  The world's first ridge-filling strengthener Nail Tek FOUNDATION fills unsightly ridges and nail damage while strengthening the natural nail. This unique base coat is a special blend of strengtheners, conditioners, micro-fibers, and natural fillers. Foundation smoothes uneven nail surfaces while helping to grow healthy, beautiful nails. Professional size refill.",
+    "itemID": "B000RLXG6W",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 3484
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Hands & Nails",
+        "Nail Treatments",
+        "Nail Strengthening"
+      ]
+    ],
+    "price": 8.38,
+    "brand": "Nail Tek"
+  }
+]

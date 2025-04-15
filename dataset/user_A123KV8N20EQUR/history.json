@@ -1,0 +1,70 @@
+[
+  {
+    "title": "Burt's Bees Radiance Eye Cream, 0.5 Ounces",
+    "description": "How to determine the expiration date:The lot code is six to seven digits long and starts with a 0, 1, 2 or 3. To read the lot code, the first three numbers are the day of the year the product was made (aka Julian Date). The next two digits are the year, and the last two digits are a batch number we use internally for identification. For example, lot code 0400901 translates to a product made on February 9, 2009 from Batch Number 1.",
+    "itemID": "B002DPUY5Q",
+    "helpful": [
+      21,
+      25
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 740
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Eyes",
+        "Creams"
+      ]
+    ],
+    "price": 10.99,
+    "brand": "Burt&#39;s Bees"
+  },
+  {
+    "title": "Topix Benzoyl Peroxide 5% Wash 8 fl. oz.",
+    "description": "Tired of skin that looks less-than-perfect? Topix Benzoyl Peroxide 5% Wash uses a concentrated formula of acne-fighting ingredients to keep pores clear, skin refined, and blemishes at bay. This is the first level of Benzoyl Peroxide cleanser for those who need a basic acne-fighting cleanser....",
+    "itemID": "B001MA9QQQ",
+    "helpful": [
+      1,
+      2
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 1284
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Cleansers"
+      ]
+    ],
+    "price": 13.45,
+    "brand": "Topix"
+  },
+  {
+    "title": "MOROCCANOIL The Original Oil Treatment 100ml/3.4fl.oz.",
+    "description": "Moroccanoil is an ultra-light formula which is absorbed by the hair instantly, resulting in a natural, silky finish and brilliant shine. Moroccanoil has the ability to restore over-processed hair damaged by environmental factors and chemical procedures - it also revives, hydrates and detangles hair, wigs and hair extensions.",
+    "itemID": "B003YM5RA4",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 1414
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face"
+      ]
+    ],
+    "price": 35.4,
+    "brand": "Moroccanoil"
+  }
+]

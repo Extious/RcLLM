@@ -1,0 +1,70 @@
+[
+  {
+    "title": "Axe Primed Just Clean Shampoo, 12-Ounce Bottle (Pack of 3)",
+    "description": "",
+    "itemID": "B001FSK8QM",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 70145
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 18.99,
+    "brand": "Axe"
+  },
+  {
+    "title": "Dove Men + Care Body and Face Bar, Extra Fresh, 4 Ounce, 8 Count",
+    "description": "",
+    "itemID": "B002TSA90M",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 7627
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Cleansers",
+        "Soaps"
+      ]
+    ],
+    "price": 8.91,
+    "brand": "Dove"
+  },
+  {
+    "title": "Axe Shower Gel Apollo, 16 Ounce",
+    "description": "",
+    "itemID": "B00AO4E9L8",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 76582
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Cleansers"
+      ]
+    ],
+    "price": 5.49,
+    "brand": "AXE"
+  }
+]

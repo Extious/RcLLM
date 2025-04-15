@@ -1,0 +1,71 @@
+[
+  {
+    "title": "OPI L00 Alpine Snow",
+    "description": "Fresh, crisp white, perfect for French-look tips.",
+    "itemID": "B002TLT388",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 8447
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Nails",
+        "Nail Polish"
+      ]
+    ],
+    "price": 6.85,
+    "brand": "OPI"
+  },
+  {
+    "title": "NYX Cosmetics Eye Shadow Base, White, 0.21 Ounce",
+    "description": "Cream based eye primer. Available in three tones. Intensifes any shade of eye shadow and helps colors last longer. White helps color appear up to 100x more vivid. Pearl helps maximize any iridescent effect. Skin tone helps color hold naturally.",
+    "itemID": "B0030O3VRW",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 4669
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Foundation Primers"
+      ]
+    ],
+    "price": 6.49,
+    "brand": "NYX"
+  },
+  {
+    "title": "Palladio Herbal Foundation Primer, 0.674 Ounce",
+    "description": "Palladio herbal foundation primer offers a nourishing blend to visibly improve the appearance of skin. Skin is left perfectly primed and ready for makeup. Fills fine lines and pores, creating a flawless foundation canvas. Suitable for all skin types. May be worn alone to help even skins surface and appearance.",
+    "itemID": "B003KPIIKQ",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 14144
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Foundation Primers"
+      ]
+    ],
+    "price": 9.21,
+    "brand": "Palladio"
+  }
+]

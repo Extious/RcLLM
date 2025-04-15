@@ -1,0 +1,48 @@
+[
+  {
+    "title": "Dermalogica Age Smart Multivitamin Power Firm 0.5oz",
+    "description": "A skin care system researched and developed by the international dermal institute. Recommended for environmentally-sensitized or prematurely-aging skin. Combat visible lines around the eye area with this powerful firming complex. Vitamins A, C and E, plus organic silicones promote elasticity and improve smoothness. Contains no artificial fragrance or color. Made in the USA.",
+    "itemID": "B000PKZG22",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 2484
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Eyes",
+        "Creams"
+      ]
+    ],
+    "price": 42.19,
+    "brand": "Dermalogica"
+  },
+  {
+    "title": "Conair BC171NCS Ceramic Ionic Hot Air Brush, Black, 1.25 Inch",
+    "description": "1 1/4\" Ceramic Ionic Hot Air Brush-1000 watt",
+    "itemID": "B0009PVV40",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Beauty": 614
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Hot-Air Brushes"
+      ]
+    ],
+    "price": 23.95,
+    "brand": "Conair"
+  }
+]

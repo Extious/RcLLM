@@ -1,0 +1,69 @@
+[
+  {
+    "title": "Tropic Isle Living Jamaican Black Castor Oil, 4 Ounce",
+    "description": "Tropic isle's living jamaican black castor oil is a rich, light brown oil which is processed the old fashioned way by roasting the castor bean. Jamaican black castor oil origin can be traced back to  ethiopia, africa. It's believed that this natural castor oil originally came to jamaica from slaves taken from africa. Jamaican elders didn't waste any time in discovering the various uses for this oil. Black castor oil is a great addition to any hair or skincare regimen. This castor oil can be use as is or add to your favorite hair products.",
+    "itemID": "B003COAFPQ",
+    "helpful": [
+      1,
+      2
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 337
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Oils"
+      ]
+    ],
+    "price": 3.88,
+    "brand": "Tropic Isle"
+  },
+  {
+    "title": "Groganics DHT Vitamins 2-A-Day 30 Count",
+    "description": "May Be Beneficial For Faster Hair Growth, Stronger Hair And Improved Skin Quality For Advanced Hair Loss And Severely Thinning Hair",
+    "itemID": "B000FVEL54",
+    "helpful": [
+      4,
+      4
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 9879
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Hair & Scalp Treatments"
+      ]
+    ],
+    "price": 7.04,
+    "brand": "Groganics"
+  },
+  {
+    "title": "Hairfinity Hair Vitamins 60 capsules",
+    "description": "Hairfinity is a nutritional supplement that is transforming the hair of women all over the world. A unique natural blend of vitamins, nutrients and our exclusive CapilsanaTM Complex, it promotes healthy hair growth and nourishes your hair from the inside out.",
+    "itemID": "B008PGD4UO",
+    "helpful": [
+      12,
+      18
+    ],
+    "overall": 4.0,
+    "salesRank": {},
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Hair Loss Products",
+        "Hair Regrowth Treatments"
+      ]
+    ],
+    "price": 37.49,
+    "brand": "Hairfinity"
+  }
+]

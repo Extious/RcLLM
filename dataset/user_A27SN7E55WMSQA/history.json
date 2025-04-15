@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Dermalogica Multi-active Toner, 8.4 Fluid Ounce",
+    "description": "An ultra-light facial spritz that refreshes and hydrates the skin while smoothing the surface. Moisture-binding humectants plus soothing Lavender, Balm Mint and Arnica help condition the skin and prepare it for proper moisture absorption",
+    "itemID": "B0001EKTZQ",
+    "helpful": [
+      2,
+      2
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 2483
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Toners & Astringents"
+      ]
+    ],
+    "price": 30.43,
+    "brand": "Dermalogica"
+  },
+  {
+    "title": "Joico Color Endure Violet Shampoo, 10.1 Ounce",
+    "description": "Joico Color Endure Violet Shampoo is for toning blonde or gray hair. Contains a maximum level of violet dye load to ensure maximum toning and neutralizing. Tones haircolor immediately following any highlighting or blonding services.",
+    "itemID": "B0019AA9YM",
+    "helpful": [
+      6,
+      10
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 4846
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 16.99,
+    "brand": "Joico"
+  },
+  {
+    "title": "Skinceuticals Ultimate UV Defense Nourishing Broad-spectrum Sunscreen SPF 30, 3-Ounce Tube",
+    "description": "Daily use broad spectrum cream with transparent zinc oxide (Z-Cote) helps protect against the damaging effects of UVA and UVB rays.",
+    "itemID": "B001CJJ5QS",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 2263
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Sun",
+        "Skin Protection",
+        "Sports"
+      ]
+    ],
+    "price": 31.94,
+    "brand": "SkinCeuticals"
+  }
+]

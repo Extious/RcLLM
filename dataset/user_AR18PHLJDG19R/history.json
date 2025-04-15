@@ -1,0 +1,73 @@
+[
+  {
+    "title": "Olivella All Natural Virgin Olive Oil Moisturizer From Italy (50ml) 1.69 Fluid Ounces",
+    "description": "Olivella All Natural Virgin Olive Oil Moisturizer From Italy helps moisturize and rejuvenate skin. Povides benefits of deep moisturizing while you sleep.",
+    "itemID": "B000EGMHKQ",
+    "helpful": [
+      1,
+      2
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 8249
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Creams & Moisturizers",
+        "Fluids & Lotions",
+        "Fluids"
+      ]
+    ],
+    "price": 13.02,
+    "brand": "Olivella"
+  },
+  {
+    "title": "Paul Mitchell Freeze &amp; Shine Super Spray (3.4 oz)",
+    "description": "Firm hold finishing spray. Provides powerful, long-lasting hold. Creates luminous shine. Contains sunscreens for added protection. (3.4 oz)",
+    "itemID": "B000PAW6ZW",
+    "helpful": [
+      0,
+      1
+    ],
+    "overall": 1.0,
+    "salesRank": {
+      "Health & Personal Care": 160863
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Hair Sprays"
+      ]
+    ],
+    "price": 7.99,
+    "brand": "Paul Mitchell"
+  },
+  {
+    "title": "Savon de Marseille Olive-1000g",
+    "description": NaN,
+    "itemID": "B000FPWUOO",
+    "helpful": [
+      1,
+      2
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 169514
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Cleansers",
+        "Soaps"
+      ]
+    ],
+    "price": NaN,
+    "brand": NaN
+  }
+]

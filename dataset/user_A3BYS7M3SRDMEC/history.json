@@ -1,0 +1,70 @@
+[
+  {
+    "title": "St. Ives, Sensitive Skin Apricot Scrub, 6-Ounce (Pack of 6)",
+    "description": "",
+    "itemID": "B00005IBW0",
+    "helpful": [
+      4,
+      4
+    ],
+    "overall": 5.0,
+    "salesRank": NaN,
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Exfoliators & Scrubs",
+        "Scrubs"
+      ]
+    ],
+    "price": NaN,
+    "brand": NaN
+  },
+  {
+    "title": "Benefit Cosmetics High Beam",
+    "description": "The celebrity makeup artists secret... this satiny pink highlighter creates a young, radiant, fresh complexion on all skin tones. Use it as a spot highlighter or blend all over your complexion...the soft-focus sheen is enticing and sexy.  Great soft blush and moisterizing lotion cream.",
+    "itemID": "B000FBNYRU",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 14670
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Bronzers & Highlighters"
+      ]
+    ],
+    "price": 30.99,
+    "brand": "Benefit Cosmetics"
+  },
+  {
+    "title": "Dove Damage Therapy Cool Moisture Conditioner, 25.4 Ounce  (Pack of 2)",
+    "description": "",
+    "itemID": "B001ET7ERI",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 92181
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Curl Enhancers"
+      ]
+    ],
+    "price": 21.28,
+    "brand": NaN
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "title": "Remington S9520 Salon Collection Ceramic Hair Straightener with Pearl Infused Wide Plates, 2 Inch",
+    "description": "",
+    "itemID": "B003V21WO2",
+    "helpful": [
+      2,
+      2
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 3380
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Irons",
+        "Flattening Irons"
+      ]
+    ],
+    "price": NaN,
+    "brand": NaN
+  },
+  {
+    "title": "Hawaiian Tropic Silk Hydration SPF 30 Sunscreen Lotion, 6 Fluid Ounce",
+    "description": "",
+    "itemID": "B00639DLV2",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 2744
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Sun",
+        "Skin Protection",
+        "Sports"
+      ]
+    ],
+    "price": 2.9,
+    "brand": "Hawaiian Tropic"
+  },
+  {
+    "title": "Vaseline Intensive Rescue Repairing Moisture Lotion, Fragrance Free, 20.3-Ounce Pump (Pack of 3)",
+    "description": "",
+    "itemID": "B001ECQ4IU",
+    "helpful": [
+      2,
+      4
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 7988
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Lotions"
+      ]
+    ],
+    "price": 22.46,
+    "brand": "Vaseline"
+  }
+]

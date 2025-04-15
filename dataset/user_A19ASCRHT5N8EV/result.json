@@ -1,0 +1,117 @@
+[
+  {
+    "title": "Nexxus Pro Mend Overnight Treatment Cr&egrave;me, 1.9 Ounce",
+    "description": "",
+    "itemID": "B004H53CW2",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 16560
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Hair & Scalp Treatments"
+      ]
+    ],
+    "price": 10.99,
+    "brand": "Nexxus"
+  },
+  {
+    "title": "Deepshine Protective Oil Treatment by Rusk, 4 Ounce",
+    "description": "Deepshine oil is a marine mineral-enriched argan oil treatment that smoothes the cuticle, eliminates frizz, and improves elasticity and hydration, leaving hair soft, silky and manageable. Deepshine oil is perfect for all hair types.",
+    "itemID": "B003MIQZTC",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 7224
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Hair & Scalp Treatments"
+      ]
+    ],
+    "price": 4.0,
+    "brand": "Rusk"
+  },
+  {
+    "title": "TIGI Bed Head Dumb Blonde Reconstructor Conditioner, 25.36 Ounce",
+    "description": "Conditioner-reconstructor for after highlights. Not just for Dumb Blondes &#xBF; it's for Racy Redheads and Buxom Brunettes too. Salvage the wreckage with this protein packed moisturizer including wheat, soy, keratin and Pro-Vitamin B-5 complex. Used as a pH balancer, daily conditioner or as a hair mask. Protects & retains hair color, repairs hair damage from sun, smoke, pollution and chemical treatments",
+    "itemID": "B000G014ZO",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 20779
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Lotions"
+      ]
+    ],
+    "price": 12.0,
+    "brand": "TIGI"
+  },
+  {
+    "title": "Aztec Secrets: Indian Healing Bentonite Clay, 2 lbs",
+    "description": "Indian Healing Clay by Aztec Secret 2 lbs Clay How Aztec Secret Works Indian Healing Clay Clays have been used for centuries to beautify and refresh when used as a facial mask. Cleopatra used clay from the Nile river and the Arabian desert over 1800 years ago as part of her beauty ritual. German and Roman spas have been using clay packs and treatments in the spas they built 4 000 years ago. Many of these spas still exist and use clay even today. Pliney the Elder devoted an entire chapter of his Natural History to the many uses of clay for pimples black heads and skin tightening. Many famous naturopaths such as Kuhn Just and Kneipp have contributed to the revival of the uses of clay through their natural treatments for arthritus and skin ailgments. Aztec Indian Healing Clay A Brief History - The Worlds Most Powerful Facial The use of clay with apple cider vinegar can be dated back to the southern French priest of the16th century Kneipp and his natural treatments using clay packs and po",
+    "itemID": "B000ZMBSPE",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 142
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Cleansers"
+      ]
+    ],
+    "price": 10.31,
+    "brand": "Aztec Secret"
+  },
+  {
+    "title": "CeraVe Hydrating Cleanser, 12 Ounce",
+    "description": "CeraVe hydrating cleanser is a vital part of a daily skin care routine. It gently removes dirt, oil, and makeup without disrupting the skin's natural protective barrier. It patented MVE formulation helps essential ingredients penetrate deep into the skin to hydrate and nourish.",
+    "itemID": "B000YJ2SKM",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 266
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Cleansers",
+        "Washes"
+      ]
+    ],
+    "price": 9.69,
+    "brand": "CeraVe"
+  }
+]

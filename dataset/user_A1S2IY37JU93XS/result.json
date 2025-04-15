@@ -1,0 +1,69 @@
+[
+  {
+    "title": "Axe Peace Shower Gel, 16 Fluid Ounce",
+    "description": "",
+    "itemID": "B00GTC1JHQ",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 3144
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Cleansers",
+        "Body Washes"
+      ]
+    ],
+    "price": 5.25,
+    "brand": "AXE"
+  },
+  {
+    "title": "Fekkai Full Blown Volume Shampoo 236ml/8oz",
+    "description": "",
+    "itemID": "B00FRDPOVU",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Health & Personal Care": 9609
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 19.95,
+    "brand": "Fekkai"
+  },
+  {
+    "title": "Fekkai Full Blown Volume Conditioner 236ml/8oz",
+    "description": "",
+    "itemID": "B00FRDPR4O",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Health & Personal Care": 16372
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Conditioners"
+      ]
+    ],
+    "price": 9.57,
+    "brand": "Fekkai"
+  }
+]

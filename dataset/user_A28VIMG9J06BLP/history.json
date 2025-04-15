@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Nailtiques Formula 2 Protein, .5 Ounce",
+    "description": "This formula treats nails that are naturally soft, peeling, split or just won't grow. The protein immediately acts to help bond nails that are splitting or peeling. It also assists in strengthening the nail to grow long, strong and healthy.",
+    "itemID": "B000BB9L0S",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 14029
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Hands & Nails",
+        "Nail Treatments",
+        "Nail Strengthening"
+      ]
+    ],
+    "price": 12.44,
+    "brand": "Nailtiques"
+  },
+  {
+    "title": "The Original Hyaluronic Acid Serum 100% Pure 2 oz.",
+    "description": "The Original Hyaluronic Acid Serum 100% Pure 2 oz.",
+    "itemID": "B003MJ7Z0O",
+    "helpful": [
+      0,
+      2
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 311
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Oils & Serums"
+      ]
+    ],
+    "price": 13.95,
+    "brand": NaN
+  },
+  {
+    "title": "Pearl Enterprises M.T. ROLLER 1.0mm Micro Needle Roller Skin Care Therapy Dermatology System (Dermaroller)",
+    "description": "The Microneedle works for various skin issues to make you look younger, more vibrant and with a healthy glow.  Best of all, it can be used almost on the entire body.  It rids stretch marks, cellulite, wrinkles, acne and promotes hair re-growth.",
+    "itemID": "B004LUZ956",
+    "helpful": [
+      2,
+      2
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 313
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face"
+      ]
+    ],
+    "price": 12.98,
+    "brand": NaN
+  }
+]

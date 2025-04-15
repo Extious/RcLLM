@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Anthony Logistics for Men Sea Salt Body Scrub, 12 oz.",
+    "description": "A mild exfoliator that combines natural sea salts and micro-sloughing beads to smooth and polish the body. Helps to retexturize and balance the skin while removing excess grime, dirt, and oils.",
+    "itemID": "B000JVY52Y",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 43257
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Scrubs & Body Treatments",
+        "Body Scrubs"
+      ]
+    ],
+    "price": 30.0,
+    "brand": NaN
+  },
+  {
+    "title": "Axe Detailer Shower Tool-Colors May Vary, 1 Count (Pack of 4)",
+    "description": "",
+    "itemID": "B0017TZD7S",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 2280
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Cleansers",
+        "Body Washes"
+      ]
+    ],
+    "price": 15.87,
+    "brand": "AXE"
+  },
+  {
+    "title": "Every Man Jack Citrus Scrub Body Wash and Shower Gel-16.9, oz",
+    "description": "Every Man Jack&#xAE; Body Wash And Shower Gel Citrus Scrub.Wake up call.",
+    "itemID": "B003U604Q6",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Industrial & Scientific": 2767
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Cleansers",
+        "Body Washes"
+      ]
+    ],
+    "price": 8.84,
+    "brand": "Every Man Jack"
+  }
+]

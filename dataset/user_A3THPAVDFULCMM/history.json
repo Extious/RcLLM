@@ -1,0 +1,73 @@
+[
+  {
+    "title": "Carmex Skin Care Healing Cream Tube, 4.0 Ounce",
+    "description": "It uses a patent-pending process and rich healing ingeredients to heal, moisturize and help repair dry, rough skin without leaving a greasy feel. Cream is a thicker, more concentrated formula that penetrates deep into the skin to help repair extremely dry, cracked skin. Features nine concentrated healing and moisturizing ingredients. Particularly effective on hands, feet, elbows and knees.",
+    "itemID": "B0041YMUMM",
+    "helpful": [
+      0,
+      2
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Beauty": 93488
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Creams"
+      ]
+    ],
+    "price": 4.96,
+    "brand": "Carmex"
+  },
+  {
+    "title": "Philosophy Purity Made Simple One-Step Facial Cleanser, 16 Ounces",
+    "description": "Our award-winning daily facial skin cleanser is formulated to gently cleanse, tone and melt away all face and eye makeup in one simple step, while lightly hydrating the skin.",
+    "itemID": "B00021C1LI",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 1055
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Cleansers",
+        "Washes"
+      ]
+    ],
+    "price": 31.0,
+    "brand": "Philosophy"
+  },
+  {
+    "title": "Philosophy Just Release Me Eye Makeup Remover, 6 Ounce",
+    "description": "Just release me effectively removes eye makeup, including waterproof eye makeup, without irritation and leaves skin feeling clean with no oily residue.",
+    "itemID": "B002GNFSPG",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 14236
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Makeup Remover",
+        "Eyes"
+      ]
+    ],
+    "price": 18.0,
+    "brand": "Philosophy"
+  }
+]

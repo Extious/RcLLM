@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Neutrogena Healthy Skin Face Lotion, SPF 15, 2.5 Ounce",
+    "description": "",
+    "itemID": "B003BMGAUI",
+    "helpful": [
+      1,
+      2
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 3143
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Lotions"
+      ]
+    ],
+    "price": 7.32,
+    "brand": "Neutrogena"
+  },
+  {
+    "title": "Alpha Hydrox AHA Enhanced Cream 2 oz.",
+    "description": "10% AHA Anti-Wrinkle TreatmentRecommended For:&nbsp;All Skin Types Except Delicate/Sensitive Skin.Oil-free.&nbsp; Fragrance-free.&nbsp; Effective pH 4.Proven to significantly reduce the appearance of fine lines and wrinkles.Safely lifts dead cells from the skin's surface to revitalize and help restore youthful, healthy, radiant looking skin.Renews moisture, refines texture, improves elasticity and skin tone.Contains 10% pure Glycolic-AHA.",
+    "itemID": "B000052YM3",
+    "helpful": [
+      2,
+      2
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 4413
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Treatments & Masks"
+      ]
+    ],
+    "price": 11.24,
+    "brand": "Alpha Hydrox"
+  },
+  {
+    "title": "Alpha Hydrox AHA Souffle Soothing Anti-Wrinkle 1.6 oz.",
+    "description": "Alpha Hydrox Anti-Wrinkle AHA Souffle features a 12% glycolic acid formula to promote healthy dermal cell turnover and improve the look and feel of your skin. This exfoliating cream smoothes, softens and evens tone while diminishing the appearance of fine lines, wrinkles and crow&#039;s feet. Peptides support collagen and elastin production to tighten and firm as green tea extract helps combat free radical-damage for a clear, youthful-looking complexion.",
+    "itemID": "B000G8LWZI",
+    "helpful": [
+      1,
+      2
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 2803
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Treatments & Masks"
+      ]
+    ],
+    "price": 8.79,
+    "brand": "Di Bruno Bros"
+  }
+]

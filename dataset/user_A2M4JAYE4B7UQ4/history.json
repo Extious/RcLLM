@@ -1,0 +1,73 @@
+[
+  {
+    "title": "Hair One Cleanser and Conditioner with Olive Oil for Dry Hair 12 oz",
+    "description": "Hair One Hair Cleanser Conditioner is a salon quality sulfate-free product that leaves hair cleansed, conditioned and in optimum shape.",
+    "itemID": "B001IMSIYY",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 14848
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Hair Loss Products",
+        "Conditioners"
+      ]
+    ],
+    "price": 10.49,
+    "brand": "Hair One"
+  },
+  {
+    "title": "derma e Very Clear Problem Skin Moisturizer, 2-Ounce (56g) (Pack of 2)",
+    "description": "No animal testing. Derma e Clear Skin 3 Problem Skin Moisturizer is a daily moisturizer that provides a proper balance between moisture and oil, thus preventing clogged pores and bacterial infection while hydrating the skin. Our moisturizer utilizes a special blend of natural ingredients (Tea Tree, Willow Bark, Rosewood, Lavender and Chamomile) that has been shown to be very effective on blemish-prone skin. Excellent for either oily or dry skin types, and will not leave a residue or irritate the skin. Made in USA.",
+    "itemID": "B001ET6XOI",
+    "helpful": [
+      5,
+      6
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 109566
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Lotions"
+      ]
+    ],
+    "price": 25.95,
+    "brand": "Derma E"
+  },
+  {
+    "title": "Buffering Lotion",
+    "description": "Specifically designed to treat large, deep, cystic acne, the buffering lotion covers large erupted areas for overall treatment. Formulated with nourishing B vitamins and amino acids for healthy skin as well as soothing anti-inflammatory herbal extracts to promote healing. Reduce cystic acne fast with this deep penetrating, fast absorbing formula.",
+    "itemID": "B000O5RVJO",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 1221
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Lotions"
+      ]
+    ],
+    "price": 17.5,
+    "brand": "Mario Badescu"
+  }
+]

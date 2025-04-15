@@ -1,0 +1,70 @@
+[
+  {
+    "title": "Dudu Osun Black Soap, 6-Count, 150g",
+    "description": "Includes 6 pieces of Dudu Osun Soap in each pack.",
+    "itemID": "B000TAE0RK",
+    "helpful": [
+      13,
+      16
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 247
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Cleansers",
+        "Soaps"
+      ]
+    ],
+    "price": 11.58,
+    "brand": "Dudu-osun"
+  },
+  {
+    "title": "Dudu-Osun African Black Soap (100% Pure) 150g Pack of 4",
+    "description": "Specially formulated entirely from natural ingredients and herbs, this soap will have you feeling refreshed and silky smooth. Restores damaged skin and is helpful in healing chronic eczema, acne, freckles and dark spots. Scented with Osun (Camwood extract) citrus juices and native honey. Bio-degradable. No Preservatives, no preservatives and no artificial colors. Contains ingredients from natural plants and herbs from the tropical rain forest and Savannah regions such as Aloe Vera and natural vitamins. Pure Honey, Shea Butter, Osun (camwood), Palm kernel Oil, Cocoa Pod Ash, Palm Bunch Ash, Glycerine, Aloe Vera, Lime Juice & Oil, Lemon Juice & Oil, Water & Fragrance",
+    "itemID": "B0023A7JF4",
+    "helpful": [
+      10,
+      12
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 158
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Cleansers",
+        "Soaps"
+      ]
+    ],
+    "price": 10.99,
+    "brand": "Tropical Naturals"
+  },
+  {
+    "title": "Redken Dandruff Control Shampoo, 10.1 Ounce",
+    "description": "Helps eliminate and combat dandruff and its symptoms while gently cleansing hair",
+    "itemID": "B000U6PW7K",
+    "helpful": [
+      1,
+      2
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 3958
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 10.04,
+    "brand": "DevaCurl"
+  }
+]

@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Bumble and Bumble Thickening Hair Spray (8 Ounces)",
+    "description": "It's pretty much what it says it is (only it's not just for fine hair). It's for blow-drying, setting, protecting from heat and adding volume, lift and control.",
+    "itemID": "B000BIUGV4",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 1318
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Hair Sprays"
+      ]
+    ],
+    "price": 32.0,
+    "brand": "Bumble and Bumble"
+  },
+  {
+    "title": "Mary Kay TimeWise Microdermabrasion Set",
+    "description": "This two-step system starts with an advanced exfoliator using the same professional grade exfoliating crystals used by dermatologists and follows up with nourishing serum to fight fine lines, refine pores and deliver beautifully smooth skin - immediately.",
+    "itemID": "B000GX77NO",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 2423
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Sets & Kits"
+      ]
+    ],
+    "price": 29.99,
+    "brand": "Mary Kay"
+  },
+  {
+    "title": "Banana Boat Summer Color Self-Tanning Lotion Light to Medium -- 6 fl oz",
+    "description": "Banana Boat Summer Color Self-Tanning Lotion gives you a radiant, deep summer tan all year long. The Self Adjusting Color formula lets you control the shade of your tan and allows you to achieve the deepest tan available for your skin tone. The more often you apply, the deeper your tan will become. The lotion is oil-free, enriched with Aloe Vera and Vitamin E to nourish you skin, and tinted so you can see where you've applied for a perfect streak-free sunless tan every time.",
+    "itemID": "B005KSBVHI",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 8359
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Sun",
+        "Self-Tanners & Bronzers"
+      ]
+    ],
+    "price": 7.34,
+    "brand": "Banana Boat"
+  }
+]

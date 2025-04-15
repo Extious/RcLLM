@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Dove Color Care Daily Treatment Conditioner, 8 Ounce",
+    "description": "",
+    "itemID": "B00AWLB9I4",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 74924
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Conditioners"
+      ]
+    ],
+    "price": 2.99,
+    "brand": "Dove"
+  },
+  {
+    "title": "Motions At Home Foaming Wrap Lotion, 8.5-Ounce Pump Bottles (Pack of 6)",
+    "description": "",
+    "itemID": "B000YZGP4G",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 331591
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Mousses & Foams"
+      ]
+    ],
+    "price": 24.99,
+    "brand": NaN
+  },
+  {
+    "title": "Remington Ci96x1 Silk Ceramic Wide Styling Wand",
+    "description": "",
+    "itemID": "B00BB8ZHJE",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 15509
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Irons",
+        "Curling Irons"
+      ]
+    ],
+    "price": 29.41,
+    "brand": "Remington"
+  }
+]

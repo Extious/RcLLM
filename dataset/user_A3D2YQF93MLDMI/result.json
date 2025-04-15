@@ -1,0 +1,49 @@
+[
+  {
+    "title": "Neutrogena Shine Control Powder Invisible 10, 0.37 Ounce",
+    "description": "Lightweight powder with patentpending rice protein technology acts like a sponge to absorb excess oil so skin stays shinefree and fresh looking all day. Blends invisibly into skin for flawless look that's never overdone",
+    "itemID": "B0081E6THU",
+    "helpful": [
+      6,
+      6
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 4425
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Powder"
+      ]
+    ],
+    "price": 5.5,
+    "brand": "Neutrogena"
+  },
+  {
+    "title": "Scunci Effortless Beauty Thermal Twisters",
+    "description": "With scunci effortless beauty hair accessories a woman should never have a bad hair day. twisters are an essential for any woman with hair below chin length. keeps hair off the face while growing out or during sports. easily put hair up into a high ponytail or use low at the nape. wear one or mix for unique looks. good for quick casual style when you have to run out for errands. soft thermal material won't damage hair. basic soft primary colors, black, grey and white.",
+    "itemID": "B001T8MD8Y",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 6466
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Styling Accessories",
+        "Ponytail Holders"
+      ]
+    ],
+    "price": 5.99,
+    "brand": "Scunci"
+  }
+]

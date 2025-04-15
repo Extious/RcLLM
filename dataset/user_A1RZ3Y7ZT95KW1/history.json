@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Remington Ac2015pp Pearl Pro AC Professional Hair Dryer",
+    "description": "You can get professional style results in your own home with the Remington Pearl Pro Dryer. This 1875 watt, professional quality dryer features an AC motor, giving you 4x the amount of normal motor life and a faster drying time. The ceramic grill combined with the ionic conditioning will leave your hair silky smooth, with frizz-free results. The Pearl Pro dryer has 3 heat and 2 speed settings for all of your different hair styles. Drying and styling your hair has never been made easier.",
+    "itemID": "B00BB8ZJPG",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 10141
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Hair Dryers"
+      ]
+    ],
+    "price": 22.95,
+    "brand": NaN
+  },
+  {
+    "title": "Clear Scalp and Hair Intense Hydration Nourishing Mask, 6 Ounce",
+    "description": "Resilient, beautiful hair starts with the right foundation. Clear scalp and hair has a dual-action formulation: a white stripe of deep hydrating treatment, and an aqua stripe infused with cactus extract. It deeply hydrates the scalp and leaves hair resilient and beautiful.",
+    "itemID": "B00HNKRWX8",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 13128
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Conditioners"
+      ]
+    ],
+    "price": 4.48,
+    "brand": NaN
+  },
+  {
+    "title": "Suave Professionals Gradual Self Tanner, Visible Glow-Fair-Medium, 7.5 Ounce",
+    "description": "",
+    "itemID": "B00H5V3T2I",
+    "helpful": [
+      0,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 19144
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Lotions"
+      ]
+    ],
+    "price": 6.83,
+    "brand": "Suave"
+  }
+]

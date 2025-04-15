@@ -1,0 +1,71 @@
+[
+  {
+    "title": "YOU Reel by Conair 2-in-1 Styler",
+    "description": "Conair continues to revolutionize styling with a dryer that's as convenient as it is powerful to speed up styling, while Tourmaline ceramic technology minimizes heat stress on hair. With it's ionic technology that reduces static electricity and leaves hair silkier, shinier and more manageable than ever, nothing can come close to Infiniti by Conair.",
+    "itemID": "B000R80ZTQ",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 1106
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Hair Dryers"
+      ]
+    ],
+    "price": 24.96,
+    "brand": "Conair"
+  },
+  {
+    "title": "The Brush Guard Variety Pack",
+    "description": "The Brush Guard is an entirely new brush care product which allows brushes to be washed and then dried in the best way possible: bristles down, and then stored with the vulnerable bristles protected.  The Brush Guard is a new, patented product which takes brush care to a whole new level of easy, effective hygiene.  Visit our website for more information: thebrushguard.com",
+    "itemID": "B0049J7P3S",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 4960
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Tools & Accessories",
+        "Makeup Brushes & Tools",
+        "Brushes & Applicators"
+      ]
+    ],
+    "price": 8.95,
+    "brand": NaN
+  },
+  {
+    "title": "The Brush Guard Powder/Kabuki Pack 4 Large",
+    "description": "Buy The Brush Guard Makeup Brushes & Applicators - The Brush Guard Powder/Kabuki Pack 4 Large",
+    "itemID": "B004AAM112",
+    "helpful": [
+      0,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 21648
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Tools & Accessories",
+        "Makeup Brushes & Tools",
+        "Brushes & Applicators"
+      ]
+    ],
+    "price": 8.95,
+    "brand": NaN
+  }
+]

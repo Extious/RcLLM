@@ -1,0 +1,70 @@
+[
+  {
+    "title": "Axe Primed Just Clean Shampoo, 12-Ounce Bottle (Pack of 3)",
+    "description": "",
+    "itemID": "B001FSK8QM",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 70145
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 18.99,
+    "brand": "Axe"
+  },
+  {
+    "title": "Dove Men and Care Body and Face Wash, Clean Comfort, 18 Ounce (Pack of 3)",
+    "description": "",
+    "itemID": "B002TSA916",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 3565
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Cleansers",
+        "Washes"
+      ]
+    ],
+    "price": 9.75,
+    "brand": "Dove"
+  },
+  {
+    "title": "Pantene Pro-V Smooth Shampoo 12.6 Fl Oz (Pack of 6)",
+    "description": "",
+    "itemID": "B003JA3KSW",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 342582
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 26.08,
+    "brand": "Pantene"
+  }
+]

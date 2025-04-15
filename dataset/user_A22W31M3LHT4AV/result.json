@@ -1,0 +1,48 @@
+[
+  {
+    "title": "Soft 'N Style 3 Piece Translucent Dye Brush Set, 2.6 Ounce",
+    "description": "Soft and Style 3 Piece Translucent Dye Brush Set",
+    "itemID": "B001MP7HYY",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 2303
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Tools & Accessories",
+        "Makeup Brushes & Tools",
+        "Brushes & Applicators"
+      ]
+    ],
+    "price": 4.51,
+    "brand": "Soft &#39;N Style"
+  },
+  {
+    "title": "Ion Color Brilliance Brights Semi-Permanent Hair Color Purple",
+    "description": "Ion Color Brilliance Brights Semi-Permanent Hair Color are hi-fashion hair colors designed to give vivid, boldly intense results.",
+    "itemID": "B007VDWDAY",
+    "helpful": [
+      9,
+      15
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 12908
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Hair Color",
+        "Chemical Hair Dyes"
+      ]
+    ],
+    "price": 9.95,
+    "brand": "Ion"
+  }
+]

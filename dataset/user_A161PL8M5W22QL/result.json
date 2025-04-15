@@ -1,0 +1,49 @@
+[
+  {
+    "title": "Cococare Coconut Oil 100% Pure 4 Oz",
+    "description": "Cococare Coconut Oil 100% Pure 4 Oz Essential & Body Message Oils at HerbsCity store.",
+    "itemID": "B0009P4PZC",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 2592
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Oils"
+      ]
+    ],
+    "price": 5.65,
+    "brand": "Cococare"
+  },
+  {
+    "title": "Conair 61118z Conair Foam Rollers, 48 Pack",
+    "description": "Conair 48-pack of foam rollers with built in quick clips is easy to use on damp or dry hair. use with or without styling solution to produce tight, defined curls. soft, comfortable curlers are easy to sleep on. foam construction helps prevent breakage and splitting due to grabbing caused by other rollers. assorted sizes are color coded to produce curls of the same shape and size.",
+    "itemID": "B001KYS930",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 2818
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Hair Rollers"
+      ]
+    ],
+    "price": 12.54,
+    "brand": "Conair"
+  }
+]

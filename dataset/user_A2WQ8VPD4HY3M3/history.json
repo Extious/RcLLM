@@ -1,0 +1,70 @@
+[
+  {
+    "title": "BaByliss Pro BABP6685N Porcelain Ceramic Carrera2 Dryer",
+    "description": "BaByliss PRO Carrera Professional Commercial Grade Porcelain Ceramic 1900 Watt Hair Dryer with ionic technology emits negative ions eliminate static, reduces drying time. Ceramic generates far infrared heat to protect hair's luster.",
+    "itemID": "B001UHN0HM",
+    "helpful": [
+      4,
+      5
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Beauty": 3226
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Hair Dryers"
+      ]
+    ],
+    "price": 59.95,
+    "brand": "BaBylissPRO"
+  },
+  {
+    "title": "Dabur Vatika Enriched Coconut Hair Oil 300ml (Pack of 2 Bottles)",
+    "description": "Vatika Hair Oil is a delicate mix of pure coconut oil with special hair care herbs including henna, amla and lemon. Blended together to strengthen each strand of hair from within. Vatika provides natural nourishment to your hair. Giving it body and radiance, taking care of the critical balance of nutrients.",
+    "itemID": "B000JWM7FA",
+    "helpful": [
+      4,
+      5
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 6632
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Hair & Scalp Treatments"
+      ]
+    ],
+    "price": 12.89,
+    "brand": "Dabur"
+  },
+  {
+    "title": "Conair 1875 Watt Tourmaline Ceramic Hair Dryer",
+    "description": "",
+    "itemID": "B00132ZG3U",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 124
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Hair Dryers"
+      ]
+    ],
+    "price": 18.89,
+    "brand": "Conair"
+  }
+]

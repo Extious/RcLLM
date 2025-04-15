@@ -1,0 +1,72 @@
+[
+  {
+    "title": "TIGI S Factor Smoothing Lusterizer/Defrizzer/Tamer, 6.76 Ounce",
+    "description": "S factor Smoothing Lusterizer works to tame and defrizz hair. Formulated with a scientific blend of ingredients, the Lusterizer silkens and softens hair. It also fights humidity. Designed for use in wet or dry hair, S factor is manufactured in the USA.",
+    "itemID": "B000EM9D6Q",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 1904
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Creams, Gels & Lotions"
+      ]
+    ],
+    "price": 15.49,
+    "brand": "TIGI"
+  },
+  {
+    "title": "JEROME RUSSELL Punky Colour Hair Color Cr&egrave;me Red Wine 3.5 oz",
+    "description": "Punky Colour is the original semi-permanent conditioning hair color. Get outrageous color on bleached or chemically-treated hair. Create a brilliant highlight effect on darker hair.",
+    "itemID": "B000RRKCVS",
+    "helpful": [
+      0,
+      3
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Beauty": 100286
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Hair Color",
+        "Chemical Hair Dyes"
+      ]
+    ],
+    "price": 6.85,
+    "brand": "Jerome Russell"
+  },
+  {
+    "title": "Remington S5500 Digital Anti Static 1 Inch Ceramic Hair Straightener",
+    "description": "Say goodbye to frizz and fly-aways while boosting style control with remingtons s-5500 one inch digital heat ceramic flat iron. infused anti-static technology reduces the amount of negatively charged particles during styling and allows for 50% more static control. the thirty second instant heat up will reach the salon high heat temperature of 410 degrees fahrenheit. one hour automatic shut off, 2 limited year warranty, and floating plates.",
+    "itemID": "B003S516XO",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 58
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Irons",
+        "Flattening Irons"
+      ]
+    ],
+    "price": 14.89,
+    "brand": "Remington"
+  }
+]

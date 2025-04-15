@@ -1,0 +1,71 @@
+[
+  {
+    "title": "NYX Cosmetics Eye Shadow Base, White, 0.21 Ounce",
+    "description": "Cream based eye primer. Available in three tones. Intensifes any shade of eye shadow and helps colors last longer. White helps color appear up to 100x more vivid. Pearl helps maximize any iridescent effect. Skin tone helps color hold naturally.",
+    "itemID": "B0030O3VRW",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 4669
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Foundation Primers"
+      ]
+    ],
+    "price": 6.49,
+    "brand": "NYX"
+  },
+  {
+    "title": "Elegant 100 Piece Glitter Eyeshadow Makeup kit in Black Palette",
+    "description": "This Stylish 100 Color Piece Glitter Eye shadow Markup kit is all you need to bring out the perfect look for your eyes. . All Colors comes packed in a Black Snap on Pallette Casing. Perfect for any road trip and Daily use. This palette .has all the colors you need to recreate sophisticated or edgy looks for day and night",
+    "itemID": "B004FAJFDO",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 5550
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Eyes",
+        "Glitter & Shimmer"
+      ]
+    ],
+    "price": 9.95,
+    "brand": NaN
+  },
+  {
+    "title": "Too Faced Cosmetics, Shadow Insurance Glitter Glue, 0.35 Ounce",
+    "description": "An extension of our best-selling Shadow Insurance Eyeshadow Primer, Glitter Glue wasspecifically formulated to lock-down glitter and enhance its reflective quality. Ourcolorless cream formula is designed to grab and hold loose glitters, pigments andshimmers in place, insuring they won&#x2019;t come off until you take them off.",
+    "itemID": "B004FMBU80",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 23884
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Eyes",
+        "Glitter & Shimmer"
+      ]
+    ],
+    "price": 20.0,
+    "brand": "Too Faced"
+  }
+]

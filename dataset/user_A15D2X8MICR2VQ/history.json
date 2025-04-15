@@ -1,0 +1,70 @@
+[
+  {
+    "title": "Dove Men and Care Body and Face Wash, Clean Comfort, 18 Ounce (Pack of 3)",
+    "description": "",
+    "itemID": "B002TSA916",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 3565
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Cleansers",
+        "Washes"
+      ]
+    ],
+    "price": 9.75,
+    "brand": "Dove"
+  },
+  {
+    "title": "Fekkai Glossing Hair Products Starter 1 Kit",
+    "description": "",
+    "itemID": "B0030GFY02",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 39515
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care"
+      ]
+    ],
+    "price": 22.95,
+    "brand": "Fekkai"
+  },
+  {
+    "title": "Vaseline Body Lotion, Aloe Fresh 20.3oz (Pack of 3)",
+    "description": "",
+    "itemID": "B001ECQ4JE",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 9039
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Scrubs & Body Treatments",
+        "Body Scrubs"
+      ]
+    ],
+    "price": 23.81,
+    "brand": "Vaseline"
+  }
+]

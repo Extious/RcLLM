@@ -1,0 +1,71 @@
+[
+  {
+    "title": "CLEAR SCALP &amp; HAIR BEAUTY THERAPY Ultra Shea Nourishing Scalp &amp; Hair Oil, 3 Fluid Ounce",
+    "description": "",
+    "itemID": "B007RTR9G0",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 26293
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Hair & Scalp Treatments"
+      ]
+    ],
+    "price": 4.98,
+    "brand": "Clear"
+  },
+  {
+    "title": "Dove Body Wash with NutriumMoisture, Sensitive Skin Nourishing, 24 Ounce",
+    "description": NaN,
+    "itemID": "B000AO2NXS",
+    "helpful": [
+      1,
+      3
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 18679
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Cleansers",
+        "Body Washes"
+      ]
+    ],
+    "price": 11.5,
+    "brand": "Dove"
+  },
+  {
+    "title": "Vaseline Intensive Rescue Repairing Moisture Lotion, Fragrance Free, 20.3-Ounce Pump (Pack of 3)",
+    "description": "",
+    "itemID": "B001ECQ4IU",
+    "helpful": [
+      0,
+      1
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 7988
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Lotions"
+      ]
+    ],
+    "price": 22.46,
+    "brand": "Vaseline"
+  }
+]

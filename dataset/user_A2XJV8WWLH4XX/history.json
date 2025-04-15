@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Extra Strength Hair Nutrient Tablets, 60-Tablets",
+    "description": "",
+    "itemID": "B002JPJ2ZS",
+    "helpful": [
+      35,
+      51
+    ],
+    "overall": 1.0,
+    "salesRank": {
+      "Beauty": 14
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Hair Loss Products",
+        "Hair Regrowth Treatments"
+      ]
+    ],
+    "price": 32.35,
+    "brand": "Viviscal"
+  },
+  {
+    "title": "21st Century Herbal Clear Deodorant, Aloe Fresh, 2.65-Ounce",
+    "description": "Obtain ultimate protection with the help of 21st Century Herbal Deodorant! This aloe fresh stick features vitamins A & E for long-lasting freshness.",
+    "itemID": "B000GCLDOO",
+    "helpful": [
+      4,
+      4
+    ],
+    "overall": 1.0,
+    "salesRank": {
+      "Health & Personal Care": 8483
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Oils"
+      ]
+    ],
+    "price": 2.99,
+    "brand": "Herbal Clear"
+  },
+  {
+    "title": "Almay Amazing Lasting 16 Hour Eye Pencil, Precise Black Brown 1 ea",
+    "description": "Net Wt 0.01oz (28g)Beautifully defines eyes for up to 16 hours",
+    "itemID": "B000POYVHY",
+    "helpful": [
+      10,
+      10
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 8997
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Eyes",
+        "Liner & Shadow Combinations"
+      ]
+    ],
+    "price": 2.65,
+    "brand": "Almay"
+  }
+]

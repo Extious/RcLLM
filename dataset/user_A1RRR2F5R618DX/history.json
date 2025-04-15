@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Soft 'N Style Hair Donut Black, 0.005 Ounce",
+    "description": "Use to create buns and up-do's. Simply pull pony tail through donut and pin hair to achieve the look you want. Easy to use and lightweight.",
+    "itemID": "B00198ZOU8",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 8454
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Styling Accessories"
+      ]
+    ],
+    "price": 1.79,
+    "brand": "Soft &#39;N Style"
+  },
+  {
+    "title": "China Glaze: For Audrey, 0.5 oz",
+    "description": "China Glaze 'Something Blue' 6pc Counter Display, nail polish set features a limited edition \"For Audrey\" Tiffany inspired turquoise creme nail lacquer. This also makes a luxurious counter display.",
+    "itemID": "B001AL4DBA",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 19099
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Nails",
+        "Nail Polish"
+      ]
+    ],
+    "price": 5.69,
+    "brand": "China Glaze"
+  },
+  {
+    "title": "OPI Nail Lacquer - Pompeii Purple",
+    "description": "OPI Nail Lacquer - Pompeii Purple 0.5OZ",
+    "itemID": "B000CED0VK",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 14153
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Nails",
+        "Nail Polish"
+      ]
+    ],
+    "price": 5.51,
+    "brand": "OPI"
+  }
+]

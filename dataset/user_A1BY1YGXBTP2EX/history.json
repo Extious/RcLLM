@@ -1,0 +1,70 @@
+[
+  {
+    "title": "Befine Exfoliating Cleanser with Brown Sugar, Sweet Almond and Oats, 4 Ounce",
+    "description": "Deep cleansing to gently slough and moisturize. Almond, naturally high in minerals, removes impurities. Brown sugar and oat calm and heal. This non-irritating light buffing cleanser clears away dull and damaged skin. Use every day to give yourself a mini facial.",
+    "itemID": "B001KFDHZE",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 32120
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Hair & Scalp Treatments"
+      ]
+    ],
+    "price": 14.72,
+    "brand": "Befine"
+  },
+  {
+    "title": "OPI Nail Polish, Top Coat, 0.5-Ounce",
+    "description": "Buy OPI Nail & Cuticle Treatments - OPI Top Coat 15ml/0.5oz",
+    "itemID": "B00178VX50",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 1142
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Nails",
+        "Nail Polish"
+      ]
+    ],
+    "price": 6.1,
+    "brand": "OPI"
+  },
+  {
+    "title": "Neutrogena Make Up Removing Wipes, 100 Cleansing Towelettes",
+    "description": "Neutrogena Make Up Removing Wipes, 100 Cleansing Towelettes",
+    "itemID": "B0053T4HI4",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 705
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Makeup Remover",
+        "Face"
+      ]
+    ],
+    "price": 20.65,
+    "brand": "Neutrogena"
+  }
+]

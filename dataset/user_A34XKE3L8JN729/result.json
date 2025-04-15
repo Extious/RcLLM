@@ -1,0 +1,49 @@
+[
+  {
+    "title": "Too Faced Cosmetics, Shadow Insurance, 0.35 Ounce",
+    "description": "Your full-coverage insurance policy against all fading, creasing, melting, blurring, oil slicked andhard-to-blend eye-shadow accidents. Our silicone based eye-shadow primer transforms any eyeshadow into a perfectly blendable, color-drenched, intensified version of its self, then locks it downperfectly &#x2018;till you take it off. Our skin soothing formula evens out the skin tone on your lids andsmoothes out lines while it secures a barrier between the oils of your skin and your makeup, so noshadow catastrophes will ever happen again. \"Thank you Shadow Insurance, I can sleep better atnight knowing you're on my side!\"-",
+    "itemID": "B0013CSGBE",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 2975
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Eyes",
+        "Eye Shadow"
+      ]
+    ],
+    "price": 12.95,
+    "brand": "Too Faced"
+  },
+  {
+    "title": "Neutrogena Deep Clean Invigorating Foaming Scrub, 4.2 Ounce (Pack of 3)",
+    "description": "Enliven your senses with Neutrogena Deep Clean Invigorating Foaming Scrub. It deep cleans and leaves you feeling amazingly refreshed and exhilarated. Energizing microbeads gently exfoliate skin while sweeping away dead skin cells. Light gel formula lathers into bubbly foam removing surface dirt, oil and makeup. Feel the surge of invigoration as the cooling gel cleans down the pore leaving skin feeling fresh, clean and energized.",
+    "itemID": "B001E96MZ8",
+    "helpful": [
+      0,
+      2
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 11067
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Exfoliators & Scrubs",
+        "Scrubs"
+      ]
+    ],
+    "price": 27.06,
+    "brand": "Neutrogena"
+  }
+]

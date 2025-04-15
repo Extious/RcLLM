@@ -1,0 +1,95 @@
+[
+  {
+    "title": "Clearasil Daily Clear Tinted Adult Treatment Cream: 0.65 OZ",
+    "description": "Looking awesome is no accident, it's a science. A science that works with your skin not against it. A science that you'll find inside every Clearasil product.",
+    "itemID": "B000NNL7FG",
+    "helpful": [
+      2,
+      2
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 2576
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Cleansers"
+      ]
+    ],
+    "price": 3.52,
+    "brand": "Clearasil"
+  },
+  {
+    "title": "eos Fresh Flowers Hand Lotion 1.5 Ounce",
+    "description": "Designed to fit in your purse, your pocket, or on your desk, eos looks as good as it feels on your skin. Infused with moisturizing shea butter, oat extract, and a generous helping of antioxidants and vitamins C and E, eos hand lotion will leave your skin feeling soft, supple and radiantly healthy long after you apply it.",
+    "itemID": "B0076XERS0",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 34298
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Hands & Nails",
+        "Hand Creams & Lotions"
+      ]
+    ],
+    "price": 1.15,
+    "brand": "EOS"
+  },
+  {
+    "title": "Pantene Minoxidil Topical Solution Usp, 2% Hair Regrowth Treatment For Women 30 Day Supply 2 Fl Oz, 2.000-Fluid Ounce",
+    "description": "",
+    "itemID": "B00FF5B31U",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 10860
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Hair Loss Products",
+        "Hair Regrowth Treatments"
+      ]
+    ],
+    "price": 17.5,
+    "brand": "Pantene"
+  },
+  {
+    "title": "Suave Professionals Body Lotion, Moroccan Infusion, 18 Ounce",
+    "description": "",
+    "itemID": "B00GYB107Q",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 7479
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Lotions"
+      ]
+    ],
+    "price": 9.95,
+    "brand": "Suave"
+  }
+]

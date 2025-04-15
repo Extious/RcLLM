@@ -1,0 +1,48 @@
+[
+  {
+    "title": "Neutrogena Fresh Foaming Cleanser, 6.7 Ounce",
+    "description": "Fresh Foaming Cleanser is a cleanser and makeup remover in one.  Removing makeup before you go to bed has never been easier. This dermatologist-tested formula effectively removes dirt, oil and makeup. It even removes eye makeup, without soaps or oils that can sting or irritate the sensitive eye area. No more raccoon eyes! It rinses completely and won't leave any pore-clogging residue.  Forget the excuses and get refreshingly clean skin and complete makeup removal in one step.   Soap-free Oil-free Non-comedogenic (won't clog pores) Hypoallergenic",
+    "itemID": "B00027EG9C",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 1509
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Cleansers",
+        "Washes"
+      ]
+    ],
+    "price": 7.94,
+    "brand": "Neutrogena"
+  },
+  {
+    "title": "Neutrogena Triple Renewal Weightless Conditioner, 8.5 Ounce",
+    "description": "Neutrogena Triple Renewal Hair Care is designed for dramatic shine, renewed strength, and more voluminous hair from root to tip with every use.    Neutrogena Triple Renewal Weightless Conditioner provides the building blocks for natural volume, strength, and shine. This lightweight conditioner rinses clean, leaving hair touchably soft.   Addresses the three signs of limp, lifeless hair with essential elements lost over time.   Volume: Amino acids penetrates to help restore fullness Strength: Vitamins and fortifiers help nourish and strength deep down Shine: Naturally derived proteins seal hair cuticle for maximum shine.",
+    "itemID": "B005D9TP4A",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 67228
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Conditioners"
+      ]
+    ],
+    "price": NaN,
+    "brand": NaN
+  }
+]

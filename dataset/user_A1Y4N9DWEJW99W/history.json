@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Tweezerman Classic Eyelash Curler",
+    "description": "The finest metal curler available, featuring extra sturdy construction, smooth opening and closing action. Rounded curler pad creates intense curl.",
+    "itemID": "B000EMWHD2",
+    "helpful": [
+      2,
+      2
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 67844
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Tools & Accessories",
+        "Makeup Brushes & Tools",
+        "Eyelash Tools",
+        "Curlers"
+      ]
+    ],
+    "price": 11.25,
+    "brand": "Tweezerman"
+  },
+  {
+    "title": "Tweezerman Shape and Shine Nail Tool",
+    "description": "Tweezerman Shape and Shine Tool is a multi-use nail tool that features three filing surfaces, two buffing surfaces and one polishing surface to shape and shine nails naturally. Convenient and easy to use. Suitable for fingernails and toenails. Includes nail cleaner. Goes everywhere.",
+    "itemID": "B002HK2GWG",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 16977
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Tools & Accessories",
+        "Nail Tools",
+        "Nail Files & Buffers"
+      ]
+    ],
+    "price": 10.99,
+    "brand": "Tweezerman"
+  },
+  {
+    "title": "Peter Thomas Roth Max Complexion Correction Pads? (60 Pads)",
+    "description": "Cleansing pads exclusively formulated to cleanse skin, remove blackheads, refine pores and reduce the appearance of fine lines.  Regulates healthy cell turnover and delivers proven anti-aging benefits that help reduce the appearance of fine lines and wrinkles. Deluxe, generously thick, double-sided pads deliver gentle cleansing action on one side and superior pore-refining exfoliation on the textured side. Pads contain a potent blend of Alpha Hydroxy Acid (Glycolic Acid Complex10%), Beta Hydroxy Acid (Salicylic Acid 2%) and Alcohol (46%) in an advanced botanical formulation. Fresh peach bellini scent replaces traditional medicinal antiseptic pads.",
+    "itemID": "B0002Z81O0",
+    "helpful": [
+      3,
+      3
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 2521
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Cleansers"
+      ]
+    ],
+    "price": 24.56,
+    "brand": "Peter Thomas Roth"
+  }
+]

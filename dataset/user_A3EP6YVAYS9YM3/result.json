@@ -1,0 +1,396 @@
+[
+  {
+    "title": "Neutrogena Ultra Gentle Daily Cleanser, 12 Ounce",
+    "description": "This foaming cleanser works in a new, skinfriendly way to leave you with clean yet naturally soft skin. The nonstripping formula thoroughly removes excess oil, dirt, and makeup without overdrying or irritating skin.",
+    "itemID": "B0081E6X1W",
+    "helpful": [
+      1,
+      2
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 20440
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Cleansers"
+      ]
+    ],
+    "price": 7.99,
+    "brand": "Neutrogena"
+  },
+  {
+    "title": "vbeaut&eacute; Buying Time Everyday Cr&egrave;me, 1.7 Ounce",
+    "description": "",
+    "itemID": "B0060HOMHY",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 141000
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Creams & Moisturizers",
+        "Fluids & Lotions",
+        "Lotions"
+      ]
+    ],
+    "price": 53.0,
+    "brand": "vbeaut&eacute;"
+  },
+  {
+    "title": "Pond's luminous clean daily exfoliating cleanser, 5oz",
+    "description": "",
+    "itemID": "B0089JVEPO",
+    "helpful": [
+      1,
+      2
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 17619
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Exfoliators & Scrubs",
+        "Scrubs"
+      ]
+    ],
+    "price": 6.64,
+    "brand": "Pond&#39;s"
+  },
+  {
+    "title": "Vaseline, Total Moisture, Cocoa Radiant, Body Lotion, 20.3 oz Bottle (Pack of 3)",
+    "description": "",
+    "itemID": "B001ECQ5CA",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 52457
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Lotions"
+      ]
+    ],
+    "price": 17.96,
+    "brand": "Vaseline"
+  },
+  {
+    "title": "Motions At Home Moisture Plus Conditioner, 13 Ounce Bottle",
+    "description": "Motions At Home Moisture Plus Conditioner",
+    "itemID": "B000YZGPKU",
+    "helpful": [
+      0,
+      1
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 25537
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Conditioners"
+      ]
+    ],
+    "price": 8.27,
+    "brand": "Motions"
+  },
+  {
+    "title": "Motions At Home Oil Moisturizer Hair Lotion, 12-Ounce Bottles (Pack of 6)",
+    "description": "",
+    "itemID": "B000YZJMHS",
+    "helpful": [
+      0,
+      1
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 128675
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Creams, Gels & Lotions"
+      ]
+    ],
+    "price": 20.94,
+    "brand": NaN
+  },
+  {
+    "title": "Motions Naturally You, Moisturizing Cleanser, 8 Ounce",
+    "description": "",
+    "itemID": "B0072XRJ20",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 52404
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 8.09,
+    "brand": "Motions"
+  },
+  {
+    "title": "Dove Men+Care Hydrate + Shave Gel",
+    "description": "",
+    "itemID": "B00A0J09C0",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 14582
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Oils"
+      ]
+    ],
+    "price": 7.09,
+    "brand": "Dove"
+  },
+  {
+    "title": "Nexxus Hydralight Weightless Moisture Leave-In Conditioning Foam, 5.5 Ounce",
+    "description": "",
+    "itemID": "B00ALV8EKQ",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 22577
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Conditioners"
+      ]
+    ],
+    "price": 9.49,
+    "brand": "Nexxus"
+  },
+  {
+    "title": "Simple Radiance Wipes, 25 Count",
+    "description": "",
+    "itemID": "B00AO4EMKQ",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 2332
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Scrubs & Body Treatments",
+        "Body Scrubs"
+      ]
+    ],
+    "price": 8.97,
+    "brand": "Simple"
+  },
+  {
+    "title": "Dove Men+Care Anti Dandruff Fortifying Shampoo, 12-Ounces",
+    "description": "",
+    "itemID": "B00AE07CTI",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 619
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 9.99,
+    "brand": "Dove"
+  },
+  {
+    "title": "Vaseline Body Lotion, Aloe Fresh 20.3oz (Pack of 3)",
+    "description": "",
+    "itemID": "B001ECQ4JE",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 9039
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Scrubs & Body Treatments",
+        "Body Scrubs"
+      ]
+    ],
+    "price": 23.81,
+    "brand": "Vaseline"
+  },
+  {
+    "title": "Dove Men+Care Sensitive + Face Wash, 5 Ounces",
+    "description": "",
+    "itemID": "B00A0J09G6",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 6095
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Cleansers",
+        "Washes"
+      ]
+    ],
+    "price": 6.69,
+    "brand": "Dove"
+  },
+  {
+    "title": "Axe 2 in 1 Shampoo Plus Conditioner Apollo, 12 Ounce",
+    "description": "",
+    "itemID": "B00AE07B9O",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Beauty": 34581
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 15.95,
+    "brand": "AXE"
+  },
+  {
+    "title": "Nexxus Hydralight Weightless Moisture Conditioner, 13.5 Ounce",
+    "description": "",
+    "itemID": "B00ALV8EJW",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 65831
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Conditioners"
+      ]
+    ],
+    "price": 18.3,
+    "brand": "Nexxus"
+  },
+  {
+    "title": "Dove Men+Care Sensitive + Face Lotion 1.69 FL.Oz.",
+    "description": "",
+    "itemID": "B009YSSLAU",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 10488
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Creams & Moisturizers",
+        "Fluids & Lotions",
+        "Lotions"
+      ]
+    ],
+    "price": 6.5,
+    "brand": "Dove"
+  },
+  {
+    "title": "Own Products Refining Moisture Night Cream",
+    "description": "The Own Difference: To truly solve a problem, you need a new approach. In the fight against aging, the same companies, same formulas and ways of thinking have persisted. For years, we've seen products with impossible claims, read lists of unrecognizable toxic and harsh ingredients, and heard a false dichotomy between \"natural\" and \"effective\". The Entrepreneurial people behind Own saw a need for a new way of thinking. They couldn't find clinically proven, quality, good-for-you anti-aging treatments so they started Own and created the products that they wanted for themselves. Own is a San Francisco based skin-health company that believes in the holistic (complete) approach towards healthy skin. Own believes that there are too many chemicals that are in our everyday lives - in our food, in our environment, and even in our skincare products. Own's foundation is in developing unique, innovative formulas that are effective in improving skin's overall health, but without the need for harsh chemicals. Beyond products, Own advocates for lifestyle changes to make real improvements in their skin health. Using SF Bay Area technology, Own created the first-to-market aging analysis app that empowers people to see their current aging situation. Now armed with personalized information about wellness, nutrition and beauty, people can make wiser choices for their healthiest skin. Own is the NEW way of looking at OLD.",
+    "itemID": "B005KJ35D0",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 56383
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Creams & Moisturizers",
+        "Night Creams"
+      ]
+    ],
+    "price": 25.0,
+    "brand": "Own Products Inc"
+  }
+]

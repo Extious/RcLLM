@@ -1,0 +1,74 @@
+[
+  {
+    "title": "Olay Pro-X Advanced Cleansing System 0.68 Fl Oz, 1-Count",
+    "description": "",
+    "itemID": "B0043OYFKU",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 6
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Treatments & Masks",
+        "Microdermabrasion"
+      ]
+    ],
+    "price": 26.99,
+    "brand": "Olay"
+  },
+  {
+    "title": "Wig Head Stand - &quot;C-Clamp&quot; Manniquin Head Holder by 3rd Power",
+    "description": "The Econo Mannequin Head Holder holds practice mannequin head securely in place. Constructed of durable plastic. Easy to Fasten.",
+    "itemID": "B005C3ZYWE",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 4023
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Hair Extensions & Wigs",
+        "Wigs"
+      ]
+    ],
+    "price": 5.26,
+    "brand": "3rd Power Outlet"
+  },
+  {
+    "title": "Revlon Perfect Heat Jumbo 3 Barrel Waver",
+    "description": "Our Revlon Jumbo 3 Barrel Waver creates large loose, natural looking waves. Waver come with Triple Baked Ceramic, Tourmaline & Ionic Technologies for maximum hair conditioning for shiny, healthier looking waves.",
+    "itemID": "B000FRWNL2",
+    "helpful": [
+      0,
+      1
+    ],
+    "overall": 1.0,
+    "salesRank": {
+      "Beauty": 1365
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Irons",
+        "Curling Irons"
+      ]
+    ],
+    "price": 18.79,
+    "brand": "Revlon"
+  }
+]

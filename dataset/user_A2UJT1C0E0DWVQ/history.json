@@ -1,0 +1,70 @@
+[
+  {
+    "title": "Body Drench Quick Tan Mist",
+    "description": "Body Drench Quick Tan is a fast-drying fine-misting spray-on self tanner that provides immediate golden color. Ultra Bronzing formula gives the most natural-looking tan in a flash.",
+    "itemID": "B000VDYXT0",
+    "helpful": [
+      1,
+      2
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 8102
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Sun",
+        "Self-Tanners & Bronzers"
+      ]
+    ],
+    "price": 8.09,
+    "brand": "Body Drench"
+  },
+  {
+    "title": "Big Sexy Hair Volumizing Hairspray, Spray &amp; Play, 10.0 oz (284 g)",
+    "description": "Property of Michael O'Rourke. No animal testing. Made in U.S.A.",
+    "itemID": "B0009EXONC",
+    "helpful": [
+      7,
+      7
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 1874
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Hair Sprays"
+      ]
+    ],
+    "price": 13.5,
+    "brand": "Big Sexy"
+  },
+  {
+    "title": "OGX Split Ends Mender, Nourishing Coconut Milk, 6oz",
+    "description": "Organic coconut milk and weightless coconut oil blended with silk and keratin proteins create a silk repair therapy. Sulphate free product.",
+    "itemID": "B000N773K0",
+    "helpful": [
+      2,
+      4
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Beauty": 11802
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Hair & Scalp Treatments"
+      ]
+    ],
+    "price": 8.67,
+    "brand": "OGX"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "title": "Remington S9520 Salon Collection Ceramic Hair Straightener with Pearl Infused Wide Plates, 2 Inch",
+    "description": "",
+    "itemID": "B003V21WO2",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 3380
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Irons",
+        "Flattening Irons"
+      ]
+    ],
+    "price": NaN,
+    "brand": NaN
+  },
+  {
+    "title": "Remington S8590 Keratin Therapy Straightener with Smart Sensor",
+    "description": "",
+    "itemID": "B007E0FQ1W",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 1658
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Irons",
+        "Flattening Irons"
+      ]
+    ],
+    "price": 39.99,
+    "brand": "Remington"
+  },
+  {
+    "title": "Remington Ci96x1 Silk Ceramic Wide Styling Wand",
+    "description": "",
+    "itemID": "B00BB8ZHJE",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 15509
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Irons",
+        "Curling Irons"
+      ]
+    ],
+    "price": 29.41,
+    "brand": "Remington"
+  }
+]

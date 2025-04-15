@@ -1,0 +1,74 @@
+[
+  {
+    "title": "Hot Tools PINKTITANIUM Salon Titanium Curling Iron 1 Inch",
+    "description": "Hot Tools PINKTITANIUM Salon Titanium Curling Iron 1 Inch provides lightweight strength and durability under extreme temperatures. Ultra-hard mirror smooth finish for snag-free styling. Fast heat up.",
+    "itemID": "B0028MITHO",
+    "helpful": [
+      2,
+      2
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 4059
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Irons",
+        "Curling Irons"
+      ]
+    ],
+    "price": 34.13,
+    "brand": "Hot Tools"
+  },
+  {
+    "title": "CHI Enviro 54 Hair Spray Natural Hold, 12 Ounce",
+    "description": "Create multiple textures with outstanding style memory. The best thing is that these styles can be regenerated with heat again and again.",
+    "itemID": "B000NIR610",
+    "helpful": [
+      3,
+      3
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 5696
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Hair Sprays"
+      ]
+    ],
+    "price": 15.0,
+    "brand": NaN
+  },
+  {
+    "title": "L'Oreal Paris RevitaLift Anti-Wrinkle + Firming Face &amp; Neck Contour Cream, 1.7 Fluid Ounce",
+    "description": "This unique daily moisturizer delivers anti-wrinkle and firming action, created specially to care for your face and neck.  Experience advanced action against the signs of aging wth smoother, firmer skin in just 4 weeks. RevitaLift Anti-Wrinkle + Firming Face & Neck Contour Cream with Pro-Retinol A and Stimuplex increases cell turnover, reduces wrinkles, firms skin, and provides 24 hour moisturization.",
+    "itemID": "B000KONYJK",
+    "helpful": [
+      28,
+      42
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 863
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Creams & Moisturizers",
+        "Fluids & Lotions",
+        "Lotions"
+      ]
+    ],
+    "price": 7.0,
+    "brand": "L&#39;Oreal Paris"
+  }
+]

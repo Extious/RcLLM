@@ -1,0 +1,69 @@
+[
+  {
+    "title": "Sebastian Collection Potion 9   5.1 Ounces",
+    "description": "Sebastian Collection Potion 9. Treatment to help repair damaged hair while building style",
+    "itemID": "B0007CXYP4",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": NaN,
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Creams, Gels & Lotions"
+      ]
+    ],
+    "price": 23.57,
+    "brand": "Sebastian"
+  },
+  {
+    "title": "L'Oreal Lash Boosting Serum, 585(5.5ml)",
+    "description": "LOreal Lash Boosting Serum 585, 0.18 oz",
+    "itemID": "B002PBJIPK",
+    "helpful": [
+      0,
+      2
+    ],
+    "overall": 1.0,
+    "salesRank": {
+      "Beauty": 9526
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Eyes",
+        "Mascara"
+      ]
+    ],
+    "price": 7.44,
+    "brand": "L&#39;Oreal Paris"
+  },
+  {
+    "title": "Godefroy 28 Day Mascara Permanent Eyelash and Eyebrow Tint Kit, Black",
+    "description": "Buy Godefroy Mascaras - Godefroy 28 Day Mascara Permanent Eyelash and Eyebrow Tint Kit Black. How-to-Use: An allergy test is required 24 hours before use of this product. *For best results wash lashes thoroughly with mild soap. Let lashes dry before treatment. *Apply a thin layer of petroleum jelly around eye area. this will prevent staining and will adhere eye shield to skin. Place enclosed eye shield on skin underneath eye lashes. Eye shields can be trimmed for a cus",
+    "itemID": "B002T71IL2",
+    "helpful": [
+      3,
+      3
+    ],
+    "overall": 1.0,
+    "salesRank": {
+      "Beauty": 1093
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Eyes",
+        "Mascara"
+      ]
+    ],
+    "price": 15.95,
+    "brand": "Godefroy"
+  }
+]

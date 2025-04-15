@@ -1,0 +1,73 @@
+[
+  {
+    "title": "Biosilk Silk Therapy Serum, Packaging May Vary, 5.64 Ounces",
+    "description": "Biosilk Silk Therapy Serum",
+    "itemID": "B0007CXX82",
+    "helpful": [
+      80,
+      86
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 639
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Lotions"
+      ]
+    ],
+    "price": 13.43,
+    "brand": "BioSilk"
+  },
+  {
+    "title": "Farouk CHI 1 Inch Ceramic Flat Hairstyling Iron",
+    "description": "Farouk CHI GF1001 Original 1\" Ceramic Ionic Flat Iron Hair Straightener Warranty Offer: All Chi products that are purchased Direct from Amazon.com are covered by a 30 day Amazon warranty. This item is not covered by the manufacture warranty. Applies only to products sold by Amazon.com. Does not apply to products sold on our site by third-party merchants or through third-party areas such as Amazon.com Marketplace or Auctions.",
+    "itemID": "B0009V1YR8",
+    "helpful": [
+      3,
+      3
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 3128
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Irons",
+        "Flattening Irons"
+      ]
+    ],
+    "price": 89.09,
+    "brand": NaN
+  },
+  {
+    "title": "CHI Silk Infusion Leave-In Treatment, 12 Ounce",
+    "description": "Farouk CHI Silk Infusion is specifically developed to work in conjunction with the CHI Styling Tool product lines. CHI Silk Infusion is a rich leave-in-treatment formulated with pure silk, wheat and soy proteins that will penetrate deep.",
+    "itemID": "B000BX1Z00",
+    "helpful": [
+      10,
+      12
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 61432
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Creams, Gels & Lotions"
+      ]
+    ],
+    "price": NaN,
+    "brand": NaN
+  }
+]

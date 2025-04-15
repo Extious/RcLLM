@@ -1,0 +1,71 @@
+[
+  {
+    "title": "CoverGirl Simply Powder Foundation Ivory(N) 505, 0.41-Ounce Compact (Pack of 2)",
+    "description": "",
+    "itemID": "B002VECJ3Y",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 10121
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Foundation"
+      ]
+    ],
+    "price": 24.49,
+    "brand": NaN
+  },
+  {
+    "title": "Phillips Light Touch 1 Cushion Hair Brush",
+    "description": "The Phillips Light Touch #1 Hairbrush is a full size brush that measures 8 1/2\" long. This lightweight model features an oval cushion and contour handle, single strands of ball tipped bristles, and hand glued cushions. Ivory colored. Made in France.",
+    "itemID": "B00015HBD8",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 6649
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Brushes"
+      ]
+    ],
+    "price": 12.94,
+    "brand": "Philips"
+  },
+  {
+    "title": "Bass Brushes Facial Cleansing Brush",
+    "description": "Colors Vary   Deluxe 100% Natural Bristles  Acrylic Handle",
+    "itemID": "B0006OU078",
+    "helpful": [
+      3,
+      4
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 4899
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Bathing Accessories",
+        "Loofahs, Sponges & Poufs"
+      ]
+    ],
+    "price": 9.99,
+    "brand": "Bass Brushes"
+  }
+]

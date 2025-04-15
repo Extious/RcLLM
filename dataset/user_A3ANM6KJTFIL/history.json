@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Jobst It Stays Roll-on Body Adhesive 2 oz. (3 pack)",
+    "description": "Roll-on body adhesive helps Jobst garments stay in place.",
+    "itemID": "B0000Y3LAC",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 11136
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Lotions"
+      ]
+    ],
+    "price": 22.96,
+    "brand": "Jobst"
+  },
+  {
+    "title": "EARTH THERAPEUTICS Brush Wooden Pin - Large 1 UNIT",
+    "description": "Earth Therapeutics Natural Wood Pin Massage Brush (Large)",
+    "itemID": "B000KM3NDO",
+    "helpful": [
+      4,
+      4
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 21479
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Brushes"
+      ]
+    ],
+    "price": 9.08,
+    "brand": "Earth Therapeutics"
+  },
+  {
+    "title": "Remington H-1015 Ceramic Compact, Large and Medium Roller",
+    "description": "All the Power! All the Features! All the Style!",
+    "itemID": "B000EPJNMW",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 1.0,
+    "salesRank": {
+      "Beauty": 1882
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Hair Rollers"
+      ]
+    ],
+    "price": 17.97,
+    "brand": "Remington"
+  }
+]

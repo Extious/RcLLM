@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Clean &amp; Clear ESSENTIALS Dual Action Moisturizer, 4 Ounce",
+    "description": "Salicylic acid acne medication Moisturizes dry skin Treats & helps prevent pimples Active: Salicylic Acid 0.5%. For external use only.",
+    "itemID": "B000052YJM",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": NaN,
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Creams & Moisturizers",
+        "Fluids & Lotions",
+        "Fluids"
+      ]
+    ],
+    "price": 5.9,
+    "brand": "Clean &amp; Clear"
+  },
+  {
+    "title": "Source Naturals Skin Eternal Serum, 1.7  Ounce",
+    "description": "Skin Eternal Serum, an aqueous cosmetic serum, is a moisturizing lotion contain a rich blend of nutrients and plant extracts. This serum is easily absorbed into the skin and immediately makes skin feel softer and replenished. It is lightly scented with pure lavender and lemon oils. Contents measured by volume.",
+    "itemID": "B0009EXOXW",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Health & Personal Care": 18894
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Foundation"
+      ]
+    ],
+    "price": 16.25,
+    "brand": "Source Naturals"
+  },
+  {
+    "title": "Maybelline New York Expert Tools, Lip Brush",
+    "description": "Retractable, portable brush for applying lipstick and gloss. 100% natural fibers.",
+    "itemID": "B001L433TO",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 34226
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Tools & Accessories",
+        "Makeup Brushes & Tools",
+        "Brushes & Applicators"
+      ]
+    ],
+    "price": 15.53,
+    "brand": "Maybelline"
+  }
+]

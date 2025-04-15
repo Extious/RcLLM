@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Emerita Pro-gest Natural Balancing Cream, 2 Ounce",
+    "description": "It helps women find relief from issues that occur during perimenopause and menopause.",
+    "itemID": "B0001ZYLAO",
+    "helpful": [
+      2,
+      2
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Health & Personal Care": 75548
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Lotions"
+      ]
+    ],
+    "price": 16.78,
+    "brand": "Emerita"
+  },
+  {
+    "title": "L'Oreal Paris EverSleek Sulfate-Free Smoothing System Super Sleek Intense Serum, 1.9 Fluid Ounce",
+    "description": "Say goodbye to stubborn, unmanageable frizz with EverSleek Sulfate-Free Smoothing System Super Sleek Intense Serum. This smoothing serum, infused with Argan, Sunflower and Olive oils, helps control rebellious and unruly hair without the weight of heavy silicones. Hair is left shiny and stunningly sleek. Silicone-free 48-hour frizz control",
+    "itemID": "B005HIHD2I",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 60523
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Hair Styling Serums"
+      ]
+    ],
+    "price": 5.75,
+    "brand": "L&#39;Oreal Paris"
+  },
+  {
+    "title": "Roux Fanci-Full Mousse, 18 Spun Sand, 6 Fluid Ounce",
+    "description": "This Roux fanci-full mousse is a rich temporary color for light ash blonde, tinted or bleached hair. It styles in and shampoos out. It combines beautiful temporary color with conditioning texturizers for style and control.",
+    "itemID": "B000142JDG",
+    "helpful": [
+      1,
+      2
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 105867
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Hair Color",
+        "Chemical Hair Dyes"
+      ]
+    ],
+    "price": 5.3,
+    "brand": "Roux"
+  }
+]

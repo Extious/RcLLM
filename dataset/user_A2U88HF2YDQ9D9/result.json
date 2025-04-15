@@ -1,0 +1,46 @@
+[
+  {
+    "title": "Sigma F25 - Tapered Face",
+    "description": "Unique Feature: Large and tapered with a precise tip\nFunction: Exact product placement onto cheeks\nRecommended Use: Apply powder, blush or contour shades onto the cheeks and temples. Tapered shape gives exact placement of product.\nBristle Type: Natural\n\n 2012 Sigma Enterprises, LLC",
+    "itemID": "B005P00JRE",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": NaN,
+    "categories": [
+      [
+        "Beauty",
+        "Tools & Accessories",
+        "Makeup Brushes & Tools",
+        "Brushes & Applicators"
+      ]
+    ],
+    "price": 26.85,
+    "brand": "Sigma Beauty"
+  },
+  {
+    "title": "Sleek i-Divine AU Natural Palette Mineral based Eye Shadow Palette",
+    "description": "We've recently given our i-Divines a makeover! The outer packaging has been updated and the way the eye shadows are pressed are different. They are now pressed flat instead of the original waffle print.",
+    "itemID": "B007Q22HMY",
+    "helpful": [
+      0,
+      1
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 4338
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Eyes",
+        "Eye Shadow"
+      ]
+    ],
+    "price": 11.75,
+    "brand": "Sleek"
+  }
+]

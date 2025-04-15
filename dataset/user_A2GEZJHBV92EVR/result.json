@@ -1,0 +1,73 @@
+[
+  {
+    "title": "Corn Huskers Oil-Free Hand Lotion -- 7 fl oz",
+    "description": "Corn Huskers Lotion provides fast penetrating action. Moisturizes and softens dry skin. Also, soothes the discomfort of irritated, chapped, or cracked skin.",
+    "itemID": "B000RO3EMA",
+    "helpful": [
+      3,
+      3
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 14807
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Hands & Nails",
+        "Hand Creams & Lotions"
+      ]
+    ],
+    "price": 5.97,
+    "brand": "Corn Huskers"
+  },
+  {
+    "title": "Vaseline Intensive Care Total Moisture Dry Skin Lotion with Vitamin E &amp; A with pro-vitamin B5 20.3 Ounce",
+    "description": "Vaseline intensive care total moisture dry skin lotion with vitamin E is a multi-vitamin moisturizer. It replenishes 100% of daily hydration, along with the essential nutrients that skin needs to be vibrant and feel healthy everyday.",
+    "itemID": "B000UF5TQK",
+    "helpful": [
+      11,
+      11
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Beauty": 15868
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Lotions"
+      ]
+    ],
+    "price": 12.9,
+    "brand": "Vaseline"
+  },
+  {
+    "title": "Gold Bond  Ultimate Healing Skin Therapy Lotion, Aloe, 14 Ounce Pump",
+    "description": "Specially formulated for all over body moisturization to help heal extremely dry, rough, cracked and irritated skin. Gold bond ultimate contains 7 intensive moisturizers clinically tested to provide 24-hour moisturization. Plus, it contains 3 essential sk",
+    "itemID": "B001QFDTWO",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Health & Personal Care": 45308
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Lotions"
+      ]
+    ],
+    "price": 9.0,
+    "brand": "Gold Bond"
+  }
+]

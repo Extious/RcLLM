@@ -1,0 +1,72 @@
+[
+  {
+    "title": "L'Oreal Paris Colour Riche Nail, Pink Me Up, 0.39 Ounces",
+    "description": "This item is purer, more refined nail pigment. It gives higher clarity and fade resistant too.",
+    "itemID": "B005EII0QO",
+    "helpful": [
+      0,
+      1
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 78212
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Nails",
+        "Nail Polish"
+      ]
+    ],
+    "price": 0.02,
+    "brand": "L&#39;Oreal Paris"
+  },
+  {
+    "title": "Diane 3.5&quot; Powder Puff",
+    "description": "Large cosmetic powder puff.",
+    "itemID": "B003SYYEG6",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 6725
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Tools & Accessories",
+        "Makeup Brushes & Tools",
+        "Puffs, Sponges & Wedges"
+      ]
+    ],
+    "price": 4.38,
+    "brand": "Diane"
+  },
+  {
+    "title": "Jergens Original Scent Moisturizer, Cherry-Almond, 10 Ounce",
+    "description": "Jergens Original Scent Moisturizer transports you back in time as it transforms dry skin into captivatingly soft skin. Leaves skin embraceable silky and subtly fragranced. Jergens Moisturizer with the classic Cherry-Almond scent. Comforts and Nourishes.",
+    "itemID": "B000QX7YCI",
+    "helpful": [
+      4,
+      4
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 166463
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Lotions"
+      ]
+    ],
+    "price": 4.99,
+    "brand": "Jergens"
+  }
+]

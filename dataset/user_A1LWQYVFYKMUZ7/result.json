@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Herbal Essences Smooth Collection Shampoo 13.5 Fl Oz",
+    "description": "Go back to that Amazing Hair Day. Enter a world of botanical bliss. Herbal Essences Smooth Collection Shampoo's formula will unleash the power of your naturally beautiful hair. Embracing you like a meadow of fresh flowers, this luxurious shampoo has a blend of rose hips, jojoba and vitamin E extracts. This shampoo cleans to reveal natural shine and takes your hair to a place its never been before. Herbal Lore: Ancient Greeks believed roses became red from the blood of Aphrodite, who pricked her foot on a thorn trying to save her beloved Adonis.",
+    "itemID": "B00B18C2RE",
+    "helpful": [
+      5,
+      8
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 53204
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 4.74,
+    "brand": "Herbal Essences"
+  },
+  {
+    "title": "Eucerin Daily Protection Moisturizing Face Lotion, Broad Spectrum SPF 30",
+    "description": "",
+    "itemID": "B00008MNZH",
+    "helpful": [
+      3,
+      3
+    ],
+    "overall": 5.0,
+    "salesRank": NaN,
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Creams & Moisturizers",
+        "Fluids & Lotions",
+        "Lotions"
+      ]
+    ],
+    "price": 8.04,
+    "brand": "Eucerin"
+  }
+]

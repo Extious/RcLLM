@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Proactiv 4 Pc Kit 30 Day Supply",
+    "description": "All products are new, never used. Expiration dates 2009 or later",
+    "itemID": "B001SA5DZS",
+    "helpful": [
+      2,
+      3
+    ],
+    "overall": 1.0,
+    "salesRank": {
+      "Beauty": 42781
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Treatments & Masks"
+      ]
+    ],
+    "price": 32.05,
+    "brand": "Proctiv Solution"
+  },
+  {
+    "title": "The Regimen: Complete Acne.org Treatment Kit",
+    "description": "Hi everybody, I'm Dan. I suffered for years with acne and tried everything. Like many of you have probably experienced as well, nothing worked. So, I went to work researching everything I possibly could about acne and after years of trial and error I found a treatment routine that cleared me up completely using only common drugstore products. I made Acne.org to share my regimen with the world. Pretty much everyone who follows it closely gets clear--even people with severe acne. After 6 years of The Regimen being completely not-for-profit, I developed a line of larger sized, higher quality products to make The Regimen more affordable and effective for everybody. Here they are! -Dan",
+    "itemID": "B0016836RY",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 3383
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Sets & Kits"
+      ]
+    ],
+    "price": 44.21,
+    "brand": NaN
+  },
+  {
+    "title": "Acne.org 8 oz. Organic Jojoba Oil",
+    "description": "Generously sized 8 oz. certified organic jojoba oil. Jojoba oil will not clog pores. Quite the contrary, it makes many people's skin look great and helps keep their skin's oil balanced. Adding 5-6 drops of jojoba oil into any moisturizer will significantly increase hydration and leave the skin feeling smooth. It can also be used as an extra-light lip balm, to remove makeup, calm razor burn, or as a body lotion, hair conditioner, or massage oil. Please share your own use for jojoba oil on Acne.org.",
+    "itemID": "B001CM1XX8",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 1.0,
+    "salesRank": {
+      "Beauty": 12188
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Treatments & Masks"
+      ]
+    ],
+    "price": 16.96,
+    "brand": "Acne.org"
+  }
+]

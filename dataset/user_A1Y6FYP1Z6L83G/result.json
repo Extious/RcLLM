@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Agadir  Argan Oil Spray Treatment, 5.1-Ounce",
+    "description": "AGADIR by Agadir ARGAN OIL SPRAY TREATMENT 5.1 OZ",
+    "itemID": "B002QG6P9G",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 2102
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Hair Sprays"
+      ]
+    ],
+    "price": 11.99,
+    "brand": "Agadir"
+  },
+  {
+    "title": "Tree Hut Olive and Shea Sugar Body Scrub, Lavender and Chamomile, 18-Ounce",
+    "description": "Delight your senses as you smooth your skin with this rich, exfoliating olive and shea sugar body scrub. The whole sugar grains provide a gentle yet deep exfoliation, the olive oil and shea help preserve your skin's natural moisture and the vitamin c keeps your skin looking healthy. Certified organic shea butter, natural moisturizer, hydrates dry skin and promotes skin elasticity. Certified organic olive oil, rich in nutrients, antioxidants and vitamins. Includes anti-inflammatory, moisturizing and regenerating properties.",
+    "itemID": "B005TI2AAQ",
+    "helpful": [
+      2,
+      3
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 64812
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Scrubs & Body Treatments",
+        "Body Scrubs"
+      ]
+    ],
+    "price": 28.95,
+    "brand": "Tree Hut"
+  },
+  {
+    "title": "Mary Kay Foundation Primer Sunscreen Broad Spectrum SPF 15 1 fluid ounce",
+    "description": "This lightweight gel glides on easily to fill in imperfections and dries quickly to a matte finish to create the perfect canvas for a flawless foundation application that enhances foundation benefits and extends wear.Foundation primers have been a secret of professional makeup artists for years to give models and celebrities flawless looking skin. Mary Kay Foundation Primer SPF 15* perfects skin as it enhances foundation benefits and extends foundation wear. In fact, some women who tried the product believed that Mary Kay Foundation Primer helped foundation maintain an acceptable appearance for nine hours or more.",
+    "itemID": "B004SPDEWE",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 3285
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Foundation Primers"
+      ]
+    ],
+    "price": 13.25,
+    "brand": "Mary Kay"
+  }
+]

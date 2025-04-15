@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Bumble and Bumble Surf Spray, 4-Ounce Bottle",
+    "description": "Rekindle summer with the sexy, wild, wind-styled texture you get after an ocean swim.",
+    "itemID": "B000BIXP5I",
+    "helpful": [
+      7,
+      10
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 1946
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Hair Sprays"
+      ]
+    ],
+    "price": 27.0,
+    "brand": "Bumble and Bumble"
+  },
+  {
+    "title": "Bumble and Bumble Thickening Conditioner (8 Ounces)",
+    "description": "A featherweight moisturizer and detangler for fine or limp hair with ultra-light silk fibers that separate strands to create a fuller look.",
+    "itemID": "B000BIUGUK",
+    "helpful": [
+      8,
+      10
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 6204
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Hair Relaxers",
+        "Conditioners"
+      ]
+    ],
+    "price": 25.92,
+    "brand": "Bumble and Bumble"
+  },
+  {
+    "title": "Bumble and Bumble Brilliantine (2 Ounces)",
+    "description": "Brilliantine is unique and hard to define. It gives hair polish and a sort of lanquid, slept-in, sexy look.",
+    "itemID": "B000BIZSUS",
+    "helpful": [
+      5,
+      8
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Beauty": 5034
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Creams, Gels & Lotions"
+      ]
+    ],
+    "price": 25.74,
+    "brand": "Bumble and Bumble"
+  }
+]

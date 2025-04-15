@@ -1,0 +1,69 @@
+[
+  {
+    "title": "Sally Hansen Salon Pro Gel Starter Kit, Wine Not",
+    "description": "",
+    "itemID": "B009UXXGJK",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 3428
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Tools & Accessories",
+        "Nail Tools",
+        "Sets & Kits"
+      ]
+    ],
+    "price": 34.99,
+    "brand": "Sally Hansen"
+  },
+  {
+    "title": "Suave Kids 3 in 1 Shampoo Conditioner and Body Wash, Razzle Dazzle Raspberry, 22.5 Ounce (Packaging May Vary)",
+    "description": "",
+    "itemID": "B00A8G7TIC",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 12829
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 11.32,
+    "brand": "Suave"
+  },
+  {
+    "title": "Suave Kids 2 in 1 Shampoo and Conditioner, Cowabunga Coconut, 22.5 Ounce (Packaging May Vary)",
+    "description": "",
+    "itemID": "B0020122ZS",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 58864
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 5.16,
+    "brand": "Suave"
+  }
+]

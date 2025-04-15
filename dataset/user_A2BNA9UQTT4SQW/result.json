@@ -1,0 +1,48 @@
+[
+  {
+    "title": "Roux Fanci Full Mousse #52 White Mink 6 oz",
+    "description": "ROUX Fanci Full Mousse #52 White Mink adds color instantly when the hair is being styled for a beautiful, temporary, no-commit color. Refreshes, highlights and deepens color or blends away gray while adding extra conditioning for better manageability and shine.",
+    "itemID": "B0001XQNMK",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 34458
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Mousses & Foams"
+      ]
+    ],
+    "price": 9.99,
+    "brand": "Roux"
+  },
+  {
+    "title": "Frizz Ease Curl Reviver Styling Mousse, 7.2 Ounce",
+    "description": "Soft-hold formula restores bounce to tired waves, ringlets and perms. Featuring a highly-effective blend of Panthenol and frizz-reducing conditioners. It restores elasticity for springy curls that bounce back.",
+    "itemID": "B006OHM1M8",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 2756
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Mousses & Foams"
+      ]
+    ],
+    "price": 3.71,
+    "brand": "John Frieda"
+  }
+]

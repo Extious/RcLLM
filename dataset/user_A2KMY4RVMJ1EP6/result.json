@@ -1,0 +1,138 @@
+[
+  {
+    "title": "Vaseline, Total Moisture, Cocoa Radiant, Body Lotion, 20.3 oz Bottle (Pack of 3)",
+    "description": "",
+    "itemID": "B001ECQ5CA",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 52457
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Lotions"
+      ]
+    ],
+    "price": 17.96,
+    "brand": "Vaseline"
+  },
+  {
+    "title": "Nexxus Hydralight Weightless Moisture Leave-In Conditioning Foam, 5.5 Ounce",
+    "description": "",
+    "itemID": "B00ALV8EKQ",
+    "helpful": [
+      5,
+      6
+    ],
+    "overall": 1.0,
+    "salesRank": {
+      "Beauty": 22577
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Conditioners"
+      ]
+    ],
+    "price": 9.49,
+    "brand": "Nexxus"
+  },
+  {
+    "title": "Vaseline Total Moisture, Body Lotion, Pure Oat Extract, Packaging May Vary, 20.3 Fl  Oz. . (Pack of 3)",
+    "description": "",
+    "itemID": "B001ECQ4OY",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 99367
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Lotions"
+      ]
+    ],
+    "price": 27.6,
+    "brand": "Vaseline"
+  },
+  {
+    "title": "Tresemme Keratin Smooth Infusing Shampoo, 25 Ounce",
+    "description": "",
+    "itemID": "B00AO4E9E0",
+    "helpful": [
+      11,
+      13
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 6538
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 3.99,
+    "brand": "TRESemme"
+  },
+  {
+    "title": "TRESemme Keratin Smooth Keratin Infusing Conditioner, 25 oz",
+    "description": "",
+    "itemID": "B00AO4E9MC",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 9379
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Conditioners"
+      ]
+    ],
+    "price": 11.35,
+    "brand": "TRESemme"
+  },
+  {
+    "title": "Nexcare Acne Absorbing Cover, Two Sizes, 36 Count",
+    "description": "",
+    "itemID": "B00BRGUNV2",
+    "helpful": [
+      1,
+      2
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 237
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face"
+      ]
+    ],
+    "price": 7.49,
+    "brand": "Nexcare"
+  }
+]

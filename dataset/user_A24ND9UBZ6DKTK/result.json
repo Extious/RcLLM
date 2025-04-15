@@ -1,0 +1,93 @@
+[
+  {
+    "title": "Urban Decay Eyeshadow Primer Potion .34 fl oz (10 ml)",
+    "description": "Original (sheer nude)",
+    "itemID": "B0028RC5N8",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 61111
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Eyes",
+        "Concealer & Base"
+      ]
+    ],
+    "price": NaN,
+    "brand": NaN
+  },
+  {
+    "title": "Joico - Moisture Recovery Shampoo and Conditioner Liter Duo Set(33.8oz)",
+    "description": "Moisture Recovery features an exclusive Hydramine Sea Complex: a blend of moisture-loving ingredients from the sea that quenches overly dry hair attributed to the environment, chemical services or genetics.",
+    "itemID": "B0015A807Y",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 3259
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoo & Conditioner Sets"
+      ]
+    ],
+    "price": 32.3,
+    "brand": "Joico"
+  },
+  {
+    "title": "NYX Single Eye Shadow, Dark Brown, 2.5 g",
+    "description": "Richly pigmented eye shadows in over 162 shades. Soft and silky NYX cosmetics single eye shadows are great on their own or blended for a beautiful prism of colors. This top-selling eye shadow is formulated for long-lasting wear.",
+    "itemID": "B002R23I76",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 133151
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Eyes",
+        "Eye Shadow"
+      ]
+    ],
+    "price": 7.99,
+    "brand": "NYX"
+  },
+  {
+    "title": "Life-Flo Organic Pure Rosehip Seed Oil, 1 Ounce",
+    "description": "A rich, amber-colored oil from the ripened fruit of the rose known as hips. Contains natural retinol acid (vitamin a) and is well sought after for helping to replenish and restore mature or sun-exposed skin.",
+    "itemID": "B006MMOVOQ",
+    "helpful": [
+      3,
+      4
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 1763
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Scrubs & Body Treatments",
+        "Body Scrubs"
+      ]
+    ],
+    "price": 7.5,
+    "brand": "Life-Flo"
+  }
+]

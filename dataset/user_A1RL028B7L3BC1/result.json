@@ -1,0 +1,73 @@
+[
+  {
+    "title": "Topix Benzoyl Peroxide 10% Wash 8 oz bottle",
+    "description": "A cleanser combined with 10% benzoyl peroxide for treatment of acne.",
+    "itemID": "B001MA7QFO",
+    "helpful": [
+      1,
+      2
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 137
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Scrubs & Body Treatments",
+        "Body Scrubs"
+      ]
+    ],
+    "price": 13.95,
+    "brand": "Topix"
+  },
+  {
+    "title": "Topix Benzoyl Peroxide 10% Wash with Aloe Vera 7.75 oz. bottle",
+    "description": "Expertly engineered to provide flawless skin, Topix Benzaderm Wash with Aloe Vera cleans without creating discomfort. The lightweight formula whisks away dulling dirt, oil, and debris while drenching the skin in comfort and calm for soft, smooth, refreshed skin....",
+    "itemID": "B001MA5VUQ",
+    "helpful": [
+      8,
+      16
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Beauty": 1136
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Cleansers",
+        "Body Washes"
+      ]
+    ],
+    "price": 14.7,
+    "brand": "Topix"
+  },
+  {
+    "title": "Murad Acne Clarifying Body Spray, Step 2 Treat/Repair, 4.3 fl oz (125 ml)",
+    "description": "Clears and prevents blemishes and skin breakouts. Reduces Acne Blemishes on Contact By: Treating and preventing breakouts. Healing and keeping skin healthy. 0.5% Salicylic Acid Acne Treatment. Revolutionary 360 degrees spray works upside down to fight breakouts in hard to reach places. Powerful anti-bacterial ingredients purify and clarify skin from head to toe. Salicylic Acid penetrates pores to clear up acne and prevent new breakouts from forming. Skin conditioners soothe and hydrate irritated skin. Dermatologist developed and tested. Murad does not test on animals. Made in the USA.",
+    "itemID": "B000GDDKJY",
+    "helpful": [
+      11,
+      12
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Beauty": 6029
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Treatments & Masks",
+        "Acids & Peels",
+        "Salicylic Acid"
+      ]
+    ],
+    "price": 24.89,
+    "brand": "Murad"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Vivo Per Lei Moisturizing Day Cream, 1.7-Fluid Ounce",
+    "description": "Luxuriously light day cream provides immediate day-long moisture and replenishment, leaving skin looking and feeling softer and more radiant",
+    "itemID": "B003SSTKHU",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Beauty": 2848
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Creams & Moisturizers",
+        "Day Creams"
+      ]
+    ],
+    "price": 8.99,
+    "brand": "Vivo Per Lei"
+  },
+  {
+    "title": "Vivo Per Lei Facial Peeling, 1.7-Fluid Ounce",
+    "description": "Vivo Per Lei Facial Peeling provides powerful facial cleansing by removing a thin layer of dry cells to reveal ultra-smooth and youthful skin",
+    "itemID": "B003SSTL42",
+    "helpful": [
+      2,
+      4
+    ],
+    "overall": 1.0,
+    "salesRank": {
+      "Beauty": 2491
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Treatments & Masks",
+        "Masks"
+      ]
+    ],
+    "price": 9.85,
+    "brand": "Vivo Per Lei"
+  }
+]

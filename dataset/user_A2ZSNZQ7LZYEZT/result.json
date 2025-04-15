@@ -1,0 +1,48 @@
+[
+  {
+    "title": "Premier Dead Sea Ageless Future Cell-renewal Serum, All Skin Types, 2.0288-Fluid Ounce",
+    "description": "The Ageless Future Cell Renewal Serum has a wonderful long-term effect: It enhances the skin cells&#x2019; ability to regenerate by reviving their cellular metabolism",
+    "itemID": "B001DXQMS2",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 13650
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Oils & Serums"
+      ]
+    ],
+    "price": 42.0,
+    "brand": "Dead Sea Premier"
+  },
+  {
+    "title": "Premier Dead Sea Biox Intensive Age Treatment Eye Cream Gel/Anti-age, 0.5072-Fluid Ounce",
+    "description": "Biox Anti-Aging Complex is a targeted, skin-relaxing complex for an intense anti-wrinkle effect and is an alternative, safe solution to injections of Botulinum toxin",
+    "itemID": "B00383XLTS",
+    "helpful": [
+      0,
+      1
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 26966
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Eyes",
+        "Creams"
+      ]
+    ],
+    "price": 54.0,
+    "brand": "Dead Sea Premier"
+  }
+]

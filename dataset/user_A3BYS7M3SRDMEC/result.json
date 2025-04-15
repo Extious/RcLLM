@@ -1,0 +1,49 @@
+[
+  {
+    "title": "Philosophy Microdelivery Exfoliating Wash, 8 Ounces",
+    "description": "Gentle enough to use daily, our mild exfoliating facial skin cleanser is designed to effectively cleanse and replenish skin, while providing resurfacing benefits.",
+    "itemID": "B000PK4XRQ",
+    "helpful": [
+      2,
+      3
+    ],
+    "overall": 1.0,
+    "salesRank": {
+      "Beauty": 3049
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Exfoliators & Scrubs",
+        "Scrubs"
+      ]
+    ],
+    "price": 18.99,
+    "brand": "Philosophy"
+  },
+  {
+    "title": "Smashbox Photo Finish Oil Free Primer 1oz/30ml",
+    "description": "Create A Perfect canvas for foundation application with this lightweight oil free silky blend of vitamins A, E, grape seed extract and green tea. Wear alone or under foundation. Reduce appearance of fine lines and pores for softer skin with smooth finish.",
+    "itemID": "B000UGUB1W",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 134445
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Foundation Primers"
+      ]
+    ],
+    "price": 44.04,
+    "brand": NaN
+  }
+]

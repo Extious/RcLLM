@@ -1,0 +1,72 @@
+[
+  {
+    "title": "GLAMGLOW Super-MudTM Clearing Treatment 1.2 oz",
+    "description": "The world's most scientifically advanced super mud clearing treatment. Clinically developed by Glamglow dermatological chemist to help fight all common skin concerns. Glycolic acid - helps restore photo damaged skin and improves skin texture. Salicylic acid - helps de-clog to minimize pores and new skin rejuvenation. Lactic acid - helps pigmentation, moisture, stimulation and skin collagen.",
+    "itemID": "B009GYVMAS",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 34
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Treatments & Masks",
+        "Masks"
+      ]
+    ],
+    "price": 38.5,
+    "brand": "Glamglow"
+  },
+  {
+    "title": "Ardell Brow and Lash Growth Accelerator",
+    "description": "Ardell Brow and Lash Accelerator Treatment Gel is a concentrated serum of multi proteins that works to immediately repair weak lashes and restore thickness of over tweezed or thinning brows. Added conditioners soften dry, brittle lashes enabling them to grow longer, thicker and fuller. Use nightly. After cleansing face, brush on to lashes and or brows. Leave on all night.",
+    "itemID": "B000VDUOFM",
+    "helpful": [
+      2,
+      2
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Beauty": 4365
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Tools & Accessories",
+        "Makeup Brushes & Tools",
+        "Eyelash Tools",
+        "Fake Eyelashes & Adhesives"
+      ]
+    ],
+    "price": 1.79,
+    "brand": "Ardell"
+  },
+  {
+    "title": "Giovanni 50:50 Balanced Shampoo, 8.5-Ounce Bottles (Pack of 3)",
+    "description": "Protects chemically enhanced hair color",
+    "itemID": "B001ET788I",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 13981
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 12.86,
+    "brand": "Giovanni"
+  }
+]

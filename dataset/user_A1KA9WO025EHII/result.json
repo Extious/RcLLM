@@ -1,0 +1,94 @@
+[
+  {
+    "title": "Benefit Cosmetics The POREfessional",
+    "description": "What it is:A PRO balm that minimizes the appearance of pores.What it does:The POREfessional quickly minimizes the appearance of pores. Apply this silky, lightweight balm to achieve translucent pore coverage and smoother-than-smooth skin. Poresanow you see 'em, now you don't!What else you need to know:Oil-free. Instructions included.",
+    "itemID": "B003OIPJZ6",
+    "helpful": [
+      0,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 4505
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Treatments & Masks"
+      ]
+    ],
+    "price": 38.99,
+    "brand": "Benefit Cosmetics"
+  },
+  {
+    "title": "Sigma F80 - Flat Kabuki TM",
+    "description": "Unique Feature: Dense and flat head\nFunction: Buffed foundation application\nRecommended Use: Blend liquid or cream products onto flat areas of the face such as the forehead and cheeks.\nBristle Type: Synthetic Sigmax\n\n 2013 Sigma Enterprises, LLC",
+    "itemID": "B003UH0528",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 103
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Tools & Accessories",
+        "Makeup Brushes & Tools",
+        "Brushes & Applicators"
+      ]
+    ],
+    "price": 24.0,
+    "brand": "Sigma Beauty"
+  },
+  {
+    "title": "Murad Hydro-Dynamic Ultimate Moisture 1.7 oz.-1.7 oz.",
+    "description": "Experience an Uber-Rich MoisturizerMeet the single most hydrating moisturizer Murad has ever offered. Ultra-concentrated and intensely hydrating, this velvety cream provides all-day moisture, smoothness and comfort - leaving your skin positively radiant.Utterly rich yet completely non-greasyLocks in optimal moisture for eight hoursRestores resilience, softness and toneProvides lush, instant relief from drynessEspecially Suited For:All skin types, and especially those concerned about drynessEssential Elements:Avocado, Sunflower and Olive Fruit Oils enhance the skin's ability to retain maximum levels of hydration. Retinyl Palmitate and Shea Butter improve texture while restoring natural smoothness and softness. Collagen Support Complex boosts skin's resilience and plumps dehydrated skin.For Best Effect:Every day after cleansing and toning, massage evenly over face, neck and chest. For optimal results, first apply recommended Murad treatment and follow with Murad sunblock during the day.",
+    "itemID": "B003UNT4P6",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 2809
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Creams & Moisturizers"
+      ]
+    ],
+    "price": 32.75,
+    "brand": "Murad"
+  },
+  {
+    "title": "Ardell Duo Brow Brush",
+    "description": "The Ardell Duo Brow Brush Grooming Tool is an easy and convenient tool perfect for shaping and defining eyebrows.",
+    "itemID": "B008DLT9H8",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 512
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Tools & Accessories",
+        "Makeup Brushes & Tools",
+        "Brushes & Applicators"
+      ]
+    ],
+    "price": 5.99,
+    "brand": "Ardell"
+  }
+]

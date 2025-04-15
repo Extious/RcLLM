@@ -1,0 +1,71 @@
+[
+  {
+    "title": "L'Oreal Paris True Match Super Blendable Makeup, Natural Buff, 1.0 Ounces",
+    "description": "True match super-blendable makeup shades are now cleaner, truer and even more natural. With the new patented color technology, true match makeup precisely matches your skin&#x2019;s tone and texture and coordinates perfectly with true match powder, blush.",
+    "itemID": "B000RGZK02",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 15809
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Foundation"
+      ]
+    ],
+    "price": 6.95,
+    "brand": "L&#39;Oreal Paris"
+  },
+  {
+    "title": "Denman Styling Brush, Heavy Weight, 9-Row",
+    "description": "9 row, heavyweight styling brush. Smooth nylon pins in an anti-static, natural rubber pad.",
+    "itemID": "B0002Z8QG8",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 12187
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Brushes"
+      ]
+    ],
+    "price": 13.81,
+    "brand": "Denman"
+  },
+  {
+    "title": "Babylis Pro BABTT5585 Tourmaline Titanium 3000 Dryer",
+    "description": "Babyliss Pro TT 1900 watt dryer is ulra light, has 6 heat/speed settings, an instant cool shot button and is ergonomically designed for easy and comfortable handling. Far-infrared heat dries hair from the inside out at faster speeds, leaving it silky and smooth in half the time.",
+    "itemID": "B002JSL6QI",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 343
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Hair Dryers"
+      ]
+    ],
+    "price": 52.99,
+    "brand": "BaBylissPRO"
+  }
+]

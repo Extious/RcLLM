@@ -1,0 +1,69 @@
+[
+  {
+    "title": "OPI RapiDry Top Coat",
+    "description": "OPI RapiDry Top Coat is quick drying protection for your nails.",
+    "itemID": "B000O3GQ1A",
+    "helpful": [
+      32,
+      34
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Beauty": 7557
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Nails",
+        "Nail Polish"
+      ]
+    ],
+    "price": 2.6,
+    "brand": "OPI"
+  },
+  {
+    "title": "Hugo By Hugo Boss For Men. Eau De Toilette Spray 1.3 Ounces",
+    "description": "Introduced in 1995. Fragrance notes: woods, fresh citrus and spicy leaves. Recommended use: daytime.When&#xA0;applying&#xA0;any fragrance please consider that there are several factors which can affect the natural smell of your skin and, in turn, the way a scent smells on you.&#xA0; For instance, your mood, stress level, age, body chemistry,&#xA0;diet, and current medications may all alter the scents you wear.&#xA0;&#xA0;Similarly, factor such as dry or oily&#xA0;skin can even affect the amount of time a fragrance will last after being applied",
+    "itemID": "B000052ZTY",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 87667
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Fragrance",
+        "Men's",
+        "Eau de Toilette"
+      ]
+    ],
+    "price": 24.19,
+    "brand": "HUGO BOSS"
+  },
+  {
+    "title": "Bvlgari Aqua By Bvlgari For Men. Eau De Toilette Spray 1.7 Ounces",
+    "description": "When&#xA0;applying&#xA0;any fragrance please consider that there are several factors which can affect the natural smell of your skin and, in turn, the way a scent smells on you.&#xA0; For instance, your mood, stress level, age, body chemistry,&#xA0;diet, and current medications may all alter the scents you wear.&#xA0;&#xA0;Similarly, factor such as dry or oily&#xA0;skin can even affect the amount of time a fragrance will last after being applied",
+    "itemID": "B000C1UBFG",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 22807
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Fragrance"
+      ]
+    ],
+    "price": 29.25,
+    "brand": "Bvlgari"
+  }
+]

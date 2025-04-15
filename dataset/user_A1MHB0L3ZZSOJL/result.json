@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Garnier Clinical Dark Spot Corrector Skin Renew, 1.7 Ounce",
+    "description": "Daily moisturizer fades discoloration for even skin tone,  dark spots, age spots, acne marks.",
+    "itemID": "B0057RIM5G",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 4138
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Eyes",
+        "Rollers & Pens"
+      ]
+    ],
+    "price": 7.37,
+    "brand": "Garnier"
+  },
+  {
+    "title": "Suave Professionals Moisturizing Shampoo, Rosemary &amp; Mint, 28 oz",
+    "description": "Invigorating shampoo infused with 100% natural rosemary and mint. It gently cleanses and increases manageability for hair that&#x2019;s soft and shiny.",
+    "itemID": "B0080HEARE",
+    "helpful": [
+      1,
+      3
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Health & Personal Care": 21916
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 3.7,
+    "brand": "Suave"
+  },
+  {
+    "title": "Garnier The Expert Exfoliator Daily Exfoliating Gel, 5 Fluid Ounce",
+    "description": "An exfoliating gel cleanser with polishing green jojoba microbeads that provides a deep, purifying clean.dermatologist tested for safety. Oil-free. Non comedogenic - won't clog pores. Allergy tested.",
+    "itemID": "B0050I2VTA",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 19640
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Cleansers",
+        "Gels"
+      ]
+    ],
+    "price": 7.45,
+    "brand": "Garnier"
+  }
+]

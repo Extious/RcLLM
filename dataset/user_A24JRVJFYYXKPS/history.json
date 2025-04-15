@@ -1,0 +1,69 @@
+[
+  {
+    "title": "Cetaphil Gentle Skin Cleanser, For all skin types, 16-Ounce Bottles (Pack of 2)",
+    "description": "",
+    "itemID": "B001ET76EY",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 2342
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Cleansers",
+        "Washes"
+      ]
+    ],
+    "price": 26.8,
+    "brand": "Cetaphil"
+  },
+  {
+    "title": "John Frieda Sheer Blonde Go Blonder Controlled Lightening Spray, 3.5 Ounce",
+    "description": "Versatile, patent-pending formula with citrus and chamomile works with styling heat to gradually lighten and brighten for a natural-looking, blonder blonde. Contains thermo-protectant. Patent-pending technology combines fixative and conditioning polymers that retain hydrogen peroxide, allowing for control of lightening. Visibly lightens in 3-5 uses.",
+    "itemID": "B004DK7DVC",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": NaN,
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Hair Sprays"
+      ]
+    ],
+    "price": 6.99,
+    "brand": "John Frieda"
+  },
+  {
+    "title": "John Frieda Sheer Blonde Highlight Activating Enhancing Shampoo (for Lighter Blondes), 8.45 Ounces (Pack of 2)",
+    "description": "John Frieda Sheer Blonde&#174; Highlight Activating Enhancing Shampoo.London, Paris, New York.See contrast in 1 use.Brightens the full spectrum of blonde tones.For lighter blondes.8.45 fl oz (250ml).",
+    "itemID": "B0067YU6D4",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 14746
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 4.99,
+    "brand": "John Frieda"
+  }
+]

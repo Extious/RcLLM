@@ -1,0 +1,71 @@
+[
+  {
+    "title": "The Body Shop Exfoliating Body Polisher Skin Towel,  Green",
+    "description": "You'll love how these exfoliating skin towels are fast drying, too....",
+    "itemID": "B002FGKPWK",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 14718
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Bathing Accessories",
+        "Bath Mitts & Cloths"
+      ]
+    ],
+    "price": 6.0,
+    "brand": "The Body Shop"
+  },
+  {
+    "title": "Large Square Paddle Brush",
+    "description": "The Green Brush (100% Pure Bamboo Hair Brush)  Bass Brushes have been used and recommended by hair stylists everywhere. There top quality bristle and craftmanship have  proven their durability even under the most demanding professional use.",
+    "itemID": "B003XW1EZM",
+    "helpful": [
+      3,
+      4
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 11101
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Brushes"
+      ]
+    ],
+    "price": 12.65,
+    "brand": "Bass Brushes"
+  },
+  {
+    "title": "KLEANCOLOR French Bijou - French Manicure Nail Lacquer Mini Collection (NPC596)",
+    "description": "KleanColor presents its long wearing and chip-resistant Nail Lacquers in petite, travel-friendly size. The set features all the essentials for the perfect french nails to complete the look of girl-next-door who adores natural beauty.",
+    "itemID": "B004NZ3D66",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Health & Personal Care": 14600
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Nails",
+        "Nail Polish"
+      ]
+    ],
+    "price": 3.26,
+    "brand": "Kleancolor"
+  }
+]

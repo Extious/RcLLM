@@ -1,0 +1,49 @@
+[
+  {
+    "title": "Dr. Hauschka Soothing Cleansing Milk, 4.9-Ounce Box",
+    "description": "Cleansing Milk is a gentle cleanser for dry, sensitive skin and mild make-up remover for all skin conditions. This rich cream removes dirt and impurities while maintaining the skin's natural pH layer. Make-up is gently and effectively removed. A special fermented grain extract nourishes and protects dry, sensitive skin, leaving it pampered and velvety smooth. Dr. Hauschka Skin Care products are infused with vital extracts of organic and biodynamically grown plants. The products carry these plant essences directly to the skin to encourage health and reveal true and lasting beauty. A deep commitment to holistic principles guides Dr. Hauschka Skin Care to reject the use of synthetic additives and animal testing. We support the health of humanity and the earth.",
+    "itemID": "B001V9LUXK",
+    "helpful": [
+      0,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 3961
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Cleansers"
+      ]
+    ],
+    "price": 36.95,
+    "brand": "Dr. Hauschka"
+  },
+  {
+    "title": "Dr. Hauschka Day Cream, Rose, 1.0-Ounce Box",
+    "description": "Dr. Hauschka - Rose Day Cream Travel Size - 0.17 oz",
+    "itemID": "B001V9LUZS",
+    "helpful": [
+      2,
+      2
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 19889
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Creams & Moisturizers",
+        "Day Creams"
+      ]
+    ],
+    "price": 59.95,
+    "brand": NaN
+  }
+]

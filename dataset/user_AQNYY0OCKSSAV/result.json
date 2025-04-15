@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Tigi Catwalk Session Series Salt Spray, 9.13 Ounce",
+    "description": "For texturizing. Texture. Body/volume light pliable hold.",
+    "itemID": "B0050OC180",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 1467
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Lotions"
+      ]
+    ],
+    "price": 12.75,
+    "brand": "Tigi"
+  },
+  {
+    "title": "Desert Essence Thoroughly Clean Face Wash, 8-Ounce  Bottle",
+    "description": "The extract of Hawaii's fragrant awapuhi plant brings additional softening properties to this gentle, but effective cleanser already rich in soothing extract of goldenseal and essential oil of chamomile. Eco-Harvest Tea Tree Oil leaves a clean that feels oil-free, and with regular use, helps improve your skin's texture and radiance.",
+    "itemID": "B001CMT83A",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": NaN,
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Cleansers"
+      ]
+    ],
+    "price": 8.18,
+    "brand": "Desert Essence"
+  }
+]

@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Axe Styling Aid, Hold Plus Touch, Spiking Glue, 3.2 Ounce",
+    "description": "AXE Hold+Touch Spiking Glue for strong hold plus touchable feel for normal hair.",
+    "itemID": "B004UKENRC",
+    "helpful": [
+      4,
+      4
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 54200
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Creams, Gels & Lotions"
+      ]
+    ],
+    "price": 4.78,
+    "brand": "AXE"
+  },
+  {
+    "title": "Suave Suave Kids Ocean Blast Gel, 7 Ounce",
+    "description": "",
+    "itemID": "B00A0IWTEW",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 9391
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Creams, Gels & Lotions"
+      ]
+    ],
+    "price": 3.48,
+    "brand": "Suave"
+  },
+  {
+    "title": "Axe Spiking Glue Spiked Up Look, 3.2 Ounce",
+    "description": "",
+    "itemID": "B00AE07BDU",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 24839
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Creams, Gels & Lotions"
+      ]
+    ],
+    "price": 6.97,
+    "brand": "AXE"
+  }
+]

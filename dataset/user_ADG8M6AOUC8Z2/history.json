@@ -1,0 +1,72 @@
+[
+  {
+    "title": "DHC Deep Cleansing Oil 6.7fl.oz./200ml",
+    "description": "Superstar. Try this amazing cleanser and you'll see why it's our most popular product worldwide. Dirt, excess oil, makeup-even waterproof mascara-and other pore-cloggers dissolve easily, leaving your face a grime-free zone that is soft to the touch. Its unique water-soluble formula rinses completely, so you'll never see a greasy residue. Olive oil and vitamin E help ensure you won't see dryness either",
+    "itemID": "B001UE60E0",
+    "helpful": [
+      1,
+      3
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 696
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Cleansers"
+      ]
+    ],
+    "price": 18.95,
+    "brand": "DHC"
+  },
+  {
+    "title": "Coastal Scents 88 Original Palette",
+    "description": "",
+    "itemID": "B002QANC2A",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 4120
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Eyes",
+        "Eye Shadow"
+      ]
+    ],
+    "price": 17.92,
+    "brand": "Coastal Scents"
+  },
+  {
+    "title": "Thinkbaby Sunscreen SPF 50+ Benefiting LIVESTRONG, 3 Ounces",
+    "description": "At Thinkbaby and Thinksport, we are continually expanding our mission to provide safe products by identifying consumer product categories with known human health issues. Specifically, we target products that contain high levels of hormone disruptors and carcinogens. We work with leading scientists worldwide to create safe alternatives. The majority of sunscreens currently on the market are full of questionable ingredients and known carcinogens. Simply looking at the ingredients you'll quickly realize you don't recognize any of them. Many existing sunscreens have been brought to market with little concern for their safety and boast inflated SPF numbers. Not only do ingredients in sunscreen interact with skin, but data shows after application of lotions, some of the same chemicals can be detected in the bloodstream. Most people wear sunscreen to reduce the chance of developing cancer, so why apply something that could potentially increase this risk? This question has unfortunately left many people moving away from using sunscreen at all. Thinkbaby sunscreen and Thinksport livestrong sunscreen is highly effective, falls into the highest category for water resistance and has a sensible SPF 50+ rating. A quick look on your local drugstore shelf will show an increasing number of chemical sunscreens boasting ultra-high SPFs of 60 and greater. Data assembled by the Environmental Working Group calls into question the efficacy of these sunscreens.",
+    "itemID": "B007U7QR26",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 80954
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Sun",
+        "Skin Protection",
+        "Sports"
+      ]
+    ],
+    "price": 16.49,
+    "brand": "Thinkbaby"
+  }
+]

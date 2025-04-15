@@ -1,0 +1,73 @@
+[
+  {
+    "title": "Clearasil Ultra Rapid Action Vanishing Acne Treatment Cream, 1 Ounce (Pack of 2)",
+    "description": "",
+    "itemID": "B001U0OQL8",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Beauty": 60014
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Creams & Moisturizers",
+        "Tinted Moisturizers"
+      ]
+    ],
+    "price": 18.93,
+    "brand": "Clearasil"
+  },
+  {
+    "title": "Olay Cleansing Body Wash, Silky Berry, 23.6 Fluid Ounce (Pack of 2)",
+    "description": "",
+    "itemID": "B004A7VG70",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Health & Personal Care": 60453
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Cleansers",
+        "Body Washes"
+      ]
+    ],
+    "price": 23.99,
+    "brand": "Olay"
+  },
+  {
+    "title": "Dove Men and Care Body and Face Wash, Clean Comfort, 18 Ounce (Pack of 3)",
+    "description": "",
+    "itemID": "B002TSA916",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 3565
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Cleansers",
+        "Washes"
+      ]
+    ],
+    "price": 9.75,
+    "brand": "Dove"
+  }
+]

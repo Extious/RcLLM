@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Opi Nail Lacquer, Not So Bora Pink, 0.5 Fluid Ounce",
+    "description": "A rich, creamy pink with an exotic twist. Whenever you find yourself stuck in the office or in traffic staring down at your pink nails, this not so boring pink will have you longing for a tropical trip to Bora Bora.",
+    "itemID": "B000142FVW",
+    "helpful": [
+      4,
+      4
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 37439
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Nails",
+        "Nail Polish"
+      ]
+    ],
+    "price": 6.56,
+    "brand": "OPI"
+  },
+  {
+    "title": "OPI Nail Lacquer, Pirates of The Caribbean Collection, Stranger Tides, 0.5 Fluid Ounce",
+    "description": "The Pirates of the Caribbean collection captures the bright colors and breathtaking adventure of the Disney release. Trend-settings shades of pink, lavender, sage and the new silver shatter.",
+    "itemID": "B0001433OU",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 148645
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Nails",
+        "Nail Polish"
+      ]
+    ],
+    "price": 5.18,
+    "brand": "OPI"
+  },
+  {
+    "title": "Sally Hansen Salon Effects Value Twin Pack - Wild Child / Kitty, Kitty",
+    "description": "Easy to use- includes detailed instructions",
+    "itemID": "B0076L73BK",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Health & Personal Care": 89377
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Nails",
+        "Nail Polish"
+      ]
+    ],
+    "price": 8.5,
+    "brand": "Sally Hansen"
+  }
+]

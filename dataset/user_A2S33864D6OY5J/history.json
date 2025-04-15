@@ -1,0 +1,69 @@
+[
+  {
+    "title": "MOROCCANOIL The Original Oil Treatment 100ml/3.4fl.oz.",
+    "description": "Moroccanoil is an ultra-light formula which is absorbed by the hair instantly, resulting in a natural, silky finish and brilliant shine. Moroccanoil has the ability to restore over-processed hair damaged by environmental factors and chemical procedures - it also revives, hydrates and detangles hair, wigs and hair extensions.",
+    "itemID": "B003YM5RA4",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 1414
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face"
+      ]
+    ],
+    "price": 35.4,
+    "brand": "Moroccanoil"
+  },
+  {
+    "title": "Rose - Auric Blends Perfume Oils",
+    "description": "Memories of an English Rose Garden, with a light and true, romantic and intoxicating fragrance.",
+    "itemID": "B0012E2I8A",
+    "helpful": [
+      8,
+      8
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 20894
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Fragrance",
+        "Women's",
+        "Essential Oils"
+      ]
+    ],
+    "price": 7.99,
+    "brand": "Auric Blends"
+  },
+  {
+    "title": "DermOrganic Daily Duo Liter shampoo &amp; masque 33.8 fl oz bottles",
+    "description": "DermOrganic Daily Duo Liter shampoo & masque",
+    "itemID": "B0062A5VQ0",
+    "helpful": [
+      5,
+      6
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 2215
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoo & Conditioner Sets"
+      ]
+    ],
+    "price": 42.19,
+    "brand": "DerOrganic"
+  }
+]

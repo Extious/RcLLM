@@ -1,0 +1,71 @@
+[
+  {
+    "title": "NYX Eyebrow Cake Powder, Black/Gray",
+    "description": "Our recipe for cooking up exquisite eyebrows includes wax, tools and a pair of complementary powders, black and gray, which can be customized to create the ideal shade. Each eyebrow cake powder kit includes a slanted brush and a round wand to shape, style and tame eyebrows.",
+    "itemID": "B002QI1E9K",
+    "helpful": [
+      2,
+      2
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 5689
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Eyes",
+        "Eyebrow Color"
+      ]
+    ],
+    "price": 5.89,
+    "brand": "NYX"
+  },
+  {
+    "title": "Maybelline Dream Matte Mousse Foundation, Toffee, Dark 0 .64 oz (18 g)",
+    "description": "Maybelline Dream Matte Mousse FoundationRevolutionary whipped formula provides an air-soft, perfect matte finish coverage, with a weightless feel.&bull;Color pigments offer superior coverage&bull;Blends effortlessly for a soft, natural-looking, even-toned result",
+    "itemID": "B000VBH8MQ",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 92606
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Foundation"
+      ]
+    ],
+    "price": 15.95,
+    "brand": "Maybelline"
+  },
+  {
+    "title": "L'Oreal Paris Colour Riche Anti-Aging Serum Lipcolour, Desperately Mauve, 0.13 Ounce",
+    "description": "Kiss the signs of aging goodbye. Our best selling lipcolour is now available with anti-aging serum! color riche anti-aging serum coats your lips with rich, creamy color and it's enhanced with L&#x2019;Oreal&#x2019;s exclusive anti-aging serum, including ProXalyne, Collagen, Hyaluronic micro-spheres and Glycerin which can help create younger-looking lips",
+    "itemID": "B002LFLPEC",
+    "helpful": [
+      4,
+      4
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 89558
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Lips",
+        "Lipstick"
+      ]
+    ],
+    "price": 8.95,
+    "brand": "L&#39;Oreal Paris"
+  }
+]

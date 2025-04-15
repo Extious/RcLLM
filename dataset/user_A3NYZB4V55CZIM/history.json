@@ -1,0 +1,70 @@
+[
+  {
+    "title": "One 'n Only Colorfix",
+    "description": "One 'n only Colorfix gently removes permanent hair color no matter how long it has been in hair. It is effective on all hair types and it leaves the hair in optimum condition. It does not contain ammonia, or formaldehyde.",
+    "itemID": "B0000YV6YK",
+    "helpful": [
+      1,
+      2
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Health & Personal Care": 28350
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Tools & Accessories",
+        "Hair Coloring Tools",
+        "Hair Color Removers"
+      ]
+    ],
+    "price": 16.16,
+    "brand": "one &#39;n only"
+  },
+  {
+    "title": "Kenra Volume Spray 25 Super Hold Finishing Spray (Aerosol) (10 oz.)",
+    "description": "Super all-day hold, fast drying formula for finishing any style. Imparts maximum volume and control. (10 oz.)",
+    "itemID": "B0007R7ABS",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 237403
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Hair Sprays"
+      ]
+    ],
+    "price": 19.73,
+    "brand": "Kenra"
+  },
+  {
+    "title": "It's A 10 Miracle Leave In Product, 4-Ounces",
+    "description": "It's A 10 does 10 things instantly: 1. Repairs dry damaged hair. 2. Adds shine. 3. Smoothes and controls frizz. 4. Seas and protects hair color. 5. Detangles. 6. Prevents split ends. 7. Stops hair breakage. 8. Creates silkiness. 9. Enhances natural body. 10. Flat iron spray and thermal protector.",
+    "itemID": "B000TKH6G2",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 1112
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Conditioners"
+      ]
+    ],
+    "price": 12.45,
+    "brand": "Its a 10"
+  }
+]

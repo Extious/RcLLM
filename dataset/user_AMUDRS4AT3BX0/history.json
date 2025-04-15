@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Shea Moisture Coconut Hibiscus Curl Enhancing Smoothie-12 oz",
+    "description": "SheaMoisture Coconut Hibiscus Curl Enhancing Smoothie",
+    "itemID": "B0038TVH3Y",
+    "helpful": [
+      3,
+      3
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 1648
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Creams, Gels & Lotions"
+      ]
+    ],
+    "price": 15.45,
+    "brand": "Shea Moisture"
+  },
+  {
+    "title": "St. Ives Facial Moisturizer, Timeless Skin Collagen Elastin, 10oz",
+    "description": "",
+    "itemID": "B000UVZU1S",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 277
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Creams & Moisturizers",
+        "Fluids & Lotions",
+        "Lotions"
+      ]
+    ],
+    "price": 7.46,
+    "brand": "St. Ives"
+  },
+  {
+    "title": "Thermal Spa Professional Conditioning Heat Cap Model No. C271",
+    "description": "Buy Thermal Spa Hair & Scalp Treatments - Thermal Spa Professional Conditioning Heat Cap Model No. C271",
+    "itemID": "B003TPTGDK",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 6107
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Hair & Scalp Treatments"
+      ]
+    ],
+    "price": 26.95,
+    "brand": "Thermal Spa"
+  }
+]

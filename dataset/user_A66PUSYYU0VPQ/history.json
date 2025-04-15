@@ -1,0 +1,71 @@
+[
+  {
+    "title": "YOU Reel by Conair 2-in-1 Styler",
+    "description": "Conair continues to revolutionize styling with a dryer that's as convenient as it is powerful to speed up styling, while Tourmaline ceramic technology minimizes heat stress on hair. With it's ionic technology that reduces static electricity and leaves hair silkier, shinier and more manageable than ever, nothing can come close to Infiniti by Conair.",
+    "itemID": "B000R80ZTQ",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 1106
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Hair Dryers"
+      ]
+    ],
+    "price": 24.96,
+    "brand": "Conair"
+  },
+  {
+    "title": "OPI Nail Lacquer, DS Reflection, 0.5-Fluid Ounce",
+    "description": "OPI Designer Series spectacular diamond-dust formulation.",
+    "itemID": "B001EYFYNO",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 68193
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Nails",
+        "Nail Polish"
+      ]
+    ],
+    "price": 8.29,
+    "brand": "OPI"
+  },
+  {
+    "title": "Essie Matte About You Matte Finisher .5 Oz",
+    "description": "use this top coat and turn every nail polish you like to a matte style",
+    "itemID": "B003O4BWV0",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Health & Personal Care": 18289
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Nails",
+        "Top & Base Coats"
+      ]
+    ],
+    "price": 6.1,
+    "brand": "Essie"
+  }
+]

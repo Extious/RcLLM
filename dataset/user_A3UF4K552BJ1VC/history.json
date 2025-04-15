@@ -1,0 +1,70 @@
+[
+  {
+    "title": "Clairol Balsam Hair Color 12 Natural Black 1 Kit (Pack of 3)",
+    "description": "Balsam Color is designed to give you three signs of beautiful color -- healthy-looking hair with color that is long-lasting and shiny.",
+    "itemID": "B003AYEFKO",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 358989
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Hair Color",
+        "Chemical Hair Dyes"
+      ]
+    ],
+    "price": 16.37,
+    "brand": "Clairol"
+  },
+  {
+    "title": "Nexxus Keraphix Restorative Strengthening Conditioner, 5.1-Ounce Bottles (Pack of 2)",
+    "description": "",
+    "itemID": "B001ET6ZNM",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 168834
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Conditioners"
+      ]
+    ],
+    "price": 13.0,
+    "brand": "Nexxus"
+  },
+  {
+    "title": "AVON Anew Clinical PRO Line Eraser Treatment - A-F-33",
+    "description": "Unlike AHA, Unlike retinol, unlike injectable collagen, patented A-F33 works to deactivate collagen blockers & help effectively boost collagen production in just 3 days.",
+    "itemID": "B008QFRPFY",
+    "helpful": [
+      31,
+      31
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 10043
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Creams & Moisturizers"
+      ]
+    ],
+    "price": 9.98,
+    "brand": "Avon Anew"
+  }
+]

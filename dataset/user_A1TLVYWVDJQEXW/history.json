@@ -1,0 +1,73 @@
+[
+  {
+    "title": "Spenco Polysorb Total Support",
+    "description": NaN,
+    "itemID": "B000Q8LFX2",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Shoes": 44277
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Tools & Accessories",
+        "Nail Tools",
+        "Spa Slippers"
+      ]
+    ],
+    "price": NaN,
+    "brand": NaN
+  },
+  {
+    "title": "Now Foods: Tea Tree Oil, 4 oz",
+    "description": "Tea tree oil has been a favorite among Australians for centuries. Only in recent years however, has it gained popularity in aromatherapy. With strong antiseptic and germicidal properties, Tea Tree is now used for a number of applications ranging from cosm",
+    "itemID": "B000ELP5KA",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Health & Personal Care": 240
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Oils"
+      ]
+    ],
+    "price": 17.15,
+    "brand": "Now Foods"
+  },
+  {
+    "title": "NOW Foods Cypress Oil, 1-Fluid Ounce",
+    "description": "Aroma:  Sweet, balsamic, warm overtones of pine/juniper berry.  Benefits:  Balancing, clarifying, centering.",
+    "itemID": "B000K24ONW",
+    "helpful": [
+      3,
+      4
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Health & Personal Care": 5695
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Lotions"
+      ]
+    ],
+    "price": 4.69,
+    "brand": "Now Foods"
+  }
+]

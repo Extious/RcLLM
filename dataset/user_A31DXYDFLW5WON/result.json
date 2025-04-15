@@ -1,0 +1,49 @@
+[
+  {
+    "title": "Infiniti Pro by Conair Curl Secret",
+    "description": "Get a perfect curl every time with the Conair curl secret. Loaded with features, this styling tool helps you effortlessly create voluminous curls with just the touch of a button. With the curl secret, your hair is automatically drawn into the Tourmaline ceramic curl chamber where it is gently held, timed, and heated from all directions to effortlessly form a perfect curl. Open to release a beautiful, free-flowing curl. Repeat to create curl after curl. It is suitable for all hair lengths and types so anyone can create gorgeous curls with ease. United States Patent 8,607,804; 8,651,118 and other U.S. patents pending.",
+    "itemID": "B00E68O4JU",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 35
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Irons",
+        "Curling Irons"
+      ]
+    ],
+    "price": 67.99,
+    "brand": "Conair"
+  },
+  {
+    "title": "Maybelline New York Volum' Express One By One Washable Mascara, 255 Blackest Black, 0.3 Fluid Ounce",
+    "description": "Finally, bold volume without any of the bulk. Patented lash catcher brush has 3 bristles per lash to make every lash count. It catches, coats and de clumps each lash to make them all fatter and flirtier. Instant clump free volume. Contact lens safe and ophthalmologist tested. Washable; also available in waterproof formula.",
+    "itemID": "B0046797WK",
+    "helpful": [
+      0,
+      1
+    ],
+    "overall": 1.0,
+    "salesRank": {
+      "Beauty": 27077
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Eyes",
+        "Mascara"
+      ]
+    ],
+    "price": 11.35,
+    "brand": "Maybelline"
+  }
+]

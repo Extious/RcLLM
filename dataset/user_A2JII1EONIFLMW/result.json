@@ -1,0 +1,49 @@
+[
+  {
+    "title": "Shea Moisture - Raw Shea Butter Baby Healing Lotion, 13 oz lotion",
+    "description": "Calm and comfort baby's delicate skin with this nutrient-rich moisturizing lotion. Our special blend of organic Shea Butter and healing Chamomile helps soothe irritated skin. Argan Oil, Frankincense and Myrrh Extract keep skin soft and smooth Shea Butter-Deeply moisturizes and repairs skin with vitamins and essential fatty acidsChamomile - Anti-inflammatory properties help soothe red, irritated skinArgan Oil - High in Vitamin E, keeps skin soft and smooth.",
+    "itemID": "B005C2NAO4",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 4510
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Lotions"
+      ]
+    ],
+    "price": 4.4,
+    "brand": "Shea Moisture"
+  },
+  {
+    "title": "Pantene Pro-V Overnight Miracle Repair Serum 4.9 Fl Oz",
+    "description": "",
+    "itemID": "B00AZYF90C",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 50586
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Hair Styling Serums"
+      ]
+    ],
+    "price": 13.9,
+    "brand": "Pantene"
+  }
+]

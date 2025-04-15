@@ -1,0 +1,190 @@
+[
+  {
+    "title": "Schick Hydro 5 Disposable Razor, 3 Count",
+    "description": "",
+    "itemID": "B00AHF1GK6",
+    "helpful": [
+      3,
+      4
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Health & Personal Care": 17391
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Oils"
+      ]
+    ],
+    "price": 9.97,
+    "brand": "Schick"
+  },
+  {
+    "title": "Axe Spiking Glue Spiked Up Look, 3.2 Ounce",
+    "description": "",
+    "itemID": "B00AE07BDU",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 24839
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Creams, Gels & Lotions"
+      ]
+    ],
+    "price": 6.97,
+    "brand": "AXE"
+  },
+  {
+    "title": "Dove Men+Care Hydrate + Shave Gel",
+    "description": "",
+    "itemID": "B00A0J09C0",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 14582
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Oils"
+      ]
+    ],
+    "price": 7.09,
+    "brand": "Dove"
+  },
+  {
+    "title": "Schick Hydro Silk Disposable Razor, 3 Count",
+    "description": "",
+    "itemID": "B00AHF1GTM",
+    "helpful": [
+      3,
+      4
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Health & Personal Care": 25629
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Oils"
+      ]
+    ],
+    "price": 9.95,
+    "brand": "Schick"
+  },
+  {
+    "title": "Remington HC5850 Virtually Indestructible Haircut Kit",
+    "description": "",
+    "itemID": "B00BB5YHFC",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Health & Personal Care": 16705
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Hair Cutting Kits"
+      ]
+    ],
+    "price": 39.89,
+    "brand": "Remington"
+  },
+  {
+    "title": "Biore Self Heating One Minute Mask, 4 Count",
+    "description": "Don&#x2019;t let dirt take over your pores. BIORE deep cleansing products target deep-down impurities to defend against daily buildup &#x2013; like dirt, oil and make-up &#x2013; for a truly deep clean",
+    "itemID": "B00G7U29KQ",
+    "helpful": [
+      6,
+      7
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 4692
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Treatments & Masks",
+        "Masks"
+      ]
+    ],
+    "price": 6.23,
+    "brand": "Biore"
+  },
+  {
+    "title": "Axe Peace Shower Gel, 16 Fluid Ounce",
+    "description": "",
+    "itemID": "B00GTC1JHQ",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 3144
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Cleansers",
+        "Body Washes"
+      ]
+    ],
+    "price": 5.25,
+    "brand": "AXE"
+  },
+  {
+    "title": "Muscle Soak Bath Salts 2 Lbs",
+    "description": "Our Muscle Soak Signature Bath Salts packaged in a 2lb premium luxury retail bag with peek-a-boo window and aroma valve. Salt Color: Natural white Grain Size: Standard",
+    "itemID": "B004MBJKRC",
+    "helpful": [
+      2,
+      2
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 50054
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Bath",
+        "Minerals & Salts"
+      ]
+    ],
+    "price": 9.99,
+    "brand": NaN
+  }
+]

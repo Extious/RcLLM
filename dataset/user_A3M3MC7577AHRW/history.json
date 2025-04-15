@@ -1,0 +1,70 @@
+[
+  {
+    "title": "It's A 10 Miracle Leave In Product, 4-Ounces",
+    "description": "It's A 10 does 10 things instantly: 1. Repairs dry damaged hair. 2. Adds shine. 3. Smoothes and controls frizz. 4. Seas and protects hair color. 5. Detangles. 6. Prevents split ends. 7. Stops hair breakage. 8. Creates silkiness. 9. Enhances natural body. 10. Flat iron spray and thermal protector.",
+    "itemID": "B000TKH6G2",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 1112
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Conditioners"
+      ]
+    ],
+    "price": 12.45,
+    "brand": "Its a 10"
+  },
+  {
+    "title": "Hair One Cleanser and Conditioner with Olive Oil for Dry Hair 12 oz",
+    "description": "Hair One Hair Cleanser Conditioner is a salon quality sulfate-free product that leaves hair cleansed, conditioned and in optimum shape.",
+    "itemID": "B001IMSIYY",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 14848
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Hair Loss Products",
+        "Conditioners"
+      ]
+    ],
+    "price": 10.49,
+    "brand": "Hair One"
+  },
+  {
+    "title": "Hair One Hair Cleanser and Conditioner with Tea Tree Oil 355ml/12oz - Dry Scalp Formula",
+    "description": "Buy Hair One Hair Conditioners - Hair One Hair Cleanser and Conditioner with Tea Tree Oil 355ml/12oz - Dry Scalp Formula",
+    "itemID": "B001IMW9AS",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 10109
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Hair Loss Products",
+        "Conditioners"
+      ]
+    ],
+    "price": 10.49,
+    "brand": "Hair One"
+  }
+]

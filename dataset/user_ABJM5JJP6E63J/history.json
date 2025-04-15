@@ -1,0 +1,70 @@
+[
+  {
+    "title": "Dove Bar Soap, White, 16 Count",
+    "description": "",
+    "itemID": "B005HO0A1I",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 35462
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Cleansers",
+        "Soaps"
+      ]
+    ],
+    "price": 24.96,
+    "brand": "Dove"
+  },
+  {
+    "title": "FHI Heat Nano Weight Pro 1900 Turbo Hair Dryer, Black",
+    "description": "This styling champion is agile and light on its feet, yet delivers incredible power.Although the Nano Weight Pro 1900 Turbo is one of the lightest professional dryers onthe market, this high-tech tool offers the stylist unrivaled versatility and control behind thechair. Incredibly, this latest model is lighter, yet more powerful than previous models.Although the FHI Heat Nano Weight Pro 1900 now weighs 25% less, the motor is 30%more forceful, and a sleek new design makes the dryer more compact and easier to store,carry and take on the road.",
+    "itemID": "B0015Y9A0G",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 14358
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Hair Dryers"
+      ]
+    ],
+    "price": 93.07,
+    "brand": "FHI"
+  },
+  {
+    "title": "Aquaphor Baby Gentle Wash &amp; Shampoo Tear Free, Fragrance Free Mild Cleanser, 8.4 oz (Pack of 3)",
+    "description": "",
+    "itemID": "B00260GZTW",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Health & Personal Care": 1231
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 18.66,
+    "brand": "Aquaphor"
+  }
+]

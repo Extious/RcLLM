@@ -1,0 +1,115 @@
+[
+  {
+    "title": "Ardell Hair Color Bottle, Unred, 0.25 Ounce",
+    "description": "Eliminates unwanted red tones. Softens hi-lift tints. Decreases fading.",
+    "itemID": "B0002Z8IV6",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Beauty": 11469
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Hair Color",
+        "Chemical Hair Dyes"
+      ]
+    ],
+    "price": 4.0,
+    "brand": "Ardell"
+  },
+  {
+    "title": "Clairol Pure White 30 Volume 16 oz.",
+    "description": NaN,
+    "itemID": "B0009QZYO2",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 24831
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Hair Color",
+        "Chemical Hair Dyes"
+      ]
+    ],
+    "price": 7.51,
+    "brand": "Clairol"
+  },
+  {
+    "title": "Clairol Pure White 40 Volume 16 oz.",
+    "description": NaN,
+    "itemID": "B0009R35GA",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 23953
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Hair Color",
+        "Chemical Hair Dyes"
+      ]
+    ],
+    "price": 3.59,
+    "brand": "Clairol"
+  },
+  {
+    "title": "L'Oreal Quick Blue Powder Bleach 1 Lb",
+    "description": "L'Oreal Quick Blue Powder Bleach 1 Lb is a high performance powder bleach. It has a Dust-free, Non-Drip concentrated formula. Quick Blue delivers faster and brighter superior lightening powder with extra strength lightening action that lifts up to 7 levels. Suited for easy on-scalp or off-scalp application. Stays moist and creamy throughout application and processing.",
+    "itemID": "B000A409J8",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 1858
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Hair & Scalp Treatments"
+      ]
+    ],
+    "price": 17.52,
+    "brand": "L&#39;Oreal Paris"
+  },
+  {
+    "title": "Dove Damage Therapy Intensive Repair Daily Super Conditioner, 8 Ounce (Pack of 3)",
+    "description": "",
+    "itemID": "B002VA4FWG",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 17961
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Conditioners"
+      ]
+    ],
+    "price": 17.23,
+    "brand": "Dove"
+  }
+]

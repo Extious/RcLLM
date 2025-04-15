@@ -1,0 +1,69 @@
+[
+  {
+    "title": "Axe 3 in 1 Shampoo Plus Conditioner Plus Bodywash Total Fresh, 12 Ounce",
+    "description": "",
+    "itemID": "B00AE07BC6",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 24911
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 23.88,
+    "brand": "AXE"
+  },
+  {
+    "title": "Simple Radiance Wipes, 25 Count",
+    "description": "",
+    "itemID": "B00AO4EMKQ",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 2332
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Scrubs & Body Treatments",
+        "Body Scrubs"
+      ]
+    ],
+    "price": 8.97,
+    "brand": "Simple"
+  },
+  {
+    "title": "Tresemme Renewal Hair and Scalp Leave-In Conditioning Spray, 10 Ounce",
+    "description": "",
+    "itemID": "B00GYB1AUI",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 38653
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Conditioners"
+      ]
+    ],
+    "price": 1.66,
+    "brand": "TRESemme"
+  }
+]

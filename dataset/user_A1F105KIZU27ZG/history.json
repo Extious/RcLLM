@@ -1,0 +1,71 @@
+[
+  {
+    "title": "NARS Blush, Taj Mahal",
+    "description": "Made with transparent pigments for a soft and sheer look. Imparts a natural, healthy glow for any skin tone and may be worn alone or layered together for more depth and intensity.",
+    "itemID": "B00021DJ32",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 46941
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Blush"
+      ]
+    ],
+    "price": 49.99,
+    "brand": "NARS"
+  },
+  {
+    "title": "L'Oreal Paris True Match Super Blendable Makeup, Natural Buff, 1.0 Ounces",
+    "description": "True match super-blendable makeup shades are now cleaner, truer and even more natural. With the new patented color technology, true match makeup precisely matches your skin&#x2019;s tone and texture and coordinates perfectly with true match powder, blush.",
+    "itemID": "B000RGZK02",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 15809
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Foundation"
+      ]
+    ],
+    "price": 6.95,
+    "brand": "L&#39;Oreal Paris"
+  },
+  {
+    "title": "L'Oreal Paris True Match Naturale Gentle Mineral Concealer, Light/Medium 480, 0.07 Ounce",
+    "description": "True Match Naturale&#8482; Gentle Mineral Concealer SPF 25 adds coverage to those areas where you need a little more, covering up imperfections and dark circles. Its light and gentle formula is enriched with vitamins and minerals that nurture your skin and make it safe for sensitive and delicate skin around the eyes. Plus SPF 25 protects skin from premature aging caused by harmful UVA/UVB sun rays. True Match Naturale&#8482; Gentle Mineral Concealer blends seamlessly with a professional brush.",
+    "itemID": "B001H9289Y",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 5567
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Concealers & Neutralizers"
+      ]
+    ],
+    "price": 4.5,
+    "brand": "L&#39;Oreal Paris"
+  }
+]

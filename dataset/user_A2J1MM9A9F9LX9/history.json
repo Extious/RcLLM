@@ -1,0 +1,71 @@
+[
+  {
+    "title": "The Body Shop Hand Protector, Hemp, 3.3 Fluid Ounce",
+    "description": "This heavy-duty hydrating treatment instantly restores moisture to hard working hands and last up to 24-hours. It is dermatologically tested for very dry skin and contains hemp seed oil.",
+    "itemID": "B006FXOKDY",
+    "helpful": [
+      5,
+      5
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 4112
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Hands & Nails",
+        "Hand Creams & Lotions"
+      ]
+    ],
+    "price": 8.05,
+    "brand": "The Body Shop"
+  },
+  {
+    "title": "John John Frieda BLONDE SPOTLIGHT Sleek &amp; Shine DETANGLER",
+    "description": "Turn up the spotlight on blonde, instant detangler spotlights highlights for smooth as glass finish. Ultra-light gloss leaves wet hair snag-free. It brightens without dulling or darkening sleek & shine detangler.",
+    "itemID": "B001BBB18C",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 180179
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Hair Color",
+        "Highlights"
+      ]
+    ],
+    "price": NaN,
+    "brand": NaN
+  },
+  {
+    "title": "Ecotools Bamboo Bristle Bath Brush",
+    "description": "Ecotools bath accessories bring more green into your shower scene.",
+    "itemID": "B0020HEBX8",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 2119
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Bathing Accessories",
+        "Bath Brushes"
+      ]
+    ],
+    "price": 5.99,
+    "brand": "EcoTools"
+  }
+]

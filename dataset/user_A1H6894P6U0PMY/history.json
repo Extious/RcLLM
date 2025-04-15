@@ -1,0 +1,73 @@
+[
+  {
+    "title": "China Glaze Nail Polish, Elephant Walk, 0.5 Fluid Ounce",
+    "description": "Want a silver but not too sparkly. Well this color is a grey with silver shimmer that adds a bit of sparkle and a lot of shine. Simple and classy. Long-wearing nail lacquer. Flexible and will not chip. Non-thickening formula no thinner required.",
+    "itemID": "B008A3ZYDM",
+    "helpful": [
+      0,
+      2
+    ],
+    "overall": 1.0,
+    "salesRank": {
+      "Beauty": 49561
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Nails",
+        "Nail Polish"
+      ]
+    ],
+    "price": 3.5,
+    "brand": "China Glaze"
+  },
+  {
+    "title": "Tweezerman Folding Lash Comb",
+    "description": "The perfectly spaced, gold plated metal teeth glide through lashes to remove excess mascara, leaving your lashes looking long, lovely and clump-free. Comb cleverly folds in to protect teeth when not in use.",
+    "itemID": "B001OZZTII",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 188655
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Tools & Accessories",
+        "Makeup Brushes & Tools",
+        "Eyelash Tools",
+        "Curlers"
+      ]
+    ],
+    "price": 12.0,
+    "brand": "Tweezerman"
+  },
+  {
+    "title": "Olay Sensitive 4-In-1 Daily Facial Cloths, 33 Count (Pack of 2)",
+    "description": "",
+    "itemID": "B004CQXZ5U",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 11163
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Cleansers",
+        "Cloths & Towelettes"
+      ]
+    ],
+    "price": 18.47,
+    "brand": "Olay"
+  }
+]

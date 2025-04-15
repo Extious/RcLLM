@@ -1,0 +1,69 @@
+[
+  {
+    "title": "Maybelline Great Lash Waterproof Mascara, Very Black- .43 Fluid Ounce",
+    "description": "Maybelline&#x92;s lash-doubling formula conditions as it thickens, making even tiny lashes 100% fuller and more healthy-looking. The lash-building brush builds full lashes with no clumps or globs. Available in five shades, in Washable, Waterproof, and Curved Brush.",
+    "itemID": "B00008MOQN",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 665
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Eyes",
+        "Mascara"
+      ]
+    ],
+    "price": 4.65,
+    "brand": "Maybelline"
+  },
+  {
+    "title": "Suave Naturals Gentle Cleansing Shampoo, Waterfall Mist, 12 oz",
+    "description": "",
+    "itemID": "B000W30RP8",
+    "helpful": [
+      2,
+      3
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 33227
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 5.95,
+    "brand": "Suave"
+  },
+  {
+    "title": "Suave Naturals Refreshing Waterfall Mist Conditioner, 12 Ounce",
+    "description": "Infused with watermint extract and vitamin E. Nourish the natural beauty of your hair with gentle conditioners and the refreshing scent of a topical waterfall. Say yes to beautiful without paying the price. Made in USA.",
+    "itemID": "B000WIHR92",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 5195
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Conditioners"
+      ]
+    ],
+    "price": 0.98,
+    "brand": "Suave"
+  }
+]

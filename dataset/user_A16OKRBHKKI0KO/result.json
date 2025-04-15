@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Revlon Super Lustrous Lipgloss, SPF 15, Nude Lustre 040, 0.2 Ounce",
+    "description": "Silky...Sexy...Brilliant. Glossy formula combines sheer color and intense moisture with light-reflecting spheres to create amazing shine. SPF 15",
+    "itemID": "B000H3I3Y0",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 93708
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Lips",
+        "Lip Glosses"
+      ]
+    ],
+    "price": 6.25,
+    "brand": "Revlon"
+  },
+  {
+    "title": "Revlon Colorburst Lipgloss, Strawberry, 0.20-Ounce",
+    "description": "Gives you a pop of weightless color bursting with vivid, mirror-like shine",
+    "itemID": "B004510MT4",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 26153
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Lips",
+        "Lip Glosses"
+      ]
+    ],
+    "price": 1.5,
+    "brand": "Revlon"
+  },
+  {
+    "title": "[10 Pack] Natural Aqua Facial Essence Mask Pack: Acerola",
+    "description": "",
+    "itemID": "B00DMOWZQ8",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 129699
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Oils & Serums"
+      ]
+    ],
+    "price": 4.99,
+    "brand": NaN
+  }
+]

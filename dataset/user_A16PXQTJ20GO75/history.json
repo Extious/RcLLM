@@ -1,0 +1,73 @@
+[
+  {
+    "title": "John Frieda Frizz-Ease Original Serum, 1.69 Ounces",
+    "description": "Frizz-Ease Original Serum blocks frizz all day. The Serum instantly and dramatically transforms dry, frizzy, or chemically-treated hair into incredibly smoother, glossier, stronger hair. Protects and prolongs the life of color treated hair. It is an exceptional blend of silicones immediately smooths texture while delivering a layer of crystal-clear gloss for perfectly polished, frizz-resistant styles. Frizz-Ease Original Serum also repels humidity to help prevent weather-related frizz. Contains sunscreen.",
+    "itemID": "B0013NE2Y8",
+    "helpful": [
+      1,
+      2
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 3574
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Hair Styling Serums"
+      ]
+    ],
+    "price": 7.66,
+    "brand": "Frizz-Ease"
+  },
+  {
+    "title": "Aveeno Positively Nourishing Aveeno Ultra Hydrating Body Wash, 16 Ounce",
+    "description": "Aveeno Positively Nourishing&#xA0;Hydrating Body Wash is good for your skin as it is for your senses.&#xA0; This lightly fragranced, hydrating body wash contains shea butter, a natural ingredient known for its moisturizing properties, and is enriched with&#xA0;natural fig for healthierlooking skin that feels soft and smells great long after you shower.",
+    "itemID": "B002RDBL7Y",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 1.0,
+    "salesRank": {
+      "Beauty": 4718
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Lotions"
+      ]
+    ],
+    "price": 7.99,
+    "brand": "Aveeno"
+  },
+  {
+    "title": "Olay Wet Cleansing Towelette - Sensitive 30 Count (Pack of 2)",
+    "description": "Specially formulated for sensitive skin to remove dirt and make-up (even waterproof mascara!), leaving skin soft and smooth.",
+    "itemID": "B004CQXZD2",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 5842
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Cleansers",
+        "Cloths & Towelettes"
+      ]
+    ],
+    "price": 7.45,
+    "brand": "Olay"
+  }
+]

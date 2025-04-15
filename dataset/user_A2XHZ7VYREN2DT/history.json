@@ -1,0 +1,70 @@
+[
+  {
+    "title": "Agadir  Argan Oil Hair Treatment, 4-Ounce",
+    "description": "Leave in, daily hair treatment that's super enriched with vitamin E. Leaves hair with radiant shine!",
+    "itemID": "B001U9M2EW",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 140
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Hair & Scalp Treatments"
+      ]
+    ],
+    "price": 15.6,
+    "brand": "Agadir"
+  },
+  {
+    "title": "Revlon Covered Lip Brush, Premium",
+    "description": "All Revlon brushes are expertly crafted using ultra soft, premium fibers and natural birch wood handles for professional quality results",
+    "itemID": "B004JZT328",
+    "helpful": [
+      0,
+      3
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 8138
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Tools & Accessories",
+        "Makeup Brushes & Tools",
+        "Brushes & Applicators"
+      ]
+    ],
+    "price": 7.24,
+    "brand": "Revlon"
+  },
+  {
+    "title": "BH Cosmetics 66 Color Lip Palette",
+    "description": "66 beautiful, gorgeous lip colors, some with shimmer, some are matte. All your mix and match colors in one palette.",
+    "itemID": "B002UILQBM",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 101246
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Lips",
+        "Lipstick"
+      ]
+    ],
+    "price": 25.99,
+    "brand": "BHCosmetics"
+  }
+]

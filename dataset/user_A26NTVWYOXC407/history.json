@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Sally Hansen Salon Effects Value Twin Pack - Frock Star / Bling It On",
+    "description": "frock star / bling it on",
+    "itemID": "B0076LBMI0",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Health & Personal Care": 23867
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Nails",
+        "Nail Polish"
+      ]
+    ],
+    "price": 9.94,
+    "brand": ""
+  },
+  {
+    "title": "Sun Laboratories Tan Overnight Self Tanning Lotion 8 fl oz.",
+    "description": "Sun Laboratories Tan Overnight lets you achieve an incredibly natural-looking bronzed appearance on the face and body without exposure to harmful UV sun rays - anytime, anywhere. Formulated with a natural blend of ingredients that promote hydration and a sugar derivative that enhances the skin&#039;s color, this formula is safe for all skin types seeking a dramatically deeper tone. An instant dose of color helps prevent streaks and patches, and the color is set within three hours of application.",
+    "itemID": "B000IOFQWK",
+    "helpful": [
+      1,
+      2
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 4629
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Sun",
+        "Self-Tanners & Bronzers"
+      ]
+    ],
+    "price": 9.99,
+    "brand": "Sun Laboratories"
+  },
+  {
+    "title": "Amir Argan Oil NEW &quot;Touch Of Tan&quot; Body Moisturizer Lotion 18 fl.oz - (Mega Size) with Acai Berry Extract.",
+    "description": "Wonderfully moisturize &. beautify skin while gradually enhancing skin's natural color & giving it Q healthy sun-kissed glow. A touch of sunless tanner provides mistake-free color while Argon Oil &. Acoi Berry extracts conditionskin tor a remarkable softness and vibrancy.\nArgon Oil Enriched with Acoi Berry",
+    "itemID": "B004V4MQ2Q",
+    "helpful": [
+      5,
+      7
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 3508
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Scrubs & Body Treatments",
+        "Body Scrubs"
+      ]
+    ],
+    "price": 13.5,
+    "brand": "Amir"
+  }
+]

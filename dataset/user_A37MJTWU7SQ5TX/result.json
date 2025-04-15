@@ -1,0 +1,74 @@
+[
+  {
+    "title": "Albolene Moisturizing Cleanser, 12oz",
+    "description": "Enhances warm-up time, weight loss and the sweating process during workouts.",
+    "itemID": "B000NLHXEC",
+    "helpful": [
+      3,
+      5
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 606
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Oils"
+      ]
+    ],
+    "price": 13.25,
+    "brand": "Albolene"
+  },
+  {
+    "title": "Yes To Daily Balancing Moisturizer, Tomatoes, 1.7 Fluid Ounce",
+    "description": "We know you juggle many aspects of life on a daily basis, hydrating and balancing your skin shouldn't be one of them! Let us tend to your needs with yes to tomatoes daily balancing moisturizer. Rich in antioxidants and powerful sebum (acne-causing oil) absorbers, it both moisturizes and balances, keeping your complexion carefree. So, go on, give up the balancing act and try something more fun, like the trapeze!",
+    "itemID": "B003PL2D6A",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 5481
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Creams & Moisturizers",
+        "Fluids & Lotions",
+        "Fluids"
+      ]
+    ],
+    "price": 11.41,
+    "brand": "Yes To"
+  },
+  {
+    "title": "Xtreme Brite Brightening Gel 1oz",
+    "description": "Xtreme Brite Brightening Gel is highly concentrated gel helps to obtain a clearer and brighter complexion. Removes blackheads and cosmetic acne also has anti-bacterial and soothing properties. For best results use regularly together with other products from the Xtreme Brite brand.",
+    "itemID": "B0054GBXOW",
+    "helpful": [
+      6,
+      10
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 1090
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Treatments & Masks"
+      ]
+    ],
+    "price": 19.99,
+    "brand": "Xtreme Brite"
+  }
+]

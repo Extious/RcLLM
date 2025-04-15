@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Aveda Pure Abundance Volumizing Shampoo, 8.5-Ounce Bottle",
+    "description": "Aveda Pure Abundance Volumizing Shampoo helps create a fullness for fine hair. Builds body and volume, with certified organic acacia gum from Chad, and Africa for hair that looks fuller and feels thicker. People-tested. Made in USA.",
+    "itemID": "B000EMDK6K",
+    "helpful": [
+      3,
+      3
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 9313
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 19.25,
+    "brand": "Aveda"
+  },
+  {
+    "title": "Shea Terra Authentic African Black Soap 5 oz.",
+    "description": "Shea Terra Authentic African Black Soap 5 oz. Shea Terra Authentic African Black Soap 5 oz. 100% Natural. Genuine African black soap for smooth, blemish free skin. Ancient formula naturally breaks down dead skin revealing firmer, younger looking skin beneath. Ingredients: USDA certified organic, virgin coconut cream oil, African black soap (cocoa pod ash, plaintain peel ash, palm oil, camwood), 24% USDA certified organic shea butter, certified organic, extra virgin olive oil, spring water, sodium hydroxide",
+    "itemID": "B0046UCYA4",
+    "helpful": [
+      9,
+      10
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Health & Personal Care": 31968
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Cleansers",
+        "Soaps"
+      ]
+    ],
+    "price": 8.98,
+    "brand": "Shea Terra Organics"
+  }
+]

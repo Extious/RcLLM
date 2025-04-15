@@ -1,0 +1,49 @@
+[
+  {
+    "title": "AmLactin 12 % Moisturizing Lotion - 567 g / 20 oz",
+    "description": NaN,
+    "itemID": "B008BNTVHG",
+    "helpful": [
+      0,
+      1
+    ],
+    "overall": 4.0,
+    "salesRank": NaN,
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Creams & Moisturizers",
+        "Fluids & Lotions",
+        "Lotions"
+      ]
+    ],
+    "price": 22.19,
+    "brand": "Upsher-Smith"
+  },
+  {
+    "title": "Village Naturals Aromatherapy Relax Body Butter, Vanilla and Cinnamon 8 oz.",
+    "description": "Natural extracts of vanilla and cinnamon calm and ease your mind while our moisturizing body butter formula softens your skin.",
+    "itemID": "B004WP28UE",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 83325
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Body Butter"
+      ]
+    ],
+    "price": 6.99,
+    "brand": "Village Naturals Aromatherapy"
+  }
+]

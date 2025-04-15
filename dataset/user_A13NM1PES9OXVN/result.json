@@ -1,0 +1,116 @@
+[
+  {
+    "title": "Pantene Pro-V Expert Collection Advanced+ Keratin Repair Keragloss Oil Mist, 3.4 Fluid Ounce",
+    "description": "The Pantene Pro-V Expert Collection is a premium line born from our Swiss heritage and has been specially crafted for those who seek an exceptional level of care.",
+    "itemID": "B00CA05FO4",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 43236
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Hair & Scalp Treatments"
+      ]
+    ],
+    "price": 13.13,
+    "brand": "Pantene"
+  },
+  {
+    "title": "Toni&amp;Guy Casual Sea Salt Texturising Spray, 6.8 Fluid Ounce",
+    "description": "",
+    "itemID": "B006L6A9NK",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 2530
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Hair Sprays"
+      ]
+    ],
+    "price": 14.97,
+    "brand": "Toni &amp; Guy"
+  },
+  {
+    "title": "Suave Professionals Natural Infusion Awapuhi Ginger and Honeysuckle Light Leave-in Cream, 6 Ounce",
+    "description": "",
+    "itemID": "B00GTC02LA",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 4741
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Creams, Gels & Lotions"
+      ]
+    ],
+    "price": 15.95,
+    "brand": "Suave"
+  },
+  {
+    "title": "Dove Restorative Treatment with Anatolian Pomegranate Seed Oil, 3.3 Ounce",
+    "description": "",
+    "itemID": "B00GTBZ7HA",
+    "helpful": [
+      2,
+      2
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 163493
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Hair & Scalp Treatments"
+      ]
+    ],
+    "price": 9.51,
+    "brand": NaN
+  },
+  {
+    "title": "Suave Professionals Gradual Self Tanner, Visible Glow-Fair-Medium, 7.5 Ounce",
+    "description": "",
+    "itemID": "B00H5V3T2I",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 19144
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Lotions"
+      ]
+    ],
+    "price": 6.83,
+    "brand": "Suave"
+  }
+]

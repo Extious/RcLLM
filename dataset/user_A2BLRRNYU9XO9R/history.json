@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Coastal Scents 88 Original Palette",
+    "description": "",
+    "itemID": "B002QANC2A",
+    "helpful": [
+      51,
+      54
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 4120
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Eyes",
+        "Eye Shadow"
+      ]
+    ],
+    "price": 17.92,
+    "brand": "Coastal Scents"
+  },
+  {
+    "title": "Proactiv Solution 3 Step System Kit, 2 Month Supply",
+    "description": "Our basic clear skin kit includes full-size bottles of the essential Proactiv Solution system. This system, developed by dermatologists, uses Combination TherapyTM to help heal and stop breakouts at their source.\n\nIncludes: \nRenewing Cleanser to wash away excess oil and dirt\n\nRevitalizing Toner to balance skin tone\n\nRepairing Lotion to help attack bacteria",
+    "itemID": "B001A3ML3K",
+    "helpful": [
+      277,
+      323
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 4949
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Treatments & Masks"
+      ]
+    ],
+    "price": 37.28,
+    "brand": "Proactiv"
+  },
+  {
+    "title": "Maybelline New York Full 'N Soft Mascara, Very Black, 0.28 Oz.",
+    "description": "Builds full, soft thick lashes without the brittle feel. Prevents loss of lashes with patented quick dissolve system that allows easy mascara removal. No clumps, no globs. Contact lens safe and hypoallergenic. washable; also available in waterproof formula.",
+    "itemID": "B0000536M2",
+    "helpful": [
+      43,
+      53
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 2544
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Eyes",
+        "Mascara"
+      ]
+    ],
+    "price": 7.27,
+    "brand": "Maybelline"
+  }
+]

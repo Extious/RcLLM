@@ -1,0 +1,94 @@
+[
+  {
+    "title": "St. ives body lotion, naturally soothing oatmeal &amp; shea butter, 21oz",
+    "description": NaN,
+    "itemID": "B005OKPZR4",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": NaN,
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Oils"
+      ]
+    ],
+    "price": 5.36,
+    "brand": "St. Ives"
+  },
+  {
+    "title": "St. ives body lotion, deep restoring 24 hour moisture, 21oz",
+    "description": "",
+    "itemID": "B005OKQ1A4",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 29340
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Lotions"
+      ]
+    ],
+    "price": 11.56,
+    "brand": "St. Ives"
+  },
+  {
+    "title": "Suave Professionals mens, shampoo/conditioner/body wash, 3 in 1, citrus rush, 28oz",
+    "description": "",
+    "itemID": "B006N9LWWW",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 24913
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 10.35,
+    "brand": "Suave"
+  },
+  {
+    "title": "St. Ives Deep Replenishing Mineral Therapy Body Lotion, 21 Ounce",
+    "description": "",
+    "itemID": "B006RU9WO2",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 96123
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Lotions"
+      ]
+    ],
+    "price": 10.72,
+    "brand": "St. Ives"
+  }
+]

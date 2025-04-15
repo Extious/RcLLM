@@ -1,0 +1,70 @@
+[
+  {
+    "title": "Suave Professionals Humectant Moisture Shampoo , 12.6 fl Ounce (373 ml)",
+    "description": "",
+    "itemID": "B0000530M0",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 143847
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 6.96,
+    "brand": "Suave"
+  },
+  {
+    "title": "Maybelline New York Expert Wear Twin Brow and Eye Pencils, 104 Light Brown, 0.06 Ounce",
+    "description": "Dual purpose pencils work as defining brow filler and a precision eyeliner. Two pencils per pack.Waterproof formula lasts all day.",
+    "itemID": "B001126XI4",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 11012
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Eyes",
+        "Eyebrow Color"
+      ]
+    ],
+    "price": 3.23,
+    "brand": "Maybelline"
+  },
+  {
+    "title": "NYX Eyebrow Cake Powder, Black/Gray",
+    "description": "Our recipe for cooking up exquisite eyebrows includes wax, tools and a pair of complementary powders, black and gray, which can be customized to create the ideal shade. Each eyebrow cake powder kit includes a slanted brush and a round wand to shape, style and tame eyebrows.",
+    "itemID": "B002QI1E9K",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 5689
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Eyes",
+        "Eyebrow Color"
+      ]
+    ],
+    "price": 5.89,
+    "brand": "NYX"
+  }
+]

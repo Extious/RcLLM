@@ -1,0 +1,68 @@
+[
+  {
+    "title": "Paul Mitchell Awapuhi Wild Ginger Moisturizing Lather Shampoo 8.5 oz.",
+    "description": "For all hair types; ideal for color-treated and chemically processed hair. Lather in this rich, sulfate-free shampoo to gently cleanse, soften and protect. Natural Awapuhi extract balances moisture for manageability and shine. KeraTriplex, an exclusive blend of keratin protein, rebuilds and repairs for healthy looking hair.",
+    "itemID": "B0042GH78G",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Health & Personal Care": 4770
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 16.44,
+    "brand": "Paul Mitchell"
+  },
+  {
+    "title": "Aveeno Active Naturals Skin Relief Hand Cream, 3.5 Ounce",
+    "description": "This unique, non-greasy and fragrance free hand cream is specially formulated with ntense Relief Hand Cream and rich emollients to help heal dry skin and form a protective glove against the elements. Unlike ordinary hand creams, Aveeno Intense Relief Hand Cream protects and moisturizes skin for 24 hours and even lasts through hand washing.",
+    "itemID": "B00008J2XQ",
+    "helpful": [
+      2,
+      2
+    ],
+    "overall": 5.0,
+    "salesRank": NaN,
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Hands & Nails",
+        "Hand Creams & Lotions"
+      ]
+    ],
+    "price": 7.32,
+    "brand": "Aveeno"
+  },
+  {
+    "title": "Neutrogena Rainbath Refreshing Shower and Bath Gel- 40 oz (Mega Size)",
+    "description": "Rainbath Shower & Bath Gel cleans, softens and conditions skin without a heavy leave-behind residue. Your skin is left in better condition - feeling smooth, soft and renewed. Its fragrance is a blend of spices, fruits and herbs, providing a clean-fresh burst that awakens your senses and refreshes your entire body.",
+    "itemID": "B00113HO90",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 530
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Cleansers",
+        "Body Washes"
+      ]
+    ],
+    "price": 25.49,
+    "brand": "Neutrogena"
+  }
+]

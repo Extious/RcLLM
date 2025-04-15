@@ -1,0 +1,46 @@
+[
+  {
+    "title": "Kiss My Face Bar Soap, 8.0 oz, Pure Olive Oil. 1-Bar",
+    "description": "A Natural Cleansing and Moisturizing Soap. For centuries the people of the Mediterranean have recognized the benefits of Olive Oil to the skin. Long lasting and made from the purest natural ingredients, it is a superb moisturizer suitable for all skin types. Its simple and pure. This moisturizing bar was created without animal ingredients, artificial colors, unnecessary chemicals or animal testing.",
+    "itemID": "B0000532YN",
+    "helpful": [
+      3,
+      5
+    ],
+    "overall": 5.0,
+    "salesRank": NaN,
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Oils & Serums"
+      ]
+    ],
+    "price": 2.3,
+    "brand": "Kiss My Face"
+  },
+  {
+    "title": "Kirk's Castile: Coco Castile Bar Soap, Original 4 oz",
+    "description": "Kirk's Original Coco Castile Coconut Oil Soap.Natural, hypoallergenic skin care with no animal by-products or synthetic detergents.Healthy, beautiful skin since 1839.Pure botanical coconut oil soap ultra gentle with no drying residue.",
+    "itemID": "B000VD1UM8",
+    "helpful": [
+      11,
+      18
+    ],
+    "overall": 1.0,
+    "salesRank": {
+      "Beauty": 137725
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Cleansers",
+        "Soaps"
+      ]
+    ],
+    "price": 4.07,
+    "brand": "Kirk&#39;s"
+  }
+]

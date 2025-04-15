@@ -1,0 +1,73 @@
+[
+  {
+    "title": "Slice of Nature&copy; Virgin Argan Oil 30ml",
+    "description": NaN,
+    "itemID": "B001PEZAHI",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 145396
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Bath",
+        "Oils"
+      ]
+    ],
+    "price": 10.99,
+    "brand": NaN
+  },
+  {
+    "title": "Himalaya Herbal Healthcare Nourishing Face Moisturizing Lotion, 6.76-Fluid Ounce",
+    "description": "For All Skin Types a nourishing blend of sustainably grown botanicals and oils that do more than erase the effects of parched skin. This effective and gentle formula represents nature at its finest in a formula designed to revitalize, rejuvenate and replenish your skin all day. Infused with Lavender Oil, Sweet Almond Oil and our prized Soliga Forest Honey, promotes moisture balance that dramatically rehydrates your skin and help erase the effects of dry, damaged skin.",
+    "itemID": "B0028QVAGW",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 150620
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Lotions"
+      ]
+    ],
+    "price": NaN,
+    "brand": NaN
+  },
+  {
+    "title": "Himalaya Herbal Healthcare Neem &amp; Tumeric Face Wash, 5.07-Fluid Ounce",
+    "description": "Himalaya Herbal Healthcare, a family owned company for three generations, has manufactured a complete line of pharmaceutical grade herbal products since 1930. With its global headquarters in Bangalore, India, Himalaya is the maker of LiverCare (internationally known as Liv.52), a best-selling liver support formula. Available in 76 countries with US headquarters in Houston, Texas, Himalaya&#8217;s herbal supplements contain 100% herbal extracts and are encapsulated in vegetarian Capsugel Vcaps. Himalaya combines the rich value of an old system of natural medicine with modern technology, including scientific assessment of efficacy using primary clinical research, Good Manufacturing Practices (GMPs) and quality controls, using sophisticated chromatographic &#8220;fingerprinting&#8221; techniques. Himalaya proudly carries the ISO-14001:2004 certificate of environmental management for its critical systems and procedures to control land, water and air pollution, as well as an ISO 9001:2001 certification, the most rigorous ISO conformance standard, for excellence in manufacturing as established by the International Organization for Standardization. In addition to manufacturing Himalaya Herbal Healthcare formulas, the company is also the maker of Himalaya Pure Herbs and Organique by Himalaya body care products, organically grown and free from over 200 synthetic ingredients. Beyond gentle cleansing, this award winning favorite is designed to even out skin, minimize pore size and clear away impurities with a fresh luxurious soft soap&#8211;free lather. This time tested combination of organic Neem and Turmeric purifies and resurfaces your skin leaving it clean, pure, silky&#8211;smooth and radiant.",
+    "itemID": "B0028QXB6E",
+    "helpful": [
+      2,
+      2
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 5479
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Cleansers",
+        "Washes"
+      ]
+    ],
+    "price": 8.49,
+    "brand": "Himalaya Herbal Healthcare"
+  }
+]

@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Maybelline New York Fit Me! Foundation, 120 Classic Ivory, SPF 18, 1.0 Fluid Ounce",
+    "description": "Flawless that lets the real you come through. It's makeup that doesn't mess with you. No oils. No waxes. No nonsense. Natural coverage that leaves skin the way it was meant to be: fresh, breathing, natural. Exclusive translucent base and lightweight pigments allow skin's natural highs and lows to show through. Non comedogenic, dermatologist tested, ophthalmologist tested, fragrance free.",
+    "itemID": "B004675EI6",
+    "helpful": [
+      3,
+      3
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 14732
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Foundation"
+      ]
+    ],
+    "price": 1.99,
+    "brand": "Maybelline"
+  },
+  {
+    "title": "Maybelline New York Fit Me! Blush, Light Mauve, 0.16 Ounce",
+    "description": "Flawless that lets the real you come through. Lightweight pigments blend easily and wears evenly. Provides a natural, fade proof cheek color that leaves skin the way it was meant to be: fresh, breathing, and natural.",
+    "itemID": "B0046VEREY",
+    "helpful": [
+      1,
+      2
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 62684
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Blush"
+      ]
+    ],
+    "price": 5.0,
+    "brand": "Maybelline"
+  },
+  {
+    "title": "Maybelline New York Fit Me! Concealer, 30 Cafe, 0.23 Fluid Ounce",
+    "description": "Flawless that lets the real you come through. It's makeup that doesn't mess with you. No oils. No waxes. No nonsense. Natural coverage that leaves skin the way it was meant to be: fresh, breathing, natural. Exclusive translucent base and lightweight pigments allow skin's natural highs and lows to show through. Non comedogenic, dermatologist tested, ophthalmologist tested, fragrance free.",
+    "itemID": "B0046VIGPU",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 10881
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Concealers & Neutralizers"
+      ]
+    ],
+    "price": 6.48,
+    "brand": "Maybelline"
+  }
+]

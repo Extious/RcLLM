@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Sigma F84 - Angled Kabuki TM",
+    "description": "Unique Feature: Soft and angled head\nFunction: Blended cream product application\nRecommended Use: Buff cream blush or bronzer onto the skin.\nBristle Type: Synthetic Sigmax\n\n 2013 Sigma Enterprises, LLC",
+    "itemID": "B0045W4X16",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 4180
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Tools & Accessories",
+        "Makeup Brushes & Tools",
+        "Brushes & Applicators"
+      ]
+    ],
+    "price": 24.0,
+    "brand": "Sigma Beauty"
+  },
+  {
+    "title": "Sigma E20 - Short Shader",
+    "description": "Unique Feature: Soft and precise flat head\nFunction: Concentrated color application\nRecommended Use: Apply color onto small areas of the eye such as the outer eyelid. Also use to smudge the lower lash line.\n\n 2013 Sigma Enterprises, LLC",
+    "itemID": "B005OZEFKM",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 15037
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Tools & Accessories",
+        "Makeup Brushes & Tools",
+        "Brushes & Applicators"
+      ]
+    ],
+    "price": 7.51,
+    "brand": "Sigma Beauty"
+  },
+  {
+    "title": "Sigma F70 - Concealer",
+    "description": "Unique Feature: Small and slightly tapered flat brush\nFunction: Conceal small areas\nRecommended Use: Conceal the hardest to reach areas such as around the nose and eyes. \n\n 2013 Sigma Enterprises, LLC",
+    "itemID": "B005P11F4O",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 11447
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Tools & Accessories",
+        "Makeup Brushes & Tools",
+        "Brushes & Applicators"
+      ]
+    ],
+    "price": 14.0,
+    "brand": "Sigma Beauty"
+  }
+]

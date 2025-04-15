@@ -1,0 +1,49 @@
+[
+  {
+    "title": "Buff Headwear Headband Botanic",
+    "description": "The Headband Buff is a quick and easy application to keep sweat and hair out of your face and eyes. With its four-channel wicking fibers, CoolMax Extreme fabric makes a great helmet liner and sweatband that will keep you cool and dry in hot months and can be slid over your ears in colder months for thermal protection.",
+    "itemID": "B0021EY2O8",
+    "helpful": [
+      2,
+      3
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Health & Personal Care": 9244
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Styling Accessories",
+        "Headbands"
+      ]
+    ],
+    "price": 14.25,
+    "brand": "Buff"
+  },
+  {
+    "title": "WEN By Chaz Dean Fall Apple Spice Cleansing Conditioner 16 Oz",
+    "description": "Wen by Chaz dean Fall Apple Spice Cleansing Conditioner 16 oz",
+    "itemID": "B00ELNDKUY",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 1.0,
+    "salesRank": {
+      "Beauty": 854
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Scrubs & Body Treatments",
+        "Body Scrubs"
+      ]
+    ],
+    "price": 22.49,
+    "brand": "WEN&reg; by Chaz Dean"
+  }
+]

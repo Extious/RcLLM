@@ -1,0 +1,73 @@
+[
+  {
+    "title": "Vaseline Sheer Infusion Body Lotion, Vitamin Burst, 13.5-Ounce Bottles (Pack of 2)",
+    "description": "Some moisturizers only treat the top layers of your surface skin, leaving it feeling greasy. Others sink through quickly and your skin is not thoroughly moisturized. New Vaseline Sheer Infusion with Stratys-3 infuses and suspends superior* moisture across all layers of your skin**. Only Vaseline Sheer Infusion delivers superior moisture* and an unmatched silky feel.",
+    "itemID": "B0027CT5TG",
+    "helpful": [
+      1,
+      2
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Beauty": 405166
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Lotions"
+      ]
+    ],
+    "price": NaN,
+    "brand": NaN
+  },
+  {
+    "title": "Neutrogena Ultra Gentle Soothing Lotion SPF 15, 4  Ounce",
+    "description": "Neutrogena Ultra Gentle Soothing Lotion is clinically proven to instantly soothe even the most sensitive skin.",
+    "itemID": "B0054MSBZA",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 34157
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Creams & Moisturizers",
+        "Fluids & Lotions",
+        "Lotions"
+      ]
+    ],
+    "price": 12.75,
+    "brand": "Neutrogena"
+  },
+  {
+    "title": "CLEAR SCALP &amp; HAIR BEAUTY Ultra Shea Cleanse &amp; Nourish Shampoo, 12.9 Fluid Ounce",
+    "description": "",
+    "itemID": "B007RTR9FQ",
+    "helpful": [
+      2,
+      3
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 14981
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 8.99,
+    "brand": "Clear"
+  }
+]

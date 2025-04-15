@@ -1,0 +1,71 @@
+[
+  {
+    "title": "NYX Cosmetics Mosaic Blush Powder, Spice, 0.20-Ounce",
+    "description": "Fusion of five face colors in one palette. Shades harmonize and provide the perfect glow. Minerals hydrate and condition the skin. Can be used as blush, bronzer or eye shadow.",
+    "itemID": "B002QI1EKE",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 235750
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Blush"
+      ]
+    ],
+    "price": 6.46,
+    "brand": "NYX"
+  },
+  {
+    "title": "NYX Cosmetics High Definition Photogenic Foundation, Soft Beige, 1.26 Ounce",
+    "description": "Advanced foundation uses light-diffusing ingredients that render skin smooth, poreless and flawless&#x2014;even under most high-definition technology. Hd studio&#xA0;photogenic&#xA0;foundation is also infused with tri-peptides that promote collagen production, reduce the appearance of wrinkles and help rejuvenate skin. Ideal makeup for everyday use, professional shoots or anytime you&#x2019;re in the spotlight. Available in 8 shades.",
+    "itemID": "B004XN18CY",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 45346
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Foundation"
+      ]
+    ],
+    "price": 12.49,
+    "brand": "NYX"
+  },
+  {
+    "title": "Sleek i-Divine AU Natural Palette Mineral based Eye Shadow Palette",
+    "description": "We've recently given our i-Divines a makeover! The outer packaging has been updated and the way the eye shadows are pressed are different. They are now pressed flat instead of the original waffle print.",
+    "itemID": "B007Q22HMY",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 4338
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Eyes",
+        "Eye Shadow"
+      ]
+    ],
+    "price": 11.75,
+    "brand": "Sleek"
+  }
+]

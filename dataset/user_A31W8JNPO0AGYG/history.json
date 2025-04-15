@@ -1,0 +1,68 @@
+[
+  {
+    "title": "Clean &amp; Clear Continuous Control Acne Cleanser,  5 oz  (141g)",
+    "description": "Clean & Clear Continuous Control Acne Cleanser not only removes dirt and oil, it also features a porepenetrating technology that deposits acne medicine to help fight and help prevent breakouts long after you wash. Your skin is clean and becomes clearer with continued use.",
+    "itemID": "B0000534VO",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": NaN,
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Cleansers"
+      ]
+    ],
+    "price": 6.13,
+    "brand": "Clean &amp; Clear"
+  },
+  {
+    "title": "Neutrogena Oil-Free Moisture, Sensitive Skin, 4 Ounce",
+    "description": "",
+    "itemID": "B000052YOX",
+    "helpful": [
+      4,
+      6
+    ],
+    "overall": 5.0,
+    "salesRank": NaN,
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Creams & Moisturizers",
+        "Fluids & Lotions",
+        "Lotions"
+      ]
+    ],
+    "price": 10.03,
+    "brand": "Neutrogena"
+  },
+  {
+    "title": "Pantene Pro-V Nature Fusion Smoothing Conditioner with Avocado Oil, 25.4 Fluid Ounce (Pack of 2) (Packaging may vary)",
+    "description": "",
+    "itemID": "B001JQLNRI",
+    "helpful": [
+      0,
+      5
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 122577
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Conditioners"
+      ]
+    ],
+    "price": 14.28,
+    "brand": "Pantene"
+  }
+]

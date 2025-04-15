@@ -1,0 +1,73 @@
+[
+  {
+    "title": "Heritage Store Rose Petals Rosewater 8 oz",
+    "description": "Rosewater is truly versatile with numerous benefits from culinary gourmet flavoring to uplifting cosmetic mist. Use as a perfume, body splash or add to your hair rinse or bath water.",
+    "itemID": "B0001TMDF0",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 1385
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Toners & Astringents"
+      ]
+    ],
+    "price": 8.84,
+    "brand": "Heritage"
+  },
+  {
+    "title": "Home Health Moisturizing Cream, Hyaluronic Acid, with Restorative Hydration Complex, 4-Ounces",
+    "description": "Including retinol and vitamins. Paraben free. Fragrance free. For youthful, healthy-looking skin, Hyaluronic Acid Moisturizing Cream with Restorative Hydration Complex can help. Hyaluronic Acid is naturally found in the skin, where it helps to maintain elasticity by trapping moisture, which in turn may smooth the appearance of wrinkles. Home Health's Hyaluronic Acid Moisturizing Cream has a specially formulated blend of nourishing ingredients including Retinol, plus the antioxidant protection of Green Tea and Vitamin C. Gentle yet effective, this paraben-free, fragrance-free cream absorbs quickly into the delicate areas of the paraben-free, fragrance-free cream absorbs quickly into the delicate areas of the skin surrounding the neck and face for a beautiful complexion that truly radiates. Free of parabens, artificial fragrance, artificial colors, animal products. Unconditionally guaranteed.",
+    "itemID": "B000Q97ZS0",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 6355
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Creams & Moisturizers",
+        "Fluids & Lotions",
+        "Lotions"
+      ]
+    ],
+    "price": 12.74,
+    "brand": "Home Health"
+  },
+  {
+    "title": "The Original Hyaluronic Acid Serum 100% Pure 2 oz.",
+    "description": "The Original Hyaluronic Acid Serum 100% Pure 2 oz.",
+    "itemID": "B003MJ7Z0O",
+    "helpful": [
+      2,
+      2
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 311
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Oils & Serums"
+      ]
+    ],
+    "price": 13.95,
+    "brand": NaN
+  }
+]

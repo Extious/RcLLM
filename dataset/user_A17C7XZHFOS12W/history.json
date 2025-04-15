@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Vaseline Intensive Rescue Repairing Moisture Lotion, Fragrance Free, 20.3-Ounce Pump (Pack of 3)",
+    "description": "",
+    "itemID": "B001ECQ4IU",
+    "helpful": [
+      0,
+      1
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 7988
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Lotions"
+      ]
+    ],
+    "price": 22.46,
+    "brand": "Vaseline"
+  },
+  {
+    "title": "Just For Me Hair Milk Curl Smoother, 8-Ounce Bottle",
+    "description": "",
+    "itemID": "B0040H00PE",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 17638
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Creams, Gels & Lotions"
+      ]
+    ],
+    "price": 0.89,
+    "brand": "Just For Me"
+  },
+  {
+    "title": "Suave Kids Swinging Coconut Hairspray, 7 Ounce",
+    "description": "",
+    "itemID": "B00GTBZNP6",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 19517
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Hair Sprays"
+      ]
+    ],
+    "price": 4.39,
+    "brand": "Suave"
+  }
+]

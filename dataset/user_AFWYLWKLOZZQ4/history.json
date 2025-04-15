@@ -1,0 +1,70 @@
+[
+  {
+    "title": "Suave Naturals Conditioner, Tropical Coconut - 22.5oz.",
+    "description": "",
+    "itemID": "B0002FCD5I",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 33553
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Conditioners"
+      ]
+    ],
+    "price": 3.12,
+    "brand": "Suave"
+  },
+  {
+    "title": "Diane Processing Caps, 100-pack",
+    "description": "Extra-large clear plastic processing caps with sewn edges for extra strength and durability. One size fits all. Soft elastic band. Ideal for perms, coloring and conditioners.",
+    "itemID": "B002HWS7RM",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 705
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Tools & Accessories",
+        "Hair Coloring Tools",
+        "Caps, Foils & Wraps"
+      ]
+    ],
+    "price": 4.39,
+    "brand": "Diane"
+  },
+  {
+    "title": "Neutrogena Acne Stress Control, 3-in-1 Hydrating Acne Treatment, 2 Ounce (Pack of 3)",
+    "description": "",
+    "itemID": "B000OLE7V8",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 2038
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Cleansers"
+      ]
+    ],
+    "price": 15.0,
+    "brand": "Neutrogena"
+  }
+]

@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Gelish Basix Kit",
+    "description": "The Gelish Basix Kit a complete package of the essential products necessary to properly apply Gelish from start to finish!",
+    "itemID": "B0057JCYYE",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 2717
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Tools & Accessories",
+        "Nail Tools",
+        "False Nails"
+      ]
+    ],
+    "price": 31.53,
+    "brand": "Gelish"
+  },
+  {
+    "title": "MASH Premium Nail Art Nailart Manicure Glitter Confetti Shapes for 3D Designs",
+    "description": "How to use:Attach to nail with nail glue, or put on nail and cove with top coat",
+    "itemID": "B005C5IVQ8",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Health & Personal Care": 103062
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Tools & Accessories",
+        "Nail Tools",
+        "Nail Art Equipment"
+      ]
+    ],
+    "price": 5.5,
+    "brand": NaN
+  },
+  {
+    "title": "SHANY UV Gel Light Nail Dryer, 36 Watts Pro Series",
+    "description": "Now you can dry and cure your nail in seconds, enjoy the ultimate UV nail dryer with 36 watts power supply, same as the one used in salons. Odorless lamp, big enough to use for hands and feet. Elegant durable design, comes with protected surge. Auto timer and on or off button.",
+    "itemID": "B00644YNCM",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Home &amp; Kitchen": 27101
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Tools & Accessories",
+        "Nail Tools",
+        "Nail Dryers"
+      ]
+    ],
+    "price": 26.69,
+    "brand": "SHANY Cosmetics"
+  }
+]

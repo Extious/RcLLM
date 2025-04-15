@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Neutrogena Fresh Cooling Body Mist Sunblock, SPF 70, 5 Ounce",
+    "description": "Fresh Cooling Body Mist Sunblock with Helioplex is a breakthrough! Its cooling, continuous spray instantly refreshes as it provides skin with unsurpassed UVA protection. This waterlight mist cools, and instantly refreshes skin, leaving it feeling fresh and clean. Sunblock never felt so cool. This product features Helioplex, a breadth of stabilized sunscreen technologies that delivers superior protection from the sun.",
+    "itemID": "B001544IQW",
+    "helpful": [
+      2,
+      2
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 27946
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Sun",
+        "Skin Protection"
+      ]
+    ],
+    "price": 9.85,
+    "brand": "Neutrogena"
+  },
+  {
+    "title": "Revlon RV544PKF 1875W Tourmaline Ionic Ceramic Dryer",
+    "description": "Revlon 1875 Watt Tourmaline Ionic Lightweight Dryer feature Tourmaline Ionic Technology for ultimate shine, volume, and healthier looking styles. This dryer features an ion indicator light, separate heat and speed rocker switches, 2 heat/2 speed settings, cold shot button, hinged endcap, anti-skid bumpers, and concentrator and finger diffuser attachments. This ultra lightweight design is 25% lighter than your average dryer and has a sleek and upscale spray finish. This unit is super quiet and fast drying.",
+    "itemID": "B000FS05VG",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 6
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Hair Dryers"
+      ]
+    ],
+    "price": 23.92,
+    "brand": "Revlon"
+  },
+  {
+    "title": "CeraVe Hydrating Cleanser, 12 Ounce",
+    "description": "CeraVe hydrating cleanser is a vital part of a daily skin care routine. It gently removes dirt, oil, and makeup without disrupting the skin's natural protective barrier. It patented MVE formulation helps essential ingredients penetrate deep into the skin to hydrate and nourish.",
+    "itemID": "B000YJ2SKM",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 266
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Cleansers",
+        "Washes"
+      ]
+    ],
+    "price": 9.69,
+    "brand": "CeraVe"
+  }
+]

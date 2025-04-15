@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Shea Moisture Coconut Hibiscus Curl Enhancing Smoothie-12 oz",
+    "description": "SheaMoisture Coconut Hibiscus Curl Enhancing Smoothie",
+    "itemID": "B0038TVH3Y",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 1648
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Creams, Gels & Lotions"
+      ]
+    ],
+    "price": 15.45,
+    "brand": "Shea Moisture"
+  },
+  {
+    "title": "Clarisonic Mia Sonic Skin Cleansing System - White",
+    "description": "Mia is the new, go-anywhere Sonic Skin Cleansing System in a great compact size. The one-button, one-speed Mia fits your active lifestyle for beautiful, glowing skin wherever life&#x2019;s adventures take you. All the great benefits of the Clarisonic Classic in a new, smaller size. The perfect compact cleansing system for use at home or on the go.",
+    "itemID": "B002VAZINQ",
+    "helpful": [
+      3,
+      4
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 27288
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Tools & Accessories",
+        "Makeup Brushes & Tools",
+        "Treatment Tools",
+        "Face Cleansing Brushes"
+      ]
+    ],
+    "price": NaN,
+    "brand": NaN
+  },
+  {
+    "title": "Skinceuticals Physical Fusion UV Defense SPF 50, 1.7 Fluid Ounce",
+    "description": "A groundbreaking, weightless sunscreen featuring color-infused sunscreen technology that provides a universal tint and boosts daily radiance. Physical fusion UV defense SPF 50 offers the photoprotection of trusted broad-spectrum, physical filters, zinc oxide (z-cote) and titanium dioxide, and is enhanced by artemia salina, a plankton extract, to increase the skin&#x2019;s defenses and resistance to UV and heat stress. The unique &#x2018;shake then apply&#x2019; action assures even distribution of active ingredients in this silky sheer fluid that dries quickly and leaves no residue.",
+    "itemID": "B004WPWOS0",
+    "helpful": [
+      25,
+      28
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 276
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Sun",
+        "Skin Protection"
+      ]
+    ],
+    "price": 22.23,
+    "brand": "SkinCeuticals"
+  }
+]

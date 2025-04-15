@@ -1,0 +1,73 @@
+[
+  {
+    "title": "Vaseline Men Body and Face Lotion , 20.3 Ounce Bottle (Pack of 3)",
+    "description": "",
+    "itemID": "B001ECQ55M",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Beauty": 21063
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Lotions"
+      ]
+    ],
+    "price": 23.88,
+    "brand": "Vaseline"
+  },
+  {
+    "title": "Remington HC5950 Touch Control Haircut Kit",
+    "description": "",
+    "itemID": "B00BB5YHFW",
+    "helpful": [
+      0,
+      1
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Health & Personal Care": 49115
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Hair Cutting Kits"
+      ]
+    ],
+    "price": 54.0,
+    "brand": "Remington"
+  },
+  {
+    "title": "CeraVe Baby Lotion, 8 Ounce",
+    "description": "Developed with pediatric dermatologists, CeraVe Baby Moisturizing Lotion is formulated with 3 essential ceramides (ceramide 3, ceramide 6-II, ceramide 1) and is free of parabens and phthalates for a healthy way to care for your baby&#x2019;s delicate skin. Designed to temporarily protect and help relieve chafed, chapped or cracked skin. CeraVe Baby Moisturizing Lotion helps protect baby&#x2019;s skin from the drying effects of wind and cold weather.",
+    "itemID": "B00JF3RYPM",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 5952
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Lotions"
+      ]
+    ],
+    "price": 8.84,
+    "brand": "CeraVe"
+  }
+]

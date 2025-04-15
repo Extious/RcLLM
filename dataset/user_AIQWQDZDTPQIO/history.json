@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Bare Minerals All Over Face Powder, Color True, 0.05 Ounce",
+    "description": "True all-over face color is a complexion chameleon, adapting its sheer, coral pink glimmer to any shade of skin - no matter how tan or fair.",
+    "itemID": "B001UG6JZ8",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 18183
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Powder"
+      ]
+    ],
+    "price": 19.97,
+    "brand": "Bare Escentuals"
+  },
+  {
+    "title": "SKIN79 BB Cleanser with Skin Detox Effect",
+    "description": "SKIN79 BB Cleanser with Skin Detox Effect",
+    "itemID": "B006RWW7VU",
+    "helpful": [
+      0,
+      1
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 2507
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Cleansers"
+      ]
+    ],
+    "price": 11.66,
+    "brand": "BB Cleanser with Skin Detox Effect"
+  },
+  {
+    "title": "Fake Bake Self-Tanning Lotion, 6-Ounces",
+    "description": "Fake Bake Self-Tanning Lotion, 6oz",
+    "itemID": "B001183N8G",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 2963
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Sun",
+        "Self-Tanners & Bronzers"
+      ]
+    ],
+    "price": 12.0,
+    "brand": "Fake Bake"
+  }
+]

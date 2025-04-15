@@ -1,0 +1,70 @@
+[
+  {
+    "title": "Vaseline, Total Moisture, Cocoa Radiant, Body Lotion, 20.3 oz Bottle (Pack of 3)",
+    "description": "",
+    "itemID": "B001ECQ5CA",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 52457
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Lotions"
+      ]
+    ],
+    "price": 17.96,
+    "brand": "Vaseline"
+  },
+  {
+    "title": "Dove Men+Care Thickening Fortifying Shampoo,12 FL.OZ.",
+    "description": "",
+    "itemID": "B00AE07EGO",
+    "helpful": [
+      4,
+      4
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 7086
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 13.99,
+    "brand": "Dove"
+  },
+  {
+    "title": "CLEAR MEN SCALP THERAPY AntiDandruff Shampoo, Clean &amp; Refresh, 12.9 Fluid Ounce",
+    "description": "",
+    "itemID": "B007JT7ARQ",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 12812
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 6.99,
+    "brand": "Clear"
+  }
+]

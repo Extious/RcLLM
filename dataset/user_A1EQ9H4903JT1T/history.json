@@ -1,0 +1,72 @@
+[
+  {
+    "title": "L'Oreal Paris Youth Code Dark Spot Correcting &amp; Illuminating Serum Corrector, 1.0 Fluid Ounce",
+    "description": "Restore luminosity and fight discoloration with Youth Code Dark Spot Correcting & Illuminating Serum Corrector. This clinically proven formula illuminates skin tone and corrects dark spots for a more even, radiant and youthful complexion. In consumer evaluations 86% of women saw fewer dark spots in just 8 weeks.",
+    "itemID": "B0073ANH14",
+    "helpful": [
+      25,
+      32
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 1062
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Creams & Moisturizers"
+      ]
+    ],
+    "price": 14.47,
+    "brand": "L&#39;Oreal Paris"
+  },
+  {
+    "title": "Garnier Fructis Style Surf Hair Texture Paste, 5.1 Ounce",
+    "description": "Got beach in your soul? Get surf in your hair! Garnier fructis style surf hair, with fruit micro-waxes, creates windswept textured hairstyles with a long-lasting hold.",
+    "itemID": "B004ZWMDZ4",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 24417
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Hair Sprays"
+      ]
+    ],
+    "price": 13.79,
+    "brand": "Garnier"
+  },
+  {
+    "title": "BurnOut SPF 35 KIDS Broad Spectrum, 3.4 oz.",
+    "description": "Finally, the perfect sunscreen for babies and kids! Recommended by pediatricians and dermatologists. Hypoallergenic, non-comedogenic, fragrance-free, non-greasy, and perfect for sensitive skin. 3.4 oz.",
+    "itemID": "B0037AO682",
+    "helpful": [
+      5,
+      6
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 609
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Sun",
+        "Skin Protection",
+        "Sports"
+      ]
+    ],
+    "price": 15.99,
+    "brand": "BurnOut"
+  }
+]

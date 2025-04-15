@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Olay 2-In-1 Advanced Ribbons Firming Butter + Advanced Moisture Body Wash 18 Oz (Pack of 3)",
+    "description": "",
+    "itemID": "B001F51TS6",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Health & Personal Care": 16807
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Body Butter"
+      ]
+    ],
+    "price": 19.99,
+    "brand": "Olay"
+  },
+  {
+    "title": "Burt's Bees More Moisture Baobab Shampoo, 10 Fluid Ounces",
+    "description": "Naturally restore more, more, more moisture to your hair with our more moisture shampoo. It's specially formulated to gently add shine to lackluster locks while increasing moisture and manageability. Enhanced with baobab oil and cupua&#xE7;u butter, both known sources of essential fatty acids and antioxidants, this moisturizing shampoo will leave your hair soft, smooth and beautiful.",
+    "itemID": "B006YQ40ZA",
+    "helpful": [
+      10,
+      13
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 9634
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 7.99,
+    "brand": "Burt&#39;s Bees"
+  },
+  {
+    "title": "Revlon Just Bitten Lipstain Plus Balm, Desire, 0.14 Ounce",
+    "description": "Revlon colorstay just bitten lipstain is a unique two-in-one lipstain plus balm for kiss-proof color with soft shine",
+    "itemID": "B004O3ZPMW",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 108663
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Lips",
+        "Lip Stains"
+      ]
+    ],
+    "price": 8.05,
+    "brand": "Revlon"
+  }
+]

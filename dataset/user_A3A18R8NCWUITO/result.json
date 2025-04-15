@@ -1,0 +1,73 @@
+[
+  {
+    "title": "Revlon Colorsilk Color Burgundy 48",
+    "description": "Revlon ColorSilk #48 Burgundy is formulated to penetrate every strand with its gentle, ammonia-free formula and after-color conditioner with nourishing silk proteins. Hair looks silkier, shinier and healthier than before you colored. 100% gray coverage. (2 Fl Oz)",
+    "itemID": "B000GCR6S6",
+    "helpful": [
+      2,
+      3
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 164964
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Hair Color",
+        "Chemical Hair Dyes"
+      ]
+    ],
+    "price": 2.76,
+    "brand": "Revlon"
+  },
+  {
+    "title": "Aqua Glycolic Face Cream, 2-Ounces",
+    "description": "Dermatologist recommended. Aqua Glycolic Face Cream gently removes the dead skin cells from rough, dry, sun-damaged skin; Smooths the appearance of fine lines and imperfections; and helps restore proper moisture balance. For all over body use.",
+    "itemID": "B000T7P0KO",
+    "helpful": [
+      5,
+      6
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 1083
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Oils"
+      ]
+    ],
+    "price": 19.0,
+    "brand": "Aqua Glycolic"
+  },
+  {
+    "title": "Dr. Dennis Gross Skincare Original Formula Alpha Beta 60 Count JAR",
+    "description": "Specifically proven results can only be achieved with 2 steps. The only peel on the market to combine 5 Alpha and Beta Hydroxy Acids PLUS Retinol, Ubiquinone, Resveratrol and a host of antioxidants, vitamins and soothing botanicals. The secret to youth and beauty does not come from a single ingredient- this product contains 44 ingredients to fight aging and produce immediate and lasting results.",
+    "itemID": "B003H87S0C",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 15909
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Treatments & Masks",
+        "Acids & Peels"
+      ]
+    ],
+    "price": 132.0,
+    "brand": "Dr. Dennis Gross Skincare"
+  }
+]

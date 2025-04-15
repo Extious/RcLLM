@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Gillette Venus Spa Breeze Razor",
+    "description": "",
+    "itemID": "B001JQLNFA",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Health & Personal Care": 67241
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Oils"
+      ]
+    ],
+    "price": 12.99,
+    "brand": NaN
+  },
+  {
+    "title": "Just For Me Hair Milk Nourishing Detangler, 10-Ounce Bottle",
+    "description": "",
+    "itemID": "B002MO3CG6",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 4374
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Hair Sprays"
+      ]
+    ],
+    "price": 6.49,
+    "brand": "Just For Me"
+  },
+  {
+    "title": "Dove Restorative Treatment with Anatolian Pomegranate Seed Oil, 3.3 Ounce",
+    "description": "",
+    "itemID": "B00GTBZ7HA",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 163493
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Hair & Scalp Treatments"
+      ]
+    ],
+    "price": 9.51,
+    "brand": NaN
+  }
+]

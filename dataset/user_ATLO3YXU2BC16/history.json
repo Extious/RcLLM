@@ -1,0 +1,70 @@
+[
+  {
+    "title": "Axe Primed Just Clean Shampoo, 12-Ounce Bottle (Pack of 3)",
+    "description": "",
+    "itemID": "B001FSK8QM",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 70145
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 18.99,
+    "brand": "Axe"
+  },
+  {
+    "title": "Vaseline Sheer Infusion Body Lotion, Vitamin Burst, 13.5-Ounce Bottles (Pack of 2)",
+    "description": "Some moisturizers only treat the top layers of your surface skin, leaving it feeling greasy. Others sink through quickly and your skin is not thoroughly moisturized. New Vaseline Sheer Infusion with Stratys-3 infuses and suspends superior* moisture across all layers of your skin**. Only Vaseline Sheer Infusion delivers superior moisture* and an unmatched silky feel.",
+    "itemID": "B0027CT5TG",
+    "helpful": [
+      1,
+      2
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 405166
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Lotions"
+      ]
+    ],
+    "price": NaN,
+    "brand": NaN
+  },
+  {
+    "title": "CLEAR SCALP &amp; HAIR BEAUTY Damage &amp; Color Repair Nourishing Shampoo, 12.9 Fluid Ounce",
+    "description": "",
+    "itemID": "B007RTR89S",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 14850
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 4.46,
+    "brand": "Clear"
+  }
+]

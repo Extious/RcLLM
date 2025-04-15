@@ -1,0 +1,90 @@
+[
+  {
+    "title": "Rapidlash Eyelash Enhancing Serum (3ml), 0.1-Fluid Ounces Bottle",
+    "description": "This innovative high-performance serum formulated with advanced polypeptides helps amplify the length, thickness and volume of eyelashes with a simple once a day application.  Ideal for women and men, brittle, weak, thin or short lashes and eyebrows.",
+    "itemID": "B002WTC38O",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": NaN,
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Eyes",
+        "Eyebrow Color"
+      ]
+    ],
+    "price": 23.0,
+    "brand": "RapidLash"
+  },
+  {
+    "title": "Skinceuticals Sheer Physical Uv Defense SPF 50 Broad-spectrum Sunscreen Fluid, 1.7-Ounce",
+    "description": "Sheer Physical UV Defense is a physical transparent sunscreen with true broad spectrum coverage from UVA and UVB rays. This unique formulation provides a non-irritating, ultra sheer texture for all skin types, even the most sensitive.",
+    "itemID": "B003JUY38I",
+    "helpful": [
+      4,
+      6
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 1213
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Sun",
+        "Skin Protection"
+      ]
+    ],
+    "price": 22.24,
+    "brand": "SkinCeuticals"
+  },
+  {
+    "title": "Paul Mitchell Tea Tree Special Shampoo &amp; Special Conditioner Duo 33.8 oz",
+    "description": "Ordinary Shampoos need not apply! Get a head start every morning and experience the tingle of invigorating tea tree oil, peppermint and lavender. Help wash away impurities as hair becomes fresh and clean, full of vitality and luster. Color safe and ideal for all hair typesYour hair deserves special treatment. Experience the natural magic of tea tree oil, peppermint and lavender. Enjoy an invigorating tingle that leaves hair and scalp looking and feeling healthy. The moisturizing botanical blend tackles tangles for instant manageability, Color safe and ideal for all hair types.",
+    "itemID": "B001OVQSJG",
+    "helpful": [
+      6,
+      11
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 345
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoo & Conditioner Sets"
+      ]
+    ],
+    "price": 35.49,
+    "brand": "Paul Mitchell"
+  },
+  {
+    "title": "Max Green Alchemy Scalp Rescue Shampoo 8.8 oz",
+    "description": "This wonderful shampoo uses a superior blend of botanical extracts, vitamins and essential oils that create healthy scalps and beautiful strong, lustrous hair while avoiding harsh detergents found in mainstream and even so called 'natural' shampoos. Our proprietary herbal infusion assists the treatment of dry and itchy scalps.",
+    "itemID": "B000A35L56",
+    "helpful": [
+      5,
+      7
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 13571
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 14.99,
+    "brand": "Max Green Alchemy"
+  }
+]

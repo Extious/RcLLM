@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Motions Naturally You, Hydrate My Curls Pudding 8 Ounce",
+    "description": "",
+    "itemID": "B0072XT8BA",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 14990
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Creams, Gels & Lotions"
+      ]
+    ],
+    "price": 5.49,
+    "brand": "Motions"
+  },
+  {
+    "title": "Motions Naturally You, Define My Curls Cr&egrave;me, 8 Ounce",
+    "description": "",
+    "itemID": "B007A592HU",
+    "helpful": [
+      0,
+      1
+    ],
+    "overall": 1.0,
+    "salesRank": {
+      "Beauty": 18412
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Creams, Gels & Lotions"
+      ]
+    ],
+    "price": 7.99,
+    "brand": "Motions"
+  },
+  {
+    "title": "Nivea Body Touch of Frangipani Hydrating Shower Gel, 16.9 Ounce",
+    "description": "Nivea&#x2122; Touch of Frangipani&#xAE; Hydrating Shower Gel.New.Hydrates & entices.Hawaiian Frangipani scent & sunflower oil pearls.16.9 fl oz 500 ml.",
+    "itemID": "B00BVKL08E",
+    "helpful": [
+      0,
+      1
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 44677
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Cleansers",
+        "Body Washes"
+      ]
+    ],
+    "price": 9.15,
+    "brand": "Nivea"
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "title": "Nexxus Youth Renewal Plump and Lift Blow Dry Spray, 7.5 Ounce",
+    "description": "",
+    "itemID": "B00AE07GX0",
+    "helpful": [
+      7,
+      9
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 40048
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Hair Sprays"
+      ]
+    ],
+    "price": 11.5,
+    "brand": "Nexxus"
+  },
+  {
+    "title": "Suave Professionals Natural Infusion Seaweed and Lotus Blossom Shampoo, 12.6 Ounce",
+    "description": "",
+    "itemID": "B00GTC03AU",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 51232
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 9.33,
+    "brand": "Suave"
+  },
+  {
+    "title": "Suave Naturals 2 In 1 Almond Verbena Shampoo, 22.5 Ounce",
+    "description": "",
+    "itemID": "B00GTBZ85Q",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 6745
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 8.49,
+    "brand": "Suave"
+  }
+]

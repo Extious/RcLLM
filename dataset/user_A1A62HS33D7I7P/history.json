@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Kingsley Shave Soap Bowl with Lid Dark Wood",
+    "description": "Shaving Bowl This Shaving Bowl is a stylish way to hold your shaving soap. Includes a loosing fitting lid that makes it perfect for travel.",
+    "itemID": "B000068U49",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 8059
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Cleansers",
+        "Soaps"
+      ]
+    ],
+    "price": 3.2,
+    "brand": "Pendergrass"
+  },
+  {
+    "title": "Heritage Store Rose Petals Rosewater 8 oz",
+    "description": "Rosewater is truly versatile with numerous benefits from culinary gourmet flavoring to uplifting cosmetic mist. Use as a perfume, body splash or add to your hair rinse or bath water.",
+    "itemID": "B0001TMDF0",
+    "helpful": [
+      2,
+      2
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 1385
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Toners & Astringents"
+      ]
+    ],
+    "price": 8.84,
+    "brand": "Heritage"
+  },
+  {
+    "title": "Manuka Honey and Propolis Soap",
+    "description": "Honey & Propolis Soap, 4.93 oz, boxed. Both Manuka Honey and Propolis have a reputation for their natural intense moisturizing and  skin protective properties. Combined together they provide the perfect ingredients for a skin beneficial gentle cleansing soap.",
+    "itemID": "B000V96R1G",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 34340
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Cleansers",
+        "Soaps"
+      ]
+    ],
+    "price": 7.9,
+    "brand": NaN
+  }
+]

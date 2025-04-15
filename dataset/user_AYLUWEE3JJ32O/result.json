@@ -1,0 +1,48 @@
+[
+  {
+    "title": "Curly Hair Solutions Curl Keeper, 8 Ounce",
+    "description": "Dryness causes fizziness and out of control hair. Curl keeper controls all frizz and allows you to become the master of gorgeous frizz free curls. Curl keeper is water based which means you can use it every day without product buildup. Your style will last for days as its unique formula re activates with water making curl keeper 100% effective in humid weather conditions.",
+    "itemID": "B003USIHZY",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Beauty": 713
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Curl Enhancers"
+      ]
+    ],
+    "price": 14.54,
+    "brand": "Curly Hair Solutions"
+  },
+  {
+    "title": "China Glaze Lorelei's Tiara 80774 Nail Polish",
+    "description": "China Glaze Lorelei's Tiara is a silver with blue glitter in a clear base nail polish color. The silver glitter is small glitter, the blue is larger hex glitter. China Glaze Eye Candy Collection, Winter 2011.",
+    "itemID": "B0064ION50",
+    "helpful": [
+      0,
+      1
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Health & Personal Care": 139457
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Nails",
+        "Nail Polish"
+      ]
+    ],
+    "price": 5.3,
+    "brand": "China Glaze"
+  }
+]

@@ -1,0 +1,48 @@
+[
+  {
+    "title": "Kenra: Classic Volume Aerosol Spray 25 55% VOC, 10 oz (2 pack)",
+    "description": "Kenra's Volume Spray provides the maximum amount of volume and hold possible. It leaves hair looking natural and shiny while imparting strength and volume necessary to make any style last all day. This super hold finishing spray provides excellent humidit.",
+    "itemID": "B000YZ4MSC",
+    "helpful": [
+      2,
+      3
+    ],
+    "overall": 1.0,
+    "salesRank": {
+      "Beauty": 1000
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Hair Sprays"
+      ]
+    ],
+    "price": 23.9,
+    "brand": "Kenra"
+  },
+  {
+    "title": "Olay Active Hydrating Cream Original Facial Moisturizer 2 Oz",
+    "description": "Olay Original Active Hydrating Cream moisturizer penetrates quickly, providing your skin with an immediate surge of active moisture to soothe dryness without a greasy feel. Over time, it helps your skin replenish its own essential fluids, so it is softer, smoother and more supple. Original Active Hydrating Cream moisturizer works like the essential fluids abundant in young skin to help restore skin to its natural beauty and diminish the appearance of fine lines and wrinkles. Suitable for all skin types. This light, non-greasy formula is dermatologist tested and non-comedogenic (won't clog pores).",
+    "itemID": "B001PRJ9XQ",
+    "helpful": [
+      2,
+      2
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 992
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Creams & Moisturizers"
+      ]
+    ],
+    "price": 0.9,
+    "brand": "Olay"
+  }
+]

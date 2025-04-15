@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Clairol Shimmer Lights Shampoo Blonde &amp; Silver 31.5oz",
+    "description": "Clairol Shimmer Lights Original Conditioning Shampoo brightens white and gray hair. Shampoos away yellow, and refreshes faded highlights.",
+    "itemID": "B000FVEKUU",
+    "helpful": [
+      211,
+      230
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 31761
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 16.95,
+    "brand": "Clairol"
+  },
+  {
+    "title": "pHisoderm pH Anti-Blemish Gel Facial Wash, pH Balanced, 6 fl oz (177 ml) (Pack of 4)",
+    "description": "Salicylic acid acne treatment clears up blemishes for a radiant, balanced complexion. Formerly Acne pHisoderm.",
+    "itemID": "B001ET704A",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 18189
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Cleansers"
+      ]
+    ],
+    "price": 19.93,
+    "brand": "pHisoderm"
+  }
+]

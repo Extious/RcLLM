@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Murphy's Oil Soap, 32-Ounce",
+    "description": "Murphy Oil Soap safely cleans finished wood and other household surfaces without leaving a dull residue.",
+    "itemID": "B0006ZHCK0",
+    "helpful": [
+      4,
+      6
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Health & Personal Care": 2132
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Hands & Nails",
+        "Hand Soaps"
+      ]
+    ],
+    "price": 7.99,
+    "brand": "Murphy&#39;s"
+  },
+  {
+    "title": "Lever 2000 Bar Soap, Original , 24 Count (Packaging may Vary)",
+    "description": "The Original Lever 2000 actively works to refresh and replenish your skin. Refresh and replenish your skin with Lever 2000 Original. Our advanced formula with special minerals and nutrients has more skin hydrators than the leading deodorant bar-leaving skin feeling smoother and more refreshed. What makes Lever 2000 different from other deodorant bar soaps? It's all about the ingredients. Specially formulated with more skin hydrating ingredients than the other leading bar soap, Lever 2000 leaves skin feeling smoother and more refreshed. It's a difference you can feel!",
+    "itemID": "B005HO0A1S",
+    "helpful": [
+      5,
+      5
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 545
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Cleansers",
+        "Soaps"
+      ]
+    ],
+    "price": 31.95,
+    "brand": "Lever 2000"
+  },
+  {
+    "title": "Conair Professional Full and Mid Size Nylon Cushion Brush Set, Colors may vary",
+    "description": "Conair styling essentials full and mid size nylon cushion brush set is perfect for all purpose styling. the cushion base brush gently detangles wet or dry hair while massaging your scalp. smooth nylon ball tipped bristles set into the flexible base reduce pulling and snagging. set includes one full size and one mid size brush to style hair of all lengths and textures. grooved non-slip handles provide comfortable control while styling. create looks with body or smooth down overactive curls. especially good for thick hair.",
+    "itemID": "B001T8S7T8",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 157
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Brushes"
+      ]
+    ],
+    "price": 8.99,
+    "brand": "Conair"
+  }
+]

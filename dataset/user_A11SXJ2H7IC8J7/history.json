@@ -1,0 +1,70 @@
+[
+  {
+    "title": "Burt's Bees Naturally Ageless Night Creme, 2-Ounce Jar",
+    "description": "How to determine the expiration date:The lot code is six to seven  digits long and starts with a 0, 1, 2 or 3. To read the lot code, the  first three numbers are the day of the year the product was made (aka  Julian Date). The next two digits are the year, and the last two digits  are a batch number we use internally for identification. For example,  lot code 0400901 translates to a product made on February 9, 2009 from  Batch Number 1.",
+    "itemID": "B001GIOV8C",
+    "helpful": [
+      16,
+      17
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 801
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Treatments & Masks"
+      ]
+    ],
+    "price": 15.73,
+    "brand": "Burt&#39;s Bees"
+  },
+  {
+    "title": "Pantene Pro-V Volume Shampoo, 25.4 Fluid Ounce (Pack of 3) (packaging may vary)",
+    "description": "",
+    "itemID": "B003EH20VI",
+    "helpful": [
+      1,
+      2
+    ],
+    "overall": 1.0,
+    "salesRank": {
+      "Beauty": 7123
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 27.75,
+    "brand": "Pantene"
+  },
+  {
+    "title": "Goody Ouchless Colors Paddle Brush, Colors May Vary",
+    "description": "Goody Ouchless is a line of gentle and comfortable accessories that are \"metal free\" to minimize snags and reduce breakage. Goody's Ouchless brushes are synonymous with comfortable, effortless styling.",
+    "itemID": "B0037FO44I",
+    "helpful": [
+      2,
+      2
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 27865
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Brushes"
+      ]
+    ],
+    "price": 9.99,
+    "brand": "Goody Ouchless"
+  }
+]

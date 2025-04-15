@@ -1,0 +1,75 @@
+[
+  {
+    "title": "MyChelle Deep Repair Cream, 1.2-Ounce Jar",
+    "description": "Deep Repair Cream is an advanced nourishing cream providing exceptional extracts to improve and maintain moisture balance and radiance.  Venucean&#x2122;, is from the deep sea of the Gulf of California, is rich in antioxidants and strengthens the skin&#x2019;s resistance against aggression such as UV light.  Kambuchka&#x2122;, is a black tea ferment that improves the skin&#x2019;s quality and smoothness. Epidermal Growth Factor (EGF) assists skin healing and cellular repair.",
+    "itemID": "B000MAOWO8",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 11884
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Creams & Moisturizers",
+        "Fluids & Lotions",
+        "Lotions"
+      ]
+    ],
+    "price": 25.25,
+    "brand": "MyChelle Dermaceuticals"
+  },
+  {
+    "title": "MyChelle Dermaceuticals Incredible Pumpkin Peel, 1.2 Fluid Ounce",
+    "description": "This unique exfoliating, super nourishing peel will dazzle your skin with natural acids and vitamins, including healing vitamin A.  Great for rejuvenating sun damaged and dull skin. Blemish prone skin also benefits greatly from this special treatment by exfoliating dead skin cells and allowing for ultimate tissue respiration and detoxification.",
+    "itemID": "B000MAOWOS",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 22266
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Cleansers"
+      ]
+    ],
+    "price": 19.45,
+    "brand": "MyChelle Dermaceuticals"
+  },
+  {
+    "title": "MyChelle Fruit Enzyme Mist, 4.4-Ounce Bottle",
+    "description": "Fruit Enzyme Mist is designed to hydrate tone and provide antioxidants and anti-inflammatory nutrients to the skin with a fine mist applicator.  Heavy water is a unique natural water from deep in the ocean with powerful hydrating properties. This is a perfect toner, and a must have for dry, arid climates to hydrate and feed the skin. Tip: fun cooling mist during outdoor activities in warm climates; even better when stored in the ice chest.",
+    "itemID": "B000MASTM4",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 11341
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Creams & Moisturizers",
+        "Fluids & Lotions",
+        "Fluids"
+      ]
+    ],
+    "price": 20.95,
+    "brand": "MyChelle Dermaceuticals"
+  }
+]

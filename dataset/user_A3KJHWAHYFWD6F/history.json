@@ -1,0 +1,71 @@
+[
+  {
+    "title": "MAC Matte Lipstick - Russian Red",
+    "description": "This is a Mac Lipstick #338(12) perfect color, with vitamin A and SPF8, 3.8g",
+    "itemID": "B0006LNKYG",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 6554
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Lips",
+        "Lipstick"
+      ]
+    ],
+    "price": 15.17,
+    "brand": "M.A.C"
+  },
+  {
+    "title": "NYX Cosmetics Eye Shadow Base, White, 0.21 Ounce",
+    "description": "Cream based eye primer. Available in three tones. Intensifes any shade of eye shadow and helps colors last longer. White helps color appear up to 100x more vivid. Pearl helps maximize any iridescent effect. Skin tone helps color hold naturally.",
+    "itemID": "B0030O3VRW",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 4669
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Foundation Primers"
+      ]
+    ],
+    "price": 6.49,
+    "brand": "NYX"
+  },
+  {
+    "title": "Kleancolor Nail Lacquers 6 Colors - Set 5 (Warming Gold)",
+    "description": "Trend-setting shades with a top-quality formula long-lasting, chip-resistant nail lacquer. The nail lacquer's precision point striping brush helps to make endless designs. Professional quality paint to create vibrant design. Do creative designs, seal with a top coat. The nail lacquer with the brush is perfect for both beginners and professionals.",
+    "itemID": "B004DC2PM2",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Health & Personal Care": 19176
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Nails",
+        "Nail Polish"
+      ]
+    ],
+    "price": 7.99,
+    "brand": "Kleancolor"
+  }
+]

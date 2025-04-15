@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Creative Nail Shellac Dark Lava, 0.25 Fluid Ounce",
+    "description": "Patent-Pending formulations of solvents, monomers and polymers goes on like polish and wears like gel.",
+    "itemID": "B007EZ2HI2",
+    "helpful": [
+      6,
+      6
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 10759
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Nails",
+        "Nail Polish"
+      ]
+    ],
+    "price": 12.38,
+    "brand": "CND Cosmetics"
+  },
+  {
+    "title": "Creative Nail Shellac Iced Cappuccino, 0.25 Fluid Ounce",
+    "description": "Patent-pending formulations of solvents, monomers and polymers goes on like polish and wears like gel. A UV-cured color coat featuring UV3 technology.",
+    "itemID": "B003OH07G8",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Beauty": 6376
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Nails",
+        "Top & Base Coats"
+      ]
+    ],
+    "price": 11.69,
+    "brand": "CND Cosmetics"
+  },
+  {
+    "title": "Creative Nail Shellac Rubble, 0.25 Fluid Ounce",
+    "description": "Patent-Pending formulations of solvents, monomers and polymers goes on like polish and wears like gel.",
+    "itemID": "B007AAUXI2",
+    "helpful": [
+      6,
+      6
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 13348
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Nails",
+        "Nail Polish"
+      ]
+    ],
+    "price": 11.69,
+    "brand": "CND Cosmetics"
+  }
+]

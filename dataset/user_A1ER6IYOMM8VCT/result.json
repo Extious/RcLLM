@@ -1,0 +1,90 @@
+[
+  {
+    "title": "Cetaphil Daily Facial Moisturizer with Sunscreen, SPF 50+, 1.7 Fluid Ounce (Pack of 2) - Packaging May Vary",
+    "description": "",
+    "itemID": "B001GIOW3G",
+    "helpful": [
+      2,
+      3
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 10502
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Creams & Moisturizers"
+      ]
+    ],
+    "price": 26.73,
+    "brand": "Cetaphil"
+  },
+  {
+    "title": "Fekkai Glossing Hair Products Starter 1 Kit",
+    "description": "",
+    "itemID": "B0030GFY02",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 39515
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care"
+      ]
+    ],
+    "price": 22.95,
+    "brand": "Fekkai"
+  },
+  {
+    "title": "Pantene Pro-V Smooth Conditioner 12.6 Fl Oz (Pack of 6) (packaging may vary)",
+    "description": "",
+    "itemID": "B003JA5OJA",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 277676
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Conditioners"
+      ]
+    ],
+    "price": 25.75,
+    "brand": "Pantene"
+  },
+  {
+    "title": "Pantene Pro-V Curly Hair Series Moisture Renewal Shampoo 12.6 Fl Oz (Pack of 6) (packaging may vary)",
+    "description": "",
+    "itemID": "B003JA3KQE",
+    "helpful": [
+      3,
+      4
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Beauty": 18982
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 34.08,
+    "brand": "Pantene"
+  }
+]

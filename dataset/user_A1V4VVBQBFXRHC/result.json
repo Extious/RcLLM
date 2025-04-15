@@ -1,0 +1,73 @@
+[
+  {
+    "title": "Remington S7230 Wet 2 Straight Flat Iron with Soy Hydra Complex, 2 Inch",
+    "description": "",
+    "itemID": "B009HKAWFC",
+    "helpful": [
+      0,
+      1
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 817
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Irons",
+        "Flattening Irons"
+      ]
+    ],
+    "price": 24.84,
+    "brand": "Remington"
+  },
+  {
+    "title": "Andis Tangerine Twist Nano Ceramic Flat Iron,1-Inch",
+    "description": "The Andis Tangerine Tango 1-inch Flat Iron delivers instant styling with ease. The Tourmaline technology creates frizz-free styles while giving you silky, shiny hair. The result is increased luster and shine. Create a variety of styles with the 20 heat settings. It provides maximum heat up to 450-degrees Fahrenheit for long-lasting styles.",
+    "itemID": "B009YSYNF2",
+    "helpful": [
+      0,
+      1
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 233985
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Irons",
+        "Flattening Irons"
+      ]
+    ],
+    "price": 23.73,
+    "brand": "Andis"
+  },
+  {
+    "title": "Seki Edge Stainless Steel Fingernail Clipper",
+    "description": "Stainless steel nail clipper with cast iron lever. The cutting edge is hand-grinded and honed for precise cutting.  Tempered-twice to be long lasting and have a sharp edge.  Little effort required to cut through the thickest nails.",
+    "itemID": "B000F35R00",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 112
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Tools & Accessories",
+        "Nail Tools",
+        "Clippers & Trimmers"
+      ]
+    ],
+    "price": 12.99,
+    "brand": "Seki Edge"
+  }
+]

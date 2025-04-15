@@ -1,0 +1,73 @@
+[
+  {
+    "title": "Prolab Caffeine- Maximum Potency 200 mg 100 Tablets",
+    "description": "ProLab Caffeine tabs 200 mg, 100 tabs (Pack of 2)",
+    "itemID": "B000CC08VC",
+    "helpful": [
+      4,
+      8
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Health & Personal Care": 4036
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Lotions"
+      ]
+    ],
+    "price": 12.95,
+    "brand": "Caffeine"
+  },
+  {
+    "title": "AMERICAN CREW Daily Moisturizing Shampoo, 8.4 Ounce",
+    "description": "Alcohol-Free light hold styling gel contains thermal barriers to protect hair from blow drying. It is enriched with natural extracts to help hair look thicker with more body and shine. Provides light holding power and is excellent for blow drying.",
+    "itemID": "B0007YJ5QY",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 27160
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 7.2,
+    "brand": "AMERICAN CREW"
+  },
+  {
+    "title": "Murad Acne Clarifying Body Spray, Step 2 Treat/Repair, 4.3 fl oz (125 ml)",
+    "description": "Clears and prevents blemishes and skin breakouts. Reduces Acne Blemishes on Contact By: Treating and preventing breakouts. Healing and keeping skin healthy. 0.5% Salicylic Acid Acne Treatment. Revolutionary 360 degrees spray works upside down to fight breakouts in hard to reach places. Powerful anti-bacterial ingredients purify and clarify skin from head to toe. Salicylic Acid penetrates pores to clear up acne and prevent new breakouts from forming. Skin conditioners soothe and hydrate irritated skin. Dermatologist developed and tested. Murad does not test on animals. Made in the USA.",
+    "itemID": "B000GDDKJY",
+    "helpful": [
+      1,
+      2
+    ],
+    "overall": 1.0,
+    "salesRank": {
+      "Beauty": 6029
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Treatments & Masks",
+        "Acids & Peels",
+        "Salicylic Acid"
+      ]
+    ],
+    "price": 24.89,
+    "brand": "Murad"
+  }
+]

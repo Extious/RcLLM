@@ -1,0 +1,115 @@
+[
+  {
+    "title": "Gud  Floral Cherrynova  Natural Nourishing Shampoo, 12 Fluid Ounces",
+    "description": "A gentle shampoo that cleanses hair naturally, leaving it shiny and smelling like cherry blossoms and almond milk. So it'll ask to be touched. In French.",
+    "itemID": "B006UQUQPM",
+    "helpful": [
+      4,
+      4
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 31664
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 5.88,
+    "brand": "Gud"
+  },
+  {
+    "title": "CLEAR SCALP &amp; HAIR BEAUTY Strong Lengths Nourishing Shampoo, 12.9 Fluid Ounce",
+    "description": "",
+    "itemID": "B007RTR8AM",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 14037
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 4.88,
+    "brand": "Clear"
+  },
+  {
+    "title": "Nivea For Men Maximum Hydration 3 In 1 Moisturizer Body, Face and Hands, 13.5 Ounce",
+    "description": "Nivea For Men Maximum Hydration 3 in 1 Moisturizer Body, Face & Hands boosts the moisture level in the skin and intensively moisturizes.   Its special formula with Hydra-IQ technology absorbs in seconds leaving no greasy feeling on the skin.",
+    "itemID": "B007PWRXHO",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 22818
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Lotions"
+      ]
+    ],
+    "price": 6.99,
+    "brand": "Nivea Men"
+  },
+  {
+    "title": "Dove Men+Care Fresh Clean Fortifying 2 in 1 (12oz)",
+    "description": "",
+    "itemID": "B00AAJTDLI",
+    "helpful": [
+      0,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 194
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 7.49,
+    "brand": "Dove"
+  },
+  {
+    "title": "Irish Spring Gear Body Wash, Exfoliating, 15 Fl. Ounce",
+    "description": "",
+    "itemID": "B00I6CRX04",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 2101
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Cleansers",
+        "Body Washes"
+      ]
+    ],
+    "price": 5.49,
+    "brand": "Irish Spring"
+  }
+]

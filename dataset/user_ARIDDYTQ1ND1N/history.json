@@ -1,0 +1,72 @@
+[
+  {
+    "title": "China Glaze Nail Lacquer, Draped in Valvet , 0.5 Fluid Ounce",
+    "description": "Chip resistant formula. Gives long lasting manicures. Quick drying on nails",
+    "itemID": "B000W0YAOA",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 200757
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Nails",
+        "Nail Polish"
+      ]
+    ],
+    "price": 4.37,
+    "brand": "China Glaze"
+  },
+  {
+    "title": "Essie Nail Lacquer, Sugar Daddy, 0.5 Fluid Ounce",
+    "description": "Essie nail lacquer goes on smooth and last long Shimmery pink shade Chip-resistant DBP, Toluene and Formaldehyde free.",
+    "itemID": "B0002Z8HAI",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 13867
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Nails",
+        "Nail Polish"
+      ]
+    ],
+    "price": 5.45,
+    "brand": "Essie"
+  },
+  {
+    "title": "Kate Perry Purr Eau De Parfum Spray for Women, 3.4 Ounce",
+    "description": "Purr was launched by the design house of Katy Perry. This product is a fragrance item that comes in retail packaging. It is recommended for casual wear.",
+    "itemID": "B004D8JQ4G",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 4945
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Lotions"
+      ]
+    ],
+    "price": 20.25,
+    "brand": "Kate Perry"
+  }
+]

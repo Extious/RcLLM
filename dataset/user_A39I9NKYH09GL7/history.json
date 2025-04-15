@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Tweezerman  Spirit 2000 Styling Shears",
+    "description": "Spirit 2000 Styling Shears",
+    "itemID": "B0007CWVLM",
+    "helpful": [
+      10,
+      11
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Health & Personal Care": 41595
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Treatments & Masks"
+      ]
+    ],
+    "price": 23.95,
+    "brand": "Tweezerman"
+  },
+  {
+    "title": "Slice of Nature&copy; Virgin Argan Oil 30ml",
+    "description": NaN,
+    "itemID": "B001PEZAHI",
+    "helpful": [
+      9,
+      9
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 145396
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Bath",
+        "Oils"
+      ]
+    ],
+    "price": 10.99,
+    "brand": NaN
+  },
+  {
+    "title": "FaceDoctorX Complexion Soap, 100 g (3.35 oz)",
+    "description": "Look rejuvented, look your best! Dermatologist recommended. Dermatologist formulated, pharmacist approved, seabuckthorn oil. Promotes healthy looking skin, supports clear complexion, thousands of satisfied customers. FaceDoctor Soap was formulated after 30 years of research to gently cleanse your complexion to maintain it as beautiful as a baby's skin. It has been highly acclaimed in China, having received many gold and silver medals with honorable citations. Achievement awards for its effectiveness. The first Chinese National Invention Award. The 14th International Invention Award, Geneva. The second Science and Technology Award, Shandong. The Chinese State General Medical Bureau Award. The First International Patent and New Technology Golden Prize. The National Chinese May 1st Labor Award. Made in China.",
+    "itemID": "B000ICR9UO",
+    "helpful": [
+      1,
+      6
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 24356
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Cleansers",
+        "Soaps"
+      ]
+    ],
+    "price": 13.48,
+    "brand": "Face Doctor"
+  }
+]

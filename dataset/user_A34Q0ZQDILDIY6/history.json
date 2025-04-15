@@ -1,0 +1,71 @@
+[
+  {
+    "title": "L'Oreal Paris True Match Super Blendable Makeup, Natural Buff, 1.0 Ounces",
+    "description": "True match super-blendable makeup shades are now cleaner, truer and even more natural. With the new patented color technology, true match makeup precisely matches your skin&#x2019;s tone and texture and coordinates perfectly with true match powder, blush.",
+    "itemID": "B000RGZK02",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 15809
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Foundation"
+      ]
+    ],
+    "price": 6.95,
+    "brand": "L&#39;Oreal Paris"
+  },
+  {
+    "title": "L'Oreal Paris True Match Powder, Porcelain, 0.33 Ounces",
+    "description": "True match powder precisely matches your skin&#x2019;s tone and texture and coordinates perfectly with true match makeup, blush, concealer and bronze glow. Micro-fine powder provides versatile coverage: you can blot shine, blend for a natural finish, or build your own.",
+    "itemID": "B000UGVVHK",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 19467
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Powder"
+      ]
+    ],
+    "price": 6.42,
+    "brand": "L&#39;Oreal Paris"
+  },
+  {
+    "title": "The Brush Guard Powder/Kabuki Pack 4 Large",
+    "description": "Buy The Brush Guard Makeup Brushes & Applicators - The Brush Guard Powder/Kabuki Pack 4 Large",
+    "itemID": "B004AAM112",
+    "helpful": [
+      2,
+      2
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 21648
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Tools & Accessories",
+        "Makeup Brushes & Tools",
+        "Brushes & Applicators"
+      ]
+    ],
+    "price": 8.95,
+    "brand": NaN
+  }
+]

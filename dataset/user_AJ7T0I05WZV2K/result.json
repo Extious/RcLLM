@@ -1,0 +1,96 @@
+[
+  {
+    "title": "Sally Hansen Hard As Nails Wraps 0.44oz",
+    "description": "Sally Hansen hard as nails hard as wraps powerful acrylic gel is a breakthrough patented gel that protects and strengthens fragile, soft or damaged nails. Powerful acrylic protection instantly seals and hardens nails in 1 easy step. Formula provides an instant, long-lasting, wrap-like surface for fragile, soft, torn, chipped or cracked nails. Provides a clear, smooth, shiny finish. Only one step-no mixing, no mess.",
+    "itemID": "B000H88Q9M",
+    "helpful": [
+      1,
+      2
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Beauty": 42534
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Hands & Nails",
+        "Nail Treatments",
+        "Growth Formula"
+      ]
+    ],
+    "price": 6.97,
+    "brand": "Sally Hansen"
+  },
+  {
+    "title": "Natural Calm 16 Oz - Natural Vitality",
+    "description": "Natural&#xA0;Calm&#xA0;is the&#xA0;solution to&#xA0;both restoring a&#xA0;healthy magnesium level and&#xA0;balancing your calcium intake-the result of&#xA0;which is&#xA0;natural&#xA0;stress&#xA0;relief.",
+    "itemID": "B000OQ2DL4",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": NaN,
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Lotions"
+      ]
+    ],
+    "price": 23.97,
+    "brand": "Natural Vitality"
+  },
+  {
+    "title": "NOW Solutions Castor Oil, 100 % Pure, 16 ounce",
+    "description": "Condition:  In need of an all-natural emollient.  Solution:  100% Pure Castor Oil is expeller-pressed from the seed of Ricinus communisand is virtually odorless and tasteless.  While it's applicable in many other areas of wellness, Castor Oil is considered by many to be one of the finest natural skin emollients available today.  Also known as Palma Christi (the \"Palm of Christ\"), castor oil celebrates a history of use that dates back to biblical times.  Since then, it has been used therapeutically to help support and soften healthy skin and hair, and is commonly used in some of today's most popular cosmetic and beauty formulas.  NOW&#xAE; Solutions is the next step in the evolution of personal care products.  This comprehensive natural line encompasses anti-aging moisturizers and serums, bath and body gels, shampoos and conditioners, oral care, skin care, and essential oils. all of which are formulated with the finest functional ingredients from around the world.  NOW&#xAE; Solutions products avoid harsh chemicals and synthetic ingredients in all of our formulations, to provide a more natural product line.",
+    "itemID": "B0013TM9UQ",
+    "helpful": [
+      12,
+      16
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Health & Personal Care": 142
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Oils"
+      ]
+    ],
+    "price": 9.78,
+    "brand": "Now Foods"
+  },
+  {
+    "title": "Shea Moisture Organic Coconut&amp;Hibiscus Shea Butter Lotion (SEALED)",
+    "description": "Shea Moisture's Coconut & Hibiscus Collection is a bounty of nutrient-rich tropical ingredients high in vitamins, minerals and fatty acides that stimulate collagen production, improve skin firmness and fill out wrinkles naturally.",
+    "itemID": "B005C2NBC0",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 58428
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Lotions"
+      ]
+    ],
+    "price": 16.23,
+    "brand": "Shea Moisture"
+  }
+]

@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Fekkai Apple Cider Clarifying Shampoo 8 oz.",
+    "description": "Apple Cider Clarifying Shampoo rid hair of impurities, removes build-up and enhances shine.",
+    "itemID": "B000XQWH0M",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 103661
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": NaN,
+    "brand": NaN
+  },
+  {
+    "title": "Maybelline New York Shine Free Oil Control Pressed Powder, Ivory - 1 ea",
+    "description": "Oil blotting ingredients in this pressed powder keep your face fresh for hours. 100% oil free for a no shine, matte finish. Won't clog pores or cause blemishes. suitable for acne prone skin",
+    "itemID": "B0000531GD",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 13132
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Powder"
+      ]
+    ],
+    "price": 5.67,
+    "brand": "Maybelline"
+  },
+  {
+    "title": "OGX Flat Iron Spray, Ever Straight Brazilian Keratin Therapy, 6oz",
+    "description": "It's an amazing keratin therapy originating from the Amazon rainforest.",
+    "itemID": "B004KAVHG2",
+    "helpful": [
+      0,
+      1
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Beauty": 4380
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Irons",
+        "Flattening Irons"
+      ]
+    ],
+    "price": 7.59,
+    "brand": "OGX"
+  }
+]

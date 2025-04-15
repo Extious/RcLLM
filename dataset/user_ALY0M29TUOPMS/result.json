@@ -1,0 +1,47 @@
+[
+  {
+    "title": "BaByliss Pro BAB2000 Ceramix Xtreme  Dryer",
+    "description": "Professional long-life motor with 6 speed/heat setting conbinations. Removable filter for easy cleaning. Narrow barrel for maximum air pressure.  Micro concentrator nozzle.",
+    "itemID": "B000ASDGK8",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 388
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Hair Dryers"
+      ]
+    ],
+    "price": 39.4,
+    "brand": "BaBylissPRO"
+  },
+  {
+    "title": "Derma Wand Kit",
+    "description": "DermaWand is a condensed version of the exact same technology found in large commercial high frequency machines used by skin care specialists all over the world for 40 years. Why? Because it works! The DermaWand stimulates and rejuvenates by sending out a gentle stream of low level micro-current impulses up to 168,000 cycles per second, imitating hundreds of tiny fingers that massage your skin - and massage helps improve circulation bringing oxygen and vital nutrients to your skin s surface. The gentle micro current also has a thermal effect on the skin s surface, helping the skin look more toned and tight, smoothing out the appearance of fine lines and wrinkles. Plus DermaWand oxygenates by giving off enriched oxygen that cleanses and purifies, helping breathe new life into your skin's surface.",
+    "itemID": "B000ICRDSW",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 1.0,
+    "salesRank": {
+      "Beauty": 1141
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face"
+      ]
+    ],
+    "price": 104.95,
+    "brand": "Dermawand"
+  }
+]

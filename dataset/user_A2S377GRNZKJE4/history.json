@@ -1,0 +1,70 @@
+[
+  {
+    "title": "Coastal Scents 88 Color Palette, Warm",
+    "description": "The warm palette is a beautiful palette filled with matte, shimmer, smokey, and neutral shadows. Colors contained are in silver blues, camo greens, earthy peach & stone, rich plums, and many different shades of brown.",
+    "itemID": "B002ON11RW",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 3925
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Makeup Palettes"
+      ]
+    ],
+    "price": 8.12,
+    "brand": "Coastal Scents"
+  },
+  {
+    "title": "Rucci Cosmetic Organizer with Drawer",
+    "description": "Deluxe cosmetic organizer with drawer.",
+    "itemID": "B002ZNJJLQ",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Health & Personal Care": 57803
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Tools & Accessories",
+        "Bags & Cases",
+        "Travel Cases & Holders"
+      ]
+    ],
+    "price": NaN,
+    "brand": NaN
+  },
+  {
+    "title": "e.l.f. Cosmetics 12 Piece Brush Set",
+    "description": "Set includes concealer brush blush/bronzer brush foundation brush blending eye brush smudge eye sponge eye liner brush total face brush defining eye brush eyelash and brow wand lip defining brush brow comb and brush eye shadow brush.",
+    "itemID": "B001HKR6WM",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 177
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Tools & Accessories",
+        "Makeup Brushes & Tools",
+        "Brushes & Applicators"
+      ]
+    ],
+    "price": 12.99,
+    "brand": "e.l.f. Cosmetics"
+  }
+]

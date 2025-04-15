@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Proactive Solution Revitalizing Toner 8FL OZ",
+    "description": "Proactiv Revitalizing Toner helps to hydrate and soothe your skin, this alcohol-free formula along with glycolic acid removes excess oil and moisturize, your skin will feel refreshed and balanced. It's recommended to use after the Renewing Cleanser.",
+    "itemID": "B003S19S9W",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 205
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Toners & Astringents"
+      ]
+    ],
+    "price": 14.8,
+    "brand": "Proactiv"
+  },
+  {
+    "title": "L'Oreal Paris True Match Super-Blendable Crayon Concealer, Fair/Light Neutral, 0.10 Ounces",
+    "description": "Conceal it all, big to small. True match super-blendable crayon concealer offers customizable coverage from the tiniest of blemishes to larger areas of imperfections. The tip of the crayon allows for precise application, while the side of the crayon can easily canvas a larger area of skin. The innovative formula provides sheer to full coverage that blends easily and won't look cakey.",
+    "itemID": "B00AUFS8I6",
+    "helpful": [
+      1,
+      2
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 28212
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Concealers & Neutralizers"
+      ]
+    ],
+    "price": 6.65,
+    "brand": "L&#39;Oreal Paris"
+  },
+  {
+    "title": "Xtreme Brite Exfoliating Brightening Soap 7oz",
+    "description": "toning cream",
+    "itemID": "B0054GLD1U",
+    "helpful": [
+      3,
+      4
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 10733
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Cleansers",
+        "Soaps"
+      ]
+    ],
+    "price": 7.12,
+    "brand": "Xtreme Brite"
+  }
+]

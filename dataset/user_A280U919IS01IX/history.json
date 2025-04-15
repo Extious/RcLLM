@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Sigma F86 - Tapered Kabuki TM",
+    "description": "Unique Feature: Dense and tapered head \nFunction: Precise application of concealer or foundation products \nRecommended Use: Best for concealing the under eye and hard to reach areas of the face. \nBristle Type: Synthetic Sigmax \n\n 2013 Sigma Enterprises, LLC",
+    "itemID": "B005V1A05S",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 1435
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Tools & Accessories",
+        "Makeup Brushes & Tools",
+        "Brushes & Applicators"
+      ]
+    ],
+    "price": 24.0,
+    "brand": "Sigma Beauty"
+  },
+  {
+    "title": "Maybelline New York Define-A-Line Eyeliner, Ebony Black, 0.01 Ounce",
+    "description": "Glides on smoothly and precisely in just one stroke. Contoured smudger makes blending easy.",
+    "itemID": "B001KYNVLU",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 4086
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Eyes",
+        "Eyeliner"
+      ]
+    ],
+    "price": 3.26,
+    "brand": "Maybelline"
+  },
+  {
+    "title": "Maybelline Define-A-Brow Eyebrow Pencil Soft Black 641",
+    "description": "Maybelline Define-A-Brow Eyebrow PencilMicro-mechanical pencil delivers precise application for evenly defined brows. Smear-proof formula wears all-day, and convenient all-in-one tool includes a comb to seamlessly blend color for a natural look.&bull;Blends easily with brow hair&bull;Waterproof for all day wear&bull;Safe for sensitive eyes&bull;Contact lens safe and ophthalmologist tested",
+    "itemID": "B001KYO7OA",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Beauty": 14627
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Eyes",
+        "Eyebrow Color"
+      ]
+    ],
+    "price": 9.97,
+    "brand": "Maybelline"
+  }
+]

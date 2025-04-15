@@ -1,0 +1,117 @@
+[
+  {
+    "title": "Conair 1875 Watt Tourmaline Ceramic Hair Dryer",
+    "description": "",
+    "itemID": "B00132ZG3U",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 124
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Hair Dryers"
+      ]
+    ],
+    "price": 18.89,
+    "brand": "Conair"
+  },
+  {
+    "title": "Suave Professionals Moroccan Infusion Shine Conditioner 28 oz",
+    "description": "",
+    "itemID": "B00A0IWRU8",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 46538
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Conditioners"
+      ]
+    ],
+    "price": 7.29,
+    "brand": "Suave"
+  },
+  {
+    "title": "Yerba Prima Tampico Skin Brush 1 Ea",
+    "description": "The Yerba Prima Tampico Skin Brush is a wonderful, revitalizing health and beauty aid. Removing the top layer of dead skin and stimulating the circulation of blood feeding the skin are essential for maintaining youthful, glowing and supple skin",
+    "itemID": "B00016RIIA",
+    "helpful": [
+      53,
+      57
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 421
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Bathing Accessories",
+        "Bath Brushes"
+      ]
+    ],
+    "price": 7.75,
+    "brand": "Yerba Prima"
+  },
+  {
+    "title": "Deva Curl Set it Free 6 oz.",
+    "description": "Put an end to frizz with this 24-48 hour moisture lock. Adds shine and defines curls with a long lasting hold. Scented with zesty lemon-lime. Not tested on animals. Made in USA.",
+    "itemID": "B000QE6U54",
+    "helpful": [
+      1,
+      2
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 593
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Curl Enhancers"
+      ]
+    ],
+    "price": 15.95,
+    "brand": "DevaCurl"
+  },
+  {
+    "title": "Schick Hydro Silk Disposable Razor, 3 Count",
+    "description": "",
+    "itemID": "B00AHF1GTM",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Health & Personal Care": 25629
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Oils"
+      ]
+    ],
+    "price": 9.95,
+    "brand": "Schick"
+  }
+]

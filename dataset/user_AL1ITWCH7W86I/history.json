@@ -1,0 +1,70 @@
+[
+  {
+    "title": "Dickinson's Witch Hazel 16 oz",
+    "description": "Our unique 100 percent natural formula combines extracts of the witch hazel plant to thoroughly cleanse and condition your skin without disturbing its natural moisture balance.",
+    "itemID": "B00016WW8Q",
+    "helpful": [
+      2,
+      3
+    ],
+    "overall": 5.0,
+    "salesRank": {},
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Toners & Astringents"
+      ]
+    ],
+    "price": 3.39,
+    "brand": "Dickinson&#39;s"
+  },
+  {
+    "title": "WITCH HAZEL PADS EA 1/60 PADS",
+    "description": "Who needs cotton balls? Thayers Original Witch Hazel Astringent Pads with Aloe Vera Formula are ready to provide our proprietary skin-soothing treatment in the car, plane, train or boat, in the woods, by the beach or anywhere else. Made of extract from the Witch Hazel shrub (Hamamelis Virginiana)..",
+    "itemID": "B00028PFF0",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 9676
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Toners & Astringents"
+      ]
+    ],
+    "price": 7.93,
+    "brand": "Thayer&#39;s"
+  },
+  {
+    "title": "Desert Essence - 100% Pure Jojoba (Disc), 2 oz liquid",
+    "description": "100% Pure Jojoba Oil  &#8226; Moisturizes skin without leaving any oily residue  &#8226; Effectively cleanses clogged pores  &#8226; Helps prevent flakiness when massaged on scalp  Pressed from plant seeds native to the American Southwest, jojoba oil is a   natural, time-honored moisturizer for skin and hair. Suitable for even the most   sensitive skin, it penetrates quickly after application, and also makes for an   enriching aftershave moisturizer.",
+    "itemID": "B000Z91JAQ",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 78558
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Oils"
+      ]
+    ],
+    "price": 7.5,
+    "brand": "Desert Essence"
+  }
+]

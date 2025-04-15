@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Silicon Mix Hair Treatment 16oz",
+    "description": "Silicon Mix Hair Treatment. Silicon hair treatment contains bamboo extract, a natural product to regenerate and nourish the hair and silicones to smooth and give shine. Prevents hair breakage and split ends. Contains vitamins A, E, F, H (Biotin), H Pro-Vitamin B5 (Panthenol), H8 (Inositol) and Horse Chestnut Extract improve the health and beauty of the hair, helping it to grow longer.",
+    "itemID": "B002IT3KD0",
+    "helpful": [
+      2,
+      4
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 509
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Hair & Scalp Treatments"
+      ]
+    ],
+    "price": 9.37,
+    "brand": "Silicon"
+  },
+  {
+    "title": "Ardell Fashion Lashes Pair - 118 (Pack of 4)",
+    "description": "Ardell fashion lashes look so real, so natural that others think you were born with beautiful, lush eyelashes.  made of 100% sterilized human hair, each lash strip is knotted and feathered by hand to achieve the highest quality.  when used with ardell lashgrip eyelash adhesive, they are easy to apply, comfortable to wear, and stay secure until you take them off.  each pair can be re-used up to three weeks.  application and care instructions inside package.",
+    "itemID": "B003ZS6ONQ",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 5956
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Tools & Accessories",
+        "Makeup Brushes & Tools",
+        "Eyelash Tools",
+        "Fake Eyelashes & Adhesives"
+      ]
+    ],
+    "price": 9.85,
+    "brand": "Ardell"
+  },
+  {
+    "title": "Xtreme Brite Exfoliating Brightening Soap 7oz",
+    "description": "toning cream",
+    "itemID": "B0054GLD1U",
+    "helpful": [
+      3,
+      5
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 10733
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Cleansers",
+        "Soaps"
+      ]
+    ],
+    "price": 7.12,
+    "brand": "Xtreme Brite"
+  }
+]

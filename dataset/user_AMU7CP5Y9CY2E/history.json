@@ -1,0 +1,70 @@
+[
+  {
+    "title": "e.l.f. 83 Piece Essential Makeup Collection, 2.84-Ounce",
+    "description": "64 Eyeshadows; 8 Lip Glosses; 4 Blushes; 4 Bronzers; Lip Brush; Eye Brush; Face Brush",
+    "itemID": "B004GNMOSS",
+    "helpful": [
+      1,
+      2
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 16561
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Makeup Sets"
+      ]
+    ],
+    "price": 23.99,
+    "brand": "e.l.f. Cosmetics"
+  },
+  {
+    "title": "Dotting 5 X 2 Way Marbleizing Dotting Pen Set for Nail Art Manicure Pedicure, 4 Ounce",
+    "description": "5 X 2 way marbleizing dotting pen set for nail art manicure pedicure in 10 different shape.",
+    "itemID": "B004OHQR1Q",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 39
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Tools & Accessories",
+        "Nail Tools",
+        "Nail Art Equipment"
+      ]
+    ],
+    "price": 2.1,
+    "brand": "Dotting"
+  },
+  {
+    "title": "World Pride Nail Tape Stripe Decoration Sticker Hologram, Set of 10",
+    "description": "Content:\n10Pcs Nail Tape Stripe Sticker",
+    "itemID": "B0069FDR96",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 27
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Nails",
+        "Nail Art"
+      ]
+    ],
+    "price": 1.54,
+    "brand": "Bonamart"
+  }
+]

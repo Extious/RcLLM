@@ -1,0 +1,69 @@
+[
+  {
+    "title": NaN,
+    "description": NaN,
+    "itemID": "B001MP0T2Q",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 4.0,
+    "salesRank": NaN,
+    "categories": [
+      [
+        "Beauty",
+        "Tools & Accessories",
+        "Nail Tools",
+        "Nail Brushes"
+      ]
+    ],
+    "price": NaN,
+    "brand": NaN
+  },
+  {
+    "title": "Gellish Soak Off Gel Polish Arctic Freeze Super White 1/2 Oz FULL SIZE",
+    "description": "Gellish Soak Off Gel\n    Polish Arctic Freeze\n    Super White 1/2 Oz FULL\n    SIZE",
+    "itemID": "B009JXI3E4",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 2922
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Nails",
+        "Nail Polish"
+      ]
+    ],
+    "price": 12.1,
+    "brand": "Gelish"
+  },
+  {
+    "title": "Thermal Spa One Hand LED Gel Light Nail Dryer 49171",
+    "description": "Thermal Spa Single Hand LED Lamp",
+    "itemID": "B00B5IJ79Q",
+    "helpful": [
+      5,
+      7
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 18255
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Tools & Accessories",
+        "Nail Tools",
+        "Nail Dryers"
+      ]
+    ],
+    "price": 89.95,
+    "brand": "Thermal Spa"
+  }
+]

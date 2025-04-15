@@ -1,0 +1,113 @@
+[
+  {
+    "title": "Just For Me Hair Milk Nourishing Detangler, 10-Ounce Bottle",
+    "description": "",
+    "itemID": "B002MO3CG6",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 4374
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Hair Sprays"
+      ]
+    ],
+    "price": 6.49,
+    "brand": "Just For Me"
+  },
+  {
+    "title": "Tresemme Renewal Hair and Scalp Shampoo, 25 Ounce",
+    "description": "",
+    "itemID": "B00GYB17XI",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 15797
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 11.06,
+    "brand": "TRESemme"
+  },
+  {
+    "title": "Tresemme Renewal Hair and Scalp Leave-In Conditioning Spray, 10 Ounce",
+    "description": "",
+    "itemID": "B00GYB1AUI",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 38653
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Conditioners"
+      ]
+    ],
+    "price": 1.66,
+    "brand": "TRESemme"
+  },
+  {
+    "title": "Fekkai Essential Shea Shampoo 8 Fl Oz",
+    "description": "",
+    "itemID": "B00FRDPRBW",
+    "helpful": [
+      1,
+      2
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Beauty": 6557
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 14.0,
+    "brand": "Fekkai"
+  },
+  {
+    "title": "Fekkai Technician Color Care Shampoo 236ml/8oz",
+    "description": "",
+    "itemID": "B00FRDPP6O",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Health & Personal Care": 7927
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 14.5,
+    "brand": "Fekkai"
+  }
+]

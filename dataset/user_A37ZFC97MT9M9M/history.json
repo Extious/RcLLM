@@ -1,0 +1,74 @@
+[
+  {
+    "title": "St. Ives Facial Moisturizer, Timeless Skin Collagen Elastin, 10oz",
+    "description": "",
+    "itemID": "B000UVZU1S",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 277
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Creams & Moisturizers",
+        "Fluids & Lotions",
+        "Lotions"
+      ]
+    ],
+    "price": 7.46,
+    "brand": "St. Ives"
+  },
+  {
+    "title": "JOHN FRIEDA Frizz Ease Moisture Barrier Firm Hold Spray, 12 Ounce",
+    "description": "Creates a barrier to help seal out moisture and prevent frizzing even in high humidity climates. Firm-holding power supports even the hardest-to-handle- styles all day long. Quick-drying shine-boosting formula also contains sunscreen.",
+    "itemID": "B006OHM542",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 8305
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Hair Sprays"
+      ]
+    ],
+    "price": 10.19,
+    "brand": "John Frieda"
+  },
+  {
+    "title": "Freeman Facial Charcoal &amp; Black Sugar Polish Mask 6 oz.",
+    "description": "Charcoal Helps Absorb Oil And Impurities Purifying Mask & Smoothing Exfoliant Black Sugar Helps With Exfoliation Perfect For All Skin Types Dual Action Formula",
+    "itemID": "B00BZ1QN2C",
+    "helpful": [
+      3,
+      4
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Health & Personal Care": 3158
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Treatments & Masks",
+        "Masks"
+      ]
+    ],
+    "price": 7.99,
+    "brand": "Freeman"
+  }
+]

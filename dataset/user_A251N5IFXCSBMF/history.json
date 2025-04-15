@@ -1,0 +1,70 @@
+[
+  {
+    "title": "Jerdon JP910NB 6-Inch Tabletop Two-Sided Swivel Vanity Mirror with 10x Magnification, 11-Inch Height, Nickel Finish",
+    "description": "",
+    "itemID": "B001DKQ3O8",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 662
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face"
+      ]
+    ],
+    "price": 19.93,
+    "brand": "Jerdon"
+  },
+  {
+    "title": "Nexxus Volume Effexx, Large Round Brush",
+    "description": "Dry, style or add lift with Nexxus volumizing small round brush. A fusion of the newest technologies, Tourmaline, negative ions, ceramics and nano silver are professionally engineered and customized into a brush that meets all your styling needs. Volume Effexx brushes were created to provide you with long lasting, frizz-free voluminous styles. Maximum hair control with even tensions to provide lift at hair roots while drying for added body. The large size evenly distributes heat to aid smoothing, straightening or waving during blow drying. Easily catch and hold hair for volume styling and setting curls or creating soft curls for evening looks. Soft cushion grip is comfortable to use.",
+    "itemID": "B002KPWZPG",
+    "helpful": [
+      2,
+      3
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 12120
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Brushes"
+      ]
+    ],
+    "price": 10.95,
+    "brand": "Nexxus"
+  },
+  {
+    "title": "Tangle Teezer Original Pink",
+    "description": "The Tangle Teezer Original Detangling Brush is a very unique professional detangling brush that is ideal for all hair types, wet or dry.",
+    "itemID": "B00264NW7G",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 228
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Brushes"
+      ]
+    ],
+    "price": 9.32,
+    "brand": "Tangle Teezer"
+  }
+]

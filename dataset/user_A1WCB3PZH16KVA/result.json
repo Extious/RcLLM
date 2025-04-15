@@ -1,0 +1,45 @@
+[
+  {
+    "title": "Bosley Revive Starter Pack for Visibly Thinning / Color-Treated Hair",
+    "description": "Bosley Revive Starter Pack for Visibly Thinning / Color-Treated Hair",
+    "itemID": "B0038TN5KW",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 1999
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care"
+      ]
+    ],
+    "price": 19.85,
+    "brand": "Bosley"
+  },
+  {
+    "title": "WEN&reg; Sweet Almond Mint Cleansing Conditioner 16oz",
+    "description": "Sweet Almond Mint is the perfect balance of nourishing herbs and natural ingredients designed to hydrate and replenish hair that has been damaged due to shampoo and other harsh elements. May be used as often as necessary, it thoroughly cleanses hair and scalp without stripping them of their natural oils, providing it with added moisture, strength and sheen.",
+    "itemID": "B0048O2R1E",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 718
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Conditioners"
+      ]
+    ],
+    "price": 30.0,
+    "brand": "WEN&reg; by Chaz Dean"
+  }
+]

@@ -1,0 +1,71 @@
+[
+  {
+    "title": "e.l.f. Cosmetics Eye Shadow Brush",
+    "description": "Specially sheered brush tip absorbs the perfect amount of eye shadow and provides long lasting color saturation. The comfort curved brush contours the eye with natural gliding strokes for easy and accurate eye shadow application.",
+    "itemID": "B002CL84FI",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 21067
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Tools & Accessories",
+        "Makeup Brushes & Tools",
+        "Brushes & Applicators"
+      ]
+    ],
+    "price": 3.89,
+    "brand": "e.l.f. Cosmetics"
+  },
+  {
+    "title": "L'Oreal Paris True Match Naturale Mineral Foundation, Cocoa, 0.35 Ounce",
+    "description": "Discover the feeling of skin breathing freely. True Match Naturale re-invents makeup with carefully selected, 100% preservative-, talc- and fragrance-free minerals plus built-in professional brushes. This is the new skin-improving mineral formula with an SPF 19.",
+    "itemID": "B001DOA73C",
+    "helpful": [
+      2,
+      2
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 57021
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Foundation"
+      ]
+    ],
+    "price": 5.0,
+    "brand": "L&#39;Oreal Paris"
+  },
+  {
+    "title": "L'Oreal HIP Shine Struck Liquid Lipcolor, Precarious 460 .27 fl oz (8.2 ml)",
+    "description": "L'Oreal HIP High Intensity PigmentsTM",
+    "itemID": "B001H9275Y",
+    "helpful": [
+      0,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 180892
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Lips",
+        "Lip Glosses"
+      ]
+    ],
+    "price": 5.95,
+    "brand": "L&#39;Oreal Paris"
+  }
+]

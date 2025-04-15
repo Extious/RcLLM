@@ -1,0 +1,49 @@
+[
+  {
+    "title": "Color Mark Color Brow Marker, Medium Brown, 0.04 Fluid Ounce",
+    "description": "Touchback brow marker by Color Mark lasts all day and won't rub off. The marker delivers the perfect amount of color for shaping brows. Fills in sparse areas and camouflages stray grays.",
+    "itemID": "B004O35Y0K",
+    "helpful": [
+      6,
+      6
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 153492
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Eyes",
+        "Eyebrow Color"
+      ]
+    ],
+    "price": 19.99,
+    "brand": "ColorMark"
+  },
+  {
+    "title": "Conair Hot Roller Super Clips",
+    "description": "Easy to use super clips",
+    "itemID": "B000R87B1Q",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 880
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Styling Accessories",
+        "Clips"
+      ]
+    ],
+    "price": 6.99,
+    "brand": "Conair"
+  }
+]

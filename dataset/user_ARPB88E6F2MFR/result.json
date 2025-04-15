@@ -1,0 +1,138 @@
+[
+  {
+    "title": "Pantene Pro-V Expert Collection Agedefy Conditioner 8.4 Fl Oz",
+    "description": "",
+    "itemID": "B0098JU8T2",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 5489
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Conditioners"
+      ]
+    ],
+    "price": 6.85,
+    "brand": "Pantene"
+  },
+  {
+    "title": "Suave Suave Kids Ocean Blast Gel, 7 Ounce",
+    "description": "",
+    "itemID": "B00A0IWTEW",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 9391
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Creams, Gels & Lotions"
+      ]
+    ],
+    "price": 3.48,
+    "brand": "Suave"
+  },
+  {
+    "title": "Nexxus Hydralight Weightless Moisture Conditioner, 13.5 Ounce",
+    "description": "",
+    "itemID": "B00ALV8EJW",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 65831
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Conditioners"
+      ]
+    ],
+    "price": 18.3,
+    "brand": "Nexxus"
+  },
+  {
+    "title": "Axe Styling Spiked Up Look Gel, 6 Ounce",
+    "description": "",
+    "itemID": "B00GTC1HCI",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 39728
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Creams, Gels & Lotions"
+      ]
+    ],
+    "price": 10.95,
+    "brand": "AXE"
+  },
+  {
+    "title": "John Frieda Precision Foam Hair Color, Glosser Warm Red, 6 Fluid Ounce",
+    "description": "An in-shower, non-damaging weekly color extending treatment that adds back lost color pigments for true to tone, salon-fresh color in-between colorings. Instantly restore vibrant salon-fresh color and shine. Adds fiery copper tones to counteract fading. An in-shower non-damaging weekly color extending treatment that adds back lost color pigments. Delivers true to tone salon-fresh color in-between colorings.",
+    "itemID": "B00GLS55DC",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 27031
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Hair Color",
+        "Chemical Hair Dyes"
+      ]
+    ],
+    "price": 4.25,
+    "brand": "John Frieda"
+  },
+  {
+    "title": "John Frieda Precision Foam Hair Color, Glosser Warm Blonde, 6 Fluid Ounce",
+    "description": "An in-shower, non-damaging weekly color extending treatment that adds back lost color pigments for true to tone, salon-fresh color in-between colorings. Instantly restore vibrant salon-fresh color and shine. Adds golden tones to freshen blonde. An in-shower non-damaging weekly color extending treatment that adds back lost color pigments. Delivers true to tone salon-fresh color in-between colorings.",
+    "itemID": "B00GLS593S",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 16105
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Hair Color",
+        "Highlights"
+      ]
+    ],
+    "price": 9.99,
+    "brand": "John Frieda"
+  }
+]

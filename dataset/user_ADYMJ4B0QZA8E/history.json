@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Clarisonic Replacement Brush Head (Delicate)",
+    "description": "Designed for delicate skin. With daily use, the Clarisonic Skin Care Brush leaves skin feeling and looking smoother, and increases product absorption for improved  cleansing. Effective for use on the face, d&#xE9;collet&#xE9; and body.",
+    "itemID": "B000UPRSKA",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 2681
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face"
+      ]
+    ],
+    "price": 25.0,
+    "brand": NaN
+  },
+  {
+    "title": "Avon Moisture Therapy Intensive Hand Cream for Extremely Dry Skin",
+    "description": "Brand New Avon Large Tube 4.2 fl. oz . \n  Avon Moisture Therapy Intensive Hand Cream for Extremely Dry Skin\nUPC:094000480719\n Keep in your Bag-Desk-Kitchen-Gym bag-Purse-Bathroom and more...Great for Dry Winter Skin..\nPrice listed is for 1 Tube only !",
+    "itemID": "B0025N244K",
+    "helpful": [
+      0,
+      6
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 41567
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Hands & Nails",
+        "Hand Creams & Lotions"
+      ]
+    ],
+    "price": 6.1,
+    "brand": "Moisture Therapy"
+  },
+  {
+    "title": "Olay Pro-X Advanced Cleansing System 0.68 Fl Oz, 1-Count",
+    "description": "",
+    "itemID": "B0043OYFKU",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 6
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Treatments & Masks",
+        "Microdermabrasion"
+      ]
+    ],
+    "price": 26.99,
+    "brand": "Olay"
+  }
+]

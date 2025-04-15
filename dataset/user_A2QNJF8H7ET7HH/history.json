@@ -1,0 +1,71 @@
+[
+  {
+    "title": "LOREAL Collagen Filler Eye Treatment",
+    "description": "Fills wrinkles and minimizes dark circles\nwith Collagen Bio-Spheres & Chromatic Micro-Particles\nSometimes, a good night's sleep just isn't enough to refresh tired eyes and remove the signs of fatigue and aging. For crow's feet and expression lines, as well as dark circles and shadows caused by hollowed, tired eyes, typical eye treatments are not enough.",
+    "itemID": "B0014ZWHZ6",
+    "helpful": [
+      1,
+      2
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 35485
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Eyes",
+        "Fillers"
+      ]
+    ],
+    "price": 28.95,
+    "brand": "L&#39;Oreal Paris"
+  },
+  {
+    "title": "Rita Hazan Root Concealer 1 Oz. - Dark Brown/Black - FINAL CLEARANCE",
+    "description": "From the hair color authority Rita Hazan, an aerosol spray that is the fastest, easiest solution to cover roots between color applications.",
+    "itemID": "B004O17UJ0",
+    "helpful": [
+      1,
+      2
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 4166
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Hair Color",
+        "Chemical Hair Dyes"
+      ]
+    ],
+    "price": 9.99,
+    "brand": NaN
+  },
+  {
+    "title": "Conair BC171NCS Ceramic Ionic Hot Air Brush, Black, 1.25 Inch",
+    "description": "1 1/4\" Ceramic Ionic Hot Air Brush-1000 watt",
+    "itemID": "B0009PVV40",
+    "helpful": [
+      2,
+      2
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 614
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Hot-Air Brushes"
+      ]
+    ],
+    "price": 23.95,
+    "brand": "Conair"
+  }
+]

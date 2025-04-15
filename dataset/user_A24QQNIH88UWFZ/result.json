@@ -1,0 +1,114 @@
+[
+  {
+    "title": "Paul Mitchell Shampoo  3   16.9 Ounces",
+    "description": "Paul Mitchell Shampoo  3. Shampoo for before deep conditioning treatments and after swimming.",
+    "itemID": "B0007CXY5O",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": NaN,
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 20.1,
+    "brand": "Paul Mitchell"
+  },
+  {
+    "title": "Garnier Fructis Style Smoothing Milk, Strong, 5.1 Ounce Bottle",
+    "description": "Fructis Style with Fruit Micro-Waxes. Instant smoothing & frizz control. Garnier Fructis Style: Take control of your style! Garnier Fructis Style, with fruit micro-waxes, gives you the power to create and control any style you want. What is Smoothing Milk? It is a new generation styling product that smoothes and tames unruly hair without weighing it down. How Does it Work? Garnier Fructis Style has powerful holding technologies with fruit micro-waxes. It provides ultra long-lasting hold and shine without stickiness or buildup. Made in USA.",
+    "itemID": "B000GCRABY",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 5135
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Creams, Gels & Lotions"
+      ]
+    ],
+    "price": 4.11,
+    "brand": "Garnier"
+  },
+  {
+    "title": "Moroccanoil Frizz Control, 3.4 Ounce",
+    "description": "Moroccanoil frizz control is a must for all hair prone to frizz, whether it's natural, dry, curly or straight. It eliminates frizz and controls static in any weather. Its weather-resistant properties weightlessly safeguard hair whether you have winter hair (in excessively dry conditions) or summer hair (in excessively humid conditions) keeping it smooth, calm and manageable.",
+    "itemID": "B005M4GDKU",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 3398
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Hair Styling Serums"
+      ]
+    ],
+    "price": 21.96,
+    "brand": "Moroccanoil"
+  },
+  {
+    "title": "Suave Professionals Keratin Infusion Dry Shampoo, 5 Ounce",
+    "description": "",
+    "itemID": "B005UBN2AO",
+    "helpful": [
+      0,
+      1
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 3004
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 7.49,
+    "brand": "Suave"
+  },
+  {
+    "title": "Herstyler Colorful Seasons Purple Flat Iron Straightener",
+    "description": "Ultra-light weight: the body is made of light-weight, high-strength composite materials that are commonly used in aerospace industry. Faster heat-up time than conventional coil straightening irons - It will rise to the desired temperature in less than 25 seconds from being turned on. Therefore, to save electricity and prolong lifespan, it should be turned off between uses with the Off-On switch located on the temperature control thermostat. It still saves half the time of conventional models. Hotter and more consistent heat at all adjustable temperature settings. Adjustable temperature for all hair types. For bleached, fragile, damaged and fine hair, the lower setting is advised. For normal hair and regular use, a middle range is recommended. For coarse, thick, ethnic and resistant hair in healthy condition, maximum heat on high setting is used to save time and effort. Ergonomic design is easier to handle. One year limited warranty. Designed in Italy, engineered with American technology",
+    "itemID": "B0061DC7SI",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Health & Personal Care": 5158
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Irons",
+        "Flattening Irons"
+      ]
+    ],
+    "price": 21.0,
+    "brand": "HerStyler"
+  }
+]

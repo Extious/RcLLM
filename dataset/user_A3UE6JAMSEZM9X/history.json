@@ -1,0 +1,74 @@
+[
+  {
+    "title": "Burt's Bees Pore-Refining Mask, 1-Ounce Jars (Pack of 2)",
+    "description": "This all natural face mask is made with French green clay and a selection of eight dried herbs and flowers to tighten pores and stimulate skin, leaving your complexion cleansed, renewed and radiant.",
+    "itemID": "B001E6TDYS",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 206539
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Treatments & Masks",
+        "Masks"
+      ]
+    ],
+    "price": NaN,
+    "brand": NaN
+  },
+  {
+    "title": "Vaseline Intensive Rescue Repairing Moisture Lotion, Fragrance Free, 20.3-Ounce Pump (Pack of 3)",
+    "description": "",
+    "itemID": "B001ECQ4IU",
+    "helpful": [
+      3,
+      6
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 7988
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Lotions"
+      ]
+    ],
+    "price": 22.46,
+    "brand": "Vaseline"
+  },
+  {
+    "title": "BDS - Unisex Black Wavy hair band headband / Hair Holder + One free BDS Ponytail Holder",
+    "description": "This unisex wavy headband is a great accessory for children and grownups!\n\nIt comes with one free BDS ponytail holder",
+    "itemID": "B006LQ41SO",
+    "helpful": [
+      4,
+      4
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 91560
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Styling Accessories",
+        "Headbands"
+      ]
+    ],
+    "price": 4.99,
+    "brand": NaN
+  }
+]

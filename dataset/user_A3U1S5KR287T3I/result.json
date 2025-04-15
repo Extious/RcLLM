@@ -1,0 +1,71 @@
+[
+  {
+    "title": "CLEAR SCALP &amp; HAIR BEAUTY Strong Lengths Nourishing Conditioner, 12.7 Fluid Ounce",
+    "description": "",
+    "itemID": "B007RTR8UW",
+    "helpful": [
+      0,
+      1
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 6485
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Conditioners"
+      ]
+    ],
+    "price": 5.0,
+    "brand": "Clear"
+  },
+  {
+    "title": "Axe Waterless Dry Shampoo Foam Reset, 5.07 Ounce",
+    "description": "",
+    "itemID": "B00AE07CRA",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Beauty": 78460
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Scrubs & Body Treatments",
+        "Body Scrubs"
+      ]
+    ],
+    "price": 4.5,
+    "brand": "AXE"
+  },
+  {
+    "title": "CeraVe Baby Lotion, 8 Ounce",
+    "description": "Developed with pediatric dermatologists, CeraVe Baby Moisturizing Lotion is formulated with 3 essential ceramides (ceramide 3, ceramide 6-II, ceramide 1) and is free of parabens and phthalates for a healthy way to care for your baby&#x2019;s delicate skin. Designed to temporarily protect and help relieve chafed, chapped or cracked skin. CeraVe Baby Moisturizing Lotion helps protect baby&#x2019;s skin from the drying effects of wind and cold weather.",
+    "itemID": "B00JF3RYPM",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 5952
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Lotions"
+      ]
+    ],
+    "price": 8.84,
+    "brand": "CeraVe"
+  }
+]

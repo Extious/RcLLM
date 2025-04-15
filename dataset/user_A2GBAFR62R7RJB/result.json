@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Aquasentials Long Handle Bath Brush (Clear Handle)",
+    "description": "Apply soap, rub gently to create lather. Hang to dry after use. Recommend replacement every two month.",
+    "itemID": "B001D9U07A",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 2514
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Bathing Accessories",
+        "Bath Brushes"
+      ]
+    ],
+    "price": 5.49,
+    "brand": NaN
+  },
+  {
+    "title": "Rothco Compartment Travel Toiletry Bag",
+    "description": NaN,
+    "itemID": "B000AA2XQ4",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Clothing": 3199
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Tools & Accessories",
+        "Bags & Cases",
+        "Toiletry Bags"
+      ],
+      [
+        "Clothing, Shoes & Jewelry",
+        "Luggage & Travel Gear"
+      ]
+    ],
+    "price": 7.99,
+    "brand": "Rothco"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "title": "NYX Cosmetics Eye Shadow Base, White, 0.21 Ounce",
+    "description": "Cream based eye primer. Available in three tones. Intensifes any shade of eye shadow and helps colors last longer. White helps color appear up to 100x more vivid. Pearl helps maximize any iridescent effect. Skin tone helps color hold naturally.",
+    "itemID": "B0030O3VRW",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 4669
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Foundation Primers"
+      ]
+    ],
+    "price": 6.49,
+    "brand": "NYX"
+  },
+  {
+    "title": "CoverGirl LashBlast Fusion Mascara Black 865, 1 Tube",
+    "description": "",
+    "itemID": "B0039UTO3M",
+    "helpful": [
+      3,
+      3
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 4320
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Eyes",
+        "Mascara"
+      ]
+    ],
+    "price": 4.99,
+    "brand": "COVERGIRL"
+  },
+  {
+    "title": "Remington S5500 Digital Anti Static 1 Inch Ceramic Hair Straightener",
+    "description": "Say goodbye to frizz and fly-aways while boosting style control with remingtons s-5500 one inch digital heat ceramic flat iron. infused anti-static technology reduces the amount of negatively charged particles during styling and allows for 50% more static control. the thirty second instant heat up will reach the salon high heat temperature of 410 degrees fahrenheit. one hour automatic shut off, 2 limited year warranty, and floating plates.",
+    "itemID": "B003S516XO",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 58
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Irons",
+        "Flattening Irons"
+      ]
+    ],
+    "price": 14.89,
+    "brand": "Remington"
+  }
+]

@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Coty Airspun Loose Powder, Translucent, 2.3 Ounce",
+    "description": "This ultra smooth powder hides tiny lines, wrinkles and blemishes and gives a new softness to your skin",
+    "itemID": "B000BNG4VU",
+    "helpful": [
+      22,
+      26
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 5256
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Powder"
+      ]
+    ],
+    "price": 8.04,
+    "brand": "Coty Airspun"
+  },
+  {
+    "title": "Pantene Pro-V Volume Shampoo, 25.4 Fluid Ounce (Pack of 3) (packaging may vary)",
+    "description": "",
+    "itemID": "B003EH20VI",
+    "helpful": [
+      0,
+      1
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 7123
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 27.75,
+    "brand": "Pantene"
+  },
+  {
+    "title": "Freeman Feeling Beautiful Facial Clay Mask, Mint and Lemon, 6 Ounce",
+    "description": "Made with natural, botanical ingredients, Freeman Feeling Beautiful is a full range of skin and body care products to help you look and feel your best. This detoxifying clay mask enhanced with Mint and Lemon Extract helps soothe and calm problematic skin. Helps control oil production and reduce the appearance of large pores. Perfect for tzone and oily skin types.",
+    "itemID": "B003N21THK",
+    "helpful": [
+      20,
+      25
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 4670
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Treatments & Masks",
+        "Masks"
+      ]
+    ],
+    "price": 3.14,
+    "brand": "Freeman"
+  }
+]

@@ -1,0 +1,70 @@
+[
+  {
+    "title": "Aveda Damage Remedy Conditioner, 6.7-Ounce Tube",
+    "description": "Daily conditioning formula with quinoa protein helps repair and re-moisturize damaged hair - infusing it anew with healthy movement, silkiness and shine.",
+    "itemID": "B002CMLRX8",
+    "helpful": [
+      4,
+      5
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 27260
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Conditioners"
+      ]
+    ],
+    "price": 32.54,
+    "brand": "Aveda"
+  },
+  {
+    "title": "Tigi Bed Head Urban Anti+dotes Resurrection Conditioner Damage Level 3, 25.36-Ounce",
+    "description": "Urban Antidote #3: Admitting is the first step!",
+    "itemID": "B004T19PBG",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 12224
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Hair Loss Products",
+        "Conditioners"
+      ]
+    ],
+    "price": 18.66,
+    "brand": "Tigi Bed Head"
+  },
+  {
+    "title": "Maybelline Lash Stylist Mascara - 605 Soft Black",
+    "description": "Exclusive V-Styling mascara comb sculpts and thickens lashes up to 65%.Creates a unique new type of separation.V-styling comb.Sculpts, thickens, lifts lashes.Contact lens safe.Ophthalmologist tested.",
+    "itemID": "B0017GQ4WE",
+    "helpful": [
+      2,
+      2
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 149809
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Eyes",
+        "Mascara"
+      ]
+    ],
+    "price": NaN,
+    "brand": NaN
+  }
+]

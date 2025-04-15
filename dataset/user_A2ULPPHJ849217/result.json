@@ -1,0 +1,49 @@
+[
+  {
+    "title": "Diane Straightening Brush",
+    "description": "Get smooth, beautiful hair with the Diane Cermaic Straightening Brush. Made with nylon bristles, this hairbrush is durable and will last long. The handle is soft to the touch and ergonomically designed for comfortable control and flawless styling.",
+    "itemID": "B008G29BYK",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 37452
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Irons",
+        "Flattening Irons"
+      ]
+    ],
+    "price": 7.0,
+    "brand": "Diane"
+  },
+  {
+    "title": "Shimmer Glitter Tattoos",
+    "description": "New! Dermatologist TestedAs Seen on TV",
+    "itemID": "B008K1GA82",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 1.0,
+    "salesRank": {
+      "Beauty": 12030
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Body",
+        "Body Paint"
+      ]
+    ],
+    "price": 1.11,
+    "brand": "Idea Village"
+  }
+]

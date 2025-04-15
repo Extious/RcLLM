@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Palladio Cosmetic Eyebrow Pencil, Taupe, 0.04 Ounce",
+    "description": "Create tiny, hair-like lines wherever brows need to be filled. Attached brush softens pencil strokes, giving brows a natural appearance.",
+    "itemID": "B001AATJZG",
+    "helpful": [
+      5,
+      6
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 15708
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Eyes",
+        "Eyebrow Color"
+      ]
+    ],
+    "price": 4.76,
+    "brand": "Palladio"
+  },
+  {
+    "title": "L'Oreal Telescopic Clean Definition &amp; Lengthening Mascara, Black Brown 930",
+    "description": "Clump-free. Perfectly-defined lashes. Patented no clump brush cleanly defines lashes. L'Oreal introduces Telescopic Clean Definition Mascara, for clump-free, perfectly-defined longer lashes. How It Works: The patented No Clump Brush lengthens lashes up to 50%. Ophthalmologist and allergy tested. Removes easily with soap and water. Suitable for sensitive eyes and contact lens wearers. Fragrance-free. Made in USA.",
+    "itemID": "B001ADOV4W",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 1.0,
+    "salesRank": {
+      "Beauty": 24411
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Eyes",
+        "Mascara"
+      ]
+    ],
+    "price": 8.95,
+    "brand": "L&#39;Oreal Paris"
+  },
+  {
+    "title": "Devaconcepts DevaCurl Styling Cream, 5.1 Oz",
+    "description": "DevaCurl styling cream - 5.1 ounce targets, defines and shapes curls deeply nourishes and softens&#xA0;for hydration of all curl types, but especially for botticelli and corkscrew curls.",
+    "itemID": "B006K26D9E",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 1.0,
+    "salesRank": {
+      "Beauty": 415
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Creams, Gels & Lotions"
+      ]
+    ],
+    "price": 15.98,
+    "brand": "DevaCurl"
+  }
+]

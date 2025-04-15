@@ -1,0 +1,72 @@
+[
+  {
+    "title": "La Roche-Posay Effaclar Duo",
+    "description": "La Roche-Posay EffaclarDUOis a complete skincare product that combines 4 active ingredients to act on the two main symptoms of skin with imperfections: Severe localised imperfections: Niacinamide and Piroctone Olamine to fight against bacterial proliferation and eliminate imperfections. Pores clogged with sebum: the combination of LHA and Linoleic Acid unclogs pores while eliminating the accumulated dead cells responsible for blockage. These active ingredients are combined with soothing, anti-irritant La Roche-Posay thermal spring water to reduce redness.Paraben-free formula.",
+    "itemID": "B002ZHR33I",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 21949
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Cleansers"
+      ]
+    ],
+    "price": 27.44,
+    "brand": "La Roche-Posay"
+  },
+  {
+    "title": "elf Studio High Definition Loose Face Powder",
+    "description": "The e.l.f. High Definition Powder is a translucent, versatile loose powder that creates a flawless, \"soft focus\" effect to the skin. Masks fine lines and imperfections for a glowing, radiant complexion. This incredibly soft and invisible powder is ideal for everyday wear, either alone or over your favorite e.l.f. foundation. Our HD Powder is a makeup artist and e.l.f. customer favorite.",
+    "itemID": "B004DIXYUI",
+    "helpful": [
+      0,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 573
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Powder"
+      ]
+    ],
+    "price": 8.98,
+    "brand": "e.l.f. Cosmetics"
+  },
+  {
+    "title": "Bed Head Bh318 Curli Pops Tourmaline Ceramic Tapered Curling Iron, 1 Inch, Pink",
+    "description": "Tourmaline ceramic tapered styler with a tapered barrel. Use to create loose curls on top and tight curls on the bottom. Uses Tourmaline ceramic technology for frizz-free, shiny styles. The clamp-free wrap and go design creates even heat distribution without causing kinks. Features high heat with rapid heat recovery, an on/off switch with &#x201C;on&#x201D; indicator light, a heat protective glove, styling guide, and a tangle-free swivel cord. Pink iron.",
+    "itemID": "B008S6INZC",
+    "helpful": [
+      0,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 1745
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Irons",
+        "Curling Irons"
+      ]
+    ],
+    "price": 30.76,
+    "brand": "Bed Head"
+  }
+]

@@ -1,0 +1,95 @@
+[
+  {
+    "title": "The Body Shop Vitamin C Daily Moisturizer SPF 30, 1.69-Fluid Ounce",
+    "description": "Best if you want to:Hydrate and enhance your skin's natural radiance while protecting it from damaging UV rays with a lightweight, easily-absorbed lotion. Best for: Dull skin How it works: Contains Amazonian camu camu berry, which is known to have one of the highest contents of vitamin C in nature. Vitamin C encourages collagen production, improves elasticity and protects against damaging environmental aggressors. Sunscreens provide medium-level, broad-spectrum UVA and UVB sun protection. Community Trade sesame seed oil softens skin and strengthens skin's natural defense system....",
+    "itemID": "B003UYMZUG",
+    "helpful": [
+      2,
+      3
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 24825
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Creams & Moisturizers"
+      ]
+    ],
+    "price": 10.82,
+    "brand": "The Body Shop"
+  },
+  {
+    "title": "Burt's Bees - Cuticle Creme Lemon Butter - 0.6 oz.",
+    "description": "Burt's Bees Lemon Butter Cuticle Cream.0.60 oz / 17 g.",
+    "itemID": "B00013YYS0",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 14288
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Hands & Nails",
+        "Cuticle Care",
+        "Cuticle Creams & Oils"
+      ]
+    ],
+    "price": 6.98,
+    "brand": "Burt&#39;s Bees"
+  },
+  {
+    "title": "American Classic Gelous Nail Gel Base Coat Nail Polish",
+    "description": "Gelous Nail Gel is a keratin-rich product that will fortify the nail naturally and add thickness. Nails will be protected by a barrier that this gel will create around the nail. Helps nails to be healthier and stronger.",
+    "itemID": "B00B8KWFJU",
+    "helpful": [
+      4,
+      6
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Health & Personal Care": 1672
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Nails",
+        "Top & Base Coats"
+      ]
+    ],
+    "price": 5.95,
+    "brand": NaN
+  },
+  {
+    "title": "John Frieda Liquid Shine Clear Hair Glaze, 6.5 Fluid Ounce",
+    "description": "John Frieda luminous glaze clear shine comes in 6.5 fluid ounce. It showers hair with high-gloss shine and silky smooth texture, using exclusive salon-inspired technology. Shine enhancers polish hair strands on the outside while pore menders fill in damaged areas inside the hair.",
+    "itemID": "B0012UEJ1S",
+    "helpful": [
+      4,
+      4
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Beauty": 2083
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Hair Color",
+        "Color Refreshers"
+      ]
+    ],
+    "price": 4.4,
+    "brand": "John Frieda"
+  }
+]

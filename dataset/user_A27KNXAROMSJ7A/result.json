@@ -1,0 +1,48 @@
+[
+  {
+    "title": "Tresemme Renewal Hair and Scalp Leave-In Conditioning Spray, 10 Ounce",
+    "description": "",
+    "itemID": "B00GYB1AUI",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 38653
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Conditioners"
+      ]
+    ],
+    "price": 1.66,
+    "brand": "TRESemme"
+  },
+  {
+    "title": "Suave Professionals Gradual Self Tanner, Visible Glow-Fair-Medium, 7.5 Ounce",
+    "description": "",
+    "itemID": "B00H5V3T2I",
+    "helpful": [
+      3,
+      5
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 19144
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Lotions"
+      ]
+    ],
+    "price": 6.83,
+    "brand": "Suave"
+  }
+]

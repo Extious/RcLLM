@@ -1,0 +1,76 @@
+[
+  {
+    "title": "Denman Styling Brush, Heavy Weight, 9-Row",
+    "description": "9 row, heavyweight styling brush. Smooth nylon pins in an anti-static, natural rubber pad.",
+    "itemID": "B0002Z8QG8",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 12187
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Brushes"
+      ]
+    ],
+    "price": 13.81,
+    "brand": "Denman"
+  },
+  {
+    "title": "Rothco Compartment Travel Toiletry Bag",
+    "description": NaN,
+    "itemID": "B000AA2XQ4",
+    "helpful": [
+      3,
+      3
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Clothing": 3199
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Tools & Accessories",
+        "Bags & Cases",
+        "Toiletry Bags"
+      ],
+      [
+        "Clothing, Shoes & Jewelry",
+        "Luggage & Travel Gear"
+      ]
+    ],
+    "price": 7.99,
+    "brand": "Rothco"
+  },
+  {
+    "title": "Vidal Sassoon VS14434 No Headache Headbands (2 Headbands)",
+    "description": "The Vidal Sassoon VS14434 No Headache Headbands feature a unique comfort design that is not too tight, and holds your hairstyles in place.",
+    "itemID": "B0002YE8WA",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 72903
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Styling Accessories",
+        "Headbands"
+      ]
+    ],
+    "price": NaN,
+    "brand": NaN
+  }
+]

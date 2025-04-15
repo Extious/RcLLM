@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Just For Me Hair Milk Nourishing Detangler, 10-Ounce Bottle",
+    "description": "",
+    "itemID": "B002MO3CG6",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 4374
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Hair Sprays"
+      ]
+    ],
+    "price": 6.49,
+    "brand": "Just For Me"
+  },
+  {
+    "title": "L'Oreal Paris EverStrong Sulfate-Free Fortify System Overnight Hair Repair Treatment, 3.4 Fluid Ounce",
+    "description": "EverStrong Overnight Repair Treatment is a leave-in formula with our patented bio-ceramide complex. It penetrates the hair fiber while you sleep to improve strength after just one use. Absorbs quickly without leaving residue on pillow.",
+    "itemID": "B002PBCABY",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 3831
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Hair & Scalp Treatments"
+      ]
+    ],
+    "price": 0.99,
+    "brand": "L&#39;Oreal Paris"
+  }
+]

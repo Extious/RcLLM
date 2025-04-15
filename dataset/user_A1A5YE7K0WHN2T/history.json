@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Nioxin Diamax 3.38 Fl.oz",
+    "description": "NIOXIN Diamax, with a fusion of Niacinamide, Panthenol and Caffeine, is proven to:rnrn 1. Increase the diameter of each existing hair strand.rn 2. Penetrate hair and make it fuller and more manageable.rn 3. Strenghten hair resilience against breakage.rnrnPRODUCT GUIDErnrnDiamax is a leave-on treatment that can be used with the Nioxin 3-part systems for thicker, denser-looking hair.",
+    "itemID": "B006ZN1B1S",
+    "helpful": [
+      44,
+      48
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 1959
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Hair Loss Products",
+        "Hair Regrowth Treatments"
+      ]
+    ],
+    "price": 22.15,
+    "brand": "Nioxin"
+  },
+  {
+    "title": "Lysol Healthy Touch Hand Soap, Starter Kit Stainless, Aloe, 8.50-Ounce",
+    "description": "",
+    "itemID": "B004QX68SK",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Health & Personal Care": 59664
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Hands & Nails",
+        "Hand Soaps"
+      ]
+    ],
+    "price": 11.21,
+    "brand": "Lysol"
+  },
+  {
+    "title": "Lysol No-Touch Automatic Hand Soap, Soothing Cucumber Splash, 1 Refill, 8.5 Ounce (Pack of 2)",
+    "description": "",
+    "itemID": "B004S6BXLW",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Health & Personal Care": 2815
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Hands & Nails",
+        "Hand Soaps"
+      ]
+    ],
+    "price": 7.0,
+    "brand": "Lysol"
+  }
+]

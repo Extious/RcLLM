@@ -1,0 +1,48 @@
+[
+  {
+    "title": "Epsoak Epsom Salt 19.75 Lbs",
+    "description": "Epsom Salt, a pure mineral compound (magnesium sulfate) in crystal form, packaged in a 19.75 pound re-sealable bulk bag. Color: natural/white Grain: Medium (standard)",
+    "itemID": "B004N7DQHA",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 214
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Bath",
+        "Minerals & Salts"
+      ]
+    ],
+    "price": 32.99,
+    "brand": NaN
+  },
+  {
+    "title": "Malibu Hemp Golden Glow Skin Firming Bronzing Moisturizer 18oz",
+    "description": "Moisturize your way to a healthy glow and toned skin year-round. Formulated with a pinch of DHA, your skin receives a kiss of color which will subtly deepen over about a week of use for a natural, soft, tone.",
+    "itemID": "B007ZBUQ1A",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 25731
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Sun",
+        "Tanning Oils"
+      ]
+    ],
+    "price": 17.47,
+    "brand": "Malibu Tan"
+  }
+]

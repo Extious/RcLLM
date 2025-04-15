@@ -1,0 +1,73 @@
+[
+  {
+    "title": "Nivea Body Daily Lotion, Essentially Enriched for Very Dry, Rough Skin, 13.5 fl oz (400 ml) (Pack of 3)",
+    "description": "Dramatically improves skin condition over time. With sea minerals, Vitamin E & almond oil.",
+    "itemID": "B001I90NM2",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 17504
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Lotions"
+      ]
+    ],
+    "price": 17.84,
+    "brand": "Nivea"
+  },
+  {
+    "title": "Garnier Fructis Style Sleek &amp; Shine Flat Iron Perfector Straightening Mist 48 Hour Finish, 6 Fluid Ounce",
+    "description": "Introducing our strongest straightening mist, with frizz-taming argon oil, for the perfect, sleek style that lasts 24 hours. This powerful straightening mist with argon oil from Morocco protects your hair from the heat of your flat iron, while sealing in smoothness and shine for a lasting, sleek finish.",
+    "itemID": "B0058CJV50",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 4229
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Hair Sprays"
+      ]
+    ],
+    "price": 1.46,
+    "brand": "Garnier"
+  },
+  {
+    "title": "Remington S7230 Wet 2 Straight Flat Iron with Soy Hydra Complex, 2 Inch",
+    "description": "",
+    "itemID": "B009HKAWFC",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 817
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Irons",
+        "Flattening Irons"
+      ]
+    ],
+    "price": 24.84,
+    "brand": "Remington"
+  }
+]

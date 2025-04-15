@@ -1,0 +1,72 @@
+[
+  {
+    "title": "NOW Foods Natural Vanilla (In Jojoba Oil), 1 ounce",
+    "description": "Aroma:  Sweet, warm.  Benefits:  Comforting, relaxing, nurturing.",
+    "itemID": "B0019LTGBS",
+    "helpful": [
+      5,
+      8
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Health & Personal Care": 6931
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Oils"
+      ]
+    ],
+    "price": 13.19,
+    "brand": "Now Foods"
+  },
+  {
+    "title": "L'Oreal Paris True Match Super-Blendable Blush, Apricot Kiss, 0.21 Ounce",
+    "description": "True match super-blendable makeup shades are now cleaner, truer and even more natural. with the new patented color technology, true match makeup precisely matches your skin&#x2019;s tone and texture and coordinates perfectly with true match powder, blush.",
+    "itemID": "B001ADQUWS",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 11468
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Bronzers & Highlighters"
+      ]
+    ],
+    "price": 5.9,
+    "brand": "L&#39;Oreal Paris"
+  },
+  {
+    "title": "CoverGirl Professional Natural Lash No Color Mascara Clear (N) 800, 0.34 Ounce Bottle",
+    "description": "Tame eyebrows and create natural-looking, feather-light lashes with this clear conditioning gel formula. It's hypoallergenic, ophthalmologically-tested and washes off easily, beautifully!",
+    "itemID": "B001ESIZA4",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 6571
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Eyes",
+        "Mascara"
+      ]
+    ],
+    "price": 9.99,
+    "brand": NaN
+  }
+]

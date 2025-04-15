@@ -1,0 +1,48 @@
+[
+  {
+    "title": "real Techniques Blush Brush",
+    "description": "",
+    "itemID": "B004TSFBJO",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 504
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Tools & Accessories",
+        "Makeup Brushes & Tools",
+        "Brushes & Applicators"
+      ]
+    ],
+    "price": 8.98,
+    "brand": "Real Techniques"
+  },
+  {
+    "title": "real Techniques Core Collection Set",
+    "description": "",
+    "itemID": "B004TSFBNK",
+    "helpful": [
+      1,
+      2
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 52
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Tools & Accessories",
+        "Makeup Brushes & Tools",
+        "Brushes & Applicators"
+      ]
+    ],
+    "price": 15.99,
+    "brand": "Real Techniques"
+  }
+]

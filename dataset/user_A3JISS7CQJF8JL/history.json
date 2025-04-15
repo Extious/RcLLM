@@ -1,0 +1,69 @@
+[
+  {
+    "title": "Q-Tips Cotton Swabs, Precision Tips, 170 Count (Pack of 3)",
+    "description": "",
+    "itemID": "B005XIM6J2",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 2067
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Tools & Accessories",
+        "Cotton & Swabs",
+        "Cotton Swabs"
+      ]
+    ],
+    "price": 8.99,
+    "brand": "Q-Tips"
+  },
+  {
+    "title": "Suave Professionals Moroccan Infusion Shine Shampoo 28 oz",
+    "description": "",
+    "itemID": "B00A0IWRT4",
+    "helpful": [
+      3,
+      4
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 23768
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 6.29,
+    "brand": "Suave"
+  },
+  {
+    "title": "Suave Suave Naturals Rainforest Fresh Shampoo, 22.5 Ounce",
+    "description": "",
+    "itemID": "B00A0IWTDI",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 89890
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 6.99,
+    "brand": "Suave"
+  }
+]

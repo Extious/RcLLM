@@ -1,0 +1,70 @@
+[
+  {
+    "title": "Crack Styling Leave-In Treatment with UV and Thermal Protection, 2.5 Fluid Ounce",
+    "description": "Crack is a leave-in hair cream made with acai extract and silk protein this addictive multitasker moisturizes from the hair cuticles to the ends of the hair. Protects hair from dryness.",
+    "itemID": "B004DHYZU2",
+    "helpful": [
+      2,
+      3
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 2963
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Creams, Gels & Lotions"
+      ]
+    ],
+    "price": 11.45,
+    "brand": "Crack"
+  },
+  {
+    "title": "Pureology PureVolume Shampoo, 10.1oz &amp; Conditioner, 8.5 oz deal",
+    "description": "Longer Lasting Hair Colour Guaranteed! \nThis unique moisture-rich formula is free of harsh colour-stripping sulfates and salts. It pumps up your fine, limp hair and keeps the colour fresh \nOur potent AntiFade Complex protects against color fade. \nNot tested on animal",
+    "itemID": "B000NUMRXK",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 109651
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoo & Conditioner Sets"
+      ]
+    ],
+    "price": NaN,
+    "brand": NaN
+  },
+  {
+    "title": "The Balm Bahama Mama Bronzer, For A Sun Kissed Look, 0.25 Ounce",
+    "description": "Bahama mama bronzer, for a sun kissed look 0.25 ounce this matte bronzer creates beautifully bronzed skin, for a fresh off the beach glow.",
+    "itemID": "B0019IVEEI",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 441
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Bronzers & Highlighters"
+      ]
+    ],
+    "price": 11.45,
+    "brand": "theBalm"
+  }
+]

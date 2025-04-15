@@ -1,0 +1,70 @@
+[
+  {
+    "title": "CLEAR SCALP &amp; HAIR BEAUTY Ultra Shea Smooth &amp; Nourish Conditioner, 12.7 Fluid Ounce",
+    "description": "",
+    "itemID": "B007RTR9E2",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 22229
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Conditioners"
+      ]
+    ],
+    "price": 4.48,
+    "brand": NaN
+  },
+  {
+    "title": "CLEAR SCALP &amp; HAIR BEAUTY Moisturizing Dry Scalp Nourishing Shampoo, 12.9 Fluid Ounce",
+    "description": "",
+    "itemID": "B007RTR8A2",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 70675
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 1.23,
+    "brand": "Clear"
+  },
+  {
+    "title": "Banana Boat Sport Cool Zone Sunscreen Continuous Spray SPF 50, 6 Fluid Ounce",
+    "description": "BANANA BOAT sunscreen ultra mist sport performance cool zone, SPF 50, 6-ounces. Long-lasting continuous spray sunscreen. Cool zone instantly cools and refreshes skin. Broad spectrum UVA or UVB protection. Invisible, rub-free, quick drying, and non-greasy. Very water or sweat resistant.",
+    "itemID": "B0063A432W",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 1702
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Sun",
+        "Skin Protection",
+        "Sports"
+      ]
+    ],
+    "price": 9.54,
+    "brand": "Banana Boat"
+  }
+]

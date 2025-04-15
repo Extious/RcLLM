@@ -1,0 +1,70 @@
+[
+  {
+    "title": "NYX Eyebrow Cake Powder, Black/Gray",
+    "description": "Our recipe for cooking up exquisite eyebrows includes wax, tools and a pair of complementary powders, black and gray, which can be customized to create the ideal shade. Each eyebrow cake powder kit includes a slanted brush and a round wand to shape, style and tame eyebrows.",
+    "itemID": "B002QI1E9K",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 5689
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Eyes",
+        "Eyebrow Color"
+      ]
+    ],
+    "price": 5.89,
+    "brand": "NYX"
+  },
+  {
+    "title": "Dermorganic Flex Hold Sculpting Spray with Argan Oil Hair Spray for Unisex, 8.5 Ounce",
+    "description": "DermOrganic Flex Hold Sculpting Spray Made with certified Argan Oil Excellent daily working spray Provides full-bodied textured styles Alcohol-free & humidity-resistant Ideal for setting styles Thermal protection Memory hold maintains shapes even after brushing Non-sticky soft-to-touch results Made with 3 UV inhibitors Suitable for all hair types Enriched with omega-6, lipids, antioxidants, vitamin E and natural moisture factors Directions: Spray into hair while brushing, blow-drying, or finger styling. Spray into sections prior to hot ironing. For curlers, spray prior to wrapping.",
+    "itemID": "B002ZASTP6",
+    "helpful": [
+      3,
+      4
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 14889
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Hair Sprays"
+      ]
+    ],
+    "price": 6.12,
+    "brand": "DermOrganic"
+  },
+  {
+    "title": "Neutrogena Body Oil, Light Sesame Formula, 8.5 Ounce",
+    "description": "Body Oil is a delicately light sesame formula that instantly vanishes into the skin, sealing in moisture. Skin feels moisturized, soft, silky and looks radiant.    Lightweight  Absorbs quickly  Available in Original and Fragrance-free",
+    "itemID": "B000052YOR",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": NaN,
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Oils"
+      ]
+    ],
+    "price": 4.5,
+    "brand": "Neutrogena"
+  }
+]

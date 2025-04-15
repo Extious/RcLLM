@@ -1,0 +1,69 @@
+[
+  {
+    "title": "Enjoy Hydrating Conditioner, 33.8-Ounce",
+    "description": "Create smoothness, softness and shine.",
+    "itemID": "B0048NTJ0W",
+    "helpful": [
+      22,
+      22
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 16256
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care"
+      ]
+    ],
+    "price": 25.49,
+    "brand": "Enjoy"
+  },
+  {
+    "title": "Maybelline New York Volume Express Colossal Cat Eyes Washable Mascara, Glam Black, 0.31 Fluid Ounce",
+    "description": "Now colossal volume gets a feline edge:  volum' express colossal cat eyes' collagen formula and claw brush plump and spike out lashes at the corners for a wild cat eye look. Ophthalmologist tested and contact lens safe.",
+    "itemID": "B009FANUEE",
+    "helpful": [
+      1,
+      2
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 12885
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Eyes",
+        "Mascara"
+      ]
+    ],
+    "price": 3.38,
+    "brand": "Maybelline"
+  },
+  {
+    "title": "L'Oreal Paris Colorist Secrets Brass Banisher",
+    "description": "Banish brassy, yellow or orange tones from your dream shade. Brass banisher reduces brassy tones in just 5 minutes. Hair is left looking natural and full of lustrous shine.",
+    "itemID": "B002PMLGVI",
+    "helpful": [
+      0,
+      1
+    ],
+    "overall": 1.0,
+    "salesRank": {
+      "Beauty": 5918
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Tools & Accessories",
+        "Hair Coloring Tools",
+        "Hair Color Removers"
+      ]
+    ],
+    "price": 12.97,
+    "brand": "L&#39;Oreal Paris"
+  }
+]

@@ -1,0 +1,48 @@
+[
+  {
+    "title": "Ardell Hair Color Bottle, Unred, 0.25 Ounce",
+    "description": "Eliminates unwanted red tones. Softens hi-lift tints. Decreases fading.",
+    "itemID": "B0002Z8IV6",
+    "helpful": [
+      41,
+      41
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 11469
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Hair Color",
+        "Chemical Hair Dyes"
+      ]
+    ],
+    "price": 4.0,
+    "brand": "Ardell"
+  },
+  {
+    "title": "NYX Round Case Lipstick Lip Cream 529 Thalia",
+    "description": "NYX Cosmetics Round Lipstick Lip Cream 529 Thalia.  A velvet-textured lipstick formulated with mineral oils to provide moisturizing benefits and rich colors.   NYX's top selling lipstick, the Round Lipstick offers long-lasting, non-smudging color.",
+    "itemID": "B003I3B3YI",
+    "helpful": [
+      2,
+      2
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Beauty": 39215
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Lips",
+        "Lipstick"
+      ]
+    ],
+    "price": 4.63,
+    "brand": "NYX"
+  }
+]

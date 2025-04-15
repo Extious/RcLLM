@@ -1,0 +1,48 @@
+[
+  {
+    "title": "IBD Bonder",
+    "description": "IBD Bonder is a great non-acid primer with a strong grip.",
+    "itemID": "B0017PN8U6",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 1.0,
+    "salesRank": {
+      "Beauty": 12570
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Tools & Accessories",
+        "Nail Tools",
+        "False Nails"
+      ]
+    ],
+    "price": 9.21,
+    "brand": "IBD"
+  },
+  {
+    "title": "Gelish Candy Land Soak-Off Gel Polish - You're So Sweet You're Giving Me A Toothache",
+    "description": "Nail Harmony Gelish Candy Land collection.The gel applies like polish but is cured under a UV light like gel nails.Cures in a LED lamp in 30 seconds and in two minutes with 36 watt or higher UV nail light.Gelish stays on nails for three weeks with no chipping or peeling.Soaks completely off in only 15 minutes.",
+    "itemID": "B0084OCSAE",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Beauty": 19535
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Nails",
+        "Nail Polish"
+      ]
+    ],
+    "price": 12.1,
+    "brand": "Gelish"
+  }
+]

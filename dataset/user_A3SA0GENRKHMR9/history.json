@@ -1,0 +1,69 @@
+[
+  {
+    "title": "Catwalk Your Highness Thickening Gel Cr&egrave;me By Tigi, 7.27 Ounce",
+    "description": "Tigi catwalk your highness thickening gel creme is designed to create thick, full hair for all hair types. It adds shine and body to hair while leaving it feeling so silky. Tigi catwalk your highness thickening gel creme helps prevent frizz and contains UV filters to shield hair from the sun.",
+    "itemID": "B002TYF8XE",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 15821
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Creams, Gels & Lotions"
+      ]
+    ],
+    "price": 9.21,
+    "brand": "TIGI"
+  },
+  {
+    "title": "Rapidlash Eyelash Enhancing Serum (3ml), 0.1-Fluid Ounces Bottle",
+    "description": "This innovative high-performance serum formulated with advanced polypeptides helps amplify the length, thickness and volume of eyelashes with a simple once a day application.  Ideal for women and men, brittle, weak, thin or short lashes and eyebrows.",
+    "itemID": "B002WTC38O",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": NaN,
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Eyes",
+        "Eyebrow Color"
+      ]
+    ],
+    "price": 23.0,
+    "brand": "RapidLash"
+  },
+  {
+    "title": "Clinique Repairwear Laser Focus Wrinkle &amp; UV Damage Corrector 30ml/1oz - All Skin Types",
+    "description": "Buy Clinique Intensive Treatments - Clinique Repairwear Laser Focus Wrinkle & UV Damage Corrector 30ml/1oz - All Skin Types",
+    "itemID": "B003Y3TX6M",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Health & Personal Care": 24417
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Treatments & Masks"
+      ]
+    ],
+    "price": 40.0,
+    "brand": "Clinique"
+  }
+]

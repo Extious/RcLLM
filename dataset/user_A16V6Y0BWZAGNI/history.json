@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Schwarzkopf OSIS Magic Anti-Frizz Gloss Serum 1.7 oz",
+    "description": "Buy Schwarzkopf Professional Hair Styling Products - Osis + Magic Anti-Frizz Serum 1.7 oz",
+    "itemID": "B000N2N65Q",
+    "helpful": [
+      5,
+      5
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 9634
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Hair Styling Serums"
+      ]
+    ],
+    "price": 8.99,
+    "brand": "Schwarzkopf"
+  },
+  {
+    "title": "Auric Blends Perfume Oil, 0.33 oz - Coco Mango",
+    "description": "A fruity, tropical blend of sweet coconut and exotic mango.  Fresh, summery and fun.",
+    "itemID": "B0000ZLEFU",
+    "helpful": [
+      3,
+      4
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 128553
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Fragrance",
+        "Women's",
+        "Eau de Parfum"
+      ]
+    ],
+    "price": 4.28,
+    "brand": "Auric Blends"
+  },
+  {
+    "title": "Cloud Star Corporation Buddy Wash Lavender &amp; Mint",
+    "description": "There's nothing like snuggling up with your furry friend after a bath with Buddy Wash. This gentle two-in-one shampoo and conditioner is specially formulated to clean and moisturize your dogs coat. Made with natural herbs and oils, and free of harsh ingredients.",
+    "itemID": "B0002YFQ6W",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Pet Supplies": 2020
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Cleansers",
+        "Body Washes"
+      ]
+    ],
+    "price": 9.52,
+    "brand": "Cloud Star"
+  }
+]

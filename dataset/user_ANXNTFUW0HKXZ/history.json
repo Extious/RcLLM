@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Spornette Porcupine Rounder Brush, 2-Inch Diameter",
+    "description": "Spornette 2\" diameter rounder for medium to long hair, reinforced boar with nylon porcupine bristle.",
+    "itemID": "B00011QVHO",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 25713
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Brushes"
+      ]
+    ],
+    "price": 7.23,
+    "brand": "Spornette"
+  },
+  {
+    "title": "Spornette German Porcupine Oval Cushion Brush",
+    "description": "Spornette's Porcupine Cushion made in Germany. Large attractive wooden handle brush. Boar styling bristles leave hair with excellent shine and porcupine nylon bristles penetrate the hair.",
+    "itemID": "B0017OEGX0",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 33524
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Brushes"
+      ]
+    ],
+    "price": 13.98,
+    "brand": "Spornette International"
+  },
+  {
+    "title": "NIVEA Skin Firming and Toning Gel-Cream, 6.7 Ounce (Pack of 2)",
+    "description": "",
+    "itemID": "B001FB5IQO",
+    "helpful": [
+      2,
+      4
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 37936
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Creams"
+      ]
+    ],
+    "price": 27.75,
+    "brand": "Nivea"
+  }
+]

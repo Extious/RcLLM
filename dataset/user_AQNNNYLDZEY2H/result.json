@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Deva Curl Set it Free 6 oz.",
+    "description": "Put an end to frizz with this 24-48 hour moisture lock. Adds shine and defines curls with a long lasting hold. Scented with zesty lemon-lime. Not tested on animals. Made in USA.",
+    "itemID": "B000QE6U54",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 593
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Curl Enhancers"
+      ]
+    ],
+    "price": 15.95,
+    "brand": "DevaCurl"
+  },
+  {
+    "title": "DevaCurl B'Leave-In curl Boost and Volumizer 6 oz",
+    "description": "Infused with specially selected botanicals and enriching proteins. B'Leave-In delivers added moisture, vitality and brilliance to your precious locks. Ideal for all hair types, B'Leave-In maintains luster, silkiness and manageability.",
+    "itemID": "B001PHDT4Q",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 7502
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Creams, Gels & Lotions"
+      ]
+    ],
+    "price": 7.32,
+    "brand": "DevaCurl"
+  },
+  {
+    "title": "Moroccanoil by Moroccanoil Moroccanoil Luminous Hairspray Aero for Unisex, 10 Ounce",
+    "description": "* Won't leave hair looking brittle or dried out * Maintains shape and style while adding a burst of shine! * Leaves hair manageable, no sticky residue * Holds your do all day long",
+    "itemID": "B0039W0UOM",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Beauty": 6008
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Hair Sprays"
+      ]
+    ],
+    "price": 20.15,
+    "brand": "Moroccanoil"
+  }
+]

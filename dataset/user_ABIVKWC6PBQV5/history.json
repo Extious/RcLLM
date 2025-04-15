@@ -1,0 +1,71 @@
+[
+  {
+    "title": "DevaCurl No-Poo Cleanser, 945 ml / 32 oz",
+    "description": "DevaCurl No Poo",
+    "itemID": "B000NE6QP6",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 347
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Cleansers"
+      ]
+    ],
+    "price": 26.99,
+    "brand": "DevaCurl"
+  },
+  {
+    "title": "Deva Curl Set it Free 6 oz.",
+    "description": "Put an end to frizz with this 24-48 hour moisture lock. Adds shine and defines curls with a long lasting hold. Scented with zesty lemon-lime. Not tested on animals. Made in USA.",
+    "itemID": "B000QE6U54",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 593
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Curl Enhancers"
+      ]
+    ],
+    "price": 15.95,
+    "brand": "DevaCurl"
+  },
+  {
+    "title": "DevaCurl One Condition (32 oz)",
+    "description": "DevaCurl One Condition Ultra Creamy Instant Conditioner - Keep curls shiny and manageable with this ultra-creamy super rich conditioner. DevaCurl One Condition restores, hydrates, neutralizes odor and eliminates product residue. Scented with Lemon Grass. For all hair types. (32 oz)",
+    "itemID": "B001D1648M",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 3106
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Curl Enhancers"
+      ]
+    ],
+    "price": 33.98,
+    "brand": "DevaCurl"
+  }
+]

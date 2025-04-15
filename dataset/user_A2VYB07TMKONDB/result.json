@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Seki Edge Stainless Steel Fingernail Clipper",
+    "description": "Stainless steel nail clipper with cast iron lever. The cutting edge is hand-grinded and honed for precise cutting.  Tempered-twice to be long lasting and have a sharp edge.  Little effort required to cut through the thickest nails.",
+    "itemID": "B000F35R00",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 112
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Tools & Accessories",
+        "Nail Tools",
+        "Clippers & Trimmers"
+      ]
+    ],
+    "price": 12.99,
+    "brand": "Seki Edge"
+  },
+  {
+    "title": "CHI Shine Infusion Spray, 5.3 Fluid Ounce",
+    "description": "CHI Thermal Styling allows you to create multiple textures with outstanding style memory. Experience completely new styling possibilities and infuse styling products deeper into the hair with the special CHI 44 ceramic compound to create regenerating style.",
+    "itemID": "B0047DLDX4",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 6428
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Hair Sprays"
+      ]
+    ],
+    "price": 13.77,
+    "brand": NaN
+  },
+  {
+    "title": "Life-Flo Biestro-care, 4-Ounce",
+    "description": "BiEstro-Care(TM) is a combination of two estrogens for perimenopause and menopause solutions in an 80/20 ratio. Packaged in an airtight, hygienically sealed container that provides approximately 1 mg of natural Estriol USP and 0.25 mg of natural Estradiol USP with each full press of the pump.",
+    "itemID": "B003LYDBCG",
+    "helpful": [
+      8,
+      10
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 1920
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Lotions"
+      ]
+    ],
+    "price": 21.09,
+    "brand": "Life-Flo"
+  }
+]

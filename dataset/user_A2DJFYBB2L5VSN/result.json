@@ -1,0 +1,90 @@
+[
+  {
+    "title": "OGX Shampoo, Anti-Breakage Keratin Oil, 13oz",
+    "description": "Indulge in rich, fortifying keratin proteins that reinforce each strand, increasing elasticity to resist breakage caused by brushing and styling, while argan oil conditions and smoothes creating a luminescent shine. Strands are strengthened from within and nourished throughout for longer, stronger hair.",
+    "itemID": "B00ADRGWNE",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 9862
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 3.93,
+    "brand": "OGX"
+  },
+  {
+    "title": "L'Oreal Paris EverSleek Sulfate-Free Smoothing System Intense Smoothing Conditioner, 8.5 Fluid Ounce",
+    "description": "48-Hour Frizz Control, Free of Heavy Silicones. The new standard of smooth has arrived. Ordinary smoothing shampoos can use harsh sulfates to cleanse hair, and have silicones that coat and weigh hair down. Free of harsh sulfates and heavy silicones, the EverSleek Sulfate-Free Smoothing System gently cleanses, and uses natural oils for weightless 48-Hour frizz control. EverSleek combines natural Argan, Sunflower, and Olive oils to penetrate and smooth hair, so that it stays weightlessly sleek through any weather.",
+    "itemID": "B0047ENQFQ",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 716
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Conditioners"
+      ]
+    ],
+    "price": 5.09,
+    "brand": "L&#39;Oreal Paris"
+  },
+  {
+    "title": "L'Oreal Paris EverSleek Sulfate-Free Smoothing System Intense Smoothing Shampoo, 8.5 Fluid Ounce",
+    "description": "48-Hour Frizz Control, Free of Heavy Silicones. The new standard of smooth has arrived. Ordinary smoothing shampoos can use harsh sulfates to cleanse hair, and have silicones that coat and weigh hair down. Free of harsh sulfates and heavy silicones, the EverSleek Sulfate-Free Smoothing System gently cleanses, and uses natural oils for weightless 48-Hour frizz control. EverSleek combines natural Argan, Sunflower, and Olive oils to penetrate and smooth hair, so that it stays weightlessly sleek through any weather.",
+    "itemID": "B0047EPOZ6",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 7742
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 5.49,
+    "brand": "L&#39;Oreal Paris"
+  },
+  {
+    "title": "L'Oreal Paris EverStrong Thickening Shampoo, 8.5 Fluid Ounce",
+    "description": "Gently removes build up of excess oils, environmental pollutants and product build up for a clean, healthy scalp and thicker, stronger looking hair.",
+    "itemID": "B00AREI3BC",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 1471
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 3.46,
+    "brand": "L&#39;Oreal Paris"
+  }
+]

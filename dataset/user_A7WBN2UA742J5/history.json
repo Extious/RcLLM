@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Paul Mitchell Shampoo Two, Deep Cleaning, 10.14-ounce",
+    "description": "Shampoo Two",
+    "itemID": "B000UPEF88",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 3120
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 6.87,
+    "brand": "Paul Mitchell"
+  },
+  {
+    "title": "Aquaphor Lip Repair Dry, Chapped Lip Balm, 0.35 oz",
+    "description": "Aquaphor Lip Repair + Protect Broad Spectrum SPF30 lip balm immediately soothes and relieves cracked and chapped lips.  It seals in moisture to help heal severely dry lips and leave lips healthy looking. This unique formula, enriched with Shea Butter and Vitamin E, helps protect from the drying wind and cold, dry air and provides UVA/UVB broad spectrum protection. Formulated for sensitive lips, Aquaphor Lip Repair + Protect is fragrance-free and dye-free.",
+    "itemID": "B004FHZKOA",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 1314
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Oils"
+      ]
+    ],
+    "price": 3.96,
+    "brand": "Aquaphor"
+  },
+  {
+    "title": "Best-Selling Hyaluronic Acid Serum for Skin-- 100% Pure-Highest Quality, Anti-Aging Serum-- Intense Hydration + Moisture, Non-greasy, Paraben-free-Best Hyaluronic Acid for Your Face (Pro Formula) 2 oz.",
+    "description": "Pure Hyaluronic Acid Serum Offers Effective Hydrationand Anti-Aging Benefits For a Youthful Appearance to Skin-Fix uneven skin tone-Heal dryness on face with intense hydration-Skin plumping properties help reduce fine lines and wrinkles-Instantly brighter complexion-Lighten dark under eye circles-Under eye puffiness treatmentsafe product for sensitive skin, oily skin remedy; safe for all skin types100% pure and stable hyaluronic acid at the highest concentration, to ensure its fullestpotential with maximum results.Hyaluronic Acid effectively binds water to cells and is responsible for theelasticity and resiliency of the skin. Such properties make Hyaluronic Acid Serum effectivein transforming skin to promote a healthy and balanced glow.**All Cosmedica Skincare products are backed by our 30 day satisfaction guarantee**",
+    "itemID": "B0090UJFYI",
+    "helpful": [
+      2,
+      3
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 189
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Oils & Serums"
+      ]
+    ],
+    "price": 24.99,
+    "brand": "Cosmedica Skincare"
+  }
+]

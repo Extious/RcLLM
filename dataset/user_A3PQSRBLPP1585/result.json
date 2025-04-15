@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Earth Science Chamomile &amp; Green Tea Eye Makeup Remover",
+    "description": "A gentle and effective herbal formula to purify and refresh the skin while removing makeup. Non-irritatin; no artificial colors; 100% fragrance free.",
+    "itemID": "B000FIFJBM",
+    "helpful": [
+      1,
+      2
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 8929
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Makeup Remover",
+        "Eyes"
+      ]
+    ],
+    "price": 7.17,
+    "brand": "Earth Science"
+  },
+  {
+    "title": "Coastal Scents Contour and Blush Palette",
+    "description": "This palette contains 6 contouring, shading, concealing, and blush shades. The powders are all matte.",
+    "itemID": "B002QFGKUQ",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 845
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Blush"
+      ]
+    ],
+    "price": 11.75,
+    "brand": "Coastal Scents"
+  },
+  {
+    "title": "NYX Cosmetics Long Lasting Slim Lip Liner Pencils 6 Colors: Coffee, Mahogany, Ever, Soft Brown, Pale Pink, and Nude Beige",
+    "description": "NYX Slim Lip Pencil applies smoothly, blends easily. 6 Colors: Coffee, Mahogany, Ever, Soft Brown, Pale Pink and Nude Beige",
+    "itemID": "B007LANY2S",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 4571
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Lips",
+        "Lip Liners"
+      ]
+    ],
+    "price": 13.08,
+    "brand": "NYX"
+  }
+]

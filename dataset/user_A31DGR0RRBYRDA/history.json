@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Toni&amp;Guy Cleanse Shampoo for Damaged Hair, 8.5 Fluid Ounce",
+    "description": "",
+    "itemID": "B006L6A06Q",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 60061
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 11.36,
+    "brand": "Toni &amp; Guy"
+  },
+  {
+    "title": "Skinny Cream Clinically Proven Cellulite Reduction, 6 Ounce",
+    "description": "With its state of the art proprietary blend of potent ingredients, Skinny Cream gives you clinically proven results to reduce the appearance of cellulite, while making the body smoother and firmer. This revolutionary cream not only diminishes the appearance of cellulite while dramatically increasing the skin's smoothness, but it causes \"reverse differentiation\" causing fat cells and fat tissue to actually reverse its form into healthy, fibrolast-like tissue. The skin will be smoother, firmer and healthier with more suppleness and elasticity...and a dramatic reduction in the appearance of cellulite.",
+    "itemID": "B009LOJ5MA",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 8514
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Lotions"
+      ]
+    ],
+    "price": 29.99,
+    "brand": "Skinny Cream"
+  },
+  {
+    "title": "Bic Soleil Shave And Trim Shaver, 4 Count",
+    "description": "BIC Soleil Shave and Trim offers 3 flexible blades for a flawlessly smooth shave and a safe bikini groomer. The BIC Soleil Shave and Trim is the first disposable shaver and bikini trimmer in one. Conveniently shave all body parts and trim your bikini with just one product. BIC's best triple blade technology and trimming innovation now in a Women's shaver.",
+    "itemID": "B00D18ZDM8",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Health & Personal Care": 69741
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Oils"
+      ]
+    ],
+    "price": 8.95,
+    "brand": NaN
+  }
+]

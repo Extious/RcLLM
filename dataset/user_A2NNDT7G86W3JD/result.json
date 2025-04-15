@@ -1,0 +1,48 @@
+[
+  {
+    "title": "Conair Power Facial Cleanser",
+    "description": "The Conair power facial cleanser is the perfect way to exfoliate and cleanse your face. It has an advanced two-speed cleansing system and can be used with facial cleansers or facial scrubs for various purposes. The two attachments provide deep cleansing and gentle exfoliation. So for an at home facial that you can do yourself, the Conair power facial cleanser is the item for you.",
+    "itemID": "B006HT0AK8",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 6040
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face"
+      ]
+    ],
+    "price": 10.29,
+    "brand": "Conair"
+  },
+  {
+    "title": "Cetaphil Dermacontrol Moisturizer SPF 30, 4 Fluid Ounce",
+    "description": "",
+    "itemID": "B006L2137U",
+    "helpful": [
+      2,
+      2
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 265
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Sunscreens & Self Tanners",
+        "Sunscreens"
+      ]
+    ],
+    "price": 18.39,
+    "brand": "Cetaphil"
+  }
+]

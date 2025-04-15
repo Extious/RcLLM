@@ -1,0 +1,48 @@
+[
+  {
+    "title": "Ardell Duo Brow Brush",
+    "description": "The Ardell Duo Brow Brush Grooming Tool is an easy and convenient tool perfect for shaping and defining eyebrows.",
+    "itemID": "B008DLT9H8",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Beauty": 512
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Tools & Accessories",
+        "Makeup Brushes & Tools",
+        "Brushes & Applicators"
+      ]
+    ],
+    "price": 5.99,
+    "brand": "Ardell"
+  },
+  {
+    "title": "Anastasia Beverly Hills DIPBROW - Color - Chocolate",
+    "description": "This waterproof brow color is ideal for sculpting, defining, and carving perfectly precise brows that won't fade. The smudge-free, creamy formula glides on skin and adheres to hair. A must-have for oily skin and humid climates. Tighten cap to prevent drying. DIPBROW's waterproof formula works well as an Eyeliner that's stays put for a natural-looking finish. DIPBROW 's shades were carefully created to exist within the current line of Anastasia Bevery Hills Products. It can be seamlessly used with other Anastsia Beverly Hills products for perfect color matching.",
+    "itemID": "B00HF8TAP6",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 4711
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Eyes",
+        "Eyebrow Color"
+      ]
+    ],
+    "price": 18.0,
+    "brand": "Anastasia"
+  }
+]

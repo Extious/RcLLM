@@ -1,0 +1,46 @@
+[
+  {
+    "title": "Paul Mitchell Men Mitch Double Hitter Sulfate Free 2-in-1 Shampoo and Conditioner, 8.5 Ounce",
+    "description": "Wash and condition in one easy step.",
+    "itemID": "B005NWMR56",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 3249
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoo & Conditioner Sets"
+      ]
+    ],
+    "price": 6.86,
+    "brand": "Paul Mitchell"
+  },
+  {
+    "title": "Suave Professionals Moroccan Infusion Shine Conditioner 28 oz",
+    "description": "",
+    "itemID": "B00A0IWRU8",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 46538
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Conditioners"
+      ]
+    ],
+    "price": 7.29,
+    "brand": "Suave"
+  }
+]

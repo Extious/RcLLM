@@ -1,0 +1,95 @@
+[
+  {
+    "title": "Revlon PhotoReady Makeup, Nude 004, 1-Fluid Ounce",
+    "description": "Liquid makeup designed to provide perfected skin in any light. Formula features pigments that bend, reflect and diffuse light to help erase imperfections on skin. Complete yet undetectable coverage. Soft, luminous airbrushed finish with SPF 20.Oil free, fragrance free.",
+    "itemID": "B0030HAE2Y",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 1.0,
+    "salesRank": {
+      "Beauty": 9375
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Foundation"
+      ]
+    ],
+    "price": 10.7,
+    "brand": "Revlon"
+  },
+  {
+    "title": "Bed Head Deep Waver",
+    "description": "Want frizz-free, bouncy waves that last all day and night, then you will love bed head's 3/4 inch tourmaline ceramic deep waver. tourmaline technology leaves you with frizz-free shiny styles. ceramic technology provides high, even heat that penetrates hair from the inside-out, helping hair retain natural moisture for &#x201C;frizz-free&#x201D; styles.",
+    "itemID": "B003FBI9LS",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 179
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Irons",
+        "Curling Irons"
+      ]
+    ],
+    "price": 20.98,
+    "brand": "Bed Head"
+  },
+  {
+    "title": "Hard Candy Sheer Envy Primers Primer 137",
+    "description": "Sheer Envy Primer provides a soft, luminous glow while restoring skin's natural radiance. For all skin tones, wear alone or under makeup",
+    "itemID": "B007QED10E",
+    "helpful": [
+      1,
+      2
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 111491
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Foundation Primers"
+      ]
+    ],
+    "price": 17.0,
+    "brand": "Hard Candy"
+  },
+  {
+    "title": "Conair 62502z Medium Spiral Rollers, 10 Pack, Colors may vary",
+    "description": "Make waves! Conair's 10-pack of medium spiral rollers lets you create waves easily. Lightweight foam rollers in hot style colors are comfortable and easy to use on wet, damp, or dry hair. Create salon-style spiral curls, or make waves to add bounce and volume.  Smaller spiral rollers make smaller, tighter waves and spirals, medium sizes make looser waves and spirals. Wind your hair down the rod for spiral curls or around the middle for waves. Simply bend the ends to secure. It's simple beauty technology for your best look.",
+    "itemID": "B0051E3426",
+    "helpful": [
+      2,
+      2
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 5053
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Hair Rollers"
+      ]
+    ],
+    "price": 7.29,
+    "brand": NaN
+  }
+]

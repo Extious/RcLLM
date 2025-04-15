@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Sigma E70 - Medium Angled Shading",
+    "description": "Unique Feature: Soft and angled beveled edges\nFunction: Soft application of color\nRecommended Use: Use for brow highlighting or to blend the crease.\n\n 2013 Sigma Enterprises, LLC",
+    "itemID": "B005OZS5TO",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 37160
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Tools & Accessories",
+        "Makeup Brushes & Tools",
+        "Brushes & Applicators"
+      ]
+    ],
+    "price": 7.9,
+    "brand": "Sigma Beauty"
+  },
+  {
+    "title": "Sigma F88 - Flat Angled Kabuki TM",
+    "description": "Unique Feature: Soft and angled head\nFunction: Blended cream product application\nRecommended Use: Blends foundation easily onto hard-to-reach areas of the face. Angle fits all areas of the face seamlessly. Works especially well on cheekbones and contours of the nose.\nBristle Type: Synthetic Sigmax\n\n 2013 Sigma Enterprises, LLC",
+    "itemID": "B008K1YYM6",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 14578
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Tools & Accessories",
+        "Makeup Brushes & Tools",
+        "Brushes & Applicators"
+      ]
+    ],
+    "price": 24.0,
+    "brand": "Sigma Beauty"
+  },
+  {
+    "title": "Sigma F50 - Duo Fibre",
+    "description": "Unique Feature: Fiber blend with large flat top\nFunction: Creates an airbrush-like effect onto the skin\nRecommended Use: Can be used with powder, liquid or cream products.\n\n 2013 Sigma Enterprises, LLC",
+    "itemID": "B005P0QN56",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 61732
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Tools & Accessories",
+        "Makeup Brushes & Tools",
+        "Brushes & Applicators"
+      ]
+    ],
+    "price": 26.0,
+    "brand": "Sigma Beauty"
+  }
+]

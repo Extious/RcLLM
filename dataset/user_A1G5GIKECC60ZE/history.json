@@ -1,0 +1,68 @@
+[
+  {
+    "title": "Suave Shampoo, Daily Clarifying - 12oz.",
+    "description": "",
+    "itemID": "B0000530LP",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 19755
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 6.29,
+    "brand": "Suave"
+  },
+  {
+    "title": "Suave Naturals Conditioner Ocean Breeze 22.5 oz.",
+    "description": "Suave natural&#x2019;s ocean breeze conditioner was launched by the design house of suave. Provides extra moisture. Adds unbelievable fullness",
+    "itemID": "B000GCTAI0",
+    "helpful": [
+      0,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 99118
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Conditioners"
+      ]
+    ],
+    "price": 2.31,
+    "brand": "Suave"
+  },
+  {
+    "title": "Suave Naturals Gentle Cleansing Shampoo, Waterfall Mist, 12 oz",
+    "description": "",
+    "itemID": "B000W30RP8",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 33227
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 5.95,
+    "brand": "Suave"
+  }
+]

@@ -1,0 +1,73 @@
+[
+  {
+    "title": "Anthony Logistics for Men Exfoliating Mud Scrub Bar, 5.5 Ounce",
+    "description": "A minty fresh 100% vegetable-based soap bar for the body with purifying dead sea mud, exfoliating oatmeal and softening glycerin. Stimulates and helps deep clean skin. Exfoliates the body and helps clear impurities from the pores.",
+    "itemID": "B000JVTYIY",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 128331
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Exfoliators & Scrubs",
+        "Scrubs"
+      ]
+    ],
+    "price": NaN,
+    "brand": NaN
+  },
+  {
+    "title": "Dermalogica Dermal Clay Cleanser, 8.4 Fluid Ounce",
+    "description": "A skin-perfecting formula that provides deep-cleansing to oily, congested skin. Water-soluble kaolin and green clays combine with purifying extracts of sambucus, ivy and lemon to remove excess oils and refine the skin's texture. Anti-inflammatory cucumber and healing sage soothe irritation, while refreshing menthol revitalizes even the most tired skin.",
+    "itemID": "B000LPJASC",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 30995
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Cleansers",
+        "Washes"
+      ]
+    ],
+    "price": 23.89,
+    "brand": "Dermalogica"
+  },
+  {
+    "title": "L'Oreal Paris Sublime Glow Daily Body Moisturizer + Natural Skin Tone Enhancer, Medium, 8.0 Ounce",
+    "description": "Get a beautiful glow of summer all year round with Sublime Glow Daily Body Moisturizer + Natural Skin Tone Enhancer for Medium Skin Tones. Perfect for brunettes or anyone who tans easily in the sun. This daily moisturizer and natural skin-tone enhancer is specifically designed to work with your body's unique chemistry. Advanced skin-tone-specific formulas gradually deepen your skin's natural complexion for the perfect dose of healthy summer color every time you moisturize.",
+    "itemID": "B000NPWQU4",
+    "helpful": [
+      0,
+      9
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 2407
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Sun",
+        "Self-Tanners & Bronzers"
+      ]
+    ],
+    "price": 9.0,
+    "brand": "L&#39;Oreal Paris"
+  }
+]

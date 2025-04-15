@@ -1,0 +1,76 @@
+[
+  {
+    "title": "L'Oreal Paris Sublime Bronze Luminous Bronzer, 6.7 Ounce",
+    "description": "Go from pale princess to luminous bronze goddess in an instant. With light-reflecting micro-particles, Sublime Bronze Luminous Bronzer instantly illuminates your skin for a natural-looking, long-lasting bronze glow. Enriched with fast-action self tanners and Vitamin E, a powerful anti-oxidant, this quick-drying lotion replenishes skin as your sunless tan develops. A beautifully radiant sun-kissed look, streak-free, sun-free. All with a new deliciously fresh summer scent. Now, Summer never has to end.",
+    "itemID": "B00277JKY6",
+    "helpful": [
+      5,
+      7
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 13638
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Sun",
+        "Self-Tanners & Bronzers"
+      ]
+    ],
+    "price": 7.84,
+    "brand": "L&#39;Oreal Paris"
+  },
+  {
+    "title": "Spenco Yumi - Women's Sandal - Caramel/Coffee",
+    "description": NaN,
+    "itemID": "B004H85FTM",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Shoes": 938
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Tools & Accessories",
+        "Nail Tools",
+        "Spa Slippers"
+      ],
+      [
+        "Clothing, Shoes & Jewelry",
+        "Women"
+      ]
+    ],
+    "price": NaN,
+    "brand": NaN
+  },
+  {
+    "title": "Creative Nail Design SolarOil .5oz",
+    "description": "Sweep this oil across your nails and you'll know why nail and beauty experts swear by it and have been using this staple nail care item for years. A rejuvenating blend of jojoba, rice bran and sweet almond oils infused with the power of vitamin E, penetrates deeply into your cuticles and nails to prevent them from becoming brittle and to promote healthy nail growth.",
+    "itemID": "B0002Z8QHW",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 19491
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Hands & Nails",
+        "Cuticle Care",
+        "Cuticle Creams & Oils"
+      ]
+    ],
+    "price": 8.25,
+    "brand": "CND Cosmetics"
+  }
+]

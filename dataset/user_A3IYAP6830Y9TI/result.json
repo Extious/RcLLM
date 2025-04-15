@@ -1,0 +1,71 @@
+[
+  {
+    "title": "BaByliss Pro BABTTW5586 TT Tourmaline Titanium 5000 Dryer",
+    "description": "Tourmaline Titanium provides exceptional heat conductivity. The ionic generator emits higher concentration of ions, enhancing tourmaline's natural ions, to more effectively eliminate frizz and close hair cuticles. The dynamic combination of tourmaline and titanium allows stylists to achieve professional results on any hair type or texture.",
+    "itemID": "B002NGMEVC",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 2460
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Hair Dryers"
+      ]
+    ],
+    "price": 59.33,
+    "brand": "BaBylissPRO"
+  },
+  {
+    "title": "L'Oreal Paris Youth Code BB Cream Illuminator, Light, 2.5 Fluid Ounce",
+    "description": "Experience 5 complexion-perfecting benefits in a single step. Youth Code BB Cream Illuminator instantly evens, illuminates, perfects, moisturizes, and protects skin. In one week, tone and texture are improved and skin is healthier looking. Contains Broad Spectrum UVA/UVB SPF 15. Available in 2 shades.",
+    "itemID": "B008BS9YNC",
+    "helpful": [
+      1,
+      3
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Beauty": 10624
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Creams & Moisturizers"
+      ]
+    ],
+    "price": 8.13,
+    "brand": "L&#39;Oreal Paris"
+  },
+  {
+    "title": "Method Gel Hand Wash 12oz, Sweet Water (Pack of 6)",
+    "description": "",
+    "itemID": "B000EEZAXO",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Health & Personal Care": 2760
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Hands & Nails",
+        "Hand Soaps"
+      ]
+    ],
+    "price": 20.69,
+    "brand": "Method"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Axe Styling Aid, Hold Plus Touch, Spiking Glue, 3.2 Ounce",
+    "description": "AXE Hold+Touch Spiking Glue for strong hold plus touchable feel for normal hair.",
+    "itemID": "B004UKENRC",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 54200
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Creams, Gels & Lotions"
+      ]
+    ],
+    "price": 4.78,
+    "brand": "AXE"
+  },
+  {
+    "title": "John Frieda Sleek Finish 1 Inch  Flat Iron",
+    "description": "",
+    "itemID": "B004YZMKLY",
+    "helpful": [
+      2,
+      3
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 8368
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Irons",
+        "Flattening Irons"
+      ]
+    ],
+    "price": 28.95,
+    "brand": "John Frieda"
+  },
+  {
+    "title": "Cotz Face Natural Skin Tone SPF 40, 1.5 Ounce",
+    "description": "A sheer mineral formula, offering elegance and superior sun protection, in a silky matte finish. A cosmetically elegant physical sunscreen helps prevent pre-mature skin aging, sun-induced wrinkles and loss of firmness. This lightly-tinted formulation works very well as a daily makeup primer.",
+    "itemID": "B0073P01RC",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 835
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Sun",
+        "Skin Protection"
+      ]
+    ],
+    "price": 15.76,
+    "brand": "CoTZ"
+  }
+]

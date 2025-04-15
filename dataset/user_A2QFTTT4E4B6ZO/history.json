@@ -1,0 +1,70 @@
+[
+  {
+    "title": "Infiniti Pro by Conair 3-in-1 Hair Styler",
+    "description": "Top technology and attachments that lock securely into place make this Infiniti by Conair 1875W hot-air styler perfect for all of today's hottest looks.  The swivel cord never gets in the way.  Salon results without the Salon from Infiniti by Conair.",
+    "itemID": "B001330XFA",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 903
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Hot-Air Brushes"
+      ]
+    ],
+    "price": 28.75,
+    "brand": "Conair"
+  },
+  {
+    "title": "Aphogee Conditioner Pro-Vitamin Leave-In 8 oz.",
+    "description": "Apply to wet or dry hair without rinsing. This deep penetrating, leave-in conditioner enriches hair using ApHogee's exclusive Pro-Phytamine complex, which smoothes hair and increases manageability. It helps all hair types support styles better and protects against thermal damage. Balanced pH seals the cuticle to detangle and enhance color and highlights. This leave-in conditioner is recommended prior to using heat styling tools or dryers. It also protects hair color.",
+    "itemID": "B000142OZY",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 20568
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Conditioners"
+      ]
+    ],
+    "price": 6.75,
+    "brand": "Aphogee"
+  },
+  {
+    "title": "Seche Vite Dry Fast Top Nail Coat, 0.5 Ounce",
+    "description": "Nailtiques nail varnishes are formulated with the same strengthening ingredients that the cult favorite protein formulas are enriched with. Giving your nail protein treatments an added boost, this luxurious nail polish allows the protein to penetrate through the polish, for maximum benefits.",
+    "itemID": "B00150LT40",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 29
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Nails",
+        "Top & Base Coats"
+      ]
+    ],
+    "price": 4.7,
+    "brand": "Seche"
+  }
+]

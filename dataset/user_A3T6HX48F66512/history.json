@@ -1,0 +1,73 @@
+[
+  {
+    "title": "American Crew Pomade, 1.75 oz",
+    "description": "Buy American Crew Hair Styling Products - American Crew Pomade for Hold & Shine 1.75 oz. How-to-Use: Scoop a dime-sized amount of hair paste or wax into hands and work into hair for desired style.",
+    "itemID": "B0012134EK",
+    "helpful": [
+      5,
+      7
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 11295
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Pomades & Waxes"
+      ]
+    ],
+    "price": 1.35,
+    "brand": "AMERICAN CREW"
+  },
+  {
+    "title": "TIGI Bed Head After the Party Smoothing Cream, 3.4 Ounce(pack of 2)",
+    "description": "TIGI BedHead After the Party Smoothing Cream 3.4 Ounces",
+    "itemID": "B001EWF2SI",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 20241
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Creams, Gels & Lotions"
+      ]
+    ],
+    "price": 26.7,
+    "brand": "TIGI"
+  },
+  {
+    "title": "Simple Replenishing Rich Moisturizer, 4.2 Ounce",
+    "description": "",
+    "itemID": "B005TI7L6O",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 6976
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Creams & Moisturizers",
+        "Fluids & Lotions",
+        "Lotions"
+      ]
+    ],
+    "price": 7.02,
+    "brand": "Simple"
+  }
+]

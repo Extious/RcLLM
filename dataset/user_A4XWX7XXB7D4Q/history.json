@@ -1,0 +1,70 @@
+[
+  {
+    "title": "Suave Shampoo, Daily Clarifying - 12oz.",
+    "description": "",
+    "itemID": "B0000530LP",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 19755
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 6.29,
+    "brand": "Suave"
+  },
+  {
+    "title": "Philosophy Hope in a Jar Daily Moisturizer, Dry Skin, 2 Ounce",
+    "description": "A creamy, soothing daily moisturizer that helps improve the natural moisture balance, while soothing and comforting the skin.",
+    "itemID": "B00021B8L2",
+    "helpful": [
+      3,
+      4
+    ],
+    "overall": 1.0,
+    "salesRank": {
+      "Beauty": 12304
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Creams & Moisturizers"
+      ]
+    ],
+    "price": 25.38,
+    "brand": "Philosophy"
+  },
+  {
+    "title": "Youth Dew by Estee Lauder for Women - 2.2 Ounce EDP Spray",
+    "description": "Introduced in 1953. Fragrance notes: warm and exotic, with notes of jasmine and rose, amber, moss and patchouli. Recommended use: evening.When&#xA0;applying&#xA0;any fragrance please consider that there are several factors which can affect the natural smell of your skin and, in turn, the way a scent smells on you.&#xA0; For instance, your mood, stress level, age, body chemistry,&#xA0;diet, and current medications may all alter the scents you wear.&#xA0;&#xA0;Similarly, factor such as dry or oily&#xA0;skin can even affect the amount of time a fragrance will last after being applied",
+    "itemID": "B000C1VWIQ",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 11194
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Fragrance",
+        "Women's",
+        "Eau de Parfum"
+      ]
+    ],
+    "price": 31.99,
+    "brand": "Estee Lauder"
+  }
+]

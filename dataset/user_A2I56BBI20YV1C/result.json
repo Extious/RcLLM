@@ -1,0 +1,73 @@
+[
+  {
+    "title": "e.l.f. Makeup Mist and Set, Clear, 2.02 Ounce",
+    "description": "Wish you could have a product for your makeup like hairspray is for your hair. Well. Keep your makeup staying in place all day with a radiance boosting invisible hold with our new makeup mist and set. The lightweight, comfortable and alcohol free formula improves makeup wearability and prevents color from running or fading.",
+    "itemID": "B004X1QY20",
+    "helpful": [
+      3,
+      4
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 220
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Creams & Moisturizers",
+        "Fluids & Lotions",
+        "Fluids"
+      ]
+    ],
+    "price": 5.13,
+    "brand": "e.l.f. Cosmetics"
+  },
+  {
+    "title": "e.l.f. 144 Piece Eyeshadow Palette",
+    "description": "This set includes 144 shades of eyeshadow for an endless amount of amazing looks. All the eyeshadow you can ever want. Create any look that refelects your personal style.",
+    "itemID": "B005EFYXLI",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 9407
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Eyes",
+        "Eye Shadow"
+      ]
+    ],
+    "price": 15.0,
+    "brand": "e.l.f. Cosmetics"
+  },
+  {
+    "title": "Makeup Geek - Pointed Crease Brush",
+    "description": "This brush is great for getting in the crease of the eye! It is light weight and easy to handle! The bristles are soft but durable to blend color or put heavy amounts of color on the eye! A must have for every makeup artist!",
+    "itemID": "B0087HZ15W",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 27035
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Tools & Accessories",
+        "Makeup Brushes & Tools",
+        "Brushes & Applicators"
+      ]
+    ],
+    "price": 5.99,
+    "brand": NaN
+  }
+]

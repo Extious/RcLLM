@@ -1,0 +1,94 @@
+[
+  {
+    "title": "Andis 75370 Tourmaline Ionic/Ceramic 1875 Watt Hair Dryer",
+    "description": "",
+    "itemID": "B001BOFIRO",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 80742
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Hair Dryers"
+      ]
+    ],
+    "price": NaN,
+    "brand": NaN
+  },
+  {
+    "title": "Swissco Deluxe Bath Brush, Tortoise 1 ea",
+    "description": "European Collection",
+    "itemID": "B000TUC9AA",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 864
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Bathing Accessories",
+        "Bath Brushes"
+      ]
+    ],
+    "price": 8.07,
+    "brand": "Swissco"
+  },
+  {
+    "title": "Pureology Hydrate Shampoo 64 Oz &amp; Hydrate Conditioner 64 Oz DUO",
+    "description": "PureOlogy 64 Oz  Shampoo & Conditioner. PureOlogy Hydrate Shampoo- Pamper your hair with our award-winning, moisturizing, super-concentrated shampoo. This extra gentle, non-colour stripping, ZeroSulfate, salt-free formula enhances colour brilliance and maximizes colour retention. PureOlogy Hydrate Conditioner - Keep colour radiant and feel this award-winning conditioner working to moisturize, detangle and lock in colour. Advanced Nano Technology formula infuses vital moisture and healthy colour brilliance while maximizing colour retention. Feel it working.",
+    "itemID": "B0019ANSAO",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 5896
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoo & Conditioner Sets"
+      ]
+    ],
+    "price": 132.99,
+    "brand": "Hydrate"
+  },
+  {
+    "title": "Gold Bond Men's Everyday Essentials Lotion, 14.5 Ounce",
+    "description": "Men's Essentials offers everyday moisturizing for Body, Hands and Face. Replenishes and hydrates dry skin for daily preventative maintainence. A formula that Men want and is appropriate for daily use - non greasy and long lasting. Men's Essentials is a multi purpose lotion with it's 3-in-1 everyday formula for Body, Face and Hands. It has a light, neutral fresh scent that.",
+    "itemID": "B00AHH00MO",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 2176
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Lotions"
+      ]
+    ],
+    "price": 7.0,
+    "brand": "Gold Bond"
+  }
+]

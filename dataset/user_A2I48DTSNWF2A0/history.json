@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Blue Lizard Australian Sunscreen SPF 30+, Face, 3 Ounce",
+    "description": "Convenient/Travel friendly 3 oz.",
+    "itemID": "B0019QU5P4",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 1956
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Sunscreens & Self Tanners",
+        "Sunscreens"
+      ]
+    ],
+    "price": 8.07,
+    "brand": "Blue Lizard"
+  },
+  {
+    "title": "John Frieda Sheer Blonde Lustrous Touch Strengthening Shampoo for All Types of Blonde Hair, 8.45 Ounce",
+    "description": "Healthy strands reflect glistening color and natural shine. Blonde strands tend to be fragile and prone to breakage, needing strength and nourishment to sparkle with bright, shimmering tones.",
+    "itemID": "B001BAFQMK",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 10370
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 4.97,
+    "brand": "John Frieda"
+  },
+  {
+    "title": "Olay Pro-X Advanced Cleansing System 0.68 Fl Oz, 1-Count",
+    "description": "",
+    "itemID": "B0043OYFKU",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 6
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Treatments & Masks",
+        "Microdermabrasion"
+      ]
+    ],
+    "price": 26.99,
+    "brand": "Olay"
+  }
+]

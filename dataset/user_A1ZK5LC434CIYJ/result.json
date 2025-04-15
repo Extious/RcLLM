@@ -1,0 +1,93 @@
+[
+  {
+    "title": "Tarte Cosmetics Gifted Amazonian Clay Smart Mascara 0.24 oz.",
+    "description": "Tarte Cosmetics Gifted Amazonian Clay Smart Mascara intuitively identifies and treats your specific lash concerns. Amazonian clay balances oil production and hydration while repairing dry, brittle shafts and revitalizing follicles for thicker, fuller-looking lashes. Rice bran proteins and carnauba wax help to extend lash length and mineral-based pigments ensure bold color and well-defined volume. Black is a jet black shade.",
+    "itemID": "B004WC37SY",
+    "helpful": [
+      2,
+      3
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Health & Personal Care": 20120
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Eyes",
+        "Mascara"
+      ]
+    ],
+    "price": 25.9,
+    "brand": "Tarte Cosmetics"
+  },
+  {
+    "title": "Vidal Sassoon VS547 1875W Tourmaline Ceramic Hair Dryer",
+    "description": "The Vidal Sassoon 1875 Watt Tourmaline, Ceramic Hair Dryer helps condition, add shine and volume while reducing frizz. The Cold Shot button allows you to set your style. This unit also features a removable end cap for easy cleaning, protective anti-skid bumpers, an airflow concentrator attachment, and a volumizing finger diffuser attachment that dries hair gently. Style your hair exactly how you want.",
+    "itemID": "B000H0XV3G",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 7372
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Hair Dryers"
+      ]
+    ],
+    "price": 17.99,
+    "brand": "Vidal Sassoon"
+  },
+  {
+    "title": "Olivia Garden Ceramic and Ion Thermal Brush, 3/4 Inch",
+    "description": "This synthetic bristle thermal brush features a vented ceramic barrel for faster and more consistent styling. This unique brush also includes an ion charged material designed to help smooth and shine hair.",
+    "itemID": "B000N8DMIQ",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 55944
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Brushes"
+      ]
+    ],
+    "price": 15.48,
+    "brand": "Olivia Garden"
+  },
+  {
+    "title": "TRESemme Fresh Start Volumizing Dry Shampoo, 5.7 oz",
+    "description": "Formula with Mineral Clay soaks up excess oil and impurities to leave hair looking refreshed. Contains Citrus Extracts to neutralize odor and enhance clean feeling.",
+    "itemID": "B0036WJ456",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 1.0,
+    "salesRank": {
+      "Beauty": 150504
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 9.15,
+    "brand": "TRESemme"
+  }
+]

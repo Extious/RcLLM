@@ -1,0 +1,73 @@
+[
+  {
+    "title": "Coastal Scents Unrefined Shea Butter, 10 Ounce",
+    "description": "This is unrefined shea butter and therefore still retains its medicinal properties. Shea butter has been used for centuries in Africa. It is used to moisturize and protect the skin from sun, wind, heat and salt water. It is known as the most effective skin moisturizer and conditioner because of its high content of non-saponifiable fats including vitamin f. It is an excellent skin moistener and is used for aging skin, eczema and all forms of massage. It is also used to relax the muscles and to treat sprains, wounds, and colds. The unique properties of shea butter also helps prevent and protect dry skin providing temporal relief from irritation, dryness, and wind burned skin. Shea butter can be used as a hair dressing cream to moisturize a dry scalp and stimulate hair growth. As a hair cream, it helps to hold the hairstyle and lightly relax curls. It has a long shelf life of 12 to 24 months if stored properly in a container in a cool place.",
+    "itemID": "B006Y7U1TS",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 58385
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Body Butter"
+      ]
+    ],
+    "price": 7.95,
+    "brand": NaN
+  },
+  {
+    "title": "Coastal Scents Cocoa Butter, 16 Ounce",
+    "description": "Our pure cocoa butter is a 100% raw, natural, crushed butter obtained from the cacao bean. It has a beautiful, rich aroma of dark chocolate. This fat from the cocoa pod is a stable fat containing natural ingredients and contains no preservatives, chemicals or fragrances. Our organic and pure cocoa butter is natural, 100% with many skin benefits. Cocoa butter is an excellent moisturizer and has a wonderful texture. Cocoa butter is often found as an additive to cosmetics, shampoos and soaps, but it is also a natural emollient making it ideal for lotions and lip balms. Cocoa butter also has antioxidant properties due to tocopherols as well as certain polyphenols that suppress free radicals and soothe skin irritation.our cocoa butter contains no petroleum, preservatives or harsh chemicals. It is hand pressed in Ghana and is from the theobroma cacao tree.",
+    "itemID": "B006Y7U4T0",
+    "helpful": [
+      1,
+      2
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 32898
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Body Butter"
+      ]
+    ],
+    "price": 24.88,
+    "brand": "Coastal Scents"
+  },
+  {
+    "title": "NYX Cosmetics Powder Blush, Mauve",
+    "description": "Silky textured blush. Featured in a signature quilted compact. Rich pigmentation provides long-lasting wear. Delivers a healthy, radiant natural glow.",
+    "itemID": "B002QI1F8A",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 56646
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Bronzers & Highlighters"
+      ]
+    ],
+    "price": 4.0,
+    "brand": "NYX"
+  }
+]

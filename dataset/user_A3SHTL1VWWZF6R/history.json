@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Philosophy Purity Made Simple One-Step Facial Cleanser, 16 Ounces",
+    "description": "Our award-winning daily facial skin cleanser is formulated to gently cleanse, tone and melt away all face and eye makeup in one simple step, while lightly hydrating the skin.",
+    "itemID": "B00021C1LI",
+    "helpful": [
+      9,
+      14
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 1055
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Cleansers",
+        "Washes"
+      ]
+    ],
+    "price": 31.0,
+    "brand": "Philosophy"
+  },
+  {
+    "title": "Alterna Caviar Anti-Aging Moisture Shampoo with Seasilk, 33.83-Ounce Bottle",
+    "description": "Alterna Caviar Hair Care. It has long been recognized that as we age, hair loses vital nutrients, causing it to become dull and brittle. One of the most important nutrients lost is the omega-3 fatty acid. Once again, in order to find a way to boost the hair's intake of a crucial nutrient (in this case, omega-3), Alterna has uncovered the richest provider of omega-3 and a perfect complement to Alterna's enzymetherapy&#xAE; complex - caviar. Caviar is known to provide significant levels of this life-sustaining source and is rich in proteins, vitamins and minerals. Caviar also has a cell format that is similar to human skin, helping to improve the health of the scalp. By including a caviar extract in some of its formulations, Alterna is able to bring back soft, healthy-looking luster while protecting the hair from the effects of aging. By supplementing the hair with the richest source of omega-3 and the enzymes required to convert hair's essential building blocks into a useable form, hair can be revitalized from root to tip, returning it to a more youthful-looking appearance.",
+    "itemID": "B000VHH71W",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 189273
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": NaN,
+    "brand": NaN
+  },
+  {
+    "title": "HDE&reg; Nose Up Bridge Straightening Beauty Clip",
+    "description": "Wear the Nose Up clip for 10-15 minutes every day to straighten the bridge of your nose. The clip has reversible pads with two sizes, so you can adjust for your best fit. This is a bestselling item in Japan!",
+    "itemID": "B002V9X78U",
+    "helpful": [
+      12,
+      16
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 14687
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Treatments & Masks"
+      ]
+    ],
+    "price": 1.79,
+    "brand": "HDE"
+  }
+]

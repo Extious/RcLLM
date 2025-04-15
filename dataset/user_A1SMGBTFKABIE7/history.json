@@ -1,0 +1,71 @@
+[
+  {
+    "title": "real Techniques Blush Brush",
+    "description": "",
+    "itemID": "B004TSFBJO",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 504
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Tools & Accessories",
+        "Makeup Brushes & Tools",
+        "Brushes & Applicators"
+      ]
+    ],
+    "price": 8.98,
+    "brand": "Real Techniques"
+  },
+  {
+    "title": "real Techniques Core Collection Set",
+    "description": "",
+    "itemID": "B004TSFBNK",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 52
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Tools & Accessories",
+        "Makeup Brushes & Tools",
+        "Brushes & Applicators"
+      ]
+    ],
+    "price": 15.99,
+    "brand": "Real Techniques"
+  },
+  {
+    "title": "Maybelline The Colossal Volum' Express Mascara, Waterproof, Waterproof, Glam Brown (Brownish Black)",
+    "description": "Maybelline Volum' Express Mascara, WaterproofThis waterproof mascara delivers up to 3X the volume instantly for a dramatic lash look.&bull;Patented Anti-Clump Brush and volume-building express formula quickly thicken lashes without clumps or globs&bull;Contact lens safe and hypoallergenic&bull;Waterproof",
+    "itemID": "B002L6PXNA",
+    "helpful": [
+      5,
+      5
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 63573
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Eyes",
+        "Mascara"
+      ]
+    ],
+    "price": 4.57,
+    "brand": "Maybelline"
+  }
+]

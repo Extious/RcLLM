@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Dermalogica Age Smart Multivitamin Power Firm 0.5oz",
+    "description": "A skin care system researched and developed by the international dermal institute. Recommended for environmentally-sensitized or prematurely-aging skin. Combat visible lines around the eye area with this powerful firming complex. Vitamins A, C and E, plus organic silicones promote elasticity and improve smoothness. Contains no artificial fragrance or color. Made in the USA.",
+    "itemID": "B000PKZG22",
+    "helpful": [
+      6,
+      10
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Beauty": 2484
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Eyes",
+        "Creams"
+      ]
+    ],
+    "price": 42.19,
+    "brand": "Dermalogica"
+  },
+  {
+    "title": "Alpha Hydrox AHA Souffle Soothing Anti-Wrinkle 1.6 oz.",
+    "description": "Alpha Hydrox Anti-Wrinkle AHA Souffle features a 12% glycolic acid formula to promote healthy dermal cell turnover and improve the look and feel of your skin. This exfoliating cream smoothes, softens and evens tone while diminishing the appearance of fine lines, wrinkles and crow&#039;s feet. Peptides support collagen and elastin production to tighten and firm as green tea extract helps combat free radical-damage for a clear, youthful-looking complexion.",
+    "itemID": "B000G8LWZI",
+    "helpful": [
+      2,
+      3
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 2803
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Treatments & Masks"
+      ]
+    ],
+    "price": 8.79,
+    "brand": "Di Bruno Bros"
+  },
+  {
+    "title": "Neutrogena Ultra Sheer Liquid Daily Sunblock, SPF 55, 1.4 Ounce",
+    "description": "New Neutrogena Ultra Sheer Liquid Sunblock delivers powerful protection in a breakthrough lightweight liquid for daily protection from the sun.   This water-light texture spreads easily over skin, absorbing instantly for an invisible, weightless feel. It also provides an even, non-shiny finish that works beautifully alone or under makeup and moisturizers.   This product features Helioplex, a breadth of stabilized sunscreen technologies that delivers superior protection from the sun.",
+    "itemID": "B003901LEW",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 247149
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Sun",
+        "Skin Protection"
+      ]
+    ],
+    "price": NaN,
+    "brand": NaN
+  }
+]

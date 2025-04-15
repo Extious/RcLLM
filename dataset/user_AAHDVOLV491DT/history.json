@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Slimquick Caffeine Free Clinical Strength, 72-count Box",
+    "description": "SLIMQUICK Ultra Caffeine Free Calorie Burner is designed to address six ways that women lose weight. It uses clinically researched key ingredients that work in a unique combination to BURN CALORIES and CARBS.* The SLIMQUICK Ultra Caffeine Free Calorie Burner formula offers 300% the weight-loss power vs. diet alone.",
+    "itemID": "B003CT35B2",
+    "helpful": [
+      4,
+      9
+    ],
+    "overall": 1.0,
+    "salesRank": {
+      "Health & Personal Care": 71518
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Lotions"
+      ]
+    ],
+    "price": 20.89,
+    "brand": "SlimQuick"
+  },
+  {
+    "title": "Vivo Per Lei Facial Peeling, 1.7-Fluid Ounce",
+    "description": "Vivo Per Lei Facial Peeling provides powerful facial cleansing by removing a thin layer of dry cells to reveal ultra-smooth and youthful skin",
+    "itemID": "B003SSTL42",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 2491
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Treatments & Masks",
+        "Masks"
+      ]
+    ],
+    "price": 9.85,
+    "brand": "Vivo Per Lei"
+  },
+  {
+    "title": "Neutrogena Norwegian Formula Hand Cream, Fragrance-Free (2 Ounce)",
+    "description": "Neutrogena Hand Cream delivers effective relief for dry, chapped hands.  This clinically proven, highly concentrated formula rapidly heals dry hands. It noticeably improves the look and feel of your skin.",
+    "itemID": "B000052YP6",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": NaN,
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Hands & Nails",
+        "Hand Creams & Lotions"
+      ]
+    ],
+    "price": 2.87,
+    "brand": "Neutrogena"
+  }
+]

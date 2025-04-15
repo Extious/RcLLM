@@ -1,0 +1,74 @@
+[
+  {
+    "title": "Aveeno Ageless Vitality Rejuvenating Day Treatment",
+    "description": "After 4 weeks, 100% of women showed improved skin vitality with increased firmness, smoother skin texture, reduced appearance of wrinkles or diminished look of age spots. See dramatic results with this 2-step daily treatment system while also protecting your skin from sun damage with SPF 30. When the naturally charged biomineral concentrate is combined with the rejuvenating moisturizer, formulated with Active Naturals blackberry leaf extract and dill, the 2-step treatment system activates to restore essential energy to elastin-deficient skin, restoring a more youthful, awakened look. You will begin to see the rejuvenating power of this breakthrough treatment system quickly and will experience even better results over time.",
+    "itemID": "B003156OJM",
+    "helpful": [
+      1,
+      2
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 217212
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Creams & Moisturizers",
+        "Day Creams"
+      ]
+    ],
+    "price": 69.99,
+    "brand": "Aveeno"
+  },
+  {
+    "title": "Clearasil Ultra Rapid Action Acne Treatment Overnight Face Scrub, 5 Ounce",
+    "description": "",
+    "itemID": "B0057VQ9R0",
+    "helpful": [
+      1,
+      2
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 175801
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Exfoliators & Scrubs",
+        "Scrubs"
+      ]
+    ],
+    "price": NaN,
+    "brand": NaN
+  },
+  {
+    "title": "Infiniti Pro by Conair 1 Inch  Tourmaline Ceramic Flat Iron",
+    "description": "",
+    "itemID": "B004INQ65S",
+    "helpful": [
+      2,
+      3
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 2417
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Irons",
+        "Flattening Irons"
+      ]
+    ],
+    "price": 25.89,
+    "brand": "Conair"
+  }
+]

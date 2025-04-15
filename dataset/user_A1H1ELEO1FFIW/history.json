@@ -1,0 +1,72 @@
+[
+  {
+    "title": "NARS Blush, Taj Mahal",
+    "description": "Made with transparent pigments for a soft and sheer look. Imparts a natural, healthy glow for any skin tone and may be worn alone or layered together for more depth and intensity.",
+    "itemID": "B00021DJ32",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 46941
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Blush"
+      ]
+    ],
+    "price": 49.99,
+    "brand": "NARS"
+  },
+  {
+    "title": "Dermalogica Oil Control Lotion (2 oz.)",
+    "description": "A hydrating, oil-free, featherlight lotion containing additional microsponges to help absorb even more oil on skin&#x2019;s surface and maintain an all-day matte finish. Active sebum regulating complex helps control oil production while enantia chlorantha bark extract helps reduce oily shine.",
+    "itemID": "B000980PH6",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Health & Personal Care": 16554
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Lotions"
+      ]
+    ],
+    "price": 30.1,
+    "brand": "Dermalogica"
+  },
+  {
+    "title": "Benefit Cosmetics Ooh La Lift",
+    "description": "why we love it:Legendary under-eye brightening boost...this delicate pink balm is like an instant eyelift!what else you need to know:Contains raspberry extracts and light-reflecting pigments to instantly perk up tired eyes.Can be applied on bare skin or over makeup.",
+    "itemID": "B001L1H8DY",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 15989
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Eyes",
+        "Puffiness Treatments"
+      ]
+    ],
+    "price": 14.29,
+    "brand": "Benefit Cosmetics"
+  }
+]

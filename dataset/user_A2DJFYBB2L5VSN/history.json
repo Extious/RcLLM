@@ -1,0 +1,69 @@
+[
+  {
+    "title": "Ivory Original8packs 16-Count: Bath Size Bars (4 Oz), 63.4Ounce",
+    "description": "",
+    "itemID": "B0076J9RZW",
+    "helpful": [
+      4,
+      5
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Health & Personal Care": 7582
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Cleansers",
+        "Soaps"
+      ]
+    ],
+    "price": 17.97,
+    "brand": "Ivory"
+  },
+  {
+    "title": "OGX Shampoo, Nourishing Coconut Milk, 13oz",
+    "description": "The luxuriously creamy, foaming, hydrating formula leaves your hair feeling clean, glowing, softly scented and super soft. Unique blend of Sulphate free product surfactants. Paraben free product.",
+    "itemID": "B000TGEJT8",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 4541
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoo & Conditioner Sets"
+      ]
+    ],
+    "price": 3.14,
+    "brand": "OGX"
+  },
+  {
+    "title": "Organix Tea Tree Mint Hydrating 13 oz. Shampoo + 13 oz. Conditioner (Combo Deal)",
+    "description": "This product meets our criteria for natural because it is made primarily of natural ingredients with minimal processing. Natural ingredients are extracted directly from plants or animals as opposed to being made synthetically.",
+    "itemID": "B0046KG18A",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Health & Personal Care": 22295
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoo & Conditioner Sets"
+      ]
+    ],
+    "price": 15.88,
+    "brand": "Organix"
+  }
+]

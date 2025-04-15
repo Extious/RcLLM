@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Axe Refined Clean-cut Look Pomade, 2.64-Ounce Jars (Pack of 3)",
+    "description": "",
+    "itemID": "B001FSK8SA",
+    "helpful": [
+      0,
+      1
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Beauty": 1586
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Pomades & Waxes"
+      ]
+    ],
+    "price": 18.98,
+    "brand": "AXE"
+  },
+  {
+    "title": "Gillette Venus Spa Breeze Razor",
+    "description": "",
+    "itemID": "B001JQLNFA",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Health & Personal Care": 67241
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Oils"
+      ]
+    ],
+    "price": 12.99,
+    "brand": NaN
+  },
+  {
+    "title": "Neutrogena Healthy Defense Daily Liquid Moisturizer with Helioplex, 1.4 Ounces",
+    "description": "",
+    "itemID": "B003QOZ2C8",
+    "helpful": [
+      5,
+      5
+    ],
+    "overall": 1.0,
+    "salesRank": {
+      "Beauty": 5123
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Sun",
+        "Skin Protection"
+      ]
+    ],
+    "price": 10.5,
+    "brand": "Neutrogena"
+  }
+]

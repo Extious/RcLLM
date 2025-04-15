@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Nivea Body Daily Lotion for Dry Skin, Smooth Sensation, 8.4 Fluid Ounce Bottle (Pack of 4)",
+    "description": "Triple action nourishes; revitalizes; absorbs quickly. With ginkgo, shea butter & Vitamin E.",
+    "itemID": "B001FB5IEG",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 193692
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Lotions"
+      ]
+    ],
+    "price": 25.58,
+    "brand": "Nivea"
+  },
+  {
+    "title": "Nivea For Men Maximum Hydration 3 In 1 Moisturizer Body, Face and Hands, 13.5 Ounce",
+    "description": "Nivea For Men Maximum Hydration 3 in 1 Moisturizer Body, Face & Hands boosts the moisture level in the skin and intensively moisturizes.   Its special formula with Hydra-IQ technology absorbs in seconds leaving no greasy feeling on the skin.",
+    "itemID": "B007PWRXHO",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 22818
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Lotions"
+      ]
+    ],
+    "price": 6.99,
+    "brand": "Nivea Men"
+  }
+]

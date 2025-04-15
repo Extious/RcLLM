@@ -1,0 +1,393 @@
+[
+  {
+    "title": "Arbonne Makeup Primer 1oz",
+    "description": "Vitamin-rich makeup primer visually diminishes fine lines and pores, creating a canvas for flawless makeup application.",
+    "itemID": "B004KKIB5M",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 1.0,
+    "salesRank": {
+      "Beauty": 5895
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Foundation Primers"
+      ]
+    ],
+    "price": 25.25,
+    "brand": "Arbonne"
+  },
+  {
+    "title": "elf Studio High Definition Loose Face Powder",
+    "description": "The e.l.f. High Definition Powder is a translucent, versatile loose powder that creates a flawless, \"soft focus\" effect to the skin. Masks fine lines and imperfections for a glowing, radiant complexion. This incredibly soft and invisible powder is ideal for everyday wear, either alone or over your favorite e.l.f. foundation. Our HD Powder is a makeup artist and e.l.f. customer favorite.",
+    "itemID": "B004DIXYUI",
+    "helpful": [
+      0,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 573
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Powder"
+      ]
+    ],
+    "price": 8.98,
+    "brand": "e.l.f. Cosmetics"
+  },
+  {
+    "title": "Laura Mercier Silk Creme Foundation - Cream Ivory",
+    "description": "Laura Mercier's Silk Crme Foundation is a rich and luminous foundation that offers full coverage - great for Rosacea or hard to cover pigmentation.",
+    "itemID": "B000COMJNK",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Health & Personal Care": 89659
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Foundation"
+      ]
+    ],
+    "price": 39.0,
+    "brand": "laura mercier"
+  },
+  {
+    "title": "Macadamia Natural Oil Luxe Travel Set",
+    "description": "On the go? This travel set is perfect for you. Comes in a cute stylized travel bag",
+    "itemID": "B008LUGLMC",
+    "helpful": [
+      2,
+      2
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 51489
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Hair Styling Serums"
+      ]
+    ],
+    "price": 29.96,
+    "brand": "Macadamia"
+  },
+  {
+    "title": "real Techniques Blush Brush",
+    "description": "",
+    "itemID": "B004TSFBJO",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Beauty": 504
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Tools & Accessories",
+        "Makeup Brushes & Tools",
+        "Brushes & Applicators"
+      ]
+    ],
+    "price": 8.98,
+    "brand": "Real Techniques"
+  },
+  {
+    "title": "Sigma E55 - Eye Shading",
+    "description": "Unique Feature: Soft and dense bristles\nFunction: Even application of color\nRecommended Use: Place color across the entire lid for an even and strong application of product.\n\n 2013 Sigma Enterprises, LLC",
+    "itemID": "B005OZM810",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 3569
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Tools & Accessories",
+        "Makeup Brushes & Tools",
+        "Brushes & Applicators"
+      ]
+    ],
+    "price": 14.0,
+    "brand": "Sigma Beauty"
+  },
+  {
+    "title": "Sigma F10 - Powder/Blush",
+    "description": "Unique Feature: Very soft and slightly beveled\nFunction: Precise placement of blush\nRecommended Use: Use for powder application.\n\n 2013 Sigma Enterprises, LLC",
+    "itemID": "B005OZXHEW",
+    "helpful": [
+      0,
+      1
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 23978
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Tools & Accessories",
+        "Makeup Brushes & Tools",
+        "Brushes & Applicators"
+      ]
+    ],
+    "price": 16.51,
+    "brand": "Sigma Beauty"
+  },
+  {
+    "title": "Sigma F86 - Tapered Kabuki TM",
+    "description": "Unique Feature: Dense and tapered head \nFunction: Precise application of concealer or foundation products \nRecommended Use: Best for concealing the under eye and hard to reach areas of the face. \nBristle Type: Synthetic Sigmax \n\n 2013 Sigma Enterprises, LLC",
+    "itemID": "B005V1A05S",
+    "helpful": [
+      2,
+      2
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 1435
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Tools & Accessories",
+        "Makeup Brushes & Tools",
+        "Brushes & Applicators"
+      ]
+    ],
+    "price": 24.0,
+    "brand": "Sigma Beauty"
+  },
+  {
+    "title": "Dermablend Loose Setting Powder Original, 1 Ounce",
+    "description": "Keep perfection lasting longer with Dermablend Loose Setting Powder - Original. Ensures smudge-resistance and enhances the wearability of dermablend coverage products for up to 16 hours of wear. Transparent upon application and fragrance free.",
+    "itemID": "B0002RI2PG",
+    "helpful": [
+      0,
+      1
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Beauty": 5086
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Powder"
+      ]
+    ],
+    "price": 21.25,
+    "brand": "Dermablend"
+  },
+  {
+    "title": "Sleek Make up Blush with Mirror (Rose Gold 926)",
+    "description": "A highly pigmented blusher to brighten and define cheekbones. The silky-fine formulation provides long lasting blusher which helps to create a subtle but radiant cheek area.\n\nApply using a small powder/blusher brush, by swirling the brush over the surface of the blusher. Tap off excess powder and apply onto the apples of the cheeks to emphasise your cheeks and your smile, or just below the cheek bone to create a sculpted look. 8g",
+    "itemID": "B0069UA4GK",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 1.0,
+    "salesRank": {
+      "Beauty": 37113
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Blush"
+      ]
+    ],
+    "price": 5.49,
+    "brand": "Sleek"
+  },
+  {
+    "title": "e.l.f. Contouring Blush and Bronzing Powder, St. Lucia, 0.34 Ounce",
+    "description": "Create a healthy and natural glow all year long with the contouring blush and bronzing powder. The Blush highlights the cheeks to add a flush of color, while the bronzer accents and contours cheekbones for beautiful definition. This convenient compact has just what you need to achieve a gorgeous glow anytime, anywhere.",
+    "itemID": "B009WI5SPI",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 1.0,
+    "salesRank": {
+      "Beauty": 74540
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Blush"
+      ]
+    ],
+    "price": 6.98,
+    "brand": "e.l.f. Cosmetics"
+  },
+  {
+    "title": "Zoya Nail Polish Sampler Naturel Collection",
+    "description": "Zoya 2014 Naturel Nail Polish Collection will give you a chic tone-on-tone look!",
+    "itemID": "B00HFGDRPC",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 50561
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Nails",
+        "Nail Polish"
+      ]
+    ],
+    "price": 47.49,
+    "brand": "Zoya"
+  },
+  {
+    "title": "Silver Airless Treatment with Clear Body Pump Bottle By Skin Perfection 1 Oz 30 Ml Keep Bacteria &amp; Contaminents Out of Your Diy Skin Care Creations or Use for Airline Travel",
+    "description": "Silver Airless Treatment Pump Bottle 1 fl. oz. or 30 ml Airless Bottle with Clear Body for Serums Price Our Silver Airless pumps are great for those who like to blend and make their own serums, creams, lotions, moisturizers and other formulations or recipes. Airless Bottles help keep bacteria and other contaminants out of your organic product or skincare for a long lasting product. Our 1 ounce Airless bottles are specifically designed to handle the thinnest serums to the thickest creams. The pump does not contain a metal ball. A must have for any one who likes to make their own skincare Our Airless bottles are 1fl. oz. 30ml. The cap and base is silver, pump is white and the body is Clear.",
+    "itemID": "B005KC1H5K",
+    "helpful": [
+      0,
+      1
+    ],
+    "overall": 1.0,
+    "salesRank": {
+      "Beauty": 68697
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Treatments & Masks"
+      ]
+    ],
+    "price": 4.25,
+    "brand": "Skin Perfection"
+  },
+  {
+    "title": "Sebastian Trilliant Thermal Protection &amp; Shimmer Complex (5.1 oz.)",
+    "description": "This is a multifaceted complex that is especially designed to provide ultra shine with luscious body, light conditioning and heat protection.",
+    "itemID": "B001PUI2VI",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 3379
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Creams, Gels & Lotions"
+      ]
+    ],
+    "price": 8.7,
+    "brand": "Sebastian"
+  },
+  {
+    "title": "Kevyn Aucoin The Sculpting Powder Mirrored Compact, Medium .11 Oz",
+    "description": "WHAT IT IS &#x2022; A unique powder that adds a subtle shadow to wherever it's applied &#x2022; Use the contour or sculpting brush to lightly dust along the hollows of the cheek, under the chin and neck or under the tip of the nose  WHY WE LOVE IT &#x2022; Stronger cheekbones or a slimmed face are a brush away &#x2022; Unique combination of brown, red and grey pigments create the perfect shadow for all skin types &#x2022; Sheer formula glides on effortlessly &#x2022; Pair it with The Celestial Powder",
+    "itemID": "B002PNBZIQ",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 36743
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Foundation"
+      ]
+    ],
+    "price": NaN,
+    "brand": NaN
+  },
+  {
+    "title": "Oribe Maximista Thickening Hair Spray 6.8 oz",
+    "description": "This thickening spray from Oribe is an update of technology. It provides a protective coating while lifting and holding the fullest hair. Gives great volume and can be used on color treated hair.",
+    "itemID": "B004UMYEIS",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 2927
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Hair Sprays"
+      ]
+    ],
+    "price": 29.99,
+    "brand": "Oribe"
+  },
+  {
+    "title": "Bikini So Teeny - 2012 Summer Collection",
+    "description": "What is this product? Essie is the ultimate color authority offering a line of superior nail polishes. The fashion-forward shades with an exclusive award winning formula are always classic, chic and elegant. More info: Essie polish provides flawless coverage along with outstanding durability, a chip-resistant formula and whimsical names in the most up-to-the-minute colors. All Essie nail polishes are DBP, toluene, and formaldehyde free.",
+    "itemID": "B007NYB0DC",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 1.0,
+    "salesRank": {
+      "Health & Personal Care": 16237
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Nails",
+        "Nail Polish"
+      ]
+    ],
+    "price": 5.95,
+    "brand": "Essie"
+  }
+]

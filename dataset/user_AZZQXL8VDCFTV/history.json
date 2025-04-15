@@ -1,0 +1,74 @@
+[
+  {
+    "title": "OPI Mini Collection Skyfall",
+    "description": "Enjoy the adorable mini versions of OPI's color",
+    "itemID": "B009ERIUNY",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 101694
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Nails",
+        "Nail Polish"
+      ]
+    ],
+    "price": 12.37,
+    "brand": "OPI"
+  },
+  {
+    "title": "Olay 2-In-1 Advanced Ribbons Firming Butter + Advanced Moisture Body Wash 18 Oz (Pack of 3)",
+    "description": "",
+    "itemID": "B001F51TS6",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Health & Personal Care": 16807
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Body Butter"
+      ]
+    ],
+    "price": 19.99,
+    "brand": "Olay"
+  },
+  {
+    "title": "Alpha Hydrox Enhanced Lotion 10 percent Glycolic AHA -- 6 fl oz Anti-Wrinkle",
+    "description": "Concentrated pure glycolic acid (one of the most effective alpha hydroxy acids on the market) works diligently on your complexion, leaving skin visibly firmer, smoother, and more refined with a simple, once-a-day application of this treatment lotion. For added moisturizing benefits, pure vitamin E--long known to beautifully rehydrate skin--is also a key ingredient.10% AHA Anti-Wrinkle Treatment.Recommended for:&nbsp; &nbsp;Dry to Normal Skin Types.&nbsp;Not for use on delicate/sensitive skin.Absorbs quickly.&nbsp; Fragrance-free.&nbsp; Effective pH 4.Proven to significantly reduce the appearance of fine lines and wrinkles.Safely lifts dead cells from the skin's surface to revitalize and help restore youthful, healthy, radiant-looking skin.Renews moisture, refines texture, improves elasticity and skin tone.Specially formulated with rich moisturizers and Vitamin E.Contains 10% pure Glycolic-AHA.The exfoliating effect of Alpha Hydrox Enhanced Lotion is also beneficial for use on the legs, arms and body.&nbsp; Its rich moisturizers and alpha hydroxy provide soft, smooth, silky skin when used on these areas.",
+    "itemID": "B000052YM7",
+    "helpful": [
+      1,
+      2
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Beauty": 561
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Creams & Moisturizers",
+        "Fluids & Lotions",
+        "Lotions"
+      ]
+    ],
+    "price": 9.67,
+    "brand": "Alpha Hydrox"
+  }
+]

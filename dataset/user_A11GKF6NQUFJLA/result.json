@@ -1,0 +1,48 @@
+[
+  {
+    "title": "Shea Moisture Organic Raw Shea Butter Deep Treatment Hair Masque",
+    "description": "Shea Moisture Raw Shea Butter Deep Treatment Masque.Established 1912.W/sea kelp & argan oil.Dry, damaged hair.Heal, grow & strengthen.Sulfate free & color safe.",
+    "itemID": "B0038U4U3M",
+    "helpful": [
+      3,
+      3
+    ],
+    "overall": 1.0,
+    "salesRank": {
+      "Health & Personal Care": 13995
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Hair & Scalp Treatments"
+      ]
+    ],
+    "price": 15.45,
+    "brand": "Shea Moisture"
+  },
+  {
+    "title": "Albolene Moisturizing Cleanser, 12oz",
+    "description": "Enhances warm-up time, weight loss and the sweating process during workouts.",
+    "itemID": "B000NLHXEC",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 606
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Oils"
+      ]
+    ],
+    "price": 13.25,
+    "brand": "Albolene"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Vadik Herbs Bringraj Hair Oil, 8oz",
+    "description": "Professionally formulated for hair growth, but the oil is excellent for hair loss and premature balding.",
+    "itemID": "B003XGX6ZY",
+    "helpful": [
+      2,
+      3
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Health & Personal Care": 103318
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Hair Loss Products",
+        "Hair Regrowth Treatments"
+      ]
+    ],
+    "price": 24.99,
+    "brand": "Bazaar of India"
+  },
+  {
+    "title": "Vadik Herbs Amla Hair Oil, 8oz",
+    "description": "At Bazaar of India, quality begins in the fields, where only the finest herbs and raw materials are selected. The company's global sourcing of raw materials ensures that the highest quality products are chosen from each harvest season. By maintaining this intense level of quality control and developing new methods and techniques to ensure top product quality, Bazaar of India perpetuates its long-standing position at the forefront of the industry.",
+    "itemID": "B000V500YU",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Health & Personal Care": 9452
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Hair & Scalp Treatments"
+      ]
+    ],
+    "price": 20.8,
+    "brand": "Bazaar of India"
+  }
+]

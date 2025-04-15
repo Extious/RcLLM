@@ -1,0 +1,71 @@
+[
+  {
+    "title": "PEBCO Pro Tools Hard Bonnet Dryer 2000 Watts (Model: ED2400)",
+    "description": "Product DescriptionProfessional Features: -Optimum Heat and Air Flow -Variable Temperature Control -2000 W -On/Off switch",
+    "itemID": "B0042I19QU",
+    "helpful": [
+      7,
+      9
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Beauty": 135840
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Hair Dryers"
+      ]
+    ],
+    "price": 63.49,
+    "brand": "Pebco"
+  },
+  {
+    "title": "Mary Kay Indulge Soothing Eye Gel",
+    "description": "Indulge Soothing Eye Gel. A cool gel to reduce the appearances of puffiness, leaving the eye area firm, toned and moisturized. .4 oz",
+    "itemID": "B000B9J3GM",
+    "helpful": [
+      1,
+      4
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Beauty": 22504
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Eyes",
+        "Dark Circle Treatments"
+      ]
+    ],
+    "price": 6.97,
+    "brand": "Mary Kay Beauty &amp; Cosmetics"
+  },
+  {
+    "title": "Bremenn Research Labs Hylexin, 78-ounce. Tube",
+    "description": "According to most research dermatologists, serious dark circles (the kind that make you look old, tired, and exhausted) are about the oxidation of hemoglobin (blood) in the capillary matrix of the peri-orbital eye area. These capillaries actually \"leak\" blood that begins to oxidize (through a process called hemoglobin degradation), creating a dark bluish-red pigmentation that looks distinctly like an ugly bruise. In scientific studies, Hylexin has been shown to help reduce hemoglobin degradation byproducts by optimizing enzymatic activity, causing the red-blue pigmentation to fade. Studies also confirm that Hylexin actually helps strengthen the capillary matrix to help stop the \"leaking,\" so your orbital eye area is protected against further damage. In a double-blind clinical trial more than 72% of women who had serious dark circles and used Hylexin's key compound saw an obvious, tangible, visible reduction in the color and severity of their dark circles. These results were confirmed with high-speed laboratory photography that clearly showed a significant reduction in the appearance of the blue and red color that makes dark eye circles so noticeable and so unattractive.",
+    "itemID": "B000CRGS2A",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 1.0,
+    "salesRank": {
+      "Beauty": 225193
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Eyes",
+        "Dark Circle Treatments"
+      ]
+    ],
+    "price": NaN,
+    "brand": NaN
+  }
+]

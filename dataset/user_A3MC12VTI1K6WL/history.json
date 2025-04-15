@@ -1,0 +1,73 @@
+[
+  {
+    "title": "Helen of Troy 1514 Brush Iron, White, 1 1/2 Inches Barrel",
+    "description": "Helen of Troy Professional Brush Iron features a patented ring system that sets curls quickly. 30 watts. Dual heat settings. 8&#x2019; cord. 1 1/2&#x201D;",
+    "itemID": "B00011QUDE",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 4215
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Irons",
+        "Curling Irons"
+      ]
+    ],
+    "price": 16.95,
+    "brand": "Helen Of Troy"
+  },
+  {
+    "title": "L'Oreal Paris Voluminous Million Lashes Mascara, Black, 0.29 Ounces",
+    "description": "For lashes that look a million times multiplied and perfectly defined, there&#x2019;s only one mascara - NEW Voluminous Million Lashes. The built-in Clean Sweep Wiping System wipes the brush free of clumps leaving the perfect amount of mascara for an ultra-volumized clean lash look. The Millionizing Brush evenly thickens lashes from root to tip. The result? Lashes look so multiplied, so clean, it&#x2019;s like seeing millions.",
+    "itemID": "B004GH99QO",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 17975
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Eyes",
+        "Mascara"
+      ]
+    ],
+    "price": 7.99,
+    "brand": "L&#39;Oreal Paris"
+  },
+  {
+    "title": "Watts Beauty ArganGoldTM 120ml /100% Cert. Organic Cold Pressed Argan Nut Oil - Hair &amp; Body -Morocco",
+    "description": "Yes, this is the popular Watts Beauty product that everyone is searching for. Don't buy a whole new line of products, simply add a few drops of this pure argan oil to your favorite hair and skin products to enhance their results and benefits. Watts Beauty Argan Gold is produced by a women's cooperative that shares the profits among the local women of the Berber tribe. The cooperative has established an ecosystem reforestation project so that the supply of argan oil will not run out and the income that is currently supporting the women will not disappear. The money is providing health care and education to the local women, and supporting the entire community as a whole.",
+    "itemID": "B005GHP5UC",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 19331
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Oils"
+      ]
+    ],
+    "price": 19.89,
+    "brand": NaN
+  }
+]

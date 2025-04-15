@@ -1,0 +1,69 @@
+[
+  {
+    "title": NaN,
+    "description": NaN,
+    "itemID": "B001MP0T2Q",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": NaN,
+    "categories": [
+      [
+        "Beauty",
+        "Tools & Accessories",
+        "Nail Tools",
+        "Nail Brushes"
+      ]
+    ],
+    "price": NaN,
+    "brand": NaN
+  },
+  {
+    "title": "500 White False French Nail Art Tips Uv Acrylic 064",
+    "description": "Brand New in Retail PackageColor : White10 different sizes French False Nail Tips (half nails) in WHITE - approximately 50pcs for each size (size 0 -9)Suitable for nail extension with nail art decorations / nail gel / acrylic / etc.Can add nail art decorations on the nails and design your own style and pattern!Easy to apply and hold with nail glueFor professional salon or home use",
+    "itemID": "B004B0U57S",
+    "helpful": [
+      3,
+      3
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 1251
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Tools & Accessories",
+        "Nail Tools",
+        "False Nails"
+      ]
+    ],
+    "price": 2.84,
+    "brand": "NON"
+  },
+  {
+    "title": "niceEshop Nail Clipper Acrylic Uv GEL False Tips Cutter 46p(Nail Clipper)",
+    "description": "Package includes: 1 x Pink Nail Clipper Cutter",
+    "itemID": "B006L16BHS",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 510
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Tools & Accessories",
+        "Nail Tools",
+        "Clippers & Trimmers"
+      ]
+    ],
+    "price": 2.21,
+    "brand": "Nail Clipper"
+  }
+]

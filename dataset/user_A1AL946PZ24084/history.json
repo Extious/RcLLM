@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Manic Panic Pillarbox Red 4oz",
+    "description": "Manic Panic presents semi-permanent hair dye, with a longer-lasting color! For best results, pre-lighten hair. Use latex gloves. Made in the USA.",
+    "itemID": "B000F4D0LW",
+    "helpful": [
+      7,
+      8
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 112061
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Hair Color",
+        "Chemical Hair Dyes"
+      ]
+    ],
+    "price": 6.99,
+    "brand": "Manic Panic"
+  },
+  {
+    "title": "Jan Marini BioGlycolic BIOCLEAR Lotion 1 oz (NEW PACKAGING)",
+    "description": "Jan Marini Skin Research products are designed to be used under the supervision of a physician or licensed skin care professional. If you have any questions regarding skin care concerns,appropriate products, product usage, or technologies, we recommend that you contact us prior to your purchase.Containing Glycolic Acid, Salicylic Acid, and Azaleic AcidThe revolutionary Bioclear formula is available in a lotion/serum consistency directed towards oilier skin types. This versatile product targets multifaceted acne problems uniquely experienced by adults. It also has remarkable anti-aging and skin resurfacing properties that benefit all skin types.JMSR&#x20AC;TMs proprietary research has resulted in a formula that produces exceptional benefits for adult acne, acne scarring, inflammation, discoloration, enlarged follicle openings, textural changes and the appearance of wrinkling and textural changes due to cumulative sun exposure.",
+    "itemID": "B00135FK4M",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 21805
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Treatments & Masks"
+      ]
+    ],
+    "price": 33.0,
+    "brand": "Jan Marini"
+  },
+  {
+    "title": "Mineral Fusion Natural Brands Mineral SPF 30 Brush On Sun Defense, Net Wt. .14 Oz",
+    "description": "Mineral Fusion&#x2019;s spf 30 brush-on sun defense delivers your sun protection in a unique brush-on tool. The soft bristles evenly distribute the uva/uvb protecting sunscreen to your skin, while subtle light-reflecting particles give your complexion a glowing finish. Vitamin e, white tea and pomegranate extracts combat free radicals and improve skin condition.",
+    "itemID": "B004WQWJES",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 1120
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Sun",
+        "Skin Protection"
+      ]
+    ],
+    "price": 17.49,
+    "brand": "Mineral Fusion Natural Brands"
+  }
+]

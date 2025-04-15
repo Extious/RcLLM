@@ -1,0 +1,70 @@
+[
+  {
+    "title": "Maybelline New York Instant Age Rewind Eraser Dark Circles Treatment Concealer, Light 20, 0.2-fluid Ounce",
+    "description": "Instantly creates a radiant, refreshed looking eye area. Super concentrated formula with goji berry and haloxyl helps to erase the appearance of dark circles and fine lines, while visibly diminishing the appearance of puffiness around the eyes.",
+    "itemID": "B004Y9GTYE",
+    "helpful": [
+      4,
+      4
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Beauty": 1053
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Concealers & Neutralizers"
+      ]
+    ],
+    "price": 10.95,
+    "brand": "Maybelline"
+  },
+  {
+    "title": "Suave Professionals Keratin Infusion Dry Shampoo, 5 Ounce",
+    "description": "",
+    "itemID": "B005UBN2AO",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 3004
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 7.49,
+    "brand": "Suave"
+  },
+  {
+    "title": "Dr. Jart+ Black Label Detox BB Beauty Balm, 1.5 oz",
+    "description": "Perfect and protect skin instantly with this all-in-one multifunctional Beauty Balm. This triple-action formula naturally covers blemishes and uneven skintone, and contains botanical actives to purify and calm blemish-prone or irritated skin. Arbutin works to erase unwanted dark spots, while caviar extract and antioxidants protect skin from inner and outer pollutants for an enhanced radiance. Lightweight with sunscreen protection for simple, one-step neutralizing coverage, this soothing cream delivers optimal results for both women and men.",
+    "itemID": "B009UTCT6U",
+    "helpful": [
+      3,
+      4
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 7381
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Creams & Moisturizers"
+      ]
+    ],
+    "price": 29.0,
+    "brand": "Dr. Jart"
+  }
+]

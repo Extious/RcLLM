@@ -1,0 +1,49 @@
+[
+  {
+    "title": "Maybelline Full 'N Soft Waterproof Mascara, Brownish Black",
+    "description": "Patented Quick Dissolve System aids in the prevention of the loss of lash.",
+    "itemID": "B000T5KATM",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 37703
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Eyes",
+        "Mascara"
+      ]
+    ],
+    "price": 12.97,
+    "brand": "Maybelline"
+  },
+  {
+    "title": "Peter Thomas Roth Clinical Peel and Reveal Dermal Resurfacer, 3.4 Fluid Ounce",
+    "description": "This skin resurfacer is a powerful anti-aging skin resurfacing treatment that leaves skin significantly smoother, younger looking, radiant, and revitalized. It peels with alpha hydroxy acid, exfoliates with pumpkin enzyme, and polishes with aluminum oxide crystals. Apply a thin layer to clean skin. Gently massage in a circular motion with wet fingertips to polish with micropolishing aluminum oxide powder. Leave on for 3-7 minutes depending on skin sensitivity and rinse thoroughly.",
+    "itemID": "B005H0ED92",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 33518
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Treatments & Masks",
+        "Masks"
+      ]
+    ],
+    "price": 34.69,
+    "brand": "Peter Thomas Roth"
+  }
+]

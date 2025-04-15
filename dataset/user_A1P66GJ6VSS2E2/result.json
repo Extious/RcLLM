@@ -1,0 +1,70 @@
+[
+  {
+    "title": "Hempz Vanilla Plum Herbal Body Moisturizer, 17 Ounce",
+    "description": "Hempz Vanilla Plum Herbal Body Moisturizer is enriched with 100% Pure Natural Hemp Seed Oil",
+    "itemID": "B006ND9ZOK",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 1692
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Lotions"
+      ]
+    ],
+    "price": 8.86,
+    "brand": "Hempz"
+  },
+  {
+    "title": "Softsoap Lavender and Chamomile - Liquid Hand Soap Refill, 32 Ounce",
+    "description": NaN,
+    "itemID": "B007L0CBZO",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": NaN,
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Hands & Nails",
+        "Hand Soaps"
+      ]
+    ],
+    "price": 12.22,
+    "brand": "Softsoap"
+  },
+  {
+    "title": "L'Oreal Colour Riche Lip Liner, Beyond Pink 705 200 mg",
+    "description": "LOREAL COLOR RICH LPLINER (L)",
+    "itemID": "B00112BW5I",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 241345
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Lips",
+        "Lip Liners"
+      ]
+    ],
+    "price": 3.98,
+    "brand": "L&#39;Oreal Paris"
+  }
+]

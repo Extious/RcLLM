@@ -1,0 +1,71 @@
+[
+  {
+    "title": "L'Oreal Paris Sublime Mousse by Healthy Look Hair Color, 90 Pure Light Blonde",
+    "description": "Healthy Look gives you natural-looking color with glossy, healthy-looking shine in just 10 little minutes. The ammonia-free formula deeply nourishes hair while also helping to counter dullness and prevent damage.  The cr&#xE8;me formula softly blends away grays, and won&#x2019;t leave any visible roots. The conditioning treatment infused with Royal Jelly seals in glossy shine, leaving hair soft and silky.",
+    "itemID": "B004C4O2QS",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 78758
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Hair Color",
+        "Color Refreshers"
+      ]
+    ],
+    "price": 9.79,
+    "brand": "L&#39;Oreal Paris"
+  },
+  {
+    "title": "Mario Badescu Control Cream (0.50 oz)",
+    "description": "Anti-redness cream is an effective treatment for red, rashy, flaky and irritated skin types and Rosacea sufferers. Balsam Peru is the active, soothing botanical ingredient that will make a visible difference immediately upon application. Non-greasy, low oil formula. May be used for troubled areas of the face or in place of a moisturizer. Works well with our Azulene Calming Mask. (0.50 oz)",
+    "itemID": "B001VJZEGE",
+    "helpful": [
+      4,
+      4
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 142723
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Treatments & Masks"
+      ]
+    ],
+    "price": NaN,
+    "brand": NaN
+  },
+  {
+    "title": "Babylis Pro BABTT5585 Tourmaline Titanium 3000 Dryer",
+    "description": "Babyliss Pro TT 1900 watt dryer is ulra light, has 6 heat/speed settings, an instant cool shot button and is ergonomically designed for easy and comfortable handling. Far-infrared heat dries hair from the inside out at faster speeds, leaving it silky and smooth in half the time.",
+    "itemID": "B002JSL6QI",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 343
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Hair Dryers"
+      ]
+    ],
+    "price": 52.99,
+    "brand": "BaBylissPRO"
+  }
+]

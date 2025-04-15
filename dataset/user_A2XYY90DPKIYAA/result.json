@@ -1,0 +1,49 @@
+[
+  {
+    "title": "Skinceuticals  Phyto + Botanical Gel For Hyperpigmentation, 1-Ounce Bottle",
+    "description": "This botanical gel for hyperpigmentation is an advanced lightening formula combining four active ingredients to diminish discoloration and improve the overall health of the skin. Kojic acid and arbutin, natural alternatives to hydroquinone, work synergistically to help break up hyperpigmentation, while cucumber and thyme contain anti-inflammatory and antiseptic properties to soothe red, irritated skin. Active ingredients are delivered in a hyaluronic acid base to hydrate as they help heal, calm, and improve the appearance of the skin. Phyto+ can also be used to help reduce erythema and to maintain results following invasive cosmetic procedures.",
+    "itemID": "B001CJCFE2",
+    "helpful": [
+      5,
+      8
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 25286
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Lotions"
+      ]
+    ],
+    "price": 53.0,
+    "brand": "SkinCeuticals"
+  },
+  {
+    "title": "L'Oreal Paris Collagen Micro-Pulse Eye Correction System, 0.5-Fluid Ounce",
+    "description": "Why is Collagen Micro-Pulse Eye right for me? With time, the eye area experiences several signs of aging and fatigue -- dark circles, under eye bags and wrinkles appear--leaving the eye area looking less youthful and dull.",
+    "itemID": "B003A8GG8E",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 12625
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Eyes",
+        "Puffiness Treatments"
+      ]
+    ],
+    "price": 9.49,
+    "brand": "L&#39;Oreal Paris"
+  }
+]

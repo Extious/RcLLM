@@ -1,0 +1,71 @@
+[
+  {
+    "title": "American Crew Pomade, 1.75 oz",
+    "description": "Buy American Crew Hair Styling Products - American Crew Pomade for Hold & Shine 1.75 oz. How-to-Use: Scoop a dime-sized amount of hair paste or wax into hands and work into hair for desired style.",
+    "itemID": "B0012134EK",
+    "helpful": [
+      8,
+      10
+    ],
+    "overall": 1.0,
+    "salesRank": {
+      "Beauty": 11295
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Pomades & Waxes"
+      ]
+    ],
+    "price": 1.35,
+    "brand": "AMERICAN CREW"
+  },
+  {
+    "title": "American Crew Hair Stlying Pomade, 3 Ounce",
+    "description": "Pomade for Hold and Shine Gives excellent hold, shine and control Great for controlling curly or straight hair.",
+    "itemID": "B000X2DMEG",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 191
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Pomades & Waxes"
+      ]
+    ],
+    "price": 12.19,
+    "brand": "AMERICAN CREW"
+  },
+  {
+    "title": "Ambi Skincare Fade Cream, Normal Skin, 2 oz (56 g)",
+    "description": "Fades dark spots for even, natural skin tone. With Vitamin E, Alpha hydroxy acid & sunscreen.",
+    "itemID": "B000GD5LY6",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 45165
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Cleansers"
+      ]
+    ],
+    "price": 8.79,
+    "brand": "AMBI"
+  }
+]

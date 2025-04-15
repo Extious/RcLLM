@@ -1,0 +1,72 @@
+[
+  {
+    "title": "POND'S Exfoliating Renewal Wet Cleansing Towelettes, 30-Count (Pack of 2)",
+    "description": "",
+    "itemID": "B003ZYM7EA",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 33744
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Cleansers",
+        "Cloths & Towelettes"
+      ]
+    ],
+    "price": 8.9,
+    "brand": "Pond&#39;s"
+  },
+  {
+    "title": "Dove Body Wash with NutriumMoisture, Sensitive Skin Nourishing, 24 Ounce",
+    "description": NaN,
+    "itemID": "B000AO2NXS",
+    "helpful": [
+      0,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 18679
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Cleansers",
+        "Body Washes"
+      ]
+    ],
+    "price": 11.5,
+    "brand": "Dove"
+  },
+  {
+    "title": "Revlon Super Lustrous Lipstick Pearl, Highbeam Tan 305, 0.15 Ounce",
+    "description": "Revlon Super Lustrous&#x2122; Lipstick is as essential as the little black dress. With 72 fabulous, fashionable shades, Revlon Super Lustrous&#x2122; Lipstick offers the widest range of colors, so you are sure to find one that looks gorgeous on you! Packed with mega-moisturizers and vitamins C and E for soft, smooth, sexy lips. Your lips stay kissably conditioned for lasting smoothness while the color stays rich and true.",
+    "itemID": "B000H3CPO4",
+    "helpful": [
+      2,
+      2
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 21909
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Lips",
+        "Lipstick"
+      ]
+    ],
+    "price": 8.99,
+    "brand": "Revlon"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Maybelline Dream Mousse Blush - Soft plum",
+    "description": "Air soft formula provides luminous, long lasting color to cheeks. Glides on smoothly and blends easily for seamless color and a natural, radiant finish. Air whipped mousse delivers a satin soft feel on skin. Long wearing formula will not clog pores.",
+    "itemID": "B000TNOUA4",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 75177
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Blush"
+      ]
+    ],
+    "price": 12.99,
+    "brand": "Maybelline"
+  },
+  {
+    "title": "OPI L00 Alpine Snow",
+    "description": "Fresh, crisp white, perfect for French-look tips.",
+    "itemID": "B002TLT388",
+    "helpful": [
+      3,
+      3
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 8447
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Nails",
+        "Nail Polish"
+      ]
+    ],
+    "price": 6.85,
+    "brand": "OPI"
+  },
+  {
+    "title": "Remington CI95AC/2 Tstudio Salon Collection Pearl Digital Ceramic Curling Wand, 1/2 Inch - 1 Inch",
+    "description": "",
+    "itemID": "B003V265QW",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 73
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Irons",
+        "Curling Irons"
+      ]
+    ],
+    "price": 27.77,
+    "brand": "Remington"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "title": "CoverGirl Professional Remarkable Washable Waterproof Mascara, Black Brown 210, 0.3 Ounce",
+    "description": "",
+    "itemID": "B000RO6ZDA",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 62777
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Eyes",
+        "Mascara"
+      ]
+    ],
+    "price": 13.97,
+    "brand": "COVERGIRL"
+  },
+  {
+    "title": "Dove Body Wash with NutriumMoisture, Deep Moisture, 24 Ounce Bottles (Pack of 4)",
+    "description": "",
+    "itemID": "B005HO0A18",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 66
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Cleansers",
+        "Body Washes"
+      ]
+    ],
+    "price": 21.99,
+    "brand": "Dove"
+  },
+  {
+    "title": "L'Oreal Paris EverPure Sulfate-Free Color Care System Moisture Shampoo, 8.5 Fluid Ounce",
+    "description": "EverPure conditioners are creamy, protective formulas that help preserve and maintain color brilliance. Color-treated hair requires special care. The EverPure Sulfate-Free Color Care System protects and conditions hair for long-lasting color purity. The unique UV filters help protect color-treated hair against sun damage.",
+    "itemID": "B001P1ZELS",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 725
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 8.41,
+    "brand": "L&#39;Oreal Paris"
+  },
+  {
+    "title": "Batiste Dry Shampoo, Light and Blonde, 6.73 Fluid Ounce",
+    "description": "Batiste Light and Blonde banishes oily roots and boosts body giving dull, lifeless hair the make over it needs without any water. A hint of color complements light and blonde hair tones and helps blend in root -re-growth of colored, tinted or bleached hair. A quick burst revitalizes hair leaving it feeling clean and fresh. No need to worry about skipping a shampoo.",
+    "itemID": "B005D0WXPC",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 36637
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 8.0,
+    "brand": "Batiste"
+  }
+]

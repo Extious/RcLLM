@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Soap &amp; Glory Hand Food Hand Cream 125ml",
+    "description": "Contains shea butter, macadamia oil and marshmallow . Scented with our Original Pink fragrance. The most astonishing hand cream ever? You decide!",
+    "itemID": "B0047LL4P8",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 46091
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Hands & Nails",
+        "Hand Creams & Lotions"
+      ]
+    ],
+    "price": 8.75,
+    "brand": "Soap &amp; Glory"
+  },
+  {
+    "title": "Soap &amp; Glory Clean On Me Creamy Clarifying Shower Gel 500ml",
+    "description": "Soft, smooth, sexy skin whenever you want it. Contains natural mandarin peel extract and a bonus built-in body lotion. Scented with our Original Pink fragrance.",
+    "itemID": "B006L67FKK",
+    "helpful": [
+      7,
+      7
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Health & Personal Care": 22919
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Cleansers",
+        "Body Washes"
+      ]
+    ],
+    "price": 12.25,
+    "brand": "Soap &amp; Glory"
+  },
+  {
+    "title": "Soap &amp; Glory Flake Away Body Scrub 300ml",
+    "description": "A superhero strength skin smoothing body polish with shea butter, sweet almond oil, peach seed powder, sea salt and sugar. Transforms your scaly legs from reptilian to radiant. Scented with Soap & Glory's Original PinkTM fragrance.",
+    "itemID": "B006L68P18",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 60133
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Scrubs & Body Treatments",
+        "Body Scrubs"
+      ]
+    ],
+    "price": 24.99,
+    "brand": "Soap &amp; Glory"
+  }
+]

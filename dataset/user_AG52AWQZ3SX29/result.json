@@ -1,0 +1,71 @@
+[
+  {
+    "title": "La Roche-Posay Effaclar Purifying Foaming Gel, 6.76-Ounce Tube",
+    "description": "This daily use gel cleanser eliminates excess sebum and tightens the pores of oily and thickened skin without causing dryness.",
+    "itemID": "B002P3L99G",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 947
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Cleansers",
+        "Gels"
+      ]
+    ],
+    "price": 13.34,
+    "brand": "La Roche-Posay"
+  },
+  {
+    "title": "La Roche-Posay Effaclar Duo",
+    "description": "La Roche-Posay EffaclarDUOis a complete skincare product that combines 4 active ingredients to act on the two main symptoms of skin with imperfections: Severe localised imperfections: Niacinamide and Piroctone Olamine to fight against bacterial proliferation and eliminate imperfections. Pores clogged with sebum: the combination of LHA and Linoleic Acid unclogs pores while eliminating the accumulated dead cells responsible for blockage. These active ingredients are combined with soothing, anti-irritant La Roche-Posay thermal spring water to reduce redness.Paraben-free formula.",
+    "itemID": "B002ZHR33I",
+    "helpful": [
+      1,
+      2
+    ],
+    "overall": 1.0,
+    "salesRank": {
+      "Beauty": 21949
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Cleansers"
+      ]
+    ],
+    "price": 27.44,
+    "brand": "La Roche-Posay"
+  },
+  {
+    "title": "Nexxus Vitatress Biotin Scalp Creme, 2.1 Ounce",
+    "description": "Formulated with an abundance of nutrient rich ingredients including biotin, and proteins to penetrate the epidermis and provide an ideal environment on the scalp for the growth of healthy hair.",
+    "itemID": "B000JR59LY",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 2669
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Hair & Scalp Treatments"
+      ]
+    ],
+    "price": 3.24,
+    "brand": "Nexxus"
+  }
+]

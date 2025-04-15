@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Eucerin Daily Protection Moisturizing Face Lotion, Broad Spectrum SPF 30",
+    "description": "",
+    "itemID": "B00008MNZH",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": NaN,
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Creams & Moisturizers",
+        "Fluids & Lotions",
+        "Lotions"
+      ]
+    ],
+    "price": 8.04,
+    "brand": "Eucerin"
+  },
+  {
+    "title": "Eucerin Skin Calming Dry Skin Body Wash Oil, Fragrance Free, 8.4-Ounce Bottle (Pack of 3)",
+    "description": "",
+    "itemID": "B0018MIT70",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 1490
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Scrubs & Body Treatments",
+        "Body Scrubs"
+      ]
+    ],
+    "price": 21.75,
+    "brand": "Eucerin"
+  },
+  {
+    "title": "Cetaphil Daily Facial Moisturizer with Sunscreen, SPF 50+, 1.7 Fluid Ounce (Pack of 2) - Packaging May Vary",
+    "description": "",
+    "itemID": "B001GIOW3G",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 10502
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Creams & Moisturizers"
+      ]
+    ],
+    "price": 26.73,
+    "brand": "Cetaphil"
+  }
+]

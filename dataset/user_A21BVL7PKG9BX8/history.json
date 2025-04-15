@@ -1,0 +1,72 @@
+[
+  {
+    "title": "YOU Reel by Conair 2-in-1 Styler",
+    "description": "Conair continues to revolutionize styling with a dryer that's as convenient as it is powerful to speed up styling, while Tourmaline ceramic technology minimizes heat stress on hair. With it's ionic technology that reduces static electricity and leaves hair silkier, shinier and more manageable than ever, nothing can come close to Infiniti by Conair.",
+    "itemID": "B000R80ZTQ",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 1106
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Hair Dryers"
+      ]
+    ],
+    "price": 24.96,
+    "brand": "Conair"
+  },
+  {
+    "title": "Nature's Gate Papaya Velvet Moisture Body Wash , 18-Ounce Bottles (Pack of 2)",
+    "description": "Escape to the islands with the delightful tropical scent of Papaya. Our unique formula combines natural coconut based cleansers with 7 skin conditioning moisturizers to reveal revitalized, glowing and radiantly soft skin.",
+    "itemID": "B002AMUIBM",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 671058
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Cleansers",
+        "Body Washes"
+      ]
+    ],
+    "price": NaN,
+    "brand": NaN
+  },
+  {
+    "title": "Dove Men and Care Body and Face Wash, Clean Comfort, 18 Ounce (Pack of 3)",
+    "description": "",
+    "itemID": "B002TSA916",
+    "helpful": [
+      2,
+      3
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 3565
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Cleansers",
+        "Washes"
+      ]
+    ],
+    "price": 9.75,
+    "brand": "Dove"
+  }
+]

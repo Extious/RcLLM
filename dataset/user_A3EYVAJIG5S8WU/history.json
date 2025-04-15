@@ -1,0 +1,80 @@
+[
+  {
+    "title": "Kleancolor Oh yes I do mini collection",
+    "description": "145 sheer pastel\n157 metallic white\n183 bridalshower\n193 sugar coat\n224 love is in the air\n244 mr right",
+    "itemID": "B006LUC52E",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Health & Personal Care": 18537
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Nails",
+        "Nail Polish"
+      ]
+    ],
+    "price": 5.75,
+    "brand": "Kleancolor"
+  },
+  {
+    "title": "Silly yogi cotton batik headband",
+    "description": NaN,
+    "itemID": "B00A8ODE7Y",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Clothing": 32738
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Styling Accessories",
+        "Headbands"
+      ],
+      [
+        "Clothing, Shoes & Jewelry",
+        "Women",
+        "Accessories",
+        "Hats & Caps",
+        "Headbands"
+      ]
+    ],
+    "price": 5.99,
+    "brand": NaN
+  },
+  {
+    "title": "Olay Pro-X Advanced Cleansing System 0.68 Fl Oz, 1-Count",
+    "description": "",
+    "itemID": "B0043OYFKU",
+    "helpful": [
+      2,
+      2
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 6
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Treatments & Masks",
+        "Microdermabrasion"
+      ]
+    ],
+    "price": 26.99,
+    "brand": "Olay"
+  }
+]

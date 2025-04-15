@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Jergens All Purpose Face Cream, 15 Ounce (Pack of 2)",
+    "description": "Jergens all purpose face cream 15 ounce. This uniquely thicker than lotion formula, counts as a barrier for the skin that prote counts it from harsh elements, making skin smooth and vibrant.",
+    "itemID": "B0067YTMMA",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 83074
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Creams & Moisturizers",
+        "Fluids & Lotions",
+        "Lotions"
+      ]
+    ],
+    "price": 11.98,
+    "brand": "Jergens"
+  },
+  {
+    "title": "Dove Beauty Bars Soap for Women, Pink/Rosa, 6 Count",
+    "description": "Dove&#xAE; Pink Beauty Bars.Dermatologist #1 choice.Rosa.Beauty bar for deep moisture.1/4 moisturizing cream.",
+    "itemID": "B002DUOOXO",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 91152
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Cleansers",
+        "Soaps"
+      ]
+    ],
+    "price": 13.78,
+    "brand": "Dove"
+  }
+]

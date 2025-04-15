@@ -1,0 +1,71 @@
+[
+  {
+    "title": "L'Oreal Paris HiP Studio Secrets Professional Color Truth Cream Eyeliner, Black, 0.159 Ounce",
+    "description": "Discover the secret to creamy, long-wearing definition with hip studio secrets professional color truth cream eyeliner. This rich, versatile liner comes in five pigment-packed shades to define any eye look. Includes professional brush for precise application.",
+    "itemID": "B001H9657K",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 24584
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Eyes",
+        "Eyeliner"
+      ]
+    ],
+    "price": 11.05,
+    "brand": "L&#39;Oreal Paris"
+  },
+  {
+    "title": "e.l.f. Studio Mineral Infused Face Primer",
+    "description": "Transform your face into a flawless and smooth canvas with the Mineral Infused Face Primer. Developed to combat against excess oil, flaky dryness, enlarged pores and fine lines. This clear multipurpose skin primer will prepare your skin so makeup goes on evenly for a long lasting satin finish.",
+    "itemID": "B004DIXYWG",
+    "helpful": [
+      1,
+      2
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 117
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Foundation Primers"
+      ]
+    ],
+    "price": 5.98,
+    "brand": "e.l.f. Cosmetics"
+  },
+  {
+    "title": "Michael O'Rourke Rock Your Hair Bombshell Big Hair Powder for Unisex, 0.88 Ounce",
+    "description": "Bombshell Big Hair Powder 0.9 -Use on the roots and explode lifeless hair into sexy big volume.",
+    "itemID": "B005593XAA",
+    "helpful": [
+      2,
+      2
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 24195
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Pomades & Waxes"
+      ]
+    ],
+    "price": 8.9,
+    "brand": "Michael O&#39;Rourke"
+  }
+]

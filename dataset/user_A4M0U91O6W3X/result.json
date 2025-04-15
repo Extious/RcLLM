@@ -1,0 +1,97 @@
+[
+  {
+    "title": "TIGI Bed Head Urban Anti-dote Recovery Shampoo &amp; Conditioner Duo Damage Level 2 (25.36oz)",
+    "description": "Beneficial Ingredient\nTurbo Hydration Molecules Boost Softness & Shine",
+    "itemID": "B003T1G0XI",
+    "helpful": [
+      0,
+      1
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 646
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoo & Conditioner Sets"
+      ]
+    ],
+    "price": 18.94,
+    "brand": "TIGI"
+  },
+  {
+    "title": "Sebamed Moisturing Cream, Sensitive Skin, 2.6-Ounce",
+    "description": "All Sebamed products are \"soap free\" and suitable for individuals even with the most sensitive skin.  Sebamed is recommended by dermatologists in over 85 countries and is supported by over 150 clinical studies. Apply to face and neck after cleansing.",
+    "itemID": "B000BRSHXE",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 2855
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Creams & Moisturizers",
+        "Fluids & Lotions",
+        "Lotions"
+      ]
+    ],
+    "price": 12.59,
+    "brand": "Sebamed"
+  },
+  {
+    "title": "Healthy Sexy Hair Soy Renewal, 4.2 Ounce",
+    "description": "Soy Renewal is a nourishing styling treatment made with Moroccan argan oil that addresses moisture, frizz, smoothness, elasticity and shine concerns. Also protects from environmental stresses and reduces drying time.",
+    "itemID": "B004ZMCUIO",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 1529
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Creams, Gels & Lotions"
+      ]
+    ],
+    "price": 8.25,
+    "brand": "Healthy Sexy Hair"
+  },
+  {
+    "title": "THE Naked BEE - 2.5 Oz Vitamin C Facial Moisturizer SPF 30 -Orange Blossom",
+    "description": "The Naked Bee Daily Facial Moisturizer is also a broad spectrum sunscreen with an SPF rating of 30. Made with organic aloe vera and sunflower oil & enriched with Vitamin C,a powerful antioxidant to help defend against the damaging effects of free radicals that prematurely age skin. Honey is added, hyaluronic acid and palmatoyl tripeptide-3, developed to reduce wrinkles, along with a host of beneficial plant extracts like arnica, lavender, chamomile, calendula, cucumber and alpine lichen.",
+    "itemID": "B007MF8846",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 4728
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Creams & Moisturizers",
+        "Fluids & Lotions",
+        "Lotions"
+      ]
+    ],
+    "price": 9.5,
+    "brand": "The Naked Bee"
+  }
+]

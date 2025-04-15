@@ -1,0 +1,70 @@
+[
+  {
+    "title": "Smashbox Layer Lash Primer",
+    "description": "Smashbox's newest priming sensation, Layer Lash Primer, contains lash conditioning and strengthening panthenol to keep lashes healthy, even under the most strenuous conditions. To thicken and protect lashes, simply brush on before mascara.",
+    "itemID": "B00161FCAA",
+    "helpful": [
+      2,
+      2
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Health & Personal Care": 19798
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Eyes",
+        "Mascara"
+      ]
+    ],
+    "price": 19.95,
+    "brand": "Smashbox"
+  },
+  {
+    "title": "Nioxin System 3 Treatment,6.76 oz",
+    "description": "Nioxin scalp treatment no.3 chemically enhanced hair normal to thin looking activates the scalp and hair by breaking-down the sebum containing environmental residues and DHT and delivers vitamins and nutrients to the scalp and hair. BioAMP adds thickness from inside the cuticle and strengthens the hair shaft. Glyco-color shield provides clinically proven color protection for hair and helps safeguard the scalp from the drying effects of chemical services. Transactive delivery system is a time released delivery system formulated with vitamins that provide moisturizing nourishment for the scalp and hair.",
+    "itemID": "B005F1ILHS",
+    "helpful": [
+      1,
+      2
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 1943
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Hair & Scalp Treatments"
+      ]
+    ],
+    "price": 22.0,
+    "brand": "Nioxin"
+  },
+  {
+    "title": "Nioxin Cleanser, System 3 (Fine/Treated/Normal to Thin-Looking), 33.8 Ounce",
+    "description": "Formulated with European botanicals and rich humectants, the Cleanser is a hydrating and energizing conditioner for scalp and fine hair. Made with vitamins, proteins and amino acids to nourish scalp for stronger hair, it relieves tightness and tension from dryness. With Eco-Correctives to remove pollutants and toxins from scalp and hair, this Nioxin cleanser leaves skin looking fuller and healthier.",
+    "itemID": "B000F4GIP2",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 1431
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Hair Loss Products",
+        "Shampoos"
+      ]
+    ],
+    "price": 23.0,
+    "brand": "Nioxin"
+  }
+]

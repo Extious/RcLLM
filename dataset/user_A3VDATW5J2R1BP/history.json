@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Sally Hansen Salon Effects Value Twin Pack - Raise A Glass / Skinny Jeans",
+    "description": "Sally Hansen Salon Effects Value Twin Pack - Raise A Glass / Skinny Jeans",
+    "itemID": "B0076LCCYI",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Health & Personal Care": 130388
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Nails",
+        "Nail Polish"
+      ]
+    ],
+    "price": 3.99,
+    "brand": ""
+  },
+  {
+    "title": "Revlon Brow Fantasy, Pencil and Gel, 104 Dark Blonde, 0.04 Ounce",
+    "description": "Define and style brows in two quick steps&#8230;the finishing touch for beautiful eyes",
+    "itemID": "B000P6BRHY",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 2109
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Eyes",
+        "Liner & Shadow Combinations"
+      ]
+    ],
+    "price": 1.8,
+    "brand": "Revlon"
+  },
+  {
+    "title": "China Glaze Nail Lacquer with Hardeners - EMERAL SPARKLE",
+    "description": "China Glaze Nail Lacquer with Hardeners - EMERAL SPARKLE",
+    "itemID": "B004RLBCZ0",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 62487
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Nails",
+        "Nail Polish"
+      ]
+    ],
+    "price": 4.83,
+    "brand": "China Glaze"
+  }
+]

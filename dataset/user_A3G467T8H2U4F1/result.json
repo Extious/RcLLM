@@ -1,0 +1,71 @@
+[
+  {
+    "title": "OPI Nail Envy Original, 0.5 Ounce",
+    "description": "You wouldn't face harsh elements without a coat, so why leave your nails unprotected Fortify, protect, and harden thin, brittle natural nails with the Original Nail Envy. For results, apply two coats, followed by a one-coat application every other day.",
+    "itemID": "B00178TVXG",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 200
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Nails",
+        "Nail Polish"
+      ]
+    ],
+    "price": 9.5,
+    "brand": "OPI"
+  },
+  {
+    "title": "DHC Velvet Skin Coat 0.52 oz. Net wt.",
+    "description": "Make your skin the perfect canvas for flawless makeup application with DHC Velvet Skin Coat. This smoothing primer fills in creases and lines with a unique powdery gel that keeps oil in check so your makeup stays put all day long....",
+    "itemID": "B0027WPJRI",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Health & Personal Care": 5221
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Foundation Primers"
+      ]
+    ],
+    "price": 21.5,
+    "brand": "DHC"
+  },
+  {
+    "title": "Arbonne Makeup Primer 1oz",
+    "description": "Vitamin-rich makeup primer visually diminishes fine lines and pores, creating a canvas for flawless makeup application.",
+    "itemID": "B004KKIB5M",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Beauty": 5895
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Foundation Primers"
+      ]
+    ],
+    "price": 25.25,
+    "brand": "Arbonne"
+  }
+]

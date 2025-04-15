@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Sinus Buster Classic Formula by Sinus Buster - .68 Ounces",
+    "description": "",
+    "itemID": "B000HEECYY",
+    "helpful": [
+      3,
+      3
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Health & Personal Care": 8471
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Lotions"
+      ]
+    ],
+    "price": 11.64,
+    "brand": "Sinus Buster"
+  },
+  {
+    "title": "Xenna Curlaway Gradual Curl Relaxer Green Apple Fragrance -- 6 oz",
+    "description": "SAFE TO APPLY TO DYED OR PREVIOUSLY RELAXED HAIR.",
+    "itemID": "B00066LD7C",
+    "helpful": [
+      3,
+      4
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 94956
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Hair Relaxers",
+        "Shampoos"
+      ]
+    ],
+    "price": NaN,
+    "brand": NaN
+  },
+  {
+    "title": "CLEAR SCALP &amp; HAIR BEAUTY Volumizing Root Boost Nourishing Shampoo, 12.9 Fluid Ounce",
+    "description": "",
+    "itemID": "B007RTR8AC",
+    "helpful": [
+      1,
+      2
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 11379
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 1.66,
+    "brand": "Clear"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Agadir  Argan Oil Hair Treatment, 4-Ounce",
+    "description": "Leave in, daily hair treatment that's super enriched with vitamin E. Leaves hair with radiant shine!",
+    "itemID": "B001U9M2EW",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 140
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Hair & Scalp Treatments"
+      ]
+    ],
+    "price": 15.6,
+    "brand": "Agadir"
+  },
+  {
+    "title": "Acne.org 8 oz. Treatment (2.5% Benzoyl Peroxide)",
+    "description": "This 2.5% benzoyl peroxide is gel-based so it goes on clear and spreads easily. It is pharmaceutical grade, pH balanced, fragrance-free, and dye-free. It won't \"clump up\" with moisturizers, and won't turn white when you perspire. This treatment works best when used as part of The Regimen (acne.org/regimen), a step-by-step guide to clear skin.",
+    "itemID": "B00164FKWW",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Beauty": 27936
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Cleansers"
+      ]
+    ],
+    "price": NaN,
+    "brand": NaN
+  }
+]

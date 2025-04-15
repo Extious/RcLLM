@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Philosophy Lip Shine, Mimosa, 0.5 Ounce",
+    "description": "Give your lips a reason to celebrate with mimosa high-gloss, high-flavor lip shine. It hydrates, soothes and softens lips, while providing a beautiful shine.",
+    "itemID": "B000EIWKO2",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 190925
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Lips",
+        "Lip Glosses"
+      ]
+    ],
+    "price": 4.65,
+    "brand": "Philosophy"
+  },
+  {
+    "title": "Garnier Nutrisse Haircolor, 100 Extra-light Natural Blonde Chamomile",
+    "description": "Nourishing- experience garnier nutrisse, the nourishing color treatment that gives you rich, healthy-looking color. This exclusive color treatment, enriched with conditioners and fruit oil concentrate, penetrates deeps into hair fibers to deliver rich, long-lasting color that covers gray completely. Natural- enjoy the unique avocado enriched conditioner that harnesses the restorative properties of avocado oil with vitamin e. It protects against dryness while locking in color and moisture to keep your color radiant and your hair silky soft. Easy application: love coloring your hair with the nourishing creme formula enhanced with fragrant grape seed oil you only get from garnier nutrisse. The non-drip formula spreads easily and smells great when you color.",
+    "itemID": "B000GCQV9G",
+    "helpful": [
+      4,
+      6
+    ],
+    "overall": 1.0,
+    "salesRank": {
+      "Beauty": 12806
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Hair Color",
+        "Chemical Hair Dyes"
+      ]
+    ],
+    "price": 6.05,
+    "brand": "Garnier"
+  },
+  {
+    "title": "Moen YB5170BN Voss Hair Dryer Holder, Nickel",
+    "description": "Crisp edges and uncomplicated style features give the Voss(TM) collection an ageless, yet fashion-forward, presence. Each silhouette brings a confident transitional style to the bath.",
+    "itemID": "B007TAQZ8A",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Home Improvement": 55715
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Hair Dryers"
+      ]
+    ],
+    "price": 31.31,
+    "brand": "Moen"
+  }
+]

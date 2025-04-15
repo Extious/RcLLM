@@ -1,0 +1,74 @@
+[
+  {
+    "title": "Lovely by Sarah Jessica Parker for Women, Eau de Parfum, 3.4-Ounce Spray Bottle",
+    "description": "Introduced in 2005.When&#xA0;applying&#xA0;any fragrance please consider that there are several factors which can affect the natural smell of your skin and, in turn, the way a scent smells on you.&#xA0; For instance, your mood, stress level, age, body chemistry,&#xA0;diet, and current medications may all alter the scents you wear.&#xA0;&#xA0;Similarly, factor such as dry or oily&#xA0;skin can even affect the amount of time a fragrance will last after being applied",
+    "itemID": "B000C1ZDTU",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Health & Personal Care": 873
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Lotions"
+      ]
+    ],
+    "price": 25.95,
+    "brand": "Sarah Jessica Parker"
+  },
+  {
+    "title": "L'Oreal Paris Voluminous Original Mascara, Black Brown, 0.28 Ounces",
+    "description": "Voluminous original volume building mascara is uniquely formulated to build lashes to 5x their natural thickness, for a full and dramatic lash look. The volume maximizing brush thickens lashes evenly and smoothly, leaving them soft with virtually no flaking.",
+    "itemID": "B000R1VH8Q",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 2173
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Eyes",
+        "Mascara"
+      ]
+    ],
+    "price": 3.86,
+    "brand": "L&#39;Oreal Paris"
+  },
+  {
+    "title": "CeraVe Moisturizing Facial Lotion AM, 3 Ounce",
+    "description": "CeraVe facial moisturizing lotion AM helps repair damaged skin and maintain the skin's natural protective function with ingredients not commonly found in other moisturizers. Its patented multivesicular emulsion (MVE) technology releases theses ingredients over time, penetrating deep into the skin to hydrate and nourish.",
+    "itemID": "B003WN1ELQ",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 168
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Creams & Moisturizers",
+        "Fluids & Lotions",
+        "Lotions"
+      ]
+    ],
+    "price": 4.99,
+    "brand": "CeraVe"
+  }
+]

@@ -1,0 +1,75 @@
+[
+  {
+    "title": "Dopp Jumbo Kit w/ Zip Bottom",
+    "description": NaN,
+    "itemID": "B0001FF80G",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Clothing": 83390
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Tools & Accessories",
+        "Bags & Cases",
+        "Toiletry Bags"
+      ],
+      [
+        "Clothing, Shoes & Jewelry",
+        "Luggage & Travel Gear"
+      ]
+    ],
+    "price": 34.32,
+    "brand": "Dopp"
+  },
+  {
+    "title": "Dudu Osun Black Soap, 6-Count, 150g",
+    "description": "Includes 6 pieces of Dudu Osun Soap in each pack.",
+    "itemID": "B000TAE0RK",
+    "helpful": [
+      2,
+      2
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 247
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Cleansers",
+        "Soaps"
+      ]
+    ],
+    "price": 11.58,
+    "brand": "Dudu-osun"
+  },
+  {
+    "title": "Tropical Natural Dudo-Osun Black Soap  - 150g (12 Packs)",
+    "description": "Dudu osun is the age long african black soap made the traditional way bay hand. made with pure natural ingredients and herbs from the tropical rain forest.",
+    "itemID": "B0027Z2720",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 1036
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Cleansers",
+        "Soaps"
+      ]
+    ],
+    "price": 19.57,
+    "brand": "Dudu-osun"
+  }
+]

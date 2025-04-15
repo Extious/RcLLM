@@ -1,0 +1,70 @@
+[
+  {
+    "title": "Neutrogena Ultra Gentle Daily Cleanser, 12 Ounce",
+    "description": "This foaming cleanser works in a new, skinfriendly way to leave you with clean yet naturally soft skin. The nonstripping formula thoroughly removes excess oil, dirt, and makeup without overdrying or irritating skin.",
+    "itemID": "B0081E6X1W",
+    "helpful": [
+      4,
+      7
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Beauty": 20440
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Cleansers"
+      ]
+    ],
+    "price": 7.99,
+    "brand": "Neutrogena"
+  },
+  {
+    "title": "Suave Professionals Moroccan Infusion Color Care Conditioner 28 oz",
+    "description": "",
+    "itemID": "B00A0IWRUI",
+    "helpful": [
+      1,
+      2
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 73243
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Conditioners"
+      ]
+    ],
+    "price": 16.85,
+    "brand": "Suave"
+  },
+  {
+    "title": "Dove, Cr&egrave;me Mousse Body Wash, Rich and Creamy, Sensitive Skin, 18 ounce",
+    "description": "",
+    "itemID": "B00604MSSC",
+    "helpful": [
+      4,
+      4
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 76889
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Cleansers"
+      ]
+    ],
+    "price": 11.0,
+    "brand": "Dove"
+  }
+]

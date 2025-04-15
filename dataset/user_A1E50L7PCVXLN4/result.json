@@ -1,0 +1,321 @@
+[
+  {
+    "title": "Dove, Cr&egrave;me Mousse Body Wash, Rich and Creamy, Sensitive Skin, 18 ounce",
+    "description": "",
+    "itemID": "B00604MSSC",
+    "helpful": [
+      2,
+      3
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 76889
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Cleansers"
+      ]
+    ],
+    "price": 11.0,
+    "brand": "Dove"
+  },
+  {
+    "title": "Simple Protecting Light Moisturizer Spf 15, 4.2 Ounce",
+    "description": "",
+    "itemID": "B009RNUH7M",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 4711
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Creams & Moisturizers",
+        "Fluids & Lotions",
+        "Lotions"
+      ]
+    ],
+    "price": 7.18,
+    "brand": "Simple"
+  },
+  {
+    "title": "Pond's Luminous Moisture Day SPF 15 Lotion, 1.7 Ounce",
+    "description": "",
+    "itemID": "B00B33Y2JI",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 13811
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Creams & Moisturizers",
+        "Fluids & Lotions",
+        "Lotions"
+      ]
+    ],
+    "price": 6.49,
+    "brand": "Pond&#39;s"
+  },
+  {
+    "title": "Motions At Home Deep Penetrating Treatment Conditioner, 10-Ounce Jar",
+    "description": "Motions DPT Deep Pene Treatment 10 oz.",
+    "itemID": "B00106AC06",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": NaN,
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Conditioners"
+      ]
+    ],
+    "price": 7.99,
+    "brand": "Motions"
+  },
+  {
+    "title": "Just For Me Hair Milk Shampoo, 13.5-Ounce Bottle",
+    "description": "",
+    "itemID": "B002MO780W",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 17243
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 6.95,
+    "brand": "Just For Me"
+  },
+  {
+    "title": "Zadro Z Fogless Water Mirror with LED Light Panel and Tri Accessory Holder, 6-Inch, Stainless Steel",
+    "description": "Looking our best requires reflecting the best. Get a brighter and clearer view with this 6\" Z Fogless Water Mirror with LED Light Panel & Tri Accessory Holder Stainless Steel from Zadro. These technologically advanced mirrors are fog resistant, making a mirror in the shower an absolute advantage to getting that clean shave because hot water opens pores making shaving smoother and faster. Zadro has been continually providing functional and award winning product designs for over 30 years. Zadro reflects the ever-changing lifestyles and needs of customers with a broad array of Personal Care Mirrors, Bath Accessories, Cosmetic Accessories and Health & Wellness Products!.",
+    "itemID": "B00A3Q9LPG",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Home &amp; Kitchen": 251206
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Tools & Accessories",
+        "Mirrors",
+        "Shower Mirrors"
+      ]
+    ],
+    "price": 49.99,
+    "brand": "Zadro"
+  },
+  {
+    "title": "BabyGanics Foaming Hand Soap, Unscented, 8.45-Fluid Ounce Bottles (Pack of 2), Packaging May Vary",
+    "description": "",
+    "itemID": "B0038QQ7OQ",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Health & Personal Care": 3277
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Hands & Nails",
+        "Hand Soaps"
+      ]
+    ],
+    "price": 13.99,
+    "brand": "BabyGanics"
+  },
+  {
+    "title": "Suave Professionals Natural Infusion Seaweed and Lotus Blossom Conditioner, 12.6 Ounce",
+    "description": "",
+    "itemID": "B00GTC03OG",
+    "helpful": [
+      3,
+      3
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 52205
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Conditioners"
+      ]
+    ],
+    "price": 8.16,
+    "brand": "Suave"
+  },
+  {
+    "title": "Suave Professionals Natural Infusion Macadamia Oil and White Orchid Light Oil Spray, 3 Ounce",
+    "description": "",
+    "itemID": "B00GTBZXTC",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 84850
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products"
+      ]
+    ],
+    "price": 6.84,
+    "brand": "Suave"
+  },
+  {
+    "title": "Suave Professionals Natural Infusion Macadamia Oil and White Orchid Shampoo, 12.6 Ounce",
+    "description": "",
+    "itemID": "B00HSNWZFU",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 13653
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 7.0,
+    "brand": "Suave"
+  },
+  {
+    "title": "Hawaiian Tropic Silk Hydration Face Lotion SPF 30, 1.7 Ounce",
+    "description": "Hawaiian tropic silk hydration faces lotion-SPF 30. Hawaiian tropic silk hydration faces provides 12 hours of long lasting moisture with hydrating ribbons of silk protein and shea butter. Hawaiian tropic silk hydration faces is specifically formulated for usage on your face. Hawaiian tropic silk hydration faces is lightweight, oil free, non greasy, water resistant, and has a subtle tropical fragrance.",
+    "itemID": "B00FLRHYCE",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 31363
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Sun",
+        "Skin Protection"
+      ]
+    ],
+    "price": 16.98,
+    "brand": "Hawaiian Tropic"
+  },
+  {
+    "title": "Vidal Sassoon Pro Series Touch Control Digital Hair Dryer, 1875 Watt",
+    "description": "Introducing the all new Vidal Sassoon pro 1875 watt touch control hair dryer. Touch slider controls allow you to adjust the temperature setting to your exact styling preference with a touch of a finger. The temperature lock feature prevents accidental setting changes and memorizes previous setting. Hair dryer comes with a tourmaline and ceramic, cold shot button and concentrator attachment.",
+    "itemID": "B00JR4FOLA",
+    "helpful": [
+      1,
+      3
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Beauty": 275413
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Hair Dryers"
+      ]
+    ],
+    "price": 44.96,
+    "brand": NaN
+  },
+  {
+    "title": "CeraVe Baby Lotion, 8 Ounce",
+    "description": "Developed with pediatric dermatologists, CeraVe Baby Moisturizing Lotion is formulated with 3 essential ceramides (ceramide 3, ceramide 6-II, ceramide 1) and is free of parabens and phthalates for a healthy way to care for your baby&#x2019;s delicate skin. Designed to temporarily protect and help relieve chafed, chapped or cracked skin. CeraVe Baby Moisturizing Lotion helps protect baby&#x2019;s skin from the drying effects of wind and cold weather.",
+    "itemID": "B00JF3RYPM",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 5952
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Lotions"
+      ]
+    ],
+    "price": 8.84,
+    "brand": "CeraVe"
+  },
+  {
+    "title": "Tresemme 7 Day Keratin Smooth Shampoo, 9 Ounce",
+    "description": "",
+    "itemID": "B00GYB1AQM",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 7111
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 4.0,
+    "brand": "TRESemme"
+  }
+]

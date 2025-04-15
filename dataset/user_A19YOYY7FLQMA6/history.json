@@ -1,0 +1,70 @@
+[
+  {
+    "title": "Pantene Pro-V Volume Shampoo, 25.4 Fluid Ounce (Pack of 3) (packaging may vary)",
+    "description": "",
+    "itemID": "B003EH20VI",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 7123
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 27.75,
+    "brand": "Pantene"
+  },
+  {
+    "title": "Remington Ac2015 Tstudio Salon Collection Pearl Ceramic Hair Dryer",
+    "description": "",
+    "itemID": "B003V264WW",
+    "helpful": [
+      12,
+      15
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 504
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Hair Dryers"
+      ]
+    ],
+    "price": 28.69,
+    "brand": "Remington"
+  },
+  {
+    "title": "Covergirl Natureluxe Mousse Mascara, Very Black 500, 0.27-Ounce",
+    "description": "Experience luxury touched by nature with the NatureLuxe Collection. The light-as-air Silk Foundation takes the heavy weight out of your polished finish. Our Mousse Mascara leaves your lashes looking light and lifted, with up to 2X more volume vs. bare lashes. Complete your simply gorgeous look with Gloss Balm&#8217;s touch of soft color and sheen.&nbsp;",
+    "itemID": "B004Y4JNZ6",
+    "helpful": [
+      14,
+      17
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 39802
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Eyes",
+        "Mascara"
+      ]
+    ],
+    "price": 7.25,
+    "brand": "COVERGIRL"
+  }
+]

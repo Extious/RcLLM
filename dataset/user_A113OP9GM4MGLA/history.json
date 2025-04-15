@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Silicon Mix Hair Treatment 16oz",
+    "description": "Silicon Mix Hair Treatment. Silicon hair treatment contains bamboo extract, a natural product to regenerate and nourish the hair and silicones to smooth and give shine. Prevents hair breakage and split ends. Contains vitamins A, E, F, H (Biotin), H Pro-Vitamin B5 (Panthenol), H8 (Inositol) and Horse Chestnut Extract improve the health and beauty of the hair, helping it to grow longer.",
+    "itemID": "B002IT3KD0",
+    "helpful": [
+      1,
+      2
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 509
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Hair & Scalp Treatments"
+      ]
+    ],
+    "price": 9.37,
+    "brand": "Silicon"
+  },
+  {
+    "title": "Embryolisse Concentrated  Lait Cream  75 ml",
+    "description": "This 24 Hour Miracle Cream gets its name because of its many uses; it is a moisturising cream, a cleansing cream that gently removes make-up, an after-shave cream and a cleansing lotion for babies and children. It is a cleansing and moisturising cream that combines emulsifying and softening agents with active moisturisers while respecting the skin's natural balance (pH, microorganisms) and encouraging the rebuilding of the hydrolipidic layer (the skin's natural protection).",
+    "itemID": "B004NCFOZM",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 419
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Creams & Moisturizers"
+      ]
+    ],
+    "price": 21.03,
+    "brand": "Embryolisse"
+  },
+  {
+    "title": "Mavala&reg; Scientifique Nail Hardener (0.16 oz)",
+    "description": "Mavala Scientifique is a unique Patented nail hardener that is formulated to actually penetrate and bond the nail layers together. This forms a harder nail tip. How to Use To start, remove polish or any oily film and clean your nails thoroughly. Apply on to the free edge of your nails. Leave on for one minute to set. Apply twice a week at the most until your nails have become heatlhy and strong. Then two to three times per month if necessary. (0.16 oz)",
+    "itemID": "B000O2PLGC",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 30018
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Hands & Nails",
+        "Nail Treatments",
+        "Nail Strengthening"
+      ]
+    ],
+    "price": 16.0,
+    "brand": "MAVALA"
+  }
+]

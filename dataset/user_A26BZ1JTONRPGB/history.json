@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Palladio Natural Rice Powder Warm Beige",
+    "description": "Palladio Natural Rice Powder Loose Finishing Powder is triple milled for easier application and an ultra silky finish.",
+    "itemID": "B001ADP0OM",
+    "helpful": [
+      1,
+      2
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 36455
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Powder"
+      ]
+    ],
+    "price": 6.5,
+    "brand": "Palladio"
+  },
+  {
+    "title": "Clarisonic Mia Sonic Skin Cleansing System - White",
+    "description": "Mia is the new, go-anywhere Sonic Skin Cleansing System in a great compact size. The one-button, one-speed Mia fits your active lifestyle for beautiful, glowing skin wherever life&#x2019;s adventures take you. All the great benefits of the Clarisonic Classic in a new, smaller size. The perfect compact cleansing system for use at home or on the go.",
+    "itemID": "B002VAZINQ",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 27288
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Tools & Accessories",
+        "Makeup Brushes & Tools",
+        "Treatment Tools",
+        "Face Cleansing Brushes"
+      ]
+    ],
+    "price": NaN,
+    "brand": NaN
+  },
+  {
+    "title": "Gelish soak off sealer gel top it off",
+    "description": "This color gel is conveniently designed by \"Gelish by Harmony\" with a twist cap and applicator brush, apply like polishes, and cured under UV lamp. Color gels are meant to use on natural nails. These products are made to satisfy natural-nail wearers who long wish their color would last for more than two weeks. Color gels will stay on nails for three weeks with no chipping or peeling, and soak completely off in only 15 minutes.",
+    "itemID": "B003VGMOR2",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 4609
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Nails",
+        "Nail Polish"
+      ]
+    ],
+    "price": 10.68,
+    "brand": "Harmony"
+  }
+]

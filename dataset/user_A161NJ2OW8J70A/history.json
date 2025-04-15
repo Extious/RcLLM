@@ -1,0 +1,71 @@
+[
+  {
+    "title": "RefectoCil Cream Hair Dye (PURE BLACK) .5oz",
+    "description": "Within ten minutes (development period) Refectocil produces permanent coverage and even coloration which lasts several weeks. The vivid coloration is light and water resistant. A complete line of tinting accessories renders the application of Refectocil professional, simple and very profitable. Refectocil is the perfect choice for dyeing beards, sideburns and even intimate hair!",
+    "itemID": "B00171ARH2",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 4318
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Hair Color",
+        "Chemical Hair Dyes"
+      ]
+    ],
+    "price": 11.0,
+    "brand": "RefectoCil"
+  },
+  {
+    "title": "Babylis Pro BABTT5585 Tourmaline Titanium 3000 Dryer",
+    "description": "Babyliss Pro TT 1900 watt dryer is ulra light, has 6 heat/speed settings, an instant cool shot button and is ergonomically designed for easy and comfortable handling. Far-infrared heat dries hair from the inside out at faster speeds, leaving it silky and smooth in half the time.",
+    "itemID": "B002JSL6QI",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 343
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Hair Dryers"
+      ]
+    ],
+    "price": 52.99,
+    "brand": "BaBylissPRO"
+  },
+  {
+    "title": "Seki Edge Stainless Steel Fingernail Clipper",
+    "description": "Stainless steel nail clipper with cast iron lever. The cutting edge is hand-grinded and honed for precise cutting.  Tempered-twice to be long lasting and have a sharp edge.  Little effort required to cut through the thickest nails.",
+    "itemID": "B000F35R00",
+    "helpful": [
+      0,
+      1
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Beauty": 112
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Tools & Accessories",
+        "Nail Tools",
+        "Clippers & Trimmers"
+      ]
+    ],
+    "price": 12.99,
+    "brand": "Seki Edge"
+  }
+]

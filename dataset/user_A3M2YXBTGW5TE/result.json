@@ -1,0 +1,74 @@
+[
+  {
+    "title": "My Beauty Diary My Beauty Diary Aloe Mask, 10 Count",
+    "description": "My Beauty Diary provides a wide selection of masks to suit different skin texture needs in different seasons. The facial mask serums are formulated to be instantly absorbed by the skin to maintain the tenderness and luster of your skin. Specially designed for oriental skin, this gentle formula made with natural plant extracts is suitable for daily use to keep your beautiful and confident with a great complexion.",
+    "itemID": "B005SJSQIG",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 19239
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Treatments & Masks",
+        "Masks"
+      ]
+    ],
+    "price": 13.13,
+    "brand": "My Beauty Diary"
+  },
+  {
+    "title": "Coppertone Oil Free Sunscreen Lotion, SPF 30, 8-Ounce Bottles",
+    "description": "Fragrance free. Hypoallergenic. Won't clog pores. Pure & simple sun protection. UVA/UVB protection. Waterproof. Coppertone Oil Free sunscreen lotion - Pure and simple sun protection means: Oil free, fragrance free, hypoallergenic; Broad spectrum UVA/UVB protection, with photostabilized Avobenzone; Helps prevent premature skin aging from the sun; Won't clog pores or cause breakouts; Waterproof, PABA-free; Light, non-greasy formula absorbs quickly.",
+    "itemID": "B004FO6U2Y",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 3257
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Sun",
+        "Skin Protection",
+        "Sports"
+      ]
+    ],
+    "price": 5.39,
+    "brand": "Coppertone"
+  },
+  {
+    "title": "Biore Deep Cleansing Pore Strips, 8 Nose Strips",
+    "description": "Instantly removes pore-clogging dirt, oil and blackheads. Give yourself the confidence your crave and the looks you desire with the deep cleansing formula.",
+    "itemID": "B0068G8DTA",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 5798
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Treatments & Masks",
+        "Pore Cleansing Strips"
+      ]
+    ],
+    "price": 5.81,
+    "brand": "Biore"
+  }
+]

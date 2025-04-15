@@ -1,0 +1,93 @@
+[
+  {
+    "title": "Pond's Luminous Finish BB Plus Cream with SPF 15, Light Shade, 1.5 Ounce",
+    "description": "",
+    "itemID": "B00D6EDGYE",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 6197
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Creams & Moisturizers"
+      ]
+    ],
+    "price": 7.02,
+    "brand": "Pond&#39;s"
+  },
+  {
+    "title": "Cristophe Professional Glossing Shampoo, 10 Ounce",
+    "description": "Cristophe Professional Glossing Shampoo provides instant shine and UV protection for luminous hair and helps you create soft, silky styles just like Cristophe. Exotic Argan and Monoi oils combine to soften hair and protect strands from styling damage and breakage. This lightweight salon formula smoothes the cuticle for glossy, shiny hair.",
+    "itemID": "B009G0E19Q",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 246894
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": NaN,
+    "brand": NaN
+  },
+  {
+    "title": "Ecotools Pure Complexion Sponge Sensitive Brush",
+    "description": "Ecotools offers modern women the beautiful choice for eco-conscious indulgence everyday. We combine beauty expertise with eco-innovation to offer a comprehensive line that looks beautiful, performs beautifully, and acts responsibly.",
+    "itemID": "B00GNA9W4G",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 31661
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Makeup Remover",
+        "Face"
+      ]
+    ],
+    "price": 6.99,
+    "brand": "EcoTools"
+  },
+  {
+    "title": "Caress Body Wash, Juicy Escape, 18 Ounce",
+    "description": "Experience freshness like never before with caress juicy escape, infused with sun-kissed lily and pink grapefruit essence. Sparkling scents surprise your senses while lush, uplifting lather envelops your skin leaving it delicately scented and beautifully fresh.",
+    "itemID": "B00HSNWXV6",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 38548
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Cleansers",
+        "Body Washes"
+      ]
+    ],
+    "price": 10.59,
+    "brand": "Caress"
+  }
+]

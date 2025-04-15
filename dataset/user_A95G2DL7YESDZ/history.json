@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Eucerin Skin Calming Daily Moisturizing Creme, 14 Ounce Tubes (Pack of 2)",
+    "description": "",
+    "itemID": "B001FB5IN2",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 14555
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Lotions"
+      ]
+    ],
+    "price": 23.19,
+    "brand": "Eucerin"
+  },
+  {
+    "title": "Garnier Sleek and Shine Shampoo, 25.4 Fluid Ounce",
+    "description": "Smoothes for long lasting frizz control and shine. Fights frizz for 48 hours. Stay 10x smoother, with intense heat protection, even in 97% humidity.",
+    "itemID": "B005GQ6FYS",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 10728
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 6.12,
+    "brand": "Garnier"
+  },
+  {
+    "title": "Nautica Classic for Men by Nautica 3.4 oz 100ml EDT Spray",
+    "description": "Introduced in 1992, Nautica features watery florals and tones of aromatic woods. Its recommended use is for daytime occasions.When&#xA0;applying&#xA0;any fragrance please consider that there are several factors which can affect the natural smell of your skin and, in turn, the way a scent smells on you.&#xA0; For instance, your mood, stress level, age, body chemistry,&#xA0;diet, and current medications may all alter the scents you wear.&#xA0;&#xA0;Similarly, factor such as dry or oily&#xA0;skin can even affect the amount of time a fragrance will last after being applied",
+    "itemID": "B0020MMCJI",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 220
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Fragrance",
+        "Men's",
+        "Eau de Toilette"
+      ]
+    ],
+    "price": 12.0,
+    "brand": "Nautica"
+  }
+]

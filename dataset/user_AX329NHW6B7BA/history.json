@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Olay Professional Pro-X Intensive Firming Treatment Kit",
+    "description": "Intensive Firming treatment is a mask and serum treatment regimen that helps increase skin's natural fullness for firmer skin.",
+    "itemID": "B002UUT3AG",
+    "helpful": [
+      1,
+      4
+    ],
+    "overall": 1.0,
+    "salesRank": {
+      "Beauty": 87358
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Sets & Kits"
+      ]
+    ],
+    "price": 29.99,
+    "brand": "Olay"
+  },
+  {
+    "title": "Pantene Pro-V Smooth Conditioner 12.6 Fl Oz (Pack of 6) (packaging may vary)",
+    "description": "",
+    "itemID": "B003JA5OJA",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 277676
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Conditioners"
+      ]
+    ],
+    "price": 25.75,
+    "brand": "Pantene"
+  },
+  {
+    "title": "Remington CI95AC/2 Tstudio Salon Collection Pearl Digital Ceramic Curling Wand, 1/2 Inch - 1 Inch",
+    "description": "",
+    "itemID": "B003V265QW",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 73
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Irons",
+        "Curling Irons"
+      ]
+    ],
+    "price": 27.77,
+    "brand": "Remington"
+  }
+]

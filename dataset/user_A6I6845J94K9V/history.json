@@ -1,0 +1,70 @@
+[
+  {
+    "title": "Fake Bake Self-Tanning Lotion, 6-Ounces",
+    "description": "Fake Bake Self-Tanning Lotion, 6oz",
+    "itemID": "B001183N8G",
+    "helpful": [
+      0,
+      1
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 2963
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Sun",
+        "Self-Tanners & Bronzers"
+      ]
+    ],
+    "price": 12.0,
+    "brand": "Fake Bake"
+  },
+  {
+    "title": "It's A 10 Miracle Leave In Product, 4-Ounces",
+    "description": "It's A 10 does 10 things instantly: 1. Repairs dry damaged hair. 2. Adds shine. 3. Smoothes and controls frizz. 4. Seas and protects hair color. 5. Detangles. 6. Prevents split ends. 7. Stops hair breakage. 8. Creates silkiness. 9. Enhances natural body. 10. Flat iron spray and thermal protector.",
+    "itemID": "B000TKH6G2",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 1112
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Conditioners"
+      ]
+    ],
+    "price": 12.45,
+    "brand": "Its a 10"
+  },
+  {
+    "title": "Too Faced Cosmetics, Shadow Insurance, 0.35 Ounce",
+    "description": "Your full-coverage insurance policy against all fading, creasing, melting, blurring, oil slicked andhard-to-blend eye-shadow accidents. Our silicone based eye-shadow primer transforms any eyeshadow into a perfectly blendable, color-drenched, intensified version of its self, then locks it downperfectly &#x2018;till you take it off. Our skin soothing formula evens out the skin tone on your lids andsmoothes out lines while it secures a barrier between the oils of your skin and your makeup, so noshadow catastrophes will ever happen again. \"Thank you Shadow Insurance, I can sleep better atnight knowing you're on my side!\"-",
+    "itemID": "B0013CSGBE",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 2975
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Eyes",
+        "Eye Shadow"
+      ]
+    ],
+    "price": 12.95,
+    "brand": "Too Faced"
+  }
+]

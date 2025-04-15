@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Double Lash - Mavala Switzerland - Eye Care - 10ml/0.3oz",
+    "description": "A unique nutritive product Lengthens, thickens and protects the lashes Stimulate the growth of the eyelashes - Mavala Switzerland - Eye Care",
+    "itemID": "B006ZUEMSA",
+    "helpful": [
+      3,
+      3
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 3575
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Tools & Accessories",
+        "Makeup Brushes & Tools",
+        "Eyelash Tools",
+        "Curlers"
+      ]
+    ],
+    "price": 16.79,
+    "brand": "MAVALA"
+  },
+  {
+    "title": "Sun Laboratories Ultra Dark Self Tanning Spray Can (6 oz)",
+    "description": "",
+    "itemID": "B0009VDBWY",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 22142
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Sun",
+        "Self-Tanners & Bronzers"
+      ]
+    ],
+    "price": 24.17,
+    "brand": "Sun Laboratories"
+  },
+  {
+    "title": "Matahari Luminous 16 Oz",
+    "description": "Step 3",
+    "itemID": "B0010K9NH0",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 16566
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Sun"
+      ]
+    ],
+    "price": 9.38,
+    "brand": "Matahari"
+  }
+]

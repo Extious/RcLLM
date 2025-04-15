@@ -1,0 +1,209 @@
+[
+  {
+    "title": "NARS Blush, Taj Mahal",
+    "description": "Made with transparent pigments for a soft and sheer look. Imparts a natural, healthy glow for any skin tone and may be worn alone or layered together for more depth and intensity.",
+    "itemID": "B00021DJ32",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 46941
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Blush"
+      ]
+    ],
+    "price": 49.99,
+    "brand": "NARS"
+  },
+  {
+    "title": "Tarte Amazonian Clay Finishing Powder",
+    "description": "Product Performance: This translucent, silky finishing powder keeps makeup in place without ever appearing chalky. It mattifies skin by removing excess surface oil. This powder can even be used alone as a treatment to reap all the benefits of Amazonian clay.  Powered By: Amazonian clay: Amazonian clay acts as a total skin balancer, by hydrating all skin types, reducing the appearance of dry, flaky skin, improving clarity and texture, and removing surface oil to mattify skin for a soft focus and flawless finish.",
+    "itemID": "B003SDIL7U",
+    "helpful": [
+      2,
+      3
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 117004
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Powder"
+      ]
+    ],
+    "price": 48.97,
+    "brand": "Tarte"
+  },
+  {
+    "title": "REVLON Colorburst Lip Butter, Lollipop, 0.09 Ounce",
+    "description": "Color burst lip butter combines beautiful color with a buttery balm to give you baby soft, healthy glowing lips. It has a pampering gel formula which glides on lips buttery smooth and instantly hydrates lips.",
+    "itemID": "B006GQH096",
+    "helpful": [
+      34,
+      34
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 16545
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Lips",
+        "Lipstick"
+      ]
+    ],
+    "price": 3.64,
+    "brand": "Revlon"
+  },
+  {
+    "title": "Revlon ColorBurst Balm Stain, Crush, 0.1 Ounce",
+    "description": "Revlon Just bitten kissing balm stain provides a gorgeous flush of color and the moisturizing comfort of a balm in a portable, self sharpening chubby crayon.",
+    "itemID": "B0082D69H0",
+    "helpful": [
+      14,
+      14
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 24957
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Lips",
+        "Lip Stains"
+      ]
+    ],
+    "price": 2.5,
+    "brand": "Revlon"
+  },
+  {
+    "title": "NARS Shimmer Eyeshadow, Nepal",
+    "description": "Longwearing, crease resistant color in sheer wearable formulas. All NARS eyeshadows can be applied sheer or layered for a more dramatic effect. These richly pigmented powders blend effortlessly and can also be used wet for precisely lining the eyes.",
+    "itemID": "B00021CT56",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 104663
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Eyes",
+        "Eye Shadow"
+      ]
+    ],
+    "price": 25.0,
+    "brand": NaN
+  },
+  {
+    "title": "NARS Bronzing Powder, Casino",
+    "description": "Diffused powder with golden shimmer to create an all-over warmth and contour for the entire face. Bronzing Powder creates a natural looking glow which enhances or creates the look of tanned skin.",
+    "itemID": "B00021DPHW",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 23592
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Bronzers & Highlighters"
+      ]
+    ],
+    "price": 38.0,
+    "brand": "NARS"
+  },
+  {
+    "title": "ecoTOOLS Make-Up Kabuki Brush Set",
+    "description": "This ecoTOOLS 4 piece Kabuki Set is a special limited edition and offers 4 different brush heads for maximum coverage. Includes 4 full size brush heads conceal, bronze, contour, and buff.",
+    "itemID": "B005TKZS76",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 617
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Tools & Accessories",
+        "Makeup Brushes & Tools",
+        "Brushes & Applicators"
+      ]
+    ],
+    "price": 9.99,
+    "brand": "EcoTools"
+  },
+  {
+    "title": "The Balm In Stain Blush, Houndstooth Mauve, .3 Ounce",
+    "description": "Shadow and blush 0.3 ounce the subtle shimmer catches the eye while the warm undertones provide a glow that is oh-so natural. A powder that works as both eye shadow and blush.",
+    "itemID": "B00BPJ139C",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 113676
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Bronzers & Highlighters"
+      ]
+    ],
+    "price": 13.06,
+    "brand": "theBalm"
+  },
+  {
+    "title": "Too Faced Cosmetics Absolutely Invisible Candlelight Powder, 0.32-Ounce",
+    "description": "Capture the ethereal glow and ultra flattering light of a romantic candlelit dinner, anytime. A powerful dose of skin-saving antioxidants help to protect and soothe tired skin, while the golden-peachy tone warms and illuminates your complexion reducing the appearance of fine lines and imperfections",
+    "itemID": "B002DP1A18",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 1.0,
+    "salesRank": {
+      "Beauty": 32094
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Powder"
+      ]
+    ],
+    "price": 27.65,
+    "brand": "Too Faced"
+  }
+]

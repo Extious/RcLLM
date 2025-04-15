@@ -1,0 +1,71 @@
+[
+  {
+    "title": "POND'S Original Fresh Wet Cleansing Towelettes, 30-Count (Pack of 4)",
+    "description": "",
+    "itemID": "B001ECQ5IE",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 8800
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Cleansers",
+        "Cloths & Towelettes"
+      ]
+    ],
+    "price": 11.15,
+    "brand": "Pond&#39;s"
+  },
+  {
+    "title": "Yes To Tomatoes Purifying Shower Gel, 16.9 Fluid Ounce",
+    "description": "Need a little extra incentive to get up in the morning? How about that warm, steamy, refreshing shower awaiting your arrival? Yes to tomatoes purifying shower gel gently cleanses your skin, moisturizing and balancing its ph levels using tomatoes to detoxify every inch of your dermis and watermelon to target those evil pore-clogging oils, keeping your skin invigorated, gleaming and gorgeous. Your morning shower is no longer just a shower, it's an experience! How's that for a little rise and shine motivation.",
+    "itemID": "B003PL0AMO",
+    "helpful": [
+      1,
+      2
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 103283
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Cleansers",
+        "Body Washes"
+      ]
+    ],
+    "price": 26.94,
+    "brand": "Yes To"
+  },
+  {
+    "title": "Yes To Volumizing Conditioner, Tomatoes, 16.9 Fluid Ounce",
+    "description": "You're strong. You know it. Gorgeous, free-flowing, and vibrant. Let's keep your hair that way, too! Yes to tomatoes volumizing conditioner gives your hair that extra oomph, enhancing its body and keeping it strong and luminescent. Yes to nectarine that volumizes limpy locks and yes to hydrating dead sea minerals that pack some serious across-the-room shine.",
+    "itemID": "B003PL2CQQ",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 133499
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Conditioners"
+      ]
+    ],
+    "price": NaN,
+    "brand": NaN
+  }
+]

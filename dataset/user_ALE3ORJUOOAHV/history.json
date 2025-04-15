@@ -1,0 +1,70 @@
+[
+  {
+    "title": "Neutrogena Healthy Defense Daily Liquid Moisturizer with Helioplex, 1.4 Ounces",
+    "description": "",
+    "itemID": "B003QOZ2C8",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 5123
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Sun",
+        "Skin Protection"
+      ]
+    ],
+    "price": 10.5,
+    "brand": "Neutrogena"
+  },
+  {
+    "title": "Remington S9520 Salon Collection Ceramic Hair Straightener with Pearl Infused Wide Plates, 2 Inch",
+    "description": "",
+    "itemID": "B003V21WO2",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 3380
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Irons",
+        "Flattening Irons"
+      ]
+    ],
+    "price": NaN,
+    "brand": NaN
+  },
+  {
+    "title": "CLEAR SCALP &amp; HAIR BEAUTY Damage &amp; Color Repair Nourishing Conditioner, 12.7 Fluid Ounce",
+    "description": "",
+    "itemID": "B007RTR8TS",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 40820
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care"
+      ]
+    ],
+    "price": 4.25,
+    "brand": "Clear"
+  }
+]

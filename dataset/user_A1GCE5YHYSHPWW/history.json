@@ -1,0 +1,71 @@
+[
+  {
+    "title": "OPI Axxium No-cleanse Uv Top Sealer",
+    "description": "Makes finishing faster than ever! This brush-on non-yellowing sealer fills in imperfections and seals any enhancement with a high shine. The tack-free finish is brilliant straight from the UV light.",
+    "itemID": "B000VTVA7M",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 17885
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Nails",
+        "Top & Base Coats"
+      ]
+    ],
+    "price": 10.2,
+    "brand": "OPI"
+  },
+  {
+    "title": "Paul Mitchell The Color Permanent Cream Hair Color UTP Ultra Toner Platinum Blonde",
+    "description": "Buy Paul Mitchell Hair Color Permanent - Paul Mitchell The Color Permanent Cream Hair Color UTP Ultra Toner Platinum Blonde",
+    "itemID": "B003BR38YO",
+    "helpful": [
+      0,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 67894
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Hair Color",
+        "Chemical Hair Dyes"
+      ]
+    ],
+    "price": 10.99,
+    "brand": "Paul Mitchell"
+  },
+  {
+    "title": "Too Faced Cosmetics, Shadow Insurance, 0.35 Ounce",
+    "description": "Your full-coverage insurance policy against all fading, creasing, melting, blurring, oil slicked andhard-to-blend eye-shadow accidents. Our silicone based eye-shadow primer transforms any eyeshadow into a perfectly blendable, color-drenched, intensified version of its self, then locks it downperfectly &#x2018;till you take it off. Our skin soothing formula evens out the skin tone on your lids andsmoothes out lines while it secures a barrier between the oils of your skin and your makeup, so noshadow catastrophes will ever happen again. \"Thank you Shadow Insurance, I can sleep better atnight knowing you're on my side!\"-",
+    "itemID": "B0013CSGBE",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Beauty": 2975
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Eyes",
+        "Eye Shadow"
+      ]
+    ],
+    "price": 12.95,
+    "brand": "Too Faced"
+  }
+]

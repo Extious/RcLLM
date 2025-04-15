@@ -1,0 +1,48 @@
+[
+  {
+    "title": "Essie Nail Lacquer, Sugar Daddy, 0.5 Fluid Ounce",
+    "description": "Essie nail lacquer goes on smooth and last long Shimmery pink shade Chip-resistant DBP, Toluene and Formaldehyde free.",
+    "itemID": "B0002Z8HAI",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Beauty": 13867
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Nails",
+        "Nail Polish"
+      ]
+    ],
+    "price": 5.45,
+    "brand": "Essie"
+  },
+  {
+    "title": "Burt's Bees Sensitive Daily Moisturizing Cream, 1.8 Ounces",
+    "description": "Clinically proven to moisturize sensitive skin all day without causing redness or irritation, this nourishing day cream is formulated with softening Cotton Extract to help skin replenish its outer layer and minimize the effects of potential irritants such as harsh soaps or cleansers, all while Rice Extract moisturizes and Aloe soothes your skin. Naturally gentle for daily use. Use this 99% natural facial cream as part of the Burt&#x2019;s Bees&#xAE; Sensitive skin care regimen. Put the power of nature to work for your skin with Burt&#x2019;s Bees.",
+    "itemID": "B004VMGTY4",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 626
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Creams & Moisturizers"
+      ]
+    ],
+    "price": 8.35,
+    "brand": "Burt&#39;s Bees"
+  }
+]

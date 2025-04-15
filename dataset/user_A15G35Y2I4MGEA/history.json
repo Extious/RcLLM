@@ -1,0 +1,75 @@
+[
+  {
+    "title": "Jergens All Purpose Face Cream, 15 Ounce (Pack of 2)",
+    "description": "Jergens all purpose face cream 15 ounce. This uniquely thicker than lotion formula, counts as a barrier for the skin that prote counts it from harsh elements, making skin smooth and vibrant.",
+    "itemID": "B0067YTMMA",
+    "helpful": [
+      0,
+      1
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 83074
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Creams & Moisturizers",
+        "Fluids & Lotions",
+        "Lotions"
+      ]
+    ],
+    "price": 11.98,
+    "brand": "Jergens"
+  },
+  {
+    "title": "Clearasil Ultra Acne Treatment Daily Face Wash, 6.78 Ounce (Pack of 3)",
+    "description": "",
+    "itemID": "B001U0ONNY",
+    "helpful": [
+      1,
+      2
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 3280
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Cleansers",
+        "Washes"
+      ]
+    ],
+    "price": 17.39,
+    "brand": "Clearasil"
+  },
+  {
+    "title": "Slimquick Caffeine Free Clinical Strength, 72-count Box",
+    "description": "SLIMQUICK Ultra Caffeine Free Calorie Burner is designed to address six ways that women lose weight. It uses clinically researched key ingredients that work in a unique combination to BURN CALORIES and CARBS.* The SLIMQUICK Ultra Caffeine Free Calorie Burner formula offers 300% the weight-loss power vs. diet alone.",
+    "itemID": "B003CT35B2",
+    "helpful": [
+      1,
+      2
+    ],
+    "overall": 1.0,
+    "salesRank": {
+      "Health & Personal Care": 71518
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Lotions"
+      ]
+    ],
+    "price": 20.89,
+    "brand": "SlimQuick"
+  }
+]

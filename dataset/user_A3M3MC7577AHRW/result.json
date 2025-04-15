@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Trader Joe's Nourish Spa Balance Moisturizing Conditioner - Cruelty Free 16.9oz",
+    "description": "When your hair is dry, it needs to be nourished. This balanced hair remoisturizer is ideal for replenishing dry, brittle hair. Perfect for use daily, it infuses moisture and exceptional shine, without weighing hair down. Enhanced with organic botanicals, it does not contain laurel/laureth sulfates.",
+    "itemID": "B002LV317A",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 29483
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Conditioners"
+      ]
+    ],
+    "price": 8.95,
+    "brand": "Trader Joe&#39;s"
+  },
+  {
+    "title": "Macadamia Natural Oil No Tangle Brush",
+    "description": "Macadamia oil-enhanced brush is the perfect compliment to the Macadamia care products. Smooth's the cuticle layer. Minimizes breakage, splitting and damage.",
+    "itemID": "B006ON74II",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 5197
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Brushes"
+      ]
+    ],
+    "price": 8.72,
+    "brand": "Macadamia Natural Oil"
+  }
+]

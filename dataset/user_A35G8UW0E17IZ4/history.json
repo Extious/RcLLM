@@ -1,0 +1,73 @@
+[
+  {
+    "title": "Clairol Perfect 10 by Nice 'n Easy Hair Color, 007.5A, Medium Ash Blonde",
+    "description": "Perfect 10 provides high gloss hair color in just 10 minutes. It has an advanced color cr&egrave;me with micro-pearls that gently accelerates the color development process, delivering rich, high gloss color and 100% gray coverage in just 10 minutes, while better protecting your hair*.",
+    "itemID": "B0012QD7EC",
+    "helpful": [
+      0,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 184067
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Hair Color",
+        "Chemical Hair Dyes"
+      ]
+    ],
+    "price": 13.99,
+    "brand": "Clairol"
+  },
+  {
+    "title": "Jennifer Aniston for Women Eau De Parfum Spray, 2.9 Ounce",
+    "description": "Evoking memories of sunny days at the beach and happy summer nights, this captivating composition includes light, blooming floral notes set against a sensual base of musk and woods.When&#xA0;applying&#xA0;any fragrance please consider that there are several factors which can affect the natural smell of your skin and, in turn, the way a scent smells on you.&#xA0; For instance, your mood, stress level, age, body chemistry,&#xA0;diet, and current medications may all alter the scents you wear.&#xA0;&#xA0;Similarly, factor such as dry or oily&#xA0;skin can even affect the amount of time a fragrance will last after being applied",
+    "itemID": "B004KXKG20",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 2764
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Fragrance",
+        "Women's",
+        "Eau de Parfum"
+      ]
+    ],
+    "price": 26.28,
+    "brand": "Jennifer Aniston"
+  },
+  {
+    "title": "Garnier Skincare Moisture Rescue Refreshing Gel-Cream for Dry Skin for Dry Skin, 1.7 Fluid Ounce",
+    "description": "Garnier moisture rescue captures the power of antioxidant fruit water. Together with skin-healthy humectants that resemble skin's natural water-binding functions, this refreshing gel-cream, helps replenish skin's moisture reserves for 24 hours and helps defend skin from external aggressors. This ultra-lightweight, oil-free gel-cream contains 2x more moisturizing agents than our moisture rescue refreshing gel-cream for normal skin.",
+    "itemID": "B00ALB397Y",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 4264
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Creams & Moisturizers",
+        "Fluids & Lotions",
+        "Fluids"
+      ]
+    ],
+    "price": 14.99,
+    "brand": "Garnier"
+  }
+]

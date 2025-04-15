@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Remington CI52FO Wrap to Waves Ceramic Hair Styler",
+    "description": NaN,
+    "itemID": "B0050QJ0YQ",
+    "helpful": [
+      1,
+      2
+    ],
+    "overall": 5.0,
+    "salesRank": NaN,
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Irons",
+        "Curling Irons"
+      ]
+    ],
+    "price": 34.0,
+    "brand": "Remington"
+  },
+  {
+    "title": "Simple Moisturizing Facial Wash, 5 Ounce (Pack of 2)",
+    "description": "",
+    "itemID": "B005TI7LB4",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 120231
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Cleansers"
+      ]
+    ],
+    "price": 14.01,
+    "brand": "Simple"
+  },
+  {
+    "title": "Simple Cleansing Facial Wipes, 25 Count (Pack of 2)",
+    "description": "",
+    "itemID": "B005TI7LHS",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 17651
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Cleansers",
+        "Cloths & Towelettes"
+      ]
+    ],
+    "price": 10.9,
+    "brand": "Simple"
+  }
+]

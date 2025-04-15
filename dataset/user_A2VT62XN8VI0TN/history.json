@@ -1,0 +1,74 @@
+[
+  {
+    "title": "Regenerist Micro-Sculpting Cream 1.7 Oz",
+    "description": "",
+    "itemID": "B0012J30LY",
+    "helpful": [
+      2,
+      4
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 64
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Creams & Moisturizers",
+        "Fluids & Lotions",
+        "Lotions"
+      ]
+    ],
+    "price": 11.45,
+    "brand": "Olay"
+  },
+  {
+    "title": "Watts Beauty ArganGoldTM 120ml /100% Cert. Organic Cold Pressed Argan Nut Oil - Hair &amp; Body -Morocco",
+    "description": "Yes, this is the popular Watts Beauty product that everyone is searching for. Don't buy a whole new line of products, simply add a few drops of this pure argan oil to your favorite hair and skin products to enhance their results and benefits. Watts Beauty Argan Gold is produced by a women's cooperative that shares the profits among the local women of the Berber tribe. The cooperative has established an ecosystem reforestation project so that the supply of argan oil will not run out and the income that is currently supporting the women will not disappear. The money is providing health care and education to the local women, and supporting the entire community as a whole.",
+    "itemID": "B005GHP5UC",
+    "helpful": [
+      1,
+      8
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 19331
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Oils"
+      ]
+    ],
+    "price": 19.89,
+    "brand": NaN
+  },
+  {
+    "title": "Glycolic Acid 30% Gel Peel - Enhanced with Retinol and Green Tea Extract (Professional Chemical Peel)",
+    "description": "A professionally formulated peel, designed to help reduce the appearance of wrinkles, fine lines, uneven skin texture, and other signs of aging. It penetrates the epidermal & dermal layers of the skin, removes dead skin cells, minimizes appearance of pores, and increases skin's absorption rate. \n\nWhy Perfect Image? Many skin peels being sold today are not made in a professionally facility. This means they are not manufactured under the proper environments and no quality control, assay testing (activity of ingredients), micro testing (bacteria, yeast, mold, other Microorganisms), identity testing (Purity and Identity of Ingredients) and shelf life testing is conducted. This could cause a number of potential health hazards or permanently damage your skin if the product is contaminated. Contamination may occur during manufacturing or by the end-user after the container is opened. Without some antimicrobial properties, products can allow the growth of many different microorganisms. \n\nWe believe in incorporating natural plant extracts or organic ingredients which promote or aid in the healing, repairing, or protecting of the skin. Each ingredient is hand picked for its unique skin benefiting properties. We also incorporate natural preservatives into each product, as some studies have suggested using parabens as preservatives may cause potential health risks.",
+    "itemID": "B006ZBKH2Y",
+    "helpful": [
+      0,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 1661
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Treatments & Masks"
+      ]
+    ],
+    "price": 29.75,
+    "brand": "PERFECT IMAGE"
+  }
+]

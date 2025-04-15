@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Too Faced Cosmetics Lip Injection Extreme, 0.14 oz",
+    "description": "Lip Injection Extr&#xE9;me is a lip plumping serum that gives long term results based on four of the most scientifically proven and advanced lip plumping technologies. Increase lip volume and maintain plumpness with continued use!",
+    "itemID": "B000Z605H2",
+    "helpful": [
+      3,
+      5
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 3095
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Lips",
+        "Lip Plumpers"
+      ]
+    ],
+    "price": 27.5,
+    "brand": "Too Faced"
+  },
+  {
+    "title": "NYX Cosmetics Concealer Jar, Lavender, 0.21 Ounce",
+    "description": "Super concentrated lightweight concealer. Provides medium to heavy coverage. Natural finish never looks caked-on or clumpy.",
+    "itemID": "B001V3TVEQ",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 78553
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Concealers & Neutralizers"
+      ]
+    ],
+    "price": 4.0,
+    "brand": "NYX"
+  },
+  {
+    "title": "Reviva Labs DMAE Firming Fluid - 1 oz",
+    "description": "DMAE Firming Fluid is ideal to help firm and tone throat and facial skin for a more supple look. Can be used with other day and night creams.",
+    "itemID": "B00014FTTM",
+    "helpful": [
+      2,
+      2
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Health & Personal Care": 14612
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Treatments & Masks"
+      ]
+    ],
+    "price": 12.45,
+    "brand": "Reviva"
+  }
+]

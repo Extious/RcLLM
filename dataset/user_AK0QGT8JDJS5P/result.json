@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Revlon RV544PKF 1875W Tourmaline Ionic Ceramic Dryer",
+    "description": "Revlon 1875 Watt Tourmaline Ionic Lightweight Dryer feature Tourmaline Ionic Technology for ultimate shine, volume, and healthier looking styles. This dryer features an ion indicator light, separate heat and speed rocker switches, 2 heat/2 speed settings, cold shot button, hinged endcap, anti-skid bumpers, and concentrator and finger diffuser attachments. This ultra lightweight design is 25% lighter than your average dryer and has a sleek and upscale spray finish. This unit is super quiet and fast drying.",
+    "itemID": "B000FS05VG",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 6
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Hair Dryers"
+      ]
+    ],
+    "price": 23.92,
+    "brand": "Revlon"
+  },
+  {
+    "title": "L Oreal Natures Therapy Mega Moisture Nurturing Creme 16 oz",
+    "description": "L'Oreal's Mega Moisture Nurturing Creme quenches dry hair?s thirst with intense moisturizing properties.",
+    "itemID": "B000CPIMNA",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 5461
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Creams, Gels & Lotions"
+      ]
+    ],
+    "price": 11.2,
+    "brand": "L&#39;Oreal Paris"
+  },
+  {
+    "title": "BaByliss Pro BABNT6610 Portofino 6600, 2000-Watt Nano Titanium Ionic Hair Dryer, Black",
+    "description": "Powerful italian ac motor with ionic and nano titanium technology delivers optimum results quickly. combined effects of the ionic generator and nano titanium conditions the hair, making it soft while adding shine.",
+    "itemID": "B003B6S36S",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 9370
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Hair Dryers"
+      ]
+    ],
+    "price": 97.99,
+    "brand": "BaBylissPRO"
+  }
+]

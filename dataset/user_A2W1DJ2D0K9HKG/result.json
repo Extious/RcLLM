@@ -1,0 +1,49 @@
+[
+  {
+    "title": "Dr. Teal's Foaming Bath, Lavender, 34 Fluid Ounce",
+    "description": "Dr. Teal's foaming bath transforms an ordinary bath into a relaxing spa with luxurious essential oils to soothe the senses, relax tense muscles and provide relief from stress. Lavender essence has soothing properties that are known to encourage a better night's sleep. This finished product is not tested on animals. Made in the USA. Distributed by advanced beauty systems.",
+    "itemID": "B0080D1Q52",
+    "helpful": [
+      1,
+      5
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Beauty": 9550
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Oils"
+      ]
+    ],
+    "price": 7.95,
+    "brand": "Dr. Teal&#39;s"
+  },
+  {
+    "title": "Benefit Cosmetics Fake Up 01 Light 0.12 oz",
+    "description": "-An ultra-hydrating crease-control concealer-Formulated with vitamin E & apple seed extract-Helps cover dark circles & diffuse fine lines without caking creasing or settling effects-Maintains nourished skin for six hours-Gives a smooth flawless & ultra-natural finishProduct Line: Benefit - Complexion - Fake Up Hydrating Crease Control ConcealerProduct Size: 3.5g/0.12oz",
+    "itemID": "B00BETYXV8",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 5312
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Concealers & Neutralizers"
+      ]
+    ],
+    "price": 16.23,
+    "brand": "Benefit Cosmetics"
+  }
+]

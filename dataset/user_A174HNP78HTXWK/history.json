@@ -1,0 +1,74 @@
+[
+  {
+    "title": "Neutrogena Deep Moisture Body Cream, Butter Cream, 6 Ounce",
+    "description": "Deep Moisture Body Cream turns even severely dry skin into soft, smooth skin after just one use.  Discover a body cream uniquely formulated to deeply moisturize skin, leaving skin soft, smooth and totally touchable all day long ;without any greasy after-feel. This delightfully rich cream formula penetrates deeply into the skin's surface to moisturize dry skin in three ways. Naturally derived cocoa butter nourishes the surface for supple skin. Creamy mango butter moisturizes and softens skin. Rich shea butter helps seal in moisture for long lasting benefits. It's love at first touch!",
+    "itemID": "B001E96MUI",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 123632
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Body Butter"
+      ]
+    ],
+    "price": NaN,
+    "brand": NaN
+  },
+  {
+    "title": "Neutrogena Norwegian Formula Lip Moisturizer, SPF 15, 0.15 Ounce",
+    "description": "Conditions & Protects Dry, Chapped Lips Guards Against The Uva & Uvb Rays No Color, Fragrance Or Additives",
+    "itemID": "B0000Y3D4G",
+    "helpful": [
+      3,
+      4
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 42049
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Oils"
+      ]
+    ],
+    "price": 4.31,
+    "brand": "Nuetrogena"
+  },
+  {
+    "title": "Beauty Without Cruelty Fragrance Free Hand &amp; Body Lotion, 100 % Vegetarian, 16 fl ozs.",
+    "description": "Beauty Without Cruelty Hand & Body Lotion is the perfect all-over body treatment, a refreshing drink of moisture for dry skin. This unique plant-based formula absorbs quickly replenishing skin with pro-vitamins, humectants and the protective emollients, shea butter, kukui nut and jojoba oils to soothe and soften. Together they replenish, moisturize and protect skin against the effects of time and environmental stress. pH BALANCED. NO ANIMAL TESTING - NO ANIMAL INGREDIENTS - SINCE 1963",
+    "itemID": "B003FO70Z6",
+    "helpful": [
+      7,
+      7
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 9327
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Lotions"
+      ]
+    ],
+    "price": 10.49,
+    "brand": "Beauty Without Cruelty"
+  }
+]

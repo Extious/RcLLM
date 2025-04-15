@@ -1,0 +1,48 @@
+[
+  {
+    "title": "Vivite Night Renewal Facial Cream-2 oz",
+    "description": "The VIVITE Night Renewal Cream is an extra-rich formulation that promotes overnight maintenance and repair of skin tissues. It contains 20% glycolic compound as well as Vitamin C and Vitamine E. The Vivite Night Renewal Cream also contains superoxide dismutase (SOD), an advanced antioxidant for effective topical protection against scavenging free radicals.",
+    "itemID": "B0015H0TS0",
+    "helpful": [
+      1,
+      2
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 9591
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Treatments & Masks"
+      ]
+    ],
+    "price": 66.6,
+    "brand": "Vivite"
+  },
+  {
+    "title": "M.D. Forte Facial Cleanser III 8 oz",
+    "description": "This gentle, creamy cleanser is ideal for all skin types. It removes daily residue, makeup, and oil without harshness or dehydration. Contains 20% glycolic compound, should only be used after your skin has adjusted to levels I and II..  Glycolic Compound is a complex, pH-balanced mixture of glycolic acid, ammonium glycolate, purified water, and higher-molecular-weight oligomers of glycolic acid, with an approximate activity level of 60%, and is designated on product labels as the ingredients \"glycolic acid\" and \"ammonium glycolate.\"",
+    "itemID": "B00187EX6G",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 7784
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Cleansers"
+      ]
+    ],
+    "price": 86.7,
+    "brand": "MD Forte"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Summers Eve Feminine Deodorant Powder, Cotton Breeze 8 oz",
+    "description": "Helps Prevent Moisture, Which Is Often The Cause of Itching, Odor and Irritation.",
+    "itemID": "B0014B5LM6",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Health & Personal Care": 18303
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Oils"
+      ]
+    ],
+    "price": 3.07,
+    "brand": "Summer&#39;s Eve"
+  },
+  {
+    "title": "Dove Damage Therapy Intensive Repair Conditioner 25.4 Ounce (Pack of 2)",
+    "description": "",
+    "itemID": "B001ET7KAY",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 119641
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Conditioners"
+      ]
+    ],
+    "price": 19.78,
+    "brand": "Dove"
+  },
+  {
+    "title": "Freeman Dead Sea Minerals Facial Anti-stress Mask 6 Oz",
+    "description": "Dead Sea Minerals and Sea Salts replenish and balance moisture while purging clogged pores. Lavender and Bergamot help achieve an aroma-therapeutic bliss to rinse away stress for smooth and radiant skin",
+    "itemID": "B007CY2C76",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 3787
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Treatments & Masks",
+        "Masks"
+      ]
+    ],
+    "price": 3.14,
+    "brand": "Freeman"
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "title": "O'Keeffe's Working Hands Cream, 3.4 oz.",
+    "description": NaN,
+    "itemID": "B00121UVU0",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": NaN,
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Hands & Nails",
+        "Hand Creams & Lotions"
+      ]
+    ],
+    "price": 7.32,
+    "brand": "O&#39;Keeffe&#39;s Company"
+  },
+  {
+    "title": "Avon MagiX Face Perfector SPF 20,30ml 1fl oz",
+    "description": "A magical new air-light colorless formula that makes all skin tones look flawless... invisible coverage. instant perfection. SPF 20. 1 fl. oz.",
+    "itemID": "B001EDHAU0",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 7817
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Creams & Moisturizers"
+      ]
+    ],
+    "price": 8.99,
+    "brand": "Avon"
+  },
+  {
+    "title": "Trichloroacetic Acid Solution TCA 50% Chemical Skin Peel (8 ml)",
+    "description": "Our additive free trichloroacetic acid solutions are ideal for use by skin care professionals, dermatologists, physicians, and experienced home consumers.  \nDiluted TCA solutions are broadly used as a chemical peeling agent that when applied to the skin can help reduce acne scars, rejuvinate skin, obliterate age spots, smooth wrinkles, lift unwanted freckles, smooth stretch marks, drastically reduce scarring, and remove xanthelasma.  \nConcentrated TCA solutions (50%-80%) are a very effective method of removing skin tags, moles, and warts.\nThis is a chemical solution and an acid which is corrosive to the skin and should only be applied to the skin at a controlled concentration and at the hands of one experienced in the proper usage and aftercare required to insure healthy and beneficial results.\nPlease consult a qualified dermatologist, oncologist, or physician prior to removing any questionable skin growths using a TCA solution.SAFETY WARNING:It's important to understand trichloroacetic acid will cause a chemical burn when applied to the skin.  Excessive applications or even a single application of a high concentration (usually 50% or higher), may cause scarring.   \nThe most commonly accepted concentrations for use as a chemical peel are between 10% and 30%.   If purchasing a higher concentration, dilution may be required depending on needs.   \nSpecial care should be taken to avoid contact with healthy skin surrounding skin tags, warts, or moles when applying to avoid possible scarring and/or long lasting redness.\nAVOID CONTACT WITH HEALTHY SKIN OR AREAS WHICH ARE NOT MEANT TO UNDERGO A CHEMICAL BURN.  \nUSER ASSUMES ALL RISK OF DAMAGE OR INJURY TO SKIN. HANDLE WITH CARE. KEEP OUT OF THE REACH OF CHILDREN. KEEP OUT OF THE EYES, NOSE, & MOUTH.ALWAYS PERFORM A TEST APPLICATION ON SKIN PRIOR TO CONTINUING USE TO BE CERTAIN NO ADVERSE REACTIONS ARE OBSERVED.",
+    "itemID": "B00BKONH5U",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 1.0,
+    "salesRank": {
+      "Beauty": 3170
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Cleansers"
+      ]
+    ],
+    "price": 14.99,
+    "brand": NaN
+  }
+]

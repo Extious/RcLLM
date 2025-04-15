@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Biore Makeup Removing Towelettes, 30 Count",
+    "description": "Biore makeup removing towelettes for easy removal of makeup. Made from 100% renewable resources.",
+    "itemID": "B006RFYH92",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 18958
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Cleansers",
+        "Cloths & Towelettes"
+      ]
+    ],
+    "price": 5.55,
+    "brand": "Biore"
+  },
+  {
+    "title": "Suave Professionals Moroccan Infusion Color Care Conditioner 28 oz",
+    "description": "",
+    "itemID": "B00A0IWRUI",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 73243
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Conditioners"
+      ]
+    ],
+    "price": 16.85,
+    "brand": "Suave"
+  },
+  {
+    "title": "Smashbox Photo Finish Foundation Primer, 0.5 Ounce",
+    "description": "Emulsion lip exfoliant,.75 ounce. Say goodbye to dry, flaky lips. This sugar-based, peppermint-infused lip exfoliate is packed with vitamins and soothing conditioners to smooth and soften lips. Poppy seeds and sugar granules gently exfoliate while cocoa and shea butter, grape seed extract and jojoba deeply nourish.",
+    "itemID": "B00161HES8",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 135409
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Foundation Primers"
+      ]
+    ],
+    "price": 23.99,
+    "brand": "Smashbox"
+  }
+]

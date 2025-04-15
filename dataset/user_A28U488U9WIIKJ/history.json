@@ -1,0 +1,73 @@
+[
+  {
+    "title": "St. Ives Facial Moisturizer, Timeless Skin Collagen Elastin, 10oz",
+    "description": "",
+    "itemID": "B000UVZU1S",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 277
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Creams & Moisturizers",
+        "Fluids & Lotions",
+        "Lotions"
+      ]
+    ],
+    "price": 7.46,
+    "brand": "St. Ives"
+  },
+  {
+    "title": "L'Oreal Paris EverStrong Sulfate-Free Fortify System Overnight Hair Repair Treatment, 3.4 Fluid Ounce",
+    "description": "EverStrong Overnight Repair Treatment is a leave-in formula with our patented bio-ceramide complex. It penetrates the hair fiber while you sleep to improve strength after just one use. Absorbs quickly without leaving residue on pillow.",
+    "itemID": "B002PBCABY",
+    "helpful": [
+      1,
+      2
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 3831
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Hair & Scalp Treatments"
+      ]
+    ],
+    "price": 0.99,
+    "brand": "L&#39;Oreal Paris"
+  },
+  {
+    "title": "Scunci Effortless Beauty Thick Hair No-damage Bright Elastics, 5Mm, 24-Count",
+    "description": "Scunci effortless beauty no-damage bright elastics are your secret to effortless all-day hold. slide into any situation without worrying about hair slippage. specially designed for thick hair. soft metal-free elastic bands keep ponytails tight while working out or for casual style and won't damage your hair. 24 pack ensures that no matter where you put one down you'll always be able to pick one up. bright primary colors and neutral shades to complement any outfit or hair color.",
+    "itemID": "B002QA31SU",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 552
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Styling Accessories",
+        "Ponytail Holders"
+      ]
+    ],
+    "price": 7.99,
+    "brand": "Scunci"
+  }
+]

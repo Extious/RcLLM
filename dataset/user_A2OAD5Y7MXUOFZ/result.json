@@ -1,0 +1,164 @@
+[
+  {
+    "title": "Nexxus Youth Renewal Plump and Lift Blow Dry Spray, 7.5 Ounce",
+    "description": "",
+    "itemID": "B00AE07GX0",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 40048
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Hair Sprays"
+      ]
+    ],
+    "price": 11.5,
+    "brand": "Nexxus"
+  },
+  {
+    "title": "Maybelline 24 Hour Eyeshadow, Too Cool, 0.14 Ounce",
+    "description": "Ink intensity. Tattoo tenacity. Dare to wear the longest lasting shadow. Eye studio color tattoo's ink technology creates the mostsaturated shadow. Cream gel smooths on for vibrant, crease-proof color that never fades. Dare to get inked.",
+    "itemID": "B006UET5UG",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 10430
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Eyes",
+        "Eye Shadow"
+      ]
+    ],
+    "price": 5.3,
+    "brand": "Maybelline"
+  },
+  {
+    "title": "LOreal EverPure Volume Shampoo",
+    "description": "EverPure conditioners are creamy, protective formulas that help preserve and maintain color brilliance. Color-treated hair requires special care. The EverPure Sulfate-Free Color Care System protects and conditions hair for long-lasting color purity. The unique UV filters help protect color-treated hair against sun damage.",
+    "itemID": "B001P1ZC9M",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 13410
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 8.48,
+    "brand": "L&#39;Oreal Paris"
+  },
+  {
+    "title": "Simple Protecting Light Moisturizer Spf 15, 4.2 Ounce",
+    "description": "",
+    "itemID": "B009RNUH7M",
+    "helpful": [
+      3,
+      3
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 4711
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Creams & Moisturizers",
+        "Fluids & Lotions",
+        "Lotions"
+      ]
+    ],
+    "price": 7.18,
+    "brand": "Simple"
+  },
+  {
+    "title": "Pond's Luminous Finish BB Plus Cream with SPF 15, Light Shade, 1.5 Ounce",
+    "description": "",
+    "itemID": "B00D6EDGYE",
+    "helpful": [
+      1,
+      2
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 6197
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Creams & Moisturizers"
+      ]
+    ],
+    "price": 7.02,
+    "brand": "Pond&#39;s"
+  },
+  {
+    "title": "CoverGirl Flamed Out Eye Shadow Pot, Melted Gold, 0.07 Ounce",
+    "description": "",
+    "itemID": "B007ZRXYK4",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 284838
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Eyes",
+        "Eye Shadow"
+      ]
+    ],
+    "price": 4.99,
+    "brand": "COVERGIRL"
+  },
+  {
+    "title": "John Frieda Precision Foam Hair Color, Glosser Cool Red, 6 Fluid Ounce",
+    "description": "An in-shower, non-damaging weekly color extending treatment that adds back lost color pigments for true to tone, salon-fresh color in-between colorings. Instantly restore vibrant salon-fresh color and shine. Adds vivid red tones to counteract fading. An in-shower non-damaging weekly color extending treatment that adds back lost color pigments. Delivers true to tone salon-fresh color in-between colorings.",
+    "itemID": "B00GLS5938",
+    "helpful": [
+      2,
+      3
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 45043
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Hair Color",
+        "Highlights"
+      ]
+    ],
+    "price": 8.75,
+    "brand": "John Frieda"
+  }
+]

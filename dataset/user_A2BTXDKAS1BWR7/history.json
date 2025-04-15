@@ -1,0 +1,69 @@
+[
+  {
+    "title": "John Frieda Sheer Blonde Go Blonder Controlled Lightening Spray, 3.5 Ounce",
+    "description": "Versatile, patent-pending formula with citrus and chamomile works with styling heat to gradually lighten and brighten for a natural-looking, blonder blonde. Contains thermo-protectant. Patent-pending technology combines fixative and conditioning polymers that retain hydrogen peroxide, allowing for control of lightening. Visibly lightens in 3-5 uses.",
+    "itemID": "B004DK7DVC",
+    "helpful": [
+      2,
+      3
+    ],
+    "overall": 5.0,
+    "salesRank": NaN,
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Hair Sprays"
+      ]
+    ],
+    "price": 6.99,
+    "brand": "John Frieda"
+  },
+  {
+    "title": "Conair Tourmaline Brush, Red",
+    "description": "Conair Tourmaline red porcupine cushion brush contains 100% crushed gemstones with ions for intense shine, and also reduces static electricity.",
+    "itemID": "B000MN6FQ8",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 131101
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Brushes"
+      ]
+    ],
+    "price": 3.5,
+    "brand": "Conair"
+  },
+  {
+    "title": "Nubar Prisms Collection - Treasure (NPZ318)",
+    "description": "NPZ318:- Treasure - light violet with fine rainbow holographic glitter is filled with holographic glitter reflecting every color of the rainbow, with base colors just as varied, ranging from subtle neutrals to vivid pink to pale blue.  Going a step beyond holographic nail lacquers, nubar's Prism Collection is a celebration of color and light.  As all nubar products, they are free of formaldehyde, toluene, and (DBP) phthalate, as well as vegan and cruelty free.",
+    "itemID": "B003I8I0YY",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 34490
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Nails",
+        "Nail Polish"
+      ]
+    ],
+    "price": 7.0,
+    "brand": "Nubar Lacquer"
+  }
+]

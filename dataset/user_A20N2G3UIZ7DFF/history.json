@@ -1,0 +1,73 @@
+[
+  {
+    "title": "John Frieda JFHA5 Hot Air Brush, 1.5 inch",
+    "description": "",
+    "itemID": "B0056GDG90",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 149
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Hot-Air Brushes"
+      ]
+    ],
+    "price": 28.69,
+    "brand": "John Frieda"
+  },
+  {
+    "title": "Jergens Original Scent Moisturizer, Cherry-Almond, 10 Ounce",
+    "description": "Jergens Original Scent Moisturizer transports you back in time as it transforms dry skin into captivatingly soft skin. Leaves skin embraceable silky and subtly fragranced. Jergens Moisturizer with the classic Cherry-Almond scent. Comforts and Nourishes.",
+    "itemID": "B000QX7YCI",
+    "helpful": [
+      0,
+      2
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 166463
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Lotions"
+      ]
+    ],
+    "price": 4.99,
+    "brand": "Jergens"
+  },
+  {
+    "title": "Original Scent Dry Skin Moisturizer by Jergens, 21 Ounce",
+    "description": "EXPERIENCE ALL THE WAYS THE JERGENS COLLECTION OF MOISTURIZERS GIVE SKIN A SUBTLE ALLURE THAT CAPTIVATES. MOISTURIZE INTO MEMORABLY SOFT SKIN.",
+    "itemID": "B000P9BR4Y",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 86283
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Lotions"
+      ]
+    ],
+    "price": 4.56,
+    "brand": "Jergens"
+  }
+]

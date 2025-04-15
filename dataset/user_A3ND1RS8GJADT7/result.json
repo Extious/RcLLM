@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Coastal Scents 28 Color Eyeshadow Palette, Neutral",
+    "description": "This palette comes in an assortment of 28 neutral tones in shimmer and matte shades, many of the shadows can also double as a blush.",
+    "itemID": "B003DVNKU0",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 3002
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Makeup Sets"
+      ]
+    ],
+    "price": 15.99,
+    "brand": "Coastal Scents"
+  },
+  {
+    "title": "Coastal Scents Brush Purifier, 10.72 Ounce",
+    "description": "Clean and sanitize your brushes with the Brush Purifier. This cleansing solution will condition your brushes which will make them last longer. Removes any unwanted bacteria growth to promote healthier looking skin.",
+    "itemID": "B005FKTDLW",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 126272
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Tools & Accessories",
+        "Makeup Brushes & Tools",
+        "Brushes & Applicators"
+      ]
+    ],
+    "price": NaN,
+    "brand": NaN
+  }
+]

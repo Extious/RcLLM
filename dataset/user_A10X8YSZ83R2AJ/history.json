@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Nexxus Color Assure Shampoo, 33.8Ounce Bottle",
+    "description": "",
+    "itemID": "B001EO5WYU",
+    "helpful": [
+      12,
+      13
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 3507
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 16.69,
+    "brand": NaN
+  },
+  {
+    "title": "Nutra Sonic 1020 Professional 4 Speed Face and Body Cleansing System, Lavender",
+    "description": "Nutra sonic skin cleansing is gentle, yet effective enough to helps to reduce, eliminate and prevent ingrown hair or razor burn. 4 speeds: low frequency for sensitive skin, high frequency for normal skin, body brush speed for overall cleansing and jitter mode pulsating oscillation for microdermabrasion. daily use will help improve skin texture for a younger looking skin. fully waterproof and rechargeable, use it without risk in the shower, tub or at the sink. gentle enough to be use twice a day.",
+    "itemID": "B002RZKFAQ",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 83979
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Tools & Accessories",
+        "Makeup Brushes & Tools",
+        "Treatment Tools",
+        "Face Cleansing Brushes"
+      ]
+    ],
+    "price": 135.02,
+    "brand": NaN
+  },
+  {
+    "title": "100% Pure Seaweed Facial Mask 2.9 oz",
+    "description": "Nutrient rich Seaweed Mask detoxes facial pores, purges out toxins, leaves your complexion fresh and pure, while seaweeds nourish your skin with antioxidants, vitamins and minerals. Potent Alpha Lipoic Acid and Vitamin C repair damaged skin, restores elasticity, and strengthens cellular structure.\nTo use: mix powder with either water, tea, fruit juice or plain yogurt.",
+    "itemID": "B001D3Q124",
+    "helpful": [
+      1,
+      2
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 128140
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Treatments & Masks",
+        "Masks"
+      ]
+    ],
+    "price": NaN,
+    "brand": NaN
+  }
+]

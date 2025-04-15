@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Maybelline New York Dream Matte Mousse Foundation, Light Beige, 0.64 Ounce",
+    "description": "Revolutionary whipped formula provides air soft, perfect matte coverage, with a weightless feel. Blends effortlessly for a soft, natural looking, even toned result.",
+    "itemID": "B000VBDWQC",
+    "helpful": [
+      1,
+      2
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 21753
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Foundation"
+      ]
+    ],
+    "price": 1.1,
+    "brand": "Maybelline"
+  },
+  {
+    "title": "Neutrogena Ageless Essentials Continuous Hydration, Night, 1.7 Ounce",
+    "description": "Timereleased hydrators. Lasting, nourish, moisturize. Dermatologist recommended.",
+    "itemID": "B001OMI93S",
+    "helpful": [
+      3,
+      3
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 2909
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Oils & Serums"
+      ]
+    ],
+    "price": 5.0,
+    "brand": "Neutrogena"
+  },
+  {
+    "title": "Infiniti Pro by Conair Spin Air Rotating Styler",
+    "description": "",
+    "itemID": "B004INUWX0",
+    "helpful": [
+      0,
+      1
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 114
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Hot-Air Brushes"
+      ]
+    ],
+    "price": 36.73,
+    "brand": "Conair"
+  }
+]

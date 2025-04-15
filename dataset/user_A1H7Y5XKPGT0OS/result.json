@@ -1,0 +1,142 @@
+[
+  {
+    "title": "Haircut Pro Vacuum Haircutter, Blue",
+    "description": "Automatic vacuum haircutter with precision dial. includes all accessories for people haircuts and pet grooming. shortest hair is 1/4 inch, longest hair is 6 inches. blades are cartridge-style, easy to replace if even needed. easy to empty hair-clippings container.  convenient travel box, can use without unpacking.",
+    "itemID": "B005ZAYQYG",
+    "helpful": [
+      2,
+      2
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Health & Personal Care": 18753
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Hair Cutting Kits"
+      ]
+    ],
+    "price": 124.78,
+    "brand": "Haircut"
+  },
+  {
+    "title": "Pond's Luminous Clean Wet Towelettes, 30Count",
+    "description": "",
+    "itemID": "B0089JVDPK",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 20205
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Cleansers",
+        "Cloths & Towelettes"
+      ]
+    ],
+    "price": 2.59,
+    "brand": "Pond&#39;s"
+  },
+  {
+    "title": "Mambo By Liz Claiborne For Men. Cologne Spray 1.7 Ounces",
+    "description": "Introduced in 2001. Fragrance notes: orange, bergamot, musk  and patchouli. Recommended use: casual.",
+    "itemID": "B0009OAHOG",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 29102
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Fragrance",
+        "Men's",
+        "Cologne"
+      ]
+    ],
+    "price": 10.03,
+    "brand": "Liz Claiborne"
+  },
+  {
+    "title": "Dove Hair Shampoo, Color Repair, 12 Ounce (Pack of 6)",
+    "description": "",
+    "itemID": "B000E0K7NQ",
+    "helpful": [
+      0,
+      1
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 86775
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoo & Conditioner Sets"
+      ]
+    ],
+    "price": 37.2,
+    "brand": "Dove"
+  },
+  {
+    "title": "Vaseline Men Body and Face Lotion , 20.3 Ounce Bottle (Pack of 3)",
+    "description": "",
+    "itemID": "B001ECQ55M",
+    "helpful": [
+      0,
+      1
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 21063
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Lotions"
+      ]
+    ],
+    "price": 23.88,
+    "brand": "Vaseline"
+  },
+  {
+    "title": "Jergens BB Body Cream for All Medium-Deep Skin Tones, 7.5 Ounce",
+    "description": "",
+    "itemID": "B00GLS5DVQ",
+    "helpful": [
+      0,
+      1
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 5097
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Lotions"
+      ]
+    ],
+    "price": 6.5,
+    "brand": "Jergens"
+  }
+]

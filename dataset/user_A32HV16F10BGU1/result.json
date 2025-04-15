@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Freeman Feeling Beautiful Facial Clay Mask, Mint and Lemon, 6 Ounce",
+    "description": "Made with natural, botanical ingredients, Freeman Feeling Beautiful is a full range of skin and body care products to help you look and feel your best. This detoxifying clay mask enhanced with Mint and Lemon Extract helps soothe and calm problematic skin. Helps control oil production and reduce the appearance of large pores. Perfect for tzone and oily skin types.",
+    "itemID": "B003N21THK",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 4670
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Treatments & Masks",
+        "Masks"
+      ]
+    ],
+    "price": 3.14,
+    "brand": "Freeman"
+  },
+  {
+    "title": "L'Oreal Paris Sublime Bronze Self-Tanning Towelettes for Body, 6 CT",
+    "description": "Convenient and easy to use, these Sublime Bronze Towelettes for Body create a streak-free, natural looking tan. With enough self-tanner for one application, each towelette is perfect for at home or on the go. Made with Vitamin E and gentle Alpha Hydroxyl Acid (AHA) derivative to provide beautiful, 100% natural-looking tan and ultra-smooth skin.  Your tan will be two shades darker than your natural skin tone. Results may vary. Continue to use Sublime Bronze until you have reached your desired level of tan.",
+    "itemID": "B000GG2HOU",
+    "helpful": [
+      2,
+      2
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 1105
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Sun",
+        "Self-Tanners & Bronzers"
+      ]
+    ],
+    "price": 4.51,
+    "brand": "L&#39;Oreal Paris"
+  },
+  {
+    "title": "Matrix Total Results Sleek Shampoo &amp; Conditioner Liter Duo 33.8 oz",
+    "description": "When using system of shampoo and conditioner, will result in totally repaired, smooth hair for 24 hours.",
+    "itemID": "B000JQLNO2",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 231
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoo & Conditioner Sets"
+      ]
+    ],
+    "price": 21.99,
+    "brand": "Matrix"
+  }
+]

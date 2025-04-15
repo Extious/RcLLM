@@ -1,0 +1,70 @@
+[
+  {
+    "title": "Aquasentials Moisturizing Gloves",
+    "description": "Enjoy a repair session with this Moisturizing Gloves. Simply apply your favorite lotion or cream then let the glove do its work.",
+    "itemID": "B001BKFF76",
+    "helpful": [
+      0,
+      1
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 5144
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Hands & Nails",
+        "Moisturizing Gloves"
+      ]
+    ],
+    "price": 5.69,
+    "brand": NaN
+  },
+  {
+    "title": "Beauty Without Cruelty Revitalize Leave-in Conditioner, 8.5-Fluid Ounce",
+    "description": "BWC Leave-in Conditioner maximizes your hair's luster, body and manageability. This light, plant-based formula provides all-day protection from harsh environmental elements, chemical treatments, and heat styling. Pro-vitamin B-5, biotin, and jojoba combined with premium, aroma-therapeutic essential oils condition and protect. Works as an effective leave-in de-tangler for all hair types, especially chemically treated. Helps prevent split ends and frizzes. Will not dull or weigh down your hair. Ideal for everyday use. Made with premium and natural ingredients. Paraben free. No animal ingredients. 100% vegan, vegetarian. No synthetic or engineered fragrances. No animal testing.",
+    "itemID": "B003FOG1JW",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 24083
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Conditioners"
+      ]
+    ],
+    "price": 7.99,
+    "brand": "Beauty Without Cruelty"
+  },
+  {
+    "title": "Just For Me Hair Milk Nourishing Detangler, 10-Ounce Bottle",
+    "description": "",
+    "itemID": "B002MO3CG6",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 4374
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Hair Sprays"
+      ]
+    ],
+    "price": 6.49,
+    "brand": "Just For Me"
+  }
+]

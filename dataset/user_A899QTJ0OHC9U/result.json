@@ -1,0 +1,96 @@
+[
+  {
+    "title": "Soap &amp; Glory Clean On Me Creamy Clarifying Shower Gel 500ml",
+    "description": "Soft, smooth, sexy skin whenever you want it. Contains natural mandarin peel extract and a bonus built-in body lotion. Scented with our Original Pink fragrance.",
+    "itemID": "B006L67FKK",
+    "helpful": [
+      0,
+      1
+    ],
+    "overall": 1.0,
+    "salesRank": {
+      "Health & Personal Care": 22919
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Cleansers",
+        "Body Washes"
+      ]
+    ],
+    "price": 12.25,
+    "brand": "Soap &amp; Glory"
+  },
+  {
+    "title": "Philosophy Miracle Worker Anti-Aging Moisturizer, 2 Ounce",
+    "description": "Our anti-aging moisturizer helps replenish skin's natural moisture barrier, leaving it feeling satiny smooth. Resveratrol helps promote skin's vitality for a firm, radiant result. It helps support natural collagen, brighten a tired complexion and protect skin against environmental attack, the primary cause of premature aging.",
+    "itemID": "B0031NK6J8",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 2864
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Creams & Moisturizers",
+        "Fluids & Lotions",
+        "Lotions"
+      ]
+    ],
+    "price": 42.42,
+    "brand": "Philosophy"
+  },
+  {
+    "title": "it Cosmetics Hello LightTM Anti-Aging Cr&egrave;me Radiance Illuminator,0.23 Oz",
+    "description": "IT Cosmetics Hello Light Creme Illuminizer brightens the contours of your face to bring out the natural radiance in your skin. Peptides, hyaluronic acid and hydrolyzed collagen keep your complexion youthful as micronized pigments deflect fine lines and wrinkles. Grapeseed extract protects against free-radical damage.",
+    "itemID": "B00AYZLWBM",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Health & Personal Care": 55589
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Bronzers & Highlighters"
+      ]
+    ],
+    "price": 19.0,
+    "brand": "It Cosmetics"
+  },
+  {
+    "title": "Eucerin Skin Calming Dry Skin Body Wash Oil, Fragrance Free, 8.4-Ounce Bottle (Pack of 3)",
+    "description": "",
+    "itemID": "B0018MIT70",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 1.0,
+    "salesRank": {
+      "Beauty": 1490
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Scrubs & Body Treatments",
+        "Body Scrubs"
+      ]
+    ],
+    "price": 21.75,
+    "brand": "Eucerin"
+  }
+]

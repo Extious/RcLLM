@@ -1,0 +1,69 @@
+[
+  {
+    "title": NaN,
+    "description": NaN,
+    "itemID": "B001MP0T2Q",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": NaN,
+    "categories": [
+      [
+        "Beauty",
+        "Tools & Accessories",
+        "Nail Tools",
+        "Nail Brushes"
+      ]
+    ],
+    "price": NaN,
+    "brand": NaN
+  },
+  {
+    "title": "Harmony Gelish UV Soak Off Gel Polish Samuri",
+    "description": "This color gel is conveniently designed by \"Gelish by Harmony\" with a twist cap and applicator brush, apply like polishes, and cured under UV lamp. Color gels are meant to use on natural nails. These products are made to satisfy natural-nail wearers who long wish their color would last for more than two weeks. Color gels will stay on nails for three weeks with no chipping or peeling, and soak completely off in only 15 minutes.",
+    "itemID": "B003VMOGSQ",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 13135
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Nails",
+        "Nail Polish"
+      ]
+    ],
+    "price": 11.86,
+    "brand": "Gelish"
+  },
+  {
+    "title": "Harmony Gelish Uv Soak Off Gel Polish -Gossip Girl (0.5 Oz)",
+    "description": "This color gel is conveniently designed by \"Gelish by Harmony\" with a twist cap and applicator brush, apply like polishes, and cured under UV lamp. Color gels are meant to use on natural nails. These products are made to satisfy natural-nail wearers who long wish their color would last for more than two weeks. Color gels will stay on nails for three weeks with no chipping or peeling, and soak completely off in only 15 minutes.",
+    "itemID": "B003VMU63K",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 18394
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Nails",
+        "Nail Polish"
+      ]
+    ],
+    "price": 10.95,
+    "brand": "Harmony"
+  }
+]

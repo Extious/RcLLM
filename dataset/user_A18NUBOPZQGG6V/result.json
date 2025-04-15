@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Infiniti Pro by Conair Spin Air Rotating Styler",
+    "description": "",
+    "itemID": "B004INUWX0",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 114
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Hot-Air Brushes"
+      ]
+    ],
+    "price": 36.73,
+    "brand": "Conair"
+  },
+  {
+    "title": "Lanza Keratin Healing Oil Hair Treatment 3.4 oz",
+    "description": "An ultra-healing blend of Keratin protein and Phyto IV Complex combine to leave hair incredibly soft and smooth with a healthy, radiant shine. Ideal for all hair types.",
+    "itemID": "B006X4LU9W",
+    "helpful": [
+      2,
+      2
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Health & Personal Care": 4307
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Hair & Scalp Treatments"
+      ]
+    ],
+    "price": 24.9,
+    "brand": "L&#39;anza"
+  }
+]

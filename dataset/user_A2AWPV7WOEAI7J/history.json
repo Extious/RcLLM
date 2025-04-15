@@ -1,0 +1,71 @@
+[
+  {
+    "title": "No Rinse Shampoo - 16 floz (473.1 mL)",
+    "description": "16 oz Bottle",
+    "itemID": "B00008KA7P",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Health & Personal Care": 3934
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 8.97,
+    "brand": "Clean Life Products"
+  },
+  {
+    "title": "No-Rinse Body Bath, 16 oz",
+    "description": "Feel Clean and Refreshed in Minutes.Leaves skin clean, refreshed and odor-free.Concentrated, makes 16 complete baths.Absolutely no rinsing necessary.Excellent perineal cleanser.Contains no alcohol - Means no dryness.Gentle on sensitive skin.Use full strength as a liquid soap.Fast, Easy and Convenient Alternative to Traditional Bathing.Provides a warm, comfortable patient friendly bathing alternative.Easier on the care giver.Eliminates slip &amp; fall incidents.Less bathing time required.Reduces laundry &amp; linen cost.Whenever lack of facilities, physical limitation, discomfort or merely fear of bathing occur,No Rinse Body Bathis the solution. It is a companion product of the originalNo Rinse Shampoo, approved by thousands of hospitals.Used by NASA astronauts on all space shuttle flights.100% Satisfaction guaranteed.Made in USA.",
+    "itemID": "B000093I60",
+    "helpful": [
+      29,
+      29
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Health & Personal Care": 8214
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Cleansers"
+      ]
+    ],
+    "price": 9.1,
+    "brand": "Clean Life Products"
+  },
+  {
+    "title": "BaByliss Pro - Porcelain Plate Ceramic Flat Iron - 2 inch - model: BABP9561",
+    "description": "Babyliss pro 2 inches plate porcelain ceramic flat iron generates far infrared heat to protect hair's luster. Renews and revitalizes hair's shine.",
+    "itemID": "B004EE1EC6",
+    "helpful": [
+      1,
+      2
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 5062
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Irons",
+        "Flattening Irons"
+      ]
+    ],
+    "price": 39.91,
+    "brand": "BaBylissPRO"
+  }
+]

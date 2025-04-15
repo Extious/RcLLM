@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Q-Tips Cotton Swabs, Precision Tips, 170 Count (Pack of 3)",
+    "description": "",
+    "itemID": "B005XIM6J2",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 2067
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Tools & Accessories",
+        "Cotton & Swabs",
+        "Cotton Swabs"
+      ]
+    ],
+    "price": 8.99,
+    "brand": "Q-Tips"
+  },
+  {
+    "title": "Schick Hydro 5 Disposable Razor, 3 Count",
+    "description": "",
+    "itemID": "B00AHF1GK6",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Health & Personal Care": 17391
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Oils"
+      ]
+    ],
+    "price": 9.97,
+    "brand": "Schick"
+  },
+  {
+    "title": "Nexxus Italian Motor Styling Tool",
+    "description": "",
+    "itemID": "B00I49QTXG",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 221175
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Hair Dryers"
+      ]
+    ],
+    "price": 77.73,
+    "brand": NaN
+  }
+]

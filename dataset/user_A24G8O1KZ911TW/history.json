@@ -1,0 +1,70 @@
+[
+  {
+    "title": "NYX Round Case Lipstick Lip Cream 595 Strawberry Milk",
+    "description": "NYX Cosmetics Round Lipstick Lip Cream 595 Strawberry Milk.  A velvet-textured lipstick formulated with mineral oils to provide moisturizing benefits and rich colors.   NYX's top selling lipstick, the Round Lipstick offers long-lasting, non-smudging color.",
+    "itemID": "B003GYVTI4",
+    "helpful": [
+      9,
+      13
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Beauty": 141260
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Lips",
+        "Lipstick"
+      ]
+    ],
+    "price": 5.04,
+    "brand": "NYX"
+  },
+  {
+    "title": "Deva Curl Set it Free 6 oz.",
+    "description": "Put an end to frizz with this 24-48 hour moisture lock. Adds shine and defines curls with a long lasting hold. Scented with zesty lemon-lime. Not tested on animals. Made in USA.",
+    "itemID": "B000QE6U54",
+    "helpful": [
+      2,
+      4
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 593
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Curl Enhancers"
+      ]
+    ],
+    "price": 15.95,
+    "brand": "DevaCurl"
+  },
+  {
+    "title": "Deva: DevaCurl One Conditioner + No-Poo, 32 oz Combo",
+    "description": "DevaCurl DUO: DevaCurl OneCondition 32 oz and DevaCurl NoPoo Shampoo 32 oz",
+    "itemID": "B0045OR410",
+    "helpful": [
+      2,
+      3
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 210
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoo & Conditioner Sets"
+      ]
+    ],
+    "price": 57.58,
+    "brand": "DevaCurl"
+  }
+]

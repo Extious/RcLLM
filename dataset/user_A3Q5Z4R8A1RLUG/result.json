@@ -1,0 +1,94 @@
+[
+  {
+    "title": "Doo Gro Stimulating Growth Oil",
+    "description": "Doo Gro Stimulating Growth Oil promotes strong, healthy, growing hair.",
+    "itemID": "B002BPY7H4",
+    "helpful": [
+      1,
+      2
+    ],
+    "overall": 1.0,
+    "salesRank": {
+      "Health & Personal Care": 13417
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Lotions"
+      ]
+    ],
+    "price": 7.45,
+    "brand": "Doo Gro"
+  },
+  {
+    "title": "OCuSOFT Lid Scrub Original, Pre-Moistened Pads, 30 Count",
+    "description": "Recommended by doctors for eyelid cleansing to remove oil, debris and desquamated skin which may lead to eye irritation. Removes oil and debris associated with dry eyes. Promotes contact lens wearer comfort. Effectively removes cosmetics. Convenient/ideal for travel. Formulated without alcohol, fragrance or dye.",
+    "itemID": "B000PY15I2",
+    "helpful": [
+      6,
+      6
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Health & Personal Care": 4421
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Makeup Remover",
+        "Eyes"
+      ]
+    ],
+    "price": 9.99,
+    "brand": "OCuSOFT"
+  },
+  {
+    "title": "Neutrogena Ultra Gentle Daily Cleanser, 12 Ounce",
+    "description": "This foaming cleanser works in a new, skinfriendly way to leave you with clean yet naturally soft skin. The nonstripping formula thoroughly removes excess oil, dirt, and makeup without overdrying or irritating skin.",
+    "itemID": "B0081E6X1W",
+    "helpful": [
+      3,
+      5
+    ],
+    "overall": 1.0,
+    "salesRank": {
+      "Beauty": 20440
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Cleansers"
+      ]
+    ],
+    "price": 7.99,
+    "brand": "Neutrogena"
+  },
+  {
+    "title": "Neutrogena T/Gel Daily Control 2-in-1 Dandruff Shampoo Plus Conditioner, 8.5 Ounce (Pack of 2)",
+    "description": "T/Gel Daily Control 2-in-1 Dandruff Shampoo PlusConditioner is a unique frequent-use formula that fights dandruff while providing extra detangling benefits for soft, healthy-looking hair.This dermatologist-recommended formula is developed with Pyrithione Zinc to relieve itching and flaking, Vitamin E to moisturize both hair and scalp, and wheat proteins that are known to nourish and help protect hair from further damage. Gentle enough to use daily, this formula cleanses the scalp and leaves hair soft and manageable in one simple step.Get effective, fast-acting dandruff relief that leaves hair soft, manageable and healthy-looking.",
+    "itemID": "B0054MSD62",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 1.0,
+    "salesRank": {
+      "Beauty": 5264
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 17.82,
+    "brand": "Neutrogena"
+  }
+]

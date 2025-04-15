@@ -1,0 +1,70 @@
+[
+  {
+    "title": "L'Oreal Paris Ideal Skin Genesis Pore Minimize Gel Cleanser, 8-Fluid Ounce",
+    "description": "Now, your daily cleanser helps you create smoother, brighter, fresher skin! Introducing Skin Genesis Pore Minimizing Gel Cleanser. With a skin compatible Ph level, this gel cleanser is so gentle that it can be massaged around the eye area, and so efficient that it removes impurities and even eye makeup.",
+    "itemID": "B001FQPPWQ",
+    "helpful": [
+      8,
+      9
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 82615
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Cleansers",
+        "Gels"
+      ]
+    ],
+    "price": 25.35,
+    "brand": "L&#39;Oreal Paris"
+  },
+  {
+    "title": "L'Oreal Paris EverStrong Thickening Shampoo, 8.5 Fluid Ounce",
+    "description": "Gently removes build up of excess oils, environmental pollutants and product build up for a clean, healthy scalp and thicker, stronger looking hair.",
+    "itemID": "B00AREI3BC",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 1471
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 3.46,
+    "brand": "L&#39;Oreal Paris"
+  },
+  {
+    "title": "L'Oreal Paris EverStrong Thickening Conditioner, 8.5 Fluid Ounce",
+    "description": "Moisturizes and provides nourishment that soothes the scalp while fortifying each strand for thicker, stronger looking hair.",
+    "itemID": "B00AZIZHU0",
+    "helpful": [
+      2,
+      2
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 2832
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Conditioners"
+      ]
+    ],
+    "price": 7.0,
+    "brand": "L&#39;Oreal Paris"
+  }
+]

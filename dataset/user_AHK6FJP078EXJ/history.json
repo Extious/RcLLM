@@ -1,0 +1,73 @@
+[
+  {
+    "title": "Emerita Pro-gest Natural Balancing Cream, 2 Ounce",
+    "description": "It helps women find relief from issues that occur during perimenopause and menopause.",
+    "itemID": "B0001ZYLAO",
+    "helpful": [
+      17,
+      20
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Health & Personal Care": 75548
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Lotions"
+      ]
+    ],
+    "price": 16.78,
+    "brand": "Emerita"
+  },
+  {
+    "title": "Life-Flo Progesta-Care Plus Natural Progesterone Body Cream, Menopause Solutions, with Phytoestrogens , 4 oz (113 g)",
+    "description": "Physician developed & scientifically formulated. Each full press of the pump dispenses 20 mg of natural progesterone USP and 25 mg natural phytoestrogens. Progesta-Care Plus is formulated to contain 480 mg of natural progesterone USP and 600 mg of natural phytoestrogens per ounce. (This product and these statements have not been evaluated by the FDA. This product is not intended to diagnose, treat, cure or prevent any disease.) No animals were used to test this product. Manufactured in the USA.",
+    "itemID": "B000FFCXZ0",
+    "helpful": [
+      32,
+      32
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Health & Personal Care": 12981
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Lotions"
+      ]
+    ],
+    "price": 21.29,
+    "brand": "Life-Flo"
+  },
+  {
+    "title": "Retinol Anti-Wrinkle Facial Serum",
+    "description": "Retinol Anti-Wrinkle Facial Serum is a high potency deep penetrating treatment that will restore a youthful look by minimizing the visible signs of aging.",
+    "itemID": "B001O8IIO2",
+    "helpful": [
+      8,
+      12
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 42975
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Treatments & Masks"
+      ]
+    ],
+    "price": 15.98,
+    "brand": "Retinol"
+  }
+]

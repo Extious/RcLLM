@@ -1,0 +1,75 @@
+[
+  {
+    "title": "Neutrogena Body Clear Body Spray, 4 Ounce",
+    "description": "Clear and help prevent body breakouts with this unique, quickdrying formula. Breakthrough 360 degrees pump sprays from any angle, even upside down, to treat hardto reach areas like the back and shoulders. No sticky residue. Formula won't stain clothes.",
+    "itemID": "B003X18NPW",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 2240
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Treatments & Masks",
+        "Acids & Peels",
+        "Salicylic Acid"
+      ]
+    ],
+    "price": 11.13,
+    "brand": "Neutrogena"
+  },
+  {
+    "title": "Schick Hydro 5 Power Select Razor",
+    "description": "",
+    "itemID": "B006DR2BO2",
+    "helpful": [
+      172,
+      178
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Health & Personal Care": 23096
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Oils"
+      ]
+    ],
+    "price": 9.4,
+    "brand": "Schick"
+  },
+  {
+    "title": "Slim Extreme 3D Thermo Active Cellulite Serum (8.8 oz)",
+    "description": "The first Thermo Active Cellulite Serum developed in the laboratory of Eveline Cosmetics visibly reduces the appearance of cellulite by treating the affected area, and smoothing the skin's surface. Thanks to the technologically advanced Thermo Active formula, it delicately warms up the skin, enabling instant penetration of active substances in to the epidermis, assuring maximum results. Use regularly to make skin smooth, and reduce cellulite appearance.\n\nIngredients:\nAqua/Water, Cetearyl Alcohol/Ceteareth-20, Mineral Oil, Isopropyl Myristate, Petrolatum / Cholesterol / Cetearyl Alcohol , Dimethicone, Glycerin, Propylene Glycol, Cetyl Alcohol , Octyldodecanol, Caffeine, Sodium Polyacrylate, Caffeine/ Sodium Salicylate/ Lecithin/ Silica, Centella Asiatica, Ginkgo Biloba Extract, Hedera Helix (Ivy) Extract, Water / Butylene Glycol / Laminaria, Hyperborea Extract , Hyaluronic Acid, Vanillyl Butyl Ether, Phenoxyethanol / Methylparaben / Butylparaben / Ethylparaben / Propylparaben, DMDM Hydantoin, Fragrance, Disodium EDTA\n\nIngredients:\nAqua/Water, Cetearyl Alcohol/Ceteareth-20, Mineral Oil, Isopropyl Myristate, Petrolatum / Cholesterol / Cetearyl Alcohol , Dimethicone, Glycerin, Propylene Glycol, Cetyl Alcohol , Octyldodecanol, Caffeine, Sodium Polyacrylate, Caffeine/ Sodium Salicylate/ Lecithin/ Silica, Centella Asiatica, Ginkgo Biloba Extract, Hedera Helix (Ivy) Extract, Water / Butylene Glycol / Laminaria, Hyperborea Extract , Hyaluronic Acid, Vanillyl Butyl Ether, Phenoxyethanol / Methylparaben / Butylparaben / Ethylparaben / Propylparaben, DMDM Hydantoin, Fragrance, Disodium EDTA",
+    "itemID": "B002BS43HU",
+    "helpful": [
+      2,
+      3
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 944
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Lotions"
+      ]
+    ],
+    "price": 9.38,
+    "brand": "Eveline Cosmetics"
+  }
+]

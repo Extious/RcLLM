@@ -1,0 +1,74 @@
+[
+  {
+    "title": "St. Ives Facial Moisturizer, Timeless Skin Collagen Elastin, 10oz",
+    "description": "",
+    "itemID": "B000UVZU1S",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 277
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Creams & Moisturizers",
+        "Fluids & Lotions",
+        "Lotions"
+      ]
+    ],
+    "price": 7.46,
+    "brand": "St. Ives"
+  },
+  {
+    "title": "Andis Ceramic Ionic Styler Hair Dryer (82105)",
+    "description": "",
+    "itemID": "B001UE7D2I",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 1516
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Hair Dryers"
+      ]
+    ],
+    "price": 19.65,
+    "brand": "Andis"
+  },
+  {
+    "title": "Biore Deep Cleansing Pore Strips, 24 Count",
+    "description": "Tag team help for your blackheads: Here's a special two-pack to tackle dirt and oil that can cause blackheads on your nose - and the rest of your face. In just one use, these two different strips (for your face and nose or chin) are twice as effective as the leading pore cleanser at removing pore-clogging build-up that can lead to blackheads. And, they can even help reduce the appearance of pores with regular use.",
+    "itemID": "B006RFZ66K",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 43
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Treatments & Masks",
+        "Pore Cleansing Strips"
+      ]
+    ],
+    "price": 7.7,
+    "brand": "Biore"
+  }
+]

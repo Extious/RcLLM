@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Regenerist Micro-Sculpting Cream 1.7 Oz",
+    "description": "",
+    "itemID": "B0012J30LY",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 64
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Creams & Moisturizers",
+        "Fluids & Lotions",
+        "Lotions"
+      ]
+    ],
+    "price": 11.45,
+    "brand": "Olay"
+  },
+  {
+    "title": "e.l.f. Studio Mineral Infused Face Primer",
+    "description": "Transform your face into a flawless and smooth canvas with the Mineral Infused Face Primer. Developed to combat against excess oil, flaky dryness, enlarged pores and fine lines. This clear multipurpose skin primer will prepare your skin so makeup goes on evenly for a long lasting satin finish.",
+    "itemID": "B004DIXYWG",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 117
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Foundation Primers"
+      ]
+    ],
+    "price": 5.98,
+    "brand": "e.l.f. Cosmetics"
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "title": "Solbar Zinc SPF 38 4 oz.",
+    "description": "Solbar Zinc sunscreen cream is specially formulated to provide high protection from UVB and UVA radiation. Transparent zinc oxide enhances and extends protection in the UVA spectrum. Is an excellent base for makeup.",
+    "itemID": "B000GG13TU",
+    "helpful": [
+      7,
+      9
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 1329
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Sun",
+        "Skin Protection"
+      ]
+    ],
+    "price": 10.25,
+    "brand": "Solbar"
+  },
+  {
+    "title": "CLEAR SCALP &amp; HAIR BEAUTY Total Care Nourishing Shampoo, 12.9 Fluid Ounce",
+    "description": "",
+    "itemID": "B007RTR898",
+    "helpful": [
+      0,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 11950
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 5.96,
+    "brand": "Clear"
+  },
+  {
+    "title": "CLEAR SCALP &amp; HAIR BEAUTY Volumizing Root Boost Nourishing Shampoo, 12.9 Fluid Ounce",
+    "description": "",
+    "itemID": "B007RTR8AC",
+    "helpful": [
+      1,
+      2
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 11379
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 1.66,
+    "brand": "Clear"
+  }
+]

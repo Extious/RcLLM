@@ -1,0 +1,70 @@
+[
+  {
+    "title": "NARS Pure Radiant Tinted Moisturizer Broad Spectrum SPF 30, Cuba",
+    "description": "Your skin almost bare, but better. Infused with lush, naturally derived botanicals and ingredients, pure radiant tinted moisturizer SPF 30/PA+++ immediately helps thirsty skin feel hydrated. This advanced, oil-free formula provides a translucent veil of color and sun protection while helping to reduce the appearance of hyperpigmentation and dark spots in just four weeks. Kopara from French polynesia and mineral rich seawater revive and re-mineralize skin for a softer, smoother,and brighter natural glow. Skin is transported.",
+    "itemID": "B007FAOUOA",
+    "helpful": [
+      1,
+      2
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 222958
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Foundation"
+      ]
+    ],
+    "price": 42.0,
+    "brand": "NARS"
+  },
+  {
+    "title": "Dabur  Vatika Hair Oil, 300 ml Bottle",
+    "description": "Dabur Vatika is a premium coconut hair oil enriched with henna, amla, lemon, and six other trusted herbs. Vatika's unique natural formulation ensures deeper oil penetration to give your hair and scalp complete nourishment for problem-free, healthy hair.",
+    "itemID": "B000HLH758",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 22516
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Hair & Scalp Treatments"
+      ]
+    ],
+    "price": 6.75,
+    "brand": "Dabur"
+  },
+  {
+    "title": "Extra Strength Hair Nutrient Tablets, 60-Tablets",
+    "description": "",
+    "itemID": "B002JPJ2ZS",
+    "helpful": [
+      4,
+      5
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 14
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Hair Loss Products",
+        "Hair Regrowth Treatments"
+      ]
+    ],
+    "price": 32.35,
+    "brand": "Viviscal"
+  }
+]

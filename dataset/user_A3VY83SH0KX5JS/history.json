@@ -1,0 +1,75 @@
+[
+  {
+    "title": "Revlon Perfect Heat 3 Barrel Waver",
+    "description": "Our Revlon 3 Barrel Waver creates beautiful inchsinch waves. Waver comes with Triple Baked Ceramic, Tourmaline & Ionic Technologies for maximum hair conditioning for shiny, healthier looking hair.",
+    "itemID": "B001AFIPP6",
+    "helpful": [
+      0,
+      1
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 16021
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Irons",
+        "Curling Irons"
+      ]
+    ],
+    "price": 9.97,
+    "brand": "Revlon"
+  },
+  {
+    "title": "Neutrogena Rapid Clear Oil-Eliminating Foaming Cleanser, 6 Ounce",
+    "description": "Rapid Clear OilControl Foaming Cleanser is clinically proven to control oil for hours. Rich, creamy, oilfree cleanser foams up to rapidly and effectively remove oil and control shine. It clears surface oil without overdrying. Your skin feels completely clean, oilfree and refreshed. Get fresh skin with oilcontrol that lasts for hours.",
+    "itemID": "B000FH4T3M",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 4709
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Creams & Moisturizers",
+        "Fluids & Lotions",
+        "Lotions"
+      ]
+    ],
+    "price": 7.79,
+    "brand": "Neutrogena"
+  },
+  {
+    "title": "Dr. Teal's Epsom Salt Soaking Solution, Lavender, 48 Ounce",
+    "description": "Dr. Teal's therapeutic bath and body products contain essential oils to soothe the senses, relax tense muscles and promote well-being. The lavender essential oil in this bath formula helps calm and balance your mind and body, so you can relax and prepare for a restful sleep, while gently cleansing. For thousands of years, lavender essence has been used in bath rituals for its soothing and relaxing properties that are known to encourage a better night's sleep. This finished product is not tested on animals. Made in the USA. Distributed by advanced beauty systems.",
+    "itemID": "B003GC4GH2",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 1371
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Oils"
+      ]
+    ],
+    "price": 7.44,
+    "brand": "Dr. Teal&#39;s"
+  }
+]

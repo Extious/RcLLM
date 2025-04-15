@@ -1,0 +1,49 @@
+[
+  {
+    "title": "CoverGirl 342 Clean Whipped Creme Foundation, Medium Beige, 0.6 Fluid Ounce",
+    "description": "",
+    "itemID": "B00C67E0PG",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 40678
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Foundation"
+      ]
+    ],
+    "price": 5.99,
+    "brand": "COVERGIRL"
+  },
+  {
+    "title": "Burt's Bees Brightening Dark Spot Corrector, 1 Fluid Ounce",
+    "description": "",
+    "itemID": "B00GJG9JCY",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 1.0,
+    "salesRank": {
+      "Beauty": 5648
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Creams"
+      ]
+    ],
+    "price": 16.97,
+    "brand": "Burt&#39;s Bees"
+  }
+]

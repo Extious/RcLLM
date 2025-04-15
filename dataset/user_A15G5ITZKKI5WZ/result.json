@@ -1,0 +1,73 @@
+[
+  {
+    "title": "Biore Deep Pore Charcoal Cleanser, 6.77 Ounce",
+    "description": "Biore deep pore charcoal cleanser targets deep-down impurities to defend against daily buildup - like dirt, oil and make-up - for a truly deep clean. Naturally purifies and deep cleans. Draws out and traps 2x more dirt and impurities than a basic cleanser. Provides deeply cleaned, tingly-smooth skin. Contains natural charcoal.",
+    "itemID": "B00GLS5DCU",
+    "helpful": [
+      6,
+      6
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 8575
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Cleansers"
+      ]
+    ],
+    "price": 12.49,
+    "brand": "Biore"
+  },
+  {
+    "title": "Freeman Facial Charcoal &amp; Black Sugar Polish Mask 6 oz.",
+    "description": "Charcoal Helps Absorb Oil And Impurities Purifying Mask & Smoothing Exfoliant Black Sugar Helps With Exfoliation Perfect For All Skin Types Dual Action Formula",
+    "itemID": "B00BZ1QN2C",
+    "helpful": [
+      1,
+      2
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Health & Personal Care": 3158
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Treatments & Masks",
+        "Masks"
+      ]
+    ],
+    "price": 7.99,
+    "brand": "Freeman"
+  },
+  {
+    "title": "Freeman Feeling Beautiful Facial Clay Mask, Chocolate &amp; Strawberry 6 fl oz (150 ml)",
+    "description": "Tone skin and diminish the appearance of large pores with oil-absorbing clays. Delight in delectable Chocolate and Strawberry while Shea and Cocoa Butter moisturize for smoother, softer skin. Perfect for normal to dry skin.",
+    "itemID": "B003N1WQIW",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Health & Personal Care": 35296
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Treatments & Masks",
+        "Masks"
+      ]
+    ],
+    "price": 3.14,
+    "brand": "Freeman"
+  }
+]

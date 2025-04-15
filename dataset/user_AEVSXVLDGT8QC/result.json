@@ -1,0 +1,49 @@
+[
+  {
+    "title": "L.A. Girl Fineline Long Lasting Fine Tip Liquid Eye Liner",
+    "description": "MARK MY EYES is a NEW innovative liquid eyeliner that perfectly creates Intense lines.",
+    "itemID": "B003H4VAK0",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 1.0,
+    "salesRank": {
+      "Beauty": 30495
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Eyes",
+        "Eyeliner"
+      ]
+    ],
+    "price": 4.99,
+    "brand": "L.A. Girl"
+  },
+  {
+    "title": "Cortex Pro Curling Iron 1.25 (Black)",
+    "description": "Create the shiny, silky looks you desire in the salon or at home. The ultra smooth plates prevent pulling, snagging and damaging hair breakage for gorgeous, long lasting, frizz-free results. 100% Tourmaline cone for healthier hair and a high gloss shine. Temperature to 410 Fahrenheit. Far Infrared (FIR) technology locks in moisture and natural oils. Sleek, ergonomic, non-slip grip designed for professional comfort. Swivel cord prevents tangling, 110-220 volts, 60 Hz, 25 watts and 1 year warranty.",
+    "itemID": "B002LYU3IM",
+    "helpful": [
+      3,
+      4
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 151125
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Irons",
+        "Curling Irons"
+      ]
+    ],
+    "price": 49.44,
+    "brand": NaN
+  }
+]

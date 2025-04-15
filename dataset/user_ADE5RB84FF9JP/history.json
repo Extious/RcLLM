@@ -1,0 +1,72 @@
+[
+  {
+    "title": "CoverGirl LashBlast Fusion Mascara Black 865, 1 Tube",
+    "description": "",
+    "itemID": "B0039UTO3M",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 4320
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Eyes",
+        "Mascara"
+      ]
+    ],
+    "price": 4.99,
+    "brand": "COVERGIRL"
+  },
+  {
+    "title": "Covergirl Natureluxe Gloss Balm Clove 280,  0.067-Ounce",
+    "description": "",
+    "itemID": "B0043TURKC",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 59980
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Lips",
+        "Lip Glosses"
+      ]
+    ],
+    "price": 6.79,
+    "brand": NaN
+  },
+  {
+    "title": "Hot Tools Big Bumper Spring Curling Iron, 1-1/2&quot;",
+    "description": "The Gets Hot, Stays Hot performance of the Hot Tools Professional Ceramic Spring Curling Iron heats up quickly and remains hot, up to 428?F, while you style your hair. Professional Features Include: Advanced Ceramic Titanium styling surface Soft-Grip textured handle Patented Pulse Technology Gets Hot and Stays Hot performance 85 Watts of power Temperatures up to 430? F 220? C 10 Variable heat setting with built-in rheostat control Extra high heat Fast heat-up Heavy-duty long-life heating element Foldaway safety stand Pilot light 8-ft. heavy duty tangle-proof swivel power cord On / Off switch Solid state circuitry Spring Iron Features: Bonus! Two extra easy-to-replace springs Powerful spring clamp Extra-long thumb grip",
+    "itemID": "B0001MROQA",
+    "helpful": [
+      1,
+      2
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Beauty": 3235
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Irons",
+        "Curling Irons"
+      ]
+    ],
+    "price": 30.9,
+    "brand": "Hot Tools"
+  }
+]

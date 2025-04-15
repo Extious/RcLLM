@@ -1,0 +1,49 @@
+[
+  {
+    "title": "Babyganics Moisturizing Daily Lotion, Fragrance Free, 17 oz (Pack of 2), Packaging May Vary",
+    "description": "",
+    "itemID": "B004BYR12Q",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Health & Personal Care": 4683
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Lotions"
+      ]
+    ],
+    "price": 14.14,
+    "brand": "BabyGanics"
+  },
+  {
+    "title": "EO Everyon Soap Coconut and Lemon, 32 Ounce",
+    "description": "A natural plant based soap made with pure essential oils. Gentle, fragrant, a perfect shower, bath and shampoo for the whole family.",
+    "itemID": "B0063I3R9O",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 5436
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Cleansers",
+        "Body Washes"
+      ]
+    ],
+    "price": 5.75,
+    "brand": "Everyone"
+  }
+]

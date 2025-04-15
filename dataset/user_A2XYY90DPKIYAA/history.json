@@ -1,0 +1,65 @@
+[
+  {
+    "title": "Jason Thin-To-Thick Extra Volume Shampoo, 8 Ounce",
+    "description": "In 1959, a group of independent thinkers drew upon the pioneering spirit that was so much a part of their California heritage and set out on a road of rediscovery. Theirs was a path back to safer, natural ingredients proven to work together in effective ways. And so the J&#x100;S&#xD6;N&#xA0;(which means \"healer\" in Greek) brand was born. The&#xA0;J&#x100;S&#xD6;N&#xA0;team meticulously created&#xA0;body loving products&#xA0;staying true to the&#xA0;J&#x100;S&#xD6;N&#xA0;Code of Honor: select safe, wholesome, natural ingredients, rigorously test every formula to ensure safety and efficacy, never test on animals, and constantly innovate and improve. As one generation has given way to the next,&#xA0;J&#x100;S&#xD6;N&#xA0;products have remained on the path forged by the brand&#x2019;s founders, committed to discovering even more ways to offer personal care solutions safer for us, our families and our planet.",
+    "itemID": "B0000535UM",
+    "helpful": [
+      0,
+      2
+    ],
+    "overall": 3.0,
+    "salesRank": NaN,
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 5.56,
+    "brand": "Jason Natural"
+  },
+  {
+    "title": "Thin to Thick Extra Volume Conditioner 8 oz",
+    "description": "The Pro-Vitamin Thin-to-Thick Hair Thickening Conditioner -Your hair and scalp are easily damaged by an increasingly hazardous environment. This super revitalizing conditioner provides precisely the type of complete nutritional, environmental and UV protection you need. Reinforces and strengthens weak, chemically processed hair, by infusing Amino Acids into the hair cortex.",
+    "itemID": "B0000535UN",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": NaN,
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Conditioners"
+      ]
+    ],
+    "price": 10.46,
+    "brand": "Jason Natural"
+  },
+  {
+    "title": "Blue Lizard Australian Suncreen, Face SPF 30+, 5-Ounce",
+    "description": "Blue Lizard Face &#8211; Oil-free moisturizer with Hyaluronic Acid. Daily wear formula is enhanced with Caffeine, Green Tea and Vitamin E. Micronized Zinc Oxide, Octinoxate sunscreen.",
+    "itemID": "B000I5KCIW",
+    "helpful": [
+      2,
+      2
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 792
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Sun",
+        "Skin Protection"
+      ]
+    ],
+    "price": 15.29,
+    "brand": "Blue Lizard"
+  }
+]

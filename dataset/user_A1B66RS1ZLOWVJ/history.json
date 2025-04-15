@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Agadir  Argan Oil Spray Treatment, 5.1-Ounce",
+    "description": "AGADIR by Agadir ARGAN OIL SPRAY TREATMENT 5.1 OZ",
+    "itemID": "B002QG6P9G",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 2102
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Hair Sprays"
+      ]
+    ],
+    "price": 11.99,
+    "brand": "Agadir"
+  },
+  {
+    "title": "St. Ives Facial Moisturizer, Timeless Skin Collagen Elastin, 10oz",
+    "description": "",
+    "itemID": "B000UVZU1S",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 277
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Creams & Moisturizers",
+        "Fluids & Lotions",
+        "Lotions"
+      ]
+    ],
+    "price": 7.46,
+    "brand": "St. Ives"
+  },
+  {
+    "title": "Moroccan Oil Hair Treatment 3.4 Oz Bottle with Blue Box",
+    "description": "Moroccanoil is an ultra-light formula which is absorbed by the hair instantly, resulting in a natural, silky finish and brilliant shine.  Moroccanoil has the ability to restore over-processed hair damaged by environmental factors and chemical procedures - it also revives, hydrates and detangles hair, wigs and hair extensions.",
+    "itemID": "B001AO0WCG",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 15
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Hair & Scalp Treatments"
+      ]
+    ],
+    "price": 29.46,
+    "brand": "Moroccanoil"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "title": "Covergirl Clump Crusher Mascara By Lashblast, Very Black 800, 0.44 Ounce",
+    "description": "",
+    "itemID": "B0094GHGQM",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 19665
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Eyes",
+        "Mascara"
+      ]
+    ],
+    "price": 8.86,
+    "brand": "COVERGIRL"
+  },
+  {
+    "title": "Vaseline Intensive Rescue Repairing Moisture Lotion, Fragrance Free, 20.3-Ounce Pump (Pack of 3)",
+    "description": "",
+    "itemID": "B001ECQ4IU",
+    "helpful": [
+      0,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 7988
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Lotions"
+      ]
+    ],
+    "price": 22.46,
+    "brand": "Vaseline"
+  },
+  {
+    "title": "Biore Acne Clearing Scrub (1% Salicylic  Acid), 4.5 Ounce",
+    "description": "Biore Acne Scrub targets deep down dirt and oil that can cause blemishes without damaging skin's moisture barrier.   With daily use, skin's condition will continually improve.",
+    "itemID": "B00ATY942M",
+    "helpful": [
+      0,
+      1
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 58040
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Treatments & Masks",
+        "Acids & Peels",
+        "Salicylic Acid"
+      ]
+    ],
+    "price": 5.49,
+    "brand": "Biore"
+  }
+]

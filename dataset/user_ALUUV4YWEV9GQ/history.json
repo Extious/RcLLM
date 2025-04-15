@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Coastal Scents Contour and Blush Palette",
+    "description": "This palette contains 6 contouring, shading, concealing, and blush shades. The powders are all matte.",
+    "itemID": "B002QFGKUQ",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 845
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Blush"
+      ]
+    ],
+    "price": 11.75,
+    "brand": "Coastal Scents"
+  },
+  {
+    "title": "Embryolisse Concentrated  Lait Cream  75 ml",
+    "description": "This 24 Hour Miracle Cream gets its name because of its many uses; it is a moisturising cream, a cleansing cream that gently removes make-up, an after-shave cream and a cleansing lotion for babies and children. It is a cleansing and moisturising cream that combines emulsifying and softening agents with active moisturisers while respecting the skin's natural balance (pH, microorganisms) and encouraging the rebuilding of the hydrolipidic layer (the skin's natural protection).",
+    "itemID": "B004NCFOZM",
+    "helpful": [
+      4,
+      7
+    ],
+    "overall": 1.0,
+    "salesRank": {
+      "Beauty": 419
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Creams & Moisturizers"
+      ]
+    ],
+    "price": 21.03,
+    "brand": "Embryolisse"
+  },
+  {
+    "title": "WEN&reg; Sweet Almond Mint Styling Creme 6oz",
+    "description": "Achieve all your styling options and the benefits of a leave-in conditioner, polishing gloss and gel in one product. This amazing styling creme works great on straight, wavy and curly hair types to give them rich moisture, gleaming shine and body with hold. The virtually weightless formula is used as a heat-protectant from damage caused by styling tools, and also to tame hair from frizz when drying naturally.",
+    "itemID": "B0006Q3O3S",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 3767
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Creams, Gels & Lotions"
+      ]
+    ],
+    "price": 24.0,
+    "brand": "WEN&reg; by Chaz Dean"
+  }
+]

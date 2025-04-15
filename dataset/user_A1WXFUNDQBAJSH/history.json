@@ -1,0 +1,71 @@
+[
+  {
+    "title": "John Frieda Collection Frizz-Ease Dream Curls Curl Perfecting Spray",
+    "description": "John Frieda Curl Perfecting Spray Frizz-Ease Dream Curls Pack of 1",
+    "itemID": "B000GCUO1M",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 23115
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Curl Enhancers"
+      ]
+    ],
+    "price": 8.35,
+    "brand": "John Frieda"
+  },
+  {
+    "title": "Seche Vite Dry Fast Top Nail Coat, 0.5 Ounce",
+    "description": "Nailtiques nail varnishes are formulated with the same strengthening ingredients that the cult favorite protein formulas are enriched with. Giving your nail protein treatments an added boost, this luxurious nail polish allows the protein to penetrate through the polish, for maximum benefits.",
+    "itemID": "B00150LT40",
+    "helpful": [
+      0,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 29
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Nails",
+        "Top & Base Coats"
+      ]
+    ],
+    "price": 4.7,
+    "brand": "Seche"
+  },
+  {
+    "title": "Thayer Cucumber Witch Hazel, 12 Fluid Ounce",
+    "description": "Recommend: Apply with a cotton ball after cleansing or anytime throughout the day as a softening refresher. Does Not Contain: Alcohol.",
+    "itemID": "B001BR97A0",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 582
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Toners & Astringents"
+      ]
+    ],
+    "price": 10.2,
+    "brand": "Thayer"
+  }
+]

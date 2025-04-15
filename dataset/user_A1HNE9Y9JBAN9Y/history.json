@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Vaseline Sheer Infusion Body Lotion, Vitamin Burst, 13.5-Ounce Bottles (Pack of 2)",
+    "description": "Some moisturizers only treat the top layers of your surface skin, leaving it feeling greasy. Others sink through quickly and your skin is not thoroughly moisturized. New Vaseline Sheer Infusion with Stratys-3 infuses and suspends superior* moisture across all layers of your skin**. Only Vaseline Sheer Infusion delivers superior moisture* and an unmatched silky feel.",
+    "itemID": "B0027CT5TG",
+    "helpful": [
+      1,
+      2
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 405166
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Lotions"
+      ]
+    ],
+    "price": NaN,
+    "brand": NaN
+  },
+  {
+    "title": "Neutrogena Healthy Defense Daily Liquid Moisturizer with Helioplex, 1.4 Ounces",
+    "description": "",
+    "itemID": "B003QOZ2C8",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 5123
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Sun",
+        "Skin Protection"
+      ]
+    ],
+    "price": 10.5,
+    "brand": "Neutrogena"
+  },
+  {
+    "title": "CLEAR MEN SCALP THERAPY AntiDandruff Shampoo, Strong &amp; Full, 12.9 Fluid Ounce",
+    "description": "",
+    "itemID": "B007K449CE",
+    "helpful": [
+      2,
+      4
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Beauty": 28838
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 7.5,
+    "brand": "Clear"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "title": "Neutrogena Oil-Free Acne Wash Daily Scrub, 4.2 Ounce",
+    "description": "Cleans deep into pores and helps stop breakouts before they start. This breakthrough formula features MicroClear a powerful technology clinically shown to boost delivery of acne medicine, clear congested pores and speed treatment deep to the source. MicroClear and gentle microbeads work together to cut through oil, dissolving dirt and impurities without overdrying or irritation. Skin is left clear and smooth.",
+    "itemID": "B000NWDSAE",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 4837
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Exfoliators & Scrubs",
+        "Scrubs"
+      ]
+    ],
+    "price": 6.17,
+    "brand": "Neutrogena"
+  },
+  {
+    "title": "Badger Sunscreen Broad Spectrum SPF 34 Lavender 2.9 Fl Oz",
+    "description": "Take care of your skin naturally with high-quality, allnatural Sun protection and after sun (and everyday) care!100% All Natural!!",
+    "itemID": "B0012ZMBDQ",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Beauty": 2146
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Sunscreens & Self Tanners",
+        "Sunscreens"
+      ]
+    ],
+    "price": 13.6,
+    "brand": "W.S. Badger"
+  },
+  {
+    "title": "La Roche-Posay Anthelios 60 Ultra Light Sunscreen Fluid for Face, 1.7-Ounce Bottle",
+    "description": "This ultra light, fast absorbing sunscreen fluid provides SPF 60 and broad spectrum UVA/UVB protection with the breakthrough Cell-Ox Shield&#x2122;, to protect your skin, even at the cellular level*. For use outdoors and at the beach. The advanced UV filtering system of Anthelios 60 is a unique association of photostablized sunscreens for broad-spectrum and longer-lasting protection than non-stabilized sunscreens, with advanced efficiency against UVA rays. Anthelios 60 also uses a powerful anti-oxidant complex called Senna Alata, a tropical leaf extract known to defend skin cells*.",
+    "itemID": "B002CML1XE",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 315
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Sunscreens & Self Tanners",
+        "Sunscreens"
+      ]
+    ],
+    "price": 19.76,
+    "brand": "La Roche-Posay"
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "title": NaN,
+    "description": NaN,
+    "itemID": "B001MP0T2Q",
+    "helpful": [
+      2,
+      3
+    ],
+    "overall": 5.0,
+    "salesRank": NaN,
+    "categories": [
+      [
+        "Beauty",
+        "Tools & Accessories",
+        "Nail Tools",
+        "Nail Brushes"
+      ]
+    ],
+    "price": NaN,
+    "brand": NaN
+  },
+  {
+    "title": "Noxzema The Original Deep Cleansing Cream, 2 Ounce",
+    "description": "",
+    "itemID": "B003IXP6P0",
+    "helpful": [
+      9,
+      9
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 73818
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Cleansers"
+      ]
+    ],
+    "price": 3.65,
+    "brand": "Noxzema"
+  }
+]

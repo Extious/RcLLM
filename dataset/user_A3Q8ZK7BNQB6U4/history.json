@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Extra Strength Hair Nutrient Tablets, 60-Tablets",
+    "description": "",
+    "itemID": "B002JPJ2ZS",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 14
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Hair Loss Products",
+        "Hair Regrowth Treatments"
+      ]
+    ],
+    "price": 32.35,
+    "brand": "Viviscal"
+  },
+  {
+    "title": "PrimeTime Oil Control",
+    "description": "Put an end to midday shininess. Designed for oily, sensitive, and problem-prone skin, our Prime Time Oil Control is clinically proven to control excess shine. Apply this silicone- and oil-free primer prior to your bareMinerals SPF 15 Foundation for evenly textured, shine-free coverage all day.",
+    "itemID": "B008Q012IK",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 1.0,
+    "salesRank": {
+      "Beauty": 22025
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Foundation Primers"
+      ]
+    ],
+    "price": 17.84,
+    "brand": "Bare Escentuals"
+  },
+  {
+    "title": "Glytone Exfoliating Body Wash, 6.7-Ounce Package",
+    "description": "To retexturize.   Glycolic acid cleanser helps exfoliate dry, rough skin in the shower.  8.8% glycolic acid.",
+    "itemID": "B002D48QRA",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 1103
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Cleansers",
+        "Body Washes"
+      ]
+    ],
+    "price": 17.27,
+    "brand": "Glytone"
+  }
+]

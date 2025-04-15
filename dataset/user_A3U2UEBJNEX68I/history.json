@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Natural Calm 16 Oz - Natural Vitality",
+    "description": "Natural&#xA0;Calm&#xA0;is the&#xA0;solution to&#xA0;both restoring a&#xA0;healthy magnesium level and&#xA0;balancing your calcium intake-the result of&#xA0;which is&#xA0;natural&#xA0;stress&#xA0;relief.",
+    "itemID": "B000OQ2DL4",
+    "helpful": [
+      1,
+      3
+    ],
+    "overall": 2.0,
+    "salesRank": NaN,
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Lotions"
+      ]
+    ],
+    "price": 23.97,
+    "brand": "Natural Vitality"
+  },
+  {
+    "title": "Neutrogena Rainbath Refreshing Shower and Bath Gel- 40 oz (Mega Size)",
+    "description": "Rainbath Shower & Bath Gel cleans, softens and conditions skin without a heavy leave-behind residue. Your skin is left in better condition - feeling smooth, soft and renewed. Its fragrance is a blend of spices, fruits and herbs, providing a clean-fresh burst that awakens your senses and refreshes your entire body.",
+    "itemID": "B00113HO90",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 530
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Cleansers",
+        "Body Washes"
+      ]
+    ],
+    "price": 25.49,
+    "brand": "Neutrogena"
+  },
+  {
+    "title": "Olay Regenerist Microdermabrasion &amp; Peel System 1 Kit",
+    "description": "Studies have shown regular microdermabrasion is more beneficial to your skin than sporadic treatments. That's why Olay skincare experts developed Regenerist Microdermabrasion & Peel System. Olay combines the power of microdermabrasion with a mini-peel treatment to wake up tired-looking skin. Over time, it visibly improves skin tone and diminishes the appearance of fine lines and wrinkles.Make it part of your regular skincare regimen to gently resurface your skin's texture and activate surface cell renewal for soft, smooth skin. Its even gentle enough to use up to two times a week.There's only one Regenerist, backed by 60 years of Olay skincare experience. If you're ready for a dramatic transformation, Olay Regenerist Microdermabrasion & Peel System offers you the power of a microdermabrasian and mini-peel treatment to regenerate your skin's appearance in the comfort and convenience of your own home. Olay innovation.. it's a beautiful thing.",
+    "itemID": "B000F63TW0",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 151
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Treatments & Masks",
+        "Microdermabrasion"
+      ]
+    ],
+    "price": 21.99,
+    "brand": "Olay"
+  }
+]

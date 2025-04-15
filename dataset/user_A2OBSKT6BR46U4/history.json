@@ -1,0 +1,70 @@
+[
+  {
+    "title": "Aveeno Anti-Itch Concentrated Lotion, 4 Ounce",
+    "description": "Fastacting, soothing itch relief of: poison ivy, oak, sumac, insect bites, allergic itches and chicken pox rash For the temporary relief of the itching and pain associated with minor skin irritations.",
+    "itemID": "B0000536EW",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": NaN,
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Lotions"
+      ]
+    ],
+    "price": 5.62,
+    "brand": "Aveeno"
+  },
+  {
+    "title": "The Balm In Stain Blush, Houndstooth Mauve, .3 Ounce",
+    "description": "Shadow and blush 0.3 ounce the subtle shimmer catches the eye while the warm undertones provide a glow that is oh-so natural. A powder that works as both eye shadow and blush.",
+    "itemID": "B00BPJ139C",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 113676
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Bronzers & Highlighters"
+      ]
+    ],
+    "price": 13.06,
+    "brand": "theBalm"
+  },
+  {
+    "title": "DHC Deep Cleansing Oil 6.7fl.oz./200ml",
+    "description": "Superstar. Try this amazing cleanser and you'll see why it's our most popular product worldwide. Dirt, excess oil, makeup-even waterproof mascara-and other pore-cloggers dissolve easily, leaving your face a grime-free zone that is soft to the touch. Its unique water-soluble formula rinses completely, so you'll never see a greasy residue. Olive oil and vitamin E help ensure you won't see dryness either",
+    "itemID": "B001UE60E0",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 696
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Cleansers"
+      ]
+    ],
+    "price": 18.95,
+    "brand": "DHC"
+  }
+]

@@ -1,0 +1,70 @@
+[
+  {
+    "title": "Redken Extreme Cat Protein Reconstructing Treatment Spray, 5 Ounce",
+    "description": "This spray delivers protein and ceramide to help fortify weakened areas,. Protect internal strength and reinforce surface protection and shine. For distressed hair. Made in usa.",
+    "itemID": "B000JF9Q1U",
+    "helpful": [
+      3,
+      6
+    ],
+    "overall": 1.0,
+    "salesRank": {
+      "Beauty": 3490
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Conditioners"
+      ]
+    ],
+    "price": 14.75,
+    "brand": "Redken"
+  },
+  {
+    "title": "Kenra: Classic Volume Aerosol Spray 25 55% VOC, 10 oz (2 pack)",
+    "description": "Kenra's Volume Spray provides the maximum amount of volume and hold possible. It leaves hair looking natural and shiny while imparting strength and volume necessary to make any style last all day. This super hold finishing spray provides excellent humidit.",
+    "itemID": "B000YZ4MSC",
+    "helpful": [
+      2,
+      3
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 1000
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Hair Sprays"
+      ]
+    ],
+    "price": 23.9,
+    "brand": "Kenra"
+  },
+  {
+    "title": "Prada Prada Candy Eau De Parfum Spray for Women, 2.7 Ounce",
+    "description": "Buy Prada Women's Perfumes - Prada Candy by Prada for Women 2.7 oz Eau de Parfum Spray",
+    "itemID": "B005KF5WYO",
+    "helpful": [
+      1,
+      2
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 3313
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Fragrance",
+        "Women's",
+        "Eau de Parfum"
+      ]
+    ],
+    "price": 72.06,
+    "brand": "Prada"
+  }
+]

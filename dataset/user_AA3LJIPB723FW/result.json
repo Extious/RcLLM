@@ -1,0 +1,69 @@
+[
+  {
+    "title": "Conair Anti-static Detangling Comb, Colors may vary",
+    "description": "Conair's anti-static detangling comb gives you static free detangling and styling with maximum control. style dry hair more easily whle you smooth and shine without fly-away frizzies. widely spaced teeth evenly distribute conditioner throughout hair without pulling or causing split ends. use it for all hair types to create volume while styling. good for wet or dry styling.",
+    "itemID": "B002QF4UYY",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 809
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Combs"
+      ]
+    ],
+    "price": 9.49,
+    "brand": "Conair"
+  },
+  {
+    "title": "ApHogee Shampoo for Damaged Hair",
+    "description": "ApHogee Shampoo for Damaged Hair is for permed, color-treated or damaged hair. Cleanses hair gently, restores shine, strengthens hair, normalizes pH.",
+    "itemID": "B0000YV6BI",
+    "helpful": [
+      2,
+      2
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 34161
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 8.39,
+    "brand": "Aphogee"
+  },
+  {
+    "title": "ApHogee Intensive Two Minute Keratin Reconstructor",
+    "description": "ApHogee Keratin 2 Minute Reconstructor provides a weekly regimen to treat brittle hair with cuticle damage and moderate breakage.",
+    "itemID": "B000BU7G1A",
+    "helpful": [
+      0,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 2893
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Conditioners"
+      ]
+    ],
+    "price": 10.44,
+    "brand": "Aphogee"
+  }
+]

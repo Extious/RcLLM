@@ -1,0 +1,70 @@
+[
+  {
+    "title": "L'Oreal HiP Kohl Liner - Navy",
+    "description": "Iridescent looks for day or night this loose powder eyeshadow contains that extra pigment for peepers that pop.",
+    "itemID": "B002ISZ0CK",
+    "helpful": [
+      3,
+      3
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 41873
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Eyes",
+        "Eyeliner"
+      ]
+    ],
+    "price": 0.7,
+    "brand": "L&#39;Oreal Paris"
+  },
+  {
+    "title": "NYX Super Skinny Eye Marker, Carbon Black,1.1ml",
+    "description": NaN,
+    "itemID": "B003HG4VLS",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 2.0,
+    "salesRank": NaN,
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Eyes",
+        "Eyeliner"
+      ]
+    ],
+    "price": 7.76,
+    "brand": "NYX"
+  },
+  {
+    "title": "La Roche-Posay Effaclar Purifying Foaming Gel, 6.76-Ounce Tube",
+    "description": "This daily use gel cleanser eliminates excess sebum and tightens the pores of oily and thickened skin without causing dryness.",
+    "itemID": "B002P3L99G",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 947
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Cleansers",
+        "Gels"
+      ]
+    ],
+    "price": 13.34,
+    "brand": "La Roche-Posay"
+  }
+]

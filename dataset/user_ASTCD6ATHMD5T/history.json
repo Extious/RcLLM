@@ -1,0 +1,73 @@
+[
+  {
+    "title": "Mimi's Diva Dryer by Aquis Microfiber Hair Towel, Pink (19 x 39-Inches)",
+    "description": "Diva Dryer is made of Aquitex.  Aquitex is a super-absorbent microfiber material that dries a girl's hair quicker than an ordinary hair towel.  Dry your hair in half the time!",
+    "itemID": "B000AM82US",
+    "helpful": [
+      3,
+      3
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 24764
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Hair Extensions & Wigs",
+        "Hair Extensions"
+      ]
+    ],
+    "price": 10.0,
+    "brand": NaN
+  },
+  {
+    "title": "L'Oreal Paris Infallible 8HR Le Gloss, Modern Mauve, 0.21 Ounces",
+    "description": "Infallible never fail lip gloss has a hydrating formula that keeps lips soft, smooth, colorful and glossy for six shining hours. The patented petit Coeur applicator contours lips precisely, giving you a smooth, even, flawless finish every time.",
+    "itemID": "B001KYO5RE",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 137860
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Lips",
+        "Lip Glosses"
+      ]
+    ],
+    "price": 8.38,
+    "brand": "L&#39;Oreal Paris"
+  },
+  {
+    "title": "Yes To Cucumber Soothing Eye Gel, 1.01 Fluid Ounce",
+    "description": "Yes To Cucumbers soothing eye gel is rich in calming organic cucumber, green tea and chamomile renowned sources of vitamins and nutrients to help reduce puffiness and brighten dark circles, while adding a cooling zest to your day!",
+    "itemID": "B003PL9ONU",
+    "helpful": [
+      3,
+      3
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Beauty": 49607
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Lotions"
+      ]
+    ],
+    "price": 8.99,
+    "brand": "Yes To"
+  }
+]

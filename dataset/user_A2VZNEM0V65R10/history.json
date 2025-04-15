@@ -1,0 +1,69 @@
+[
+  {
+    "title": "CLEAR SCALP &amp; HAIR BEAUTY Moisturizing Dry Scalp Nourishing Shampoo, 12.9 Fluid Ounce",
+    "description": "",
+    "itemID": "B007RTR8A2",
+    "helpful": [
+      8,
+      8
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 70675
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 1.23,
+    "brand": "Clear"
+  },
+  {
+    "title": "CLEAR SCALP &amp; HAIR BEAUTY Moisturizing Dry Scalp Nourishing Conditioner, 12.7 Fluid Ounce",
+    "description": "",
+    "itemID": "B007RTR8T8",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 82195
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Conditioners"
+      ]
+    ],
+    "price": 5.99,
+    "brand": "Clear"
+  },
+  {
+    "title": "John Frieda Precision Foam Colour, Medium Natural Blonde 8N",
+    "description": "Precision Foam Colour is the first ever premium permanent home hair colour that uses foam technology to deliver salon-quality results at home.With 20 flattering shades to choose from, achieving flawless, natural-looking results at home has never been quicker or easier.",
+    "itemID": "B004DK46XK",
+    "helpful": [
+      2,
+      2
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 17634
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Hair Color",
+        "Chemical Hair Dyes"
+      ]
+    ],
+    "price": 9.64,
+    "brand": "John Frieda"
+  }
+]

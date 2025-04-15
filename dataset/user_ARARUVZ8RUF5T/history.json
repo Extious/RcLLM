@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Cotz Face Natural Skin Tone SPF 40, 1.5 Ounce",
+    "description": "A sheer mineral formula, offering elegance and superior sun protection, in a silky matte finish. A cosmetically elegant physical sunscreen helps prevent pre-mature skin aging, sun-induced wrinkles and loss of firmness. This lightly-tinted formulation works very well as a daily makeup primer.",
+    "itemID": "B0073P01RC",
+    "helpful": [
+      22,
+      24
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 835
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Sun",
+        "Skin Protection"
+      ]
+    ],
+    "price": 15.76,
+    "brand": "CoTZ"
+  },
+  {
+    "title": "CLEAR SCALP &amp; HAIR BEAUTY THERAPY Anti-Dandruff Shampoo, 12.9 Fluid Ounce",
+    "description": "",
+    "itemID": "B007JT7AIK",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 1272
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 1.5,
+    "brand": "Clear"
+  },
+  {
+    "title": "Remington CI5325 Keratin Therapy Curling Wand, 1-Inch",
+    "description": "",
+    "itemID": "B007PAD71M",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 6424
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Irons",
+        "Curling Irons"
+      ]
+    ],
+    "price": 16.26,
+    "brand": "Remington"
+  }
+]

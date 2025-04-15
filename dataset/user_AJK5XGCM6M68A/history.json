@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Avon MagiX Face Perfector SPF 20,30ml 1fl oz",
+    "description": "A magical new air-light colorless formula that makes all skin tones look flawless... invisible coverage. instant perfection. SPF 20. 1 fl. oz.",
+    "itemID": "B001EDHAU0",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 7817
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Creams & Moisturizers"
+      ]
+    ],
+    "price": 8.99,
+    "brand": "Avon"
+  },
+  {
+    "title": "Cetaphil Moisturizing Cream, 3.0 - Ounces Tube (Pack of 3)",
+    "description": "Cetaphil Moisturizing Cream for Dry, Sensitive Skin. Cetaphil Moisturizing Cream was formulated specifically for chronic dry, sensitive skin. Contains a superior system of extra-strength emollient and humectants, clinically proven to bind water to the skin and prevent moisture loss. Provides long-lasting relief to even severe dry skin. Free of lanolins, parabens and fragrances that can irritate sensitive skin. Non-comedogenic",
+    "itemID": "B000052YMR",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 6216
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Lotions"
+      ]
+    ],
+    "price": 18.99,
+    "brand": "Cetaphil"
+  },
+  {
+    "title": "The Original Hyaluronic Acid Serum 100% Pure 2 oz.",
+    "description": "The Original Hyaluronic Acid Serum 100% Pure 2 oz.",
+    "itemID": "B003MJ7Z0O",
+    "helpful": [
+      4,
+      4
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 311
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Oils & Serums"
+      ]
+    ],
+    "price": 13.95,
+    "brand": NaN
+  }
+]

@@ -1,0 +1,71 @@
+[
+  {
+    "title": "NYX Eyebrow Cake Powder, Black/Gray",
+    "description": "Our recipe for cooking up exquisite eyebrows includes wax, tools and a pair of complementary powders, black and gray, which can be customized to create the ideal shade. Each eyebrow cake powder kit includes a slanted brush and a round wand to shape, style and tame eyebrows.",
+    "itemID": "B002QI1E9K",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 5689
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Eyes",
+        "Eyebrow Color"
+      ]
+    ],
+    "price": 5.89,
+    "brand": "NYX"
+  },
+  {
+    "title": "e.l.f. Studio flawless finish foundation porcelain SPF 15 , 0.8 Ounce",
+    "description": "Achieve a flawless complexion with the silky smooth e.l.f. Studio Flawless Finish Foundation. The lightweight and oil-free formula blends in naturally for a beautiful semi-matte finish. This liquid foundation applies easily and lasts all day for visibly brighter and radiant looking skin. Using our Flawless Finish Foundation not only restores uneven skin textures and tones, but most importantly, the SPF 15 protects your skin against harmful sun damage.",
+    "itemID": "B004X1QCC2",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Beauty": 6998
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Foundation"
+      ]
+    ],
+    "price": 5.99,
+    "brand": "e.l.f. Cosmetics"
+  },
+  {
+    "title": "e.l.f. Blush, Fuchsia Fusion, 0.168 Ounce",
+    "description": "The soft sheer texture blends into the skin for a silky finish. Designed to be worn alone or layered for more depth. Highlight your complexion with a subtle healthy glow.",
+    "itemID": "B004X1QECA",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 132476
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Blush"
+      ]
+    ],
+    "price": 4.95,
+    "brand": "e.l.f. Cosmetics"
+  }
+]

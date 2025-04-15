@@ -1,0 +1,71 @@
+[
+  {
+    "title": "S Shakira by Shakira, 1.7 Ounce",
+    "description": "Shakira is launching her new fragrance s Shakira in cooperation with puig beauty and fashion group. The fragrance was promoted in Spain in 2010 and announced as an oriental-floral perfume with accentuated aromas of fresh and woody notes.",
+    "itemID": "B003G1K226",
+    "helpful": [
+      1,
+      2
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 15166
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Fragrance",
+        "Women's",
+        "Eau de Toilette"
+      ]
+    ],
+    "price": 14.99,
+    "brand": "Shakira"
+  },
+  {
+    "title": "Henna Red 4 Ounces",
+    "description": "Light Mountain (r) Natural Hair Color and Conditioner The premier natural hair color and conditioner product line. Choose from our original line with the famous \"henna animals\" in 12 shades, or our unique Color the Gray line with 8 shades. We use no chemicals and no synthetic ingredients, only pure premium henna and other botanicals. We have been blending henna based natural hair colors since the early 1980's and are the leading totally natural line in the natural products industry.   The Doctors Prescription for Healthy Living Newsletter (by the people who did the Safe Shopper's Bible, Freedom Press, Topanga California) rated our product the only one they found that was totally safe and chemical free. Henna hair color is also recommended in The Breast Cancer Prevention Program by Dr. Samuel Epstein and David Steinman (Macmillan, 1997) This is an excellent book that goes into great detail with information about the dangers of commercial chemical hair dyes, the increased cancer risks, and other associated problems. Our product is also specifically recommended in Being a Woman Naturally by Dr. Jan McBarron (Freedom Press, 2002). After describing the health risks of chemical hair dyes, she points out that Light Mountain Natural Hair Color and Color the Gray are safe, natural alternatives to the dangerous commercial hair dyes.  Henna is the only natural hair color with an FDA monograph for safe and effective use as a natural hair color.  Light Mountain uses NO PPD, No Ammonia, No Peroxide, No Chemicals whatsoever.  Each batch of our premium grade henna is tested to ensure that it has no contaminants such as heavy metals or pesticides.",
+    "itemID": "B00028LURW",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 143842
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Hair Color",
+        "Hennas"
+      ]
+    ],
+    "price": 4.03,
+    "brand": "Light Mountain"
+  },
+  {
+    "title": "Maybelline New York Expert Eyes Moisturizing Eye Makeup Remover, 2.3 Fl. Oz.",
+    "description": "Gently removes waterproof mascara and eye makeup. Conditions and moisturizes delicate eye area. Fragrance free.",
+    "itemID": "B000052WYL",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Beauty": 7137
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Eyes",
+        "Mascara"
+      ]
+    ],
+    "price": 1.26,
+    "brand": "Maybelline"
+  }
+]

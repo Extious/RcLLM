@@ -1,0 +1,93 @@
+[
+  {
+    "title": "L'Oreal Kids Extra Gentle 2-in-1 Shampoo With a Burst of Cherry Almond, 9.0 Fluid Ounce",
+    "description": "2-in-1 Shampoo/Extra Conditioning, Cherry Almond",
+    "itemID": "B004C0SUE2",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 54858
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 7.99,
+    "brand": "L&#39;Oreal Paris"
+  },
+  {
+    "title": "Maybelline New York Lots of Lashes Washable Mascara, Blackest Black, 0.43 Fluid Ounce",
+    "description": "Lots of impact. Lots of style. Great lash lol's exclusive great little grabber brush lets you easily reach all of your lashes to multiply their impact.",
+    "itemID": "B004Y9L926",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 3989
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Eyes",
+        "Mascara"
+      ]
+    ],
+    "price": 7.5,
+    "brand": "Maybelline"
+  },
+  {
+    "title": "Eucerin Daily Protection Moisturizing Face Lotion, Broad Spectrum SPF 30",
+    "description": "",
+    "itemID": "B00008MNZH",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": NaN,
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Creams & Moisturizers",
+        "Fluids & Lotions",
+        "Lotions"
+      ]
+    ],
+    "price": 8.04,
+    "brand": "Eucerin"
+  },
+  {
+    "title": "Dove Body Wash with NutriumMoisture, Sensitive Skin Nourishing, 24 Ounce",
+    "description": NaN,
+    "itemID": "B000AO2NXS",
+    "helpful": [
+      0,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 18679
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Cleansers",
+        "Body Washes"
+      ]
+    ],
+    "price": 11.5,
+    "brand": "Dove"
+  }
+]

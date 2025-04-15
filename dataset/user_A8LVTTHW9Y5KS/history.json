@@ -1,0 +1,75 @@
+[
+  {
+    "title": "Cetaphil Gentle Skin Cleanser, For all skin types, 16-Ounce Bottles (Pack of 2)",
+    "description": "",
+    "itemID": "B001ET76EY",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 2342
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Cleansers",
+        "Washes"
+      ]
+    ],
+    "price": 26.8,
+    "brand": "Cetaphil"
+  },
+  {
+    "title": "Proactiv Solution Super Size Oil-free Moisture Spf15 - 2.5 Oz",
+    "description": "Keep your skin looking and feeling its best by gently hydrating with Proactiv(R) Solution Oil-Free Moisturizer with SPF 15. The light formula, developed by dermatologists Rodan and Fields, helps soothe and comfort dry skin. It provides oil-free moisture with SPF 15 to protect against sun exposure.",
+    "itemID": "B001JL40V4",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 3085
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Creams & Moisturizers",
+        "Fluids & Lotions",
+        "Lotions"
+      ]
+    ],
+    "price": 21.98,
+    "brand": "Proactiv Solution Oil-free Moisture Spf15"
+  },
+  {
+    "title": "HSI PROFESSIONAL 1 CERAMIC TOURMALINE IONIC FLAT IRON HAIR STRAIGHTENER FREE GLOVE + POUCH AND travel size Argan Oil Leave In Hair Treatment. WORLDWIDE DUAL VOLTAGE 110v-220v",
+    "description": "The Proffesional HSI Flat Iron is great for transforming frizzy, dull hair into gorgeously straight, sleek locks. Aside from straightening, the Proffesional HSI Flat Iron curls and flips hair beautifully, its 1\" plates giving maximum control for all hair types. With flash quick heating and swivel cord, this iron provides great style without making a mess or taking too much time. Featuring new easier grip with ergonomic design for easier hold, the styler flat iron also has versatile heat settings to provide you with total control for all your hairstyling needs. Moist ceramic heat with solid ceramic plates and coils will maintain even temperature",
+    "itemID": "B001MA0QY2",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 1
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Irons",
+        "Flattening Irons"
+      ]
+    ],
+    "price": 53.59,
+    "brand": "HSI PROFESSIONAL"
+  }
+]

@@ -1,0 +1,94 @@
+[
+  {
+    "title": "Maybelline New York Colorsensational Lipstain, Bit of Brown, 0.1 Fluid Ounce",
+    "description": "Sheer wash of color from water based pigments. Fresh, barely there feel from vitamin enriched berry nectar. Lipstain so bare, so light as air, it's sensational.",
+    "itemID": "B003H8180I",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Beauty": 126436
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Lips",
+        "Lip Stains"
+      ]
+    ],
+    "price": 3.5,
+    "brand": "Maybelline"
+  },
+  {
+    "title": "L'Oreal Paris Colour Juice Sheer Juicy Lip Gloss, Iced Latte, 0.5-Fluid Ounce",
+    "description": "Quench your thirst for glossy lips that burst with a sheer color and juicy shine with Color juice sheer juicy lip gloss. Just squeeze and apply for fresh, ripe color and a moisturizing shiny finish. Wear alone or use as a topcoat over your favorite lips.",
+    "itemID": "B004BCTB9E",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 94206
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Lips",
+        "Lip Glosses"
+      ]
+    ],
+    "price": 7.49,
+    "brand": "L&#39;Oreal Paris"
+  },
+  {
+    "title": "Matrixyl 3000 Serum w/ Hyaluronic Acid 1 oz.",
+    "description": "The Timeless serum collection contains high concentrations of hyaluronic acid and matrixyl that you won't find anywhere else. All natural and paraben free, we don't use excess ingredients to make up for the lack of actives. We like to keep it simple and effective.This product contains:Matrixyl 3000 - major wrinkle fighting ingredient used as an alternative to Retin A. Increases collagen synthesis up to 350%! We use an 8% concentration for maximum results.Hyaluronic Acid - one of the most powerful hydrating and moisturizing ingredients on the market today. Holds up to 1000 times its weight in water! And as always, we use a higher concentration of HA than any other seller. This serum contains 1% HA, or about 2x the amount of HA contained in others 60% concoctions.And much, much more!",
+    "itemID": "B0036B3C0A",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 14265
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Treatments & Masks"
+      ]
+    ],
+    "price": 22.95,
+    "brand": NaN
+  },
+  {
+    "title": "RoC Daily Resurfacing Disks, 3 Inch, 28 Disks",
+    "description": "RoC Daily Resurfacing Disks are clinically shown to help diminish the look of fine lines and wrinkles, and improve the appearance of skin in just one week. Infused with skinconditioning cleansers, the selffoaming disk is textured on one side to gently exfoliate away dirt, oil, and complexion dulling impurities, and smooth on the other side to gently cleanse and remove makeup around the delicate eye area. The resultyoungerlooking, more beautiful skin. Gentle enough for everyday use. Results after clinical testing: In just 1 week, the appearance of fine lines is reduced; Skin tone and texture is improved. After 4 weeks, signs of photoaging appear diminished. After 12 weeks, the appearance of wrinkles and pores is diminished.",
+    "itemID": "B005I2MP62",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 1055
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Treatments & Masks"
+      ]
+    ],
+    "price": 9.98,
+    "brand": "RoC"
+  }
+]

@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Maybelline New York Dream Liquid Mousse Foundation, Creamy Natural Light 5, 1 Fluid Ounce",
+    "description": "Liquid mousse texture. Air whipped formula provides skin perfecting coverage. Smooth, 100% poreless finish with natural luminosity. Blends flawlessly to air brushed perfection. Oil free, fragrance free, dermatologist tested, allergy tested, non comedogenic  won&#x2019;t clog pores, and safe for sensitive skin.",
+    "itemID": "B001Q8560Y",
+    "helpful": [
+      1,
+      3
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 63903
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Foundation"
+      ]
+    ],
+    "price": 3.73,
+    "brand": "Maybelline"
+  },
+  {
+    "title": "Kleancolor Nail Lacquer White 4",
+    "description": "Kleancolor nail polish featuring long lasting pretty colors with new bottle design. It is pretty, it is good quality, yet affordable price.",
+    "itemID": "B003ZX4988",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Health & Personal Care": 47409
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Nails",
+        "Nail Polish"
+      ]
+    ],
+    "price": 1.5,
+    "brand": "Kleancolor"
+  },
+  {
+    "title": "Neutrogena Oil-Free Acne Stress Control Power-Cream Wash, 6 Ounce (Pack of 3)",
+    "description": "",
+    "itemID": "B001410OG4",
+    "helpful": [
+      0,
+      1
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 21973
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Toners & Astringents"
+      ]
+    ],
+    "price": 15.99,
+    "brand": "Neutrogena"
+  }
+]

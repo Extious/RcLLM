@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Remington CI95AC/2 Tstudio Salon Collection Pearl Digital Ceramic Curling Wand, 1/2 Inch - 1 Inch",
+    "description": "",
+    "itemID": "B003V265QW",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 73
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Irons",
+        "Curling Irons"
+      ]
+    ],
+    "price": 27.77,
+    "brand": "Remington"
+  },
+  {
+    "title": "Xtreme Brite Brightening Gel 1oz",
+    "description": "Xtreme Brite Brightening Gel is highly concentrated gel helps to obtain a clearer and brighter complexion. Removes blackheads and cosmetic acne also has anti-bacterial and soothing properties. For best results use regularly together with other products from the Xtreme Brite brand.",
+    "itemID": "B0054GBXOW",
+    "helpful": [
+      1,
+      3
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 1090
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Treatments & Masks"
+      ]
+    ],
+    "price": 19.99,
+    "brand": "Xtreme Brite"
+  },
+  {
+    "title": "Xtreme Brite Exfoliating Brightening Soap 7oz",
+    "description": "toning cream",
+    "itemID": "B0054GLD1U",
+    "helpful": [
+      1,
+      2
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 10733
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Cleansers",
+        "Soaps"
+      ]
+    ],
+    "price": 7.12,
+    "brand": "Xtreme Brite"
+  }
+]

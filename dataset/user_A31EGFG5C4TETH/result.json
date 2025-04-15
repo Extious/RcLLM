@@ -1,0 +1,58 @@
+[
+  {
+    "title": "Creative Nail Shellac Wildfire, 0.25 Fluid Ounce",
+    "description": "Patent-pending formulations of solvents, monomers and polymers goes on like polish and wears like gel. A UV-cured color coat featuring UV3 technology.",
+    "itemID": "B003OH0KBA",
+    "helpful": [
+      8,
+      8
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 11356
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Nails",
+        "Nail Polish"
+      ]
+    ],
+    "price": 14.0,
+    "brand": "CND Cosmetics"
+  },
+  {
+    "title": "Travelon Jewelry Roll",
+    "description": NaN,
+    "itemID": "B001CZL7VS",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Clothing": 3691
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Tools & Accessories",
+        "Bags & Cases"
+      ],
+      [
+        "Clothing, Shoes & Jewelry",
+        "Novelty, Costumes & More",
+        "Jewelry Accessories",
+        "Jewelry Boxes & Organizers",
+        "Jewelry Rolls"
+      ],
+      [
+        "Clothing, Shoes & Jewelry",
+        "Luggage & Travel Gear"
+      ]
+    ],
+    "price": 12.87,
+    "brand": "Travelon"
+  }
+]

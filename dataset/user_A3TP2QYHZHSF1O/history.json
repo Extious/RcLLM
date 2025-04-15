@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Flash Shiner Nail Buffer",
+    "description": "Easy, Fast, & An Amazing Shine. Step 1: Gray Step 2: Green Step 3: White.",
+    "itemID": "B002QY86BI",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 2007
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Scrubs & Body Treatments",
+        "Body Scrubs"
+      ]
+    ],
+    "price": 3.99,
+    "brand": "Flash Shine"
+  },
+  {
+    "title": "Straight Sexy Hair Smooth &amp; Seal Spray by Sexy Hair for Unisex - 8.1 Ounce Hairspray",
+    "description": "Possesses a blend of Fun Fashion Oriented Professional Hair Care Products, Hair Care Products For Every Hair Type.",
+    "itemID": "B00068A0AQ",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 2898
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Hair Sprays"
+      ]
+    ],
+    "price": 13.5,
+    "brand": "Sexy Hair"
+  },
+  {
+    "title": "Tarte Lights, Camera, Lashes! Mascara",
+    "description": "Tarte Lights, Camera, Lashes! 4-in-1 Mascara could be considered a push-up bra for your lashes-a 4-in-1 (lengthening, curling, volumizing, and conditioning) dermatologist- and clinically-proven to increase the appearance of lash volume by 424% after applying giving dramatic, thick and sexy lashes.",
+    "itemID": "B002XOQSPC",
+    "helpful": [
+      3,
+      4
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 920
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Eyes",
+        "Mascara"
+      ]
+    ],
+    "price": 15.3,
+    "brand": "Tarte"
+  }
+]

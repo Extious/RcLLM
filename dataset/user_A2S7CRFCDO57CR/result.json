@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Simple Exfoliating Wipes, 25 Count (Pack of 2)",
+    "description": "",
+    "itemID": "B005TI7LD2",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 19169
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Cleansers",
+        "Cloths & Towelettes"
+      ]
+    ],
+    "price": 8.46,
+    "brand": "Simple"
+  },
+  {
+    "title": "Clear 7 Day Intensive Treatment Tubes, Color and Damage Repair, 7 Count",
+    "description": "",
+    "itemID": "B00AE078YM",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 54627
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Hair & Scalp Treatments"
+      ]
+    ],
+    "price": 7.67,
+    "brand": "Clear"
+  },
+  {
+    "title": "Kiss My Face Sunspray Lotion SPF 30, 8 Ounce",
+    "description": "",
+    "itemID": "B00142DXXE",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 1.0,
+    "salesRank": {
+      "Beauty": 61825
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Sunscreens & Self Tanners",
+        "Sunscreens"
+      ]
+    ],
+    "price": 7.99,
+    "brand": "Kiss My Face"
+  }
+]

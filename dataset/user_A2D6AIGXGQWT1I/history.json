@@ -1,0 +1,67 @@
+[
+  {
+    "title": "Biolage by Matrix Hydratherapie Hydrating Shampoo 33.8 Ounces",
+    "description": "Biolage by Matrix Hydrating Shampoo.",
+    "itemID": "B0007CXXGO",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 558
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care"
+      ]
+    ],
+    "price": 11.39,
+    "brand": "Matrix"
+  },
+  {
+    "title": "L'Oreal EverPure Smooth Frizz-Free Serum, Rosemary Mint 1.7 oz (50 ml)",
+    "description": "EverPure Smooth Frizz-Free Serum, by L'Oreal Paris Hair Expertise, tames frizz, helps protect hair from humidity, and seals in moisture so hair is smooth and super shiny.Color-treated hair requires special care. The EverPure Sulfate-Free Color Care System protects and conditions for long-lasting color purity.",
+    "itemID": "B001P1ZC92",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 34349
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Hair Styling Serums"
+      ]
+    ],
+    "price": 6.22,
+    "brand": "L&#39;Oreal Paris"
+  },
+  {
+    "title": NaN,
+    "description": NaN,
+    "itemID": "B001RD37ZO",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": NaN,
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Nails",
+        "Nail Polish"
+      ]
+    ],
+    "price": NaN,
+    "brand": NaN
+  }
+]

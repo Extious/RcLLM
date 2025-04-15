@@ -1,0 +1,70 @@
+[
+  {
+    "title": "HD High-Definition Glamour Creme Palette, Neutral #1",
+    "description": "Size: .39oz., 11g",
+    "itemID": "B0044XXO84",
+    "helpful": [
+      4,
+      7
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 51013
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Foundation"
+      ]
+    ],
+    "price": 20.95,
+    "brand": "Graftobian"
+  },
+  {
+    "title": "Agadir  Argan Oil Spray Treatment, 5.1-Ounce",
+    "description": "AGADIR by Agadir ARGAN OIL SPRAY TREATMENT 5.1 OZ",
+    "itemID": "B002QG6P9G",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 2102
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Hair Sprays"
+      ]
+    ],
+    "price": 11.99,
+    "brand": "Agadir"
+  },
+  {
+    "title": "OROFLUIDO - Beauty Elixir 3.38oz",
+    "description": "Orofluido Elixir is formulated with argan, cyprus and linseed oil to give hair shine without residue. 3.38 oz",
+    "itemID": "B0038QLU66",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Health & Personal Care": 12931
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoo & Conditioner Sets"
+      ]
+    ],
+    "price": 24.99,
+    "brand": NaN
+  }
+]

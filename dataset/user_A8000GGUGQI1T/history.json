@@ -1,0 +1,70 @@
+[
+  {
+    "title": "Organix Hair Serum, FX Silk Drops, 4 Ounce",
+    "description": "SILK DROPS Sheer Liquid Silk Hair SerumSilk Drops serum smoothes and conditions any unruly hair. This high potency polishing formula instantly makes hair silky and super smooth. Moisturizes and detangles dry, damaged hair while transforming frizziness into a glossy shine and helps prevent breakage. The result? Full bodied, healthy looking hair with brilliant shine!",
+    "itemID": "B000MPFKZ8",
+    "helpful": [
+      15,
+      15
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 75402
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Hair Styling Serums"
+      ]
+    ],
+    "price": 7.84,
+    "brand": "Organix"
+  },
+  {
+    "title": "TRESemme Thermal Creations Heat Tamer Spray, 8 Ounce (Pack of 6)",
+    "description": "Used by professionals. Minimizes heat damage, conditions & shines. Great with heat styling tools. Professional Formula: Lightweight styling mist; Contains a unique combination of conditioning and protecting ingredients. Professional Results: Protects hair while heat styling; Conditions for soft, shiny hair. Made in USA.",
+    "itemID": "B001ET6XRA",
+    "helpful": [
+      16,
+      22
+    ],
+    "overall": 1.0,
+    "salesRank": {
+      "Beauty": 148186
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Hair Sprays"
+      ]
+    ],
+    "price": 34.25,
+    "brand": "TRESemme"
+  },
+  {
+    "title": "Agadir  Argan Oil Hair Treatment, 4-Ounce",
+    "description": "Leave in, daily hair treatment that's super enriched with vitamin E. Leaves hair with radiant shine!",
+    "itemID": "B001U9M2EW",
+    "helpful": [
+      2,
+      2
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 140
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Hair & Scalp Treatments"
+      ]
+    ],
+    "price": 15.6,
+    "brand": "Agadir"
+  }
+]

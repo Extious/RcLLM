@@ -1,0 +1,70 @@
+[
+  {
+    "title": "Styrofoam Wig Head (Female)",
+    "description": NaN,
+    "itemID": "B001BAN0FK",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 2228
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Hair Extensions & Wigs",
+        "Wigs"
+      ]
+    ],
+    "price": 5.49,
+    "brand": "Lace Locs, Inc"
+  },
+  {
+    "title": "Dickinson's Witch Hazel 16 oz",
+    "description": "Our unique 100 percent natural formula combines extracts of the witch hazel plant to thoroughly cleanse and condition your skin without disturbing its natural moisture balance.",
+    "itemID": "B00016WW8Q",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {},
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Toners & Astringents"
+      ]
+    ],
+    "price": 3.39,
+    "brand": "Dickinson&#39;s"
+  },
+  {
+    "title": "18'' Detachable Long Handle Natural Boar Bristle Brush",
+    "description": "If you want softer skin, to remove stretch marks, less cellulite, and want to improve your overall health, this long handle natural boar bristle brush is just what you need. Revive your skin with a natural bristle body massage. You will enjoy softer, smoother skin when you engage in a refreshing natural bristle massage.",
+    "itemID": "B0006433MM",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Health & Personal Care": 6728
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Bathing Accessories",
+        "Bath Brushes"
+      ]
+    ],
+    "price": 10.5,
+    "brand": "Spacific"
+  }
+]

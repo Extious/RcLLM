@@ -1,0 +1,93 @@
+[
+  {
+    "title": "TRESemme Keratin Smooth Keratin Infusing Conditioner, 25 oz",
+    "description": "",
+    "itemID": "B00AO4E9MC",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 9379
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Conditioners"
+      ]
+    ],
+    "price": 11.35,
+    "brand": "TRESemme"
+  },
+  {
+    "title": "ISO Bouncy Creme 8.5 oz.",
+    "description": "ISO Bouncy Creme, instant rejuvenation for curly, wavy or textured hair. Energizes and imparts awesome definition, separation, shine and bounce for a lively, healthy hairstyle.  (8.5 oz)",
+    "itemID": "B0002Z8MLC",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Beauty": 19511
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Creams, Gels & Lotions"
+      ]
+    ],
+    "price": 10.47,
+    "brand": "ISO"
+  },
+  {
+    "title": "AcneFree Sensitive Skin Acne System",
+    "description": "",
+    "itemID": "B00243FOGG",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 2180
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Cleansers"
+      ]
+    ],
+    "price": 13.95,
+    "brand": "AcneFree"
+  },
+  {
+    "title": "Bio Ionic Universal Diffuser",
+    "description": "The diffuser diverts air for well defined curly and wavy styles.",
+    "itemID": "B00AHKC7PO",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 3770
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Scrubs & Body Treatments",
+        "Body Scrubs"
+      ]
+    ],
+    "price": 11.72,
+    "brand": "BioIonic Universal Diffuser"
+  }
+]

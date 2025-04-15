@@ -1,0 +1,48 @@
+[
+  {
+    "title": "Shea Moisture Coconut Hibiscus Curl Enhancing Smoothie-12 oz",
+    "description": "SheaMoisture Coconut Hibiscus Curl Enhancing Smoothie",
+    "itemID": "B0038TVH3Y",
+    "helpful": [
+      2,
+      2
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 1648
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Creams, Gels & Lotions"
+      ]
+    ],
+    "price": 15.45,
+    "brand": "Shea Moisture"
+  },
+  {
+    "title": "OPI Mini Collection Skyfall",
+    "description": "Enjoy the adorable mini versions of OPI's color",
+    "itemID": "B009ERIUNY",
+    "helpful": [
+      2,
+      3
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 101694
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Nails",
+        "Nail Polish"
+      ]
+    ],
+    "price": 12.37,
+    "brand": "OPI"
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "title": "Neutrogena Clear Pore Cleanser/Mask, 4.2 Fluid Ounce (125 ml)",
+    "description": "3524078",
+    "itemID": "B00006FE30",
+    "helpful": [
+      2,
+      4
+    ],
+    "overall": 5.0,
+    "salesRank": NaN,
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Cleansers"
+      ]
+    ],
+    "price": 9.77,
+    "brand": "Neutrogena"
+  },
+  {
+    "title": "Fekkai Glossing Hair Products Starter 1 Kit",
+    "description": "",
+    "itemID": "B0030GFY02",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 39515
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care"
+      ]
+    ],
+    "price": 22.95,
+    "brand": "Fekkai"
+  },
+  {
+    "title": "Banana Boat Sport Cool Zone Sunscreen Continuous Spray SPF 50, 6 Fluid Ounce",
+    "description": "BANANA BOAT sunscreen ultra mist sport performance cool zone, SPF 50, 6-ounces. Long-lasting continuous spray sunscreen. Cool zone instantly cools and refreshes skin. Broad spectrum UVA or UVB protection. Invisible, rub-free, quick drying, and non-greasy. Very water or sweat resistant.",
+    "itemID": "B0063A432W",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 1702
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Sun",
+        "Skin Protection",
+        "Sports"
+      ]
+    ],
+    "price": 9.54,
+    "brand": "Banana Boat"
+  }
+]

@@ -1,0 +1,48 @@
+[
+  {
+    "title": "Natural Calm 16 Oz - Natural Vitality",
+    "description": "Natural&#xA0;Calm&#xA0;is the&#xA0;solution to&#xA0;both restoring a&#xA0;healthy magnesium level and&#xA0;balancing your calcium intake-the result of&#xA0;which is&#xA0;natural&#xA0;stress&#xA0;relief.",
+    "itemID": "B000OQ2DL4",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": NaN,
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Lotions"
+      ]
+    ],
+    "price": 23.97,
+    "brand": "Natural Vitality"
+  },
+  {
+    "title": "Raw PRIME &amp; PURE Cocoa Butter 100% Fresh (1 LB)",
+    "description": "1LB FRESH COCOA BUTTER FROM GHANA.\nSEALED BAG TO PRESERVE FRESHNESS EXPIRATION DATE 2014\n\nWill BE PACKAGED IN A FACTORY SEALED PLASTIC BAG.\n\n QUALITY A, SMELLS AWESOME LEAVE BAG OPEN AND ADD FRAGRANCE TO WHOLE HOUSE",
+    "itemID": "B008KPO2MY",
+    "helpful": [
+      0,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 2381
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Body Butter"
+      ]
+    ],
+    "price": 13.65,
+    "brand": "smellgood"
+  }
+]

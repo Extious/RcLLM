@@ -1,0 +1,70 @@
+[
+  {
+    "title": "Maybelline New York Define-A-Line Eyeliner, Ebony Black, 0.01 Ounce",
+    "description": "Glides on smoothly and precisely in just one stroke. Contoured smudger makes blending easy.",
+    "itemID": "B001KYNVLU",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 4086
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Eyes",
+        "Eyeliner"
+      ]
+    ],
+    "price": 3.26,
+    "brand": "Maybelline"
+  },
+  {
+    "title": "Sun Laboratories Tan Overnight Self Tanning Lotion 8 fl oz.",
+    "description": "Sun Laboratories Tan Overnight lets you achieve an incredibly natural-looking bronzed appearance on the face and body without exposure to harmful UV sun rays - anytime, anywhere. Formulated with a natural blend of ingredients that promote hydration and a sugar derivative that enhances the skin&#039;s color, this formula is safe for all skin types seeking a dramatically deeper tone. An instant dose of color helps prevent streaks and patches, and the color is set within three hours of application.",
+    "itemID": "B000IOFQWK",
+    "helpful": [
+      37,
+      44
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 4629
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Sun",
+        "Self-Tanners & Bronzers"
+      ]
+    ],
+    "price": 9.99,
+    "brand": "Sun Laboratories"
+  },
+  {
+    "title": "Garnier Fructis Volume Extend Instant Bodifier Dry Shampoo for Fine or Flat Hair, 3.4 Ounce",
+    "description": "Looking for a fast way to refresh and extend your volume.  Garnier fructis volume extend dry shampoo, containing a blend of orange citrus and grape extract, immediately refreshes and bodifies lifeless locks, instantly creating volume you can see and feel.  Just spray into flat hair and comb or brush through to absorb oil, instantly eliminate weight and refresh your volume anytime, day or night.",
+    "itemID": "B00CZE9YHO",
+    "helpful": [
+      13,
+      13
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 993
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 5.99,
+    "brand": "Garnier"
+  }
+]

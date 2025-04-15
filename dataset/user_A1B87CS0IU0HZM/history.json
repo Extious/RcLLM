@@ -1,0 +1,70 @@
+[
+  {
+    "title": "KUUMBA MADE AMBER PASTE",
+    "description": "Kuumba Made's exquisite fragrances contain oils and resins from flowers, plants, roots and trees. They are delightfully exotic and alluring and are adored and cherished.",
+    "itemID": "B006GOQ8RI",
+    "helpful": [
+      6,
+      6
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 52123
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Fragrance"
+      ]
+    ],
+    "price": 8.99,
+    "brand": "KUUMBA MADE"
+  },
+  {
+    "title": "Freeman Facial Masque, Purifying - 6 fl oz",
+    "description": "Simplified BeautyPure Ambition&#153;&nbsp;Purifying&nbsp;Facial Clay Masque ~ Avocado &amp; OatmealPurges pores of dirt and excess oils while firming, refining and conditioning.Freeman&reg;products are artfully blended with botanical extracts that help you look and feel more beautiful, so you'll feel confident simply being you.Botanical extracts combine to create ultimate purification and conditioning.This rich, creamy clay masque helps to purge clogged pores by drawing out imbedded excess oils and dirt.&nbsp; Facial skin is left feeling clean, soft and pure.&nbsp; So if purification is your ambition, then this product is simply for you.&nbsp;This product not tested on animals.&nbsp;",
+    "itemID": "B00005NFBD",
+    "helpful": [
+      2,
+      3
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 1560
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Treatments & Masks",
+        "Masks"
+      ]
+    ],
+    "price": 3.14,
+    "brand": "Freeman"
+  },
+  {
+    "title": "Body Toolz Cuticle Pusher",
+    "description": "Dual-ended pusher will not scratch the natural nail. Curve conforms to the natural nail for pushing cuticles.",
+    "itemID": "B001B7PVRS",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 46724
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Tools & Accessories",
+        "Nail Tools",
+        "Cuticle Pushers"
+      ]
+    ],
+    "price": 11.34,
+    "brand": NaN
+  }
+]

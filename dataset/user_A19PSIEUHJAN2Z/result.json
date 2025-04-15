@@ -1,0 +1,69 @@
+[
+  {
+    "title": "Avon Anew Genics Eye Treatment 0.5 oz",
+    "description": "Eye treatment Genics by Avon",
+    "itemID": "B007A7PTWA",
+    "helpful": [
+      0,
+      1
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 29435
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Eyes",
+        "Creams"
+      ]
+    ],
+    "price": 15.99,
+    "brand": "Jubujub"
+  },
+  {
+    "title": "Anew Genics Treatment Concentrate",
+    "description": NaN,
+    "itemID": "B0086EYYHW",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": NaN,
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Creams & Moisturizers"
+      ]
+    ],
+    "price": 16.0,
+    "brand": "Avon"
+  },
+  {
+    "title": "Tinkle Hair Cutter",
+    "description": "Hair Cutter",
+    "itemID": "B001DYM62C",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Health & Personal Care": 1653
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Scissors"
+      ]
+    ],
+    "price": 4.6,
+    "brand": "Diane"
+  }
+]

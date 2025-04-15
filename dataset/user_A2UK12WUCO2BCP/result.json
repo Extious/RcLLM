@@ -1,0 +1,94 @@
+[
+  {
+    "title": "Carol's Daughter, Lisa's Hair Elixir, 8 Ounce",
+    "description": "Aids in Preventing Breakage.",
+    "itemID": "B000WJ4DYS",
+    "helpful": [
+      3,
+      4
+    ],
+    "overall": 1.0,
+    "salesRank": {
+      "Beauty": 13173
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Hair & Scalp Treatments"
+      ]
+    ],
+    "price": 21.4,
+    "brand": "Carol&#39;s Daughter"
+  },
+  {
+    "title": "100% Unrefined Certified Grade A Shea Butter 4 oz.",
+    "description": "ALL SHEA BUTTERS ARE NOT EQUAL! \n\n100% Pure & Natural Shea Butter is an all-natural vitamin A cream. Shea Butter has been shown to be a superb moisturizer with exceptional healing properties for the skin. \n\nShea Butter may range from excellent to very poor. Grade A Shea Butter may be used to treat a number of skin conditions and serves as an excellent moisturizer. Poor quality Shea Butter should be compared with products such as less expensive coca butter and mango butter.\n\nOnly high quality Unrefined Premium Grade A Shea Butter can offer the health benefits mention here. Buying Laboratory Tested Shea Butter is your only means of knowing the quality of Shea Butter you are purchasing.\n\nTHe American Shea Butter Institute Seal assures you are buying High Quality Premium Grade A Shea Butter.\n\nGrade A Shea Butter is laboratory tested for iron, mercury, lead, copper, mold yeast and bacteria content in addition to other important proprietary test.\n\nIf you are not using laboratory tested Shea Butter, how do you know what you are putting on your skin?",
+    "itemID": "B000GRENPA",
+    "helpful": [
+      6,
+      8
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 8682
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Body Butter"
+      ]
+    ],
+    "price": 10.0,
+    "brand": NaN
+  },
+  {
+    "title": "Neosporin Essentials Moisture Body Wash, Soap Free, Fragrance Free, 10 Ounce",
+    "description": "",
+    "itemID": "B0067JF88M",
+    "helpful": [
+      6,
+      7
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Health & Personal Care": 11254
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Bath",
+        "Bubble Bath"
+      ]
+    ],
+    "price": 11.58,
+    "brand": "Neosporin"
+  },
+  {
+    "title": "e.l.f. Studio Powder Brush elf",
+    "description": "Creates a professional sculpted look. Full coverage color. Use for powder or blush for perfect contouring. Vegan friendly.",
+    "itemID": "B002B4GGUG",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 4500
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Tools & Accessories",
+        "Makeup Brushes & Tools",
+        "Brushes & Applicators"
+      ]
+    ],
+    "price": 4.98,
+    "brand": "e.l.f. Cosmetics"
+  }
+]

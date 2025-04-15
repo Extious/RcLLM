@@ -1,0 +1,73 @@
+[
+  {
+    "title": "POND'S Dry Skin Cream, 10.1-oz. (Pack of 3)",
+    "description": "",
+    "itemID": "B001ECQ4R6",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 6512
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Creams & Moisturizers",
+        "Fluids & Lotions",
+        "Lotions"
+      ]
+    ],
+    "price": 17.03,
+    "brand": "Pond&#39;s"
+  },
+  {
+    "title": "Aveeno Active Naturals Stress Relief Moisturizing Lotion, 12 Ounce",
+    "description": "Aveeno Stress Relief Moisturizing Lotion helps to calm and relax you as it is massaged into your skin, while also moisturizing to leave skin soft and smooth.&#xA0; Aveeno combines the calming scents of lavender and essential chamomile and ylangylang oils with the soothing properties of natural colloidal oatmeal long known to hold in moisture.&#xA0; This naturally nourishing, nongreasy formula absorbs quickly and is blended with rich emollients to moisturize for a full 24 hours.",
+    "itemID": "B0000AJ3PU",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": NaN,
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Lotions"
+      ]
+    ],
+    "price": 9.09,
+    "brand": "Aveeno"
+  },
+  {
+    "title": "Andis Micro Turbo 1600 Watt Dual Voltage Hair Dryer - White (33805)",
+    "description": "Andis 33805 Micro Turbo 1600 Watt Dryer has dual voltage for worldwide travel.  There are two heat, air settings and a quiet fan and motor. It features Lifeline shock protection.",
+    "itemID": "B0009XH6V4",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 2689
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Irons",
+        "Flattening Irons"
+      ]
+    ],
+    "price": 18.85,
+    "brand": NaN
+  }
+]

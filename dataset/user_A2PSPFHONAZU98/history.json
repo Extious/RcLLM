@@ -1,0 +1,72 @@
+[
+  {
+    "title": "theBalm Stainiac Beauty Queen 0.3 oz.",
+    "description": "Stainiac is an extremely versatile, extremely wearable color for lips and cheeks. These colors can be worn alone or over another color for brilliant color variations. A small amount of this water-based color provides a subtle hint of color. By applying more, the color becomes more intense, giving you more dramatic and noticeable cheeks and lips. Blushing Pink is a reddish pink shade.",
+    "itemID": "B000HEIRRM",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 112446
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Blush"
+      ]
+    ],
+    "price": 20.24,
+    "brand": "theBalm"
+  },
+  {
+    "title": "Pacifica Tuscan Blood Orange Perfume",
+    "description": "Classic scent Gluten-free Not tested on animals Made in the USA",
+    "itemID": "B000UWH3SU",
+    "helpful": [
+      1,
+      2
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 10451
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Fragrance",
+        "Women's",
+        "Eau de Parfum"
+      ]
+    ],
+    "price": 16.58,
+    "brand": "Pacifica"
+  },
+  {
+    "title": "Pacifica Tuscan Blood Orange Body Butter, 8 Ounce",
+    "description": "Blood orange is loved for its absence of bitterness with rich, juicy flavor and bright raspberry and strawberry notes. Italian sweet oranges and mandarins flesh out this naturally beautiful essence. Our natural paraben free formula is scented with your favorite Pacifica blends and utilizes botanical ingredients including shea and mango butters, chamomile extract, safflower, almond and essential oils soften and protect the skin  providing intensive, lasting moisture. We do all of this without using animal ingredients or testing and as always, our products are made in USA",
+    "itemID": "B003N1WS9O",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 11140
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Creams"
+      ]
+    ],
+    "price": 11.78,
+    "brand": "Pacifica"
+  }
+]

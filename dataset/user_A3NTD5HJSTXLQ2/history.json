@@ -1,0 +1,70 @@
+[
+  {
+    "title": "Neutrogena Shampoo, Anti-Residue Formula, 6 Ounce",
+    "description": "",
+    "itemID": "B00099E8ZA",
+    "helpful": [
+      4,
+      5
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 1527
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 7.85,
+    "brand": "Neutrogena"
+  },
+  {
+    "title": "Coty Airspun Loose Powder, Naturelle, 2.3 Ounce",
+    "description": "This ultra smooth powder hides tiny lines, wrinkles and blemishes and gives a new softness to your skin",
+    "itemID": "B000BRO6O8",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 75611
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Powder"
+      ]
+    ],
+    "price": 2.71,
+    "brand": "Coty Airspun"
+  },
+  {
+    "title": "Big Sexy Hair Firm Volumizing Hairspray, Spray &amp; Play Harder, 10-oz (300 ml) 300 g",
+    "description": "Property of Michael O'Rourke. No animal testing. Made in U.S.A.",
+    "itemID": "B000F41ZEG",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 3665
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Hair Sprays"
+      ]
+    ],
+    "price": 12.99,
+    "brand": "Big Sexy"
+  }
+]

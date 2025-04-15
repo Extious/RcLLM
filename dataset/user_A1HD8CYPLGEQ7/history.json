@@ -1,0 +1,70 @@
+[
+  {
+    "title": "It's A 10 Miracle Leave In Product, 4-Ounces",
+    "description": "It's A 10 does 10 things instantly: 1. Repairs dry damaged hair. 2. Adds shine. 3. Smoothes and controls frizz. 4. Seas and protects hair color. 5. Detangles. 6. Prevents split ends. 7. Stops hair breakage. 8. Creates silkiness. 9. Enhances natural body. 10. Flat iron spray and thermal protector.",
+    "itemID": "B000TKH6G2",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 1112
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Conditioners"
+      ]
+    ],
+    "price": 12.45,
+    "brand": "Its a 10"
+  },
+  {
+    "title": "Godefroy Double Lash and Brow Treatment, for longer &amp; thicker eyelash and eyebrows (3ml + applicator)",
+    "description": "Top selling formula in Europe to lengthen eyelashes.",
+    "itemID": "B0017L4CVO",
+    "helpful": [
+      2,
+      2
+    ],
+    "overall": 1.0,
+    "salesRank": {
+      "Beauty": 2958
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Tools & Accessories",
+        "Makeup Brushes & Tools",
+        "Eyelash Tools"
+      ]
+    ],
+    "price": 10.29,
+    "brand": "Godefroy"
+  },
+  {
+    "title": "Organic Soy Nail Polish Remover By Karma Organics - Lavender",
+    "description": "Finally!  A nail polish remover that really works, without all of the harmful chemicals and harsh odors!  Moisturizing and works quickly to remove nail polish.\n\nKarma Organic's Nail Polish remover is made from an organic soy mixture, and is:\n\n-Free of any petroleum Ingredients\n-Packaged in 100% recyclable glass bottles\n-Comes in Lavender, Tea Tree, or Unscented with Vitamin E Oil\n* 4 Fluid Ounces\n\nIngredients:\nPropylene Carbonate - odorless, colorless liquid used as a solvent\nSoybean oil methyl exter - used as a solvent in liquid separations\nTocopheryl acetate (Unscented only) - also known as Vitamin E, common vitamin supplement",
+    "itemID": "B00363H8IU",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 124522
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Nails",
+        "Nail Polish Remover"
+      ]
+    ],
+    "price": NaN,
+    "brand": NaN
+  }
+]

@@ -1,0 +1,70 @@
+[
+  {
+    "title": "Essie Matte About You Matte Finisher .5 Oz",
+    "description": "use this top coat and turn every nail polish you like to a matte style",
+    "itemID": "B003O4BWV0",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Health & Personal Care": 18289
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Nails",
+        "Top & Base Coats"
+      ]
+    ],
+    "price": 6.1,
+    "brand": "Essie"
+  },
+  {
+    "title": "Not Your Mother's Beach Babe Texturizing Sea Salt Spray -- 8 fl oz",
+    "description": "Now everyday can be a day at the beach... minus the sunburn. Beach Babe has everyone fooled into thinking you just left the beach (you little liar!). It adds sexy, tousled waves and a lite matte finish to any hair type. Infused with natural dead sea salt & sea kelp this salon formula has you and your hair on the boardwalk all year long.",
+    "itemID": "B004UL0GTK",
+    "helpful": [
+      0,
+      1
+    ],
+    "overall": 4.0,
+    "salesRank": {},
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Hair Sprays"
+      ]
+    ],
+    "price": 10.19,
+    "brand": "Not Your Mother&#39;s"
+  },
+  {
+    "title": "Burt's Bees Sensitive Night Cream, 1.8 Ounces",
+    "description": "Wake up to skin that&#x2019;s more moisturized with Burt&#x2019;s Bees&#xAE; Sensitive Night Cream. This rejuvenating cream jar helps hydrate sensitive skin overnight without causing redness or irritation. It&#x2019;s formulated with softening cotton extract to help skin replenish its outer layer, to minimize the effects of potential irritants such as harsh soaps or cleansers. This cream also contains rice extract and aloe. Fragrance-free, hypoallergenic, allergy-tested and dermatologist tested, this 99% natural facial moisturizer was specially formulated for sensitive skin. Use it every night as part of the Burt&#x2019;s Bees&#xAE; Sensitive skin care regimen. Put the power of nature to work for your skin with Burt&#x2019;s Bees.",
+    "itemID": "B004VMGU8E",
+    "helpful": [
+      2,
+      2
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 4252
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Creams & Moisturizers",
+        "Night Creams"
+      ]
+    ],
+    "price": 10.5,
+    "brand": "Burt&#39;s Bees"
+  }
+]

@@ -1,0 +1,117 @@
+[
+  {
+    "title": "e.l.f. Cosmetics Blending Eye Brush",
+    "description": "each brush has been ergonomically designed to fit perfectly into your hand and facilitates a flawless finish with every application.",
+    "itemID": "B002CL840S",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 13248
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Tools & Accessories",
+        "Makeup Brushes & Tools",
+        "Brushes & Applicators"
+      ]
+    ],
+    "price": 1.63,
+    "brand": "e.l.f. Cosmetics"
+  },
+  {
+    "title": "NYX Soft Matte Lip Cream, London",
+    "description": "Neither lipstick nor lip gloss&#x2014;this is matte lip cream. A new kind of pout paint that goes on silky smooth and sets to a matte finish. Soft matte lip cream is surprisingly durable and, unlike some matte lipstick formulas, also moisturizing. Available in 11 lip colors.",
+    "itemID": "B004LXHEX8",
+    "helpful": [
+      0,
+      1
+    ],
+    "overall": 1.0,
+    "salesRank": {
+      "Beauty": 58656
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Lips",
+        "Lip Glosses"
+      ]
+    ],
+    "price": 4.74,
+    "brand": "NYX"
+  },
+  {
+    "title": "Hicks Edges 4oz",
+    "description": "Hicks Total TRANSFORMATIONS, Hicks Edges holds hair firmly in place with a super shine and without flakiness. Leaves edges looking and feeling shinier and healthier than before. This genuine hair gel is non-flaky and non-sticky and rinses out easily. Control tapered cuts and nape back area. Directions: Apply a small amount of TRANSFORMATIONS Smooth Edges around edges and smooth with fingertips until hair stays in place or comb in smooth with a comb",
+    "itemID": "B005356O34",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 4271
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Pomades & Waxes"
+      ]
+    ],
+    "price": 11.49,
+    "brand": "hicks"
+  },
+  {
+    "title": "Kojie San Skin Lightening Soap 135g 4-Pack",
+    "description": "Kojie San has all-natural kojic acid formula that helps lightens dark spots due to acne, age spots, freckles, sun-damaged skin, and other skin pigmentations. Kojic Acid was discovered in Japan. It is a by-product in the production of Koji, or Malted Rice, for use in the manufacture of Japanese rice wine. In cosmetics, Kojic Acid is popularly known for its excellent whitening effects and antioxidant properties.",
+    "itemID": "B007CMS5C4",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Health & Personal Care": 5763
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Cleansers",
+        "Soaps"
+      ]
+    ],
+    "price": 17.24,
+    "brand": "Kojie San"
+  },
+  {
+    "title": "Creme of Nature Argan Oil Perfect Edges Control Hair Gel-2.25 oz",
+    "description": "Creme of Nature Argan Oil Perfect Edges Control Hair Gel-2.25 oz",
+    "itemID": "B007SG2QT2",
+    "helpful": [
+      0,
+      2
+    ],
+    "overall": 1.0,
+    "salesRank": {
+      "Health & Personal Care": 7081
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Creams, Gels & Lotions"
+      ]
+    ],
+    "price": 3.99,
+    "brand": "Creme of Nature"
+  }
+]

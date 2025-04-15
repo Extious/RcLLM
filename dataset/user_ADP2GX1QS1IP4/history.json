@@ -1,0 +1,70 @@
+[
+  {
+    "title": "Redken Real Control Conditioner 8.5 oz",
+    "description": "Real Control Conditioner",
+    "itemID": "B001B8OKK6",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 123534
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Conditioners"
+      ]
+    ],
+    "price": 0.93,
+    "brand": "Redken"
+  },
+  {
+    "title": "Monroe Teasing U Brush",
+    "description": "Monroe Teasing U Brush is the perfect brush for teasing or backcombing! \n\nThis excellent quality brush has wood handle with 3 levels of 100% boar bristle. It is extremely efficient and the favorite among stylists!",
+    "itemID": "B002C794DS",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 171347
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Brushes"
+      ]
+    ],
+    "price": NaN,
+    "brand": NaN
+  },
+  {
+    "title": "Philosophy Lip Shine, Mimosa, 0.5 Ounce",
+    "description": "Give your lips a reason to celebrate with mimosa high-gloss, high-flavor lip shine. It hydrates, soothes and softens lips, while providing a beautiful shine.",
+    "itemID": "B000EIWKO2",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 190925
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Lips",
+        "Lip Glosses"
+      ]
+    ],
+    "price": 4.65,
+    "brand": "Philosophy"
+  }
+]

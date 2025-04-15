@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Everyone Lotion for Everyone and Every Body, Lavender and Aloe, 32 Fluid Ounce",
+    "description": "Everyone lotion for everyone and every body. An ultra moisturizing lotion made with pure essential oils and herbal extracts to keep your skin soft and smooth.",
+    "itemID": "B0070TSNTY",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 2910
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Lotions"
+      ]
+    ],
+    "price": 8.49,
+    "brand": "Everyone"
+  },
+  {
+    "title": "Scunci Effortless Beauty Wide Stretch Basic Headwraps",
+    "description": "With scunci effortless beauty hair accessories a woman should never have a bad hair day. scunci headwraps are a must have for sports or an active lifestyle. they give everyday dos an effortless fashion boost and highlight your features by keeping hair off the face. great when you're growing out bangs or layered styles. soft, stretchy and comfortable to wear and wide enough to stay in place. 5 mix and match colors in the pack to complement any outfit.",
+    "itemID": "B001QX7QHU",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 5511
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Styling Accessories",
+        "Headbands"
+      ]
+    ],
+    "price": 6.99,
+    "brand": "Scunci"
+  }
+]

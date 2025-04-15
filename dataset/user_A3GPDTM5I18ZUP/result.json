@@ -1,0 +1,48 @@
+[
+  {
+    "title": "Elite Serum. Defend. Protect. Rejuvenate",
+    "description": "For the NEWEST and MOST POTENT version, try Elite Serum Rx (Extra Strength). Available now at Amazon.comThis eye serum formula is intended to minimize the appearance of fine lines, dark circles and puffiness under and around the eyes.",
+    "itemID": "B006E3STSM",
+    "helpful": [
+      1,
+      3
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 5571
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Eyes",
+        "Gels"
+      ]
+    ],
+    "price": 29.99,
+    "brand": "SkinPro"
+  },
+  {
+    "title": "LaNouvel Cellular Hyaluronic acid Nutri Serum with Collagen / Elastin, Peptides, Dragon's Blood &amp; Resveratrol 1oz NEW",
+    "description": "This luxury serum delivers impressive hydration in a bioavailable solution directly into your skin cells. Botanical solvents drive moisture repair ingredients directly into the heart of your skin cells. Hyaluronic Acid makes up fifty percent of this high quality formulation. Holding up to 1000 times its weight in water and drawing moisture out of the environment and onto the surface of your skin, there is not a more effective moisturizing agent on the world market today. Non-comedogenic, penetrates deeply, and activates collagen production for a fresher, younger, firmer, brighter complexion. Loaded with potent antioxidants, peptides, amino acids and free radical defenders, this miracle serum will give you the boost, lift and smoother, happier and truly vibrant skin.",
+    "itemID": "B00CBYAP0S",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 13710
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Treatments & Masks"
+      ]
+    ],
+    "price": 28.0,
+    "brand": NaN
+  }
+]

@@ -1,0 +1,71 @@
+[
+  {
+    "title": "L'Oreal Paris Healthy Look Hair Color, 8.5 Blonde/White Chocolate",
+    "description": "Healthy look gives you natural-looking color with glossy, healthy-looking shine in just 10 little minutes. The ammonia-free formula deeply nourishes hair while also helping to counter dullness and prevent damage.  The cr&#xE8;me formula softly blends away gray.",
+    "itemID": "B002PMLGOU",
+    "helpful": [
+      3,
+      4
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 8028
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Hair Color",
+        "Color Refreshers"
+      ]
+    ],
+    "price": 15.09,
+    "brand": "L&#39;Oreal Paris"
+  },
+  {
+    "title": "L'Oreal Paris Magic Skin Beautifier BB Cream, Fair, 1.0 Ounces",
+    "description": "Our first multi-tasking bare skin beautifying cream enhance skin&#x2019;s 6 dimensions of flawlessness leaving skin perfectly nude and natural.",
+    "itemID": "B0084A5PSK",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 1.0,
+    "salesRank": {
+      "Beauty": 28790
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Creams & Moisturizers"
+      ]
+    ],
+    "price": 18.41,
+    "brand": "L&#39;Oreal Paris"
+  },
+  {
+    "title": "Maybelline New York Dream Matte Mousse Foundation, Light Beige, 0.64 Ounce",
+    "description": "Revolutionary whipped formula provides air soft, perfect matte coverage, with a weightless feel. Blends effortlessly for a soft, natural looking, even toned result.",
+    "itemID": "B000VBDWQC",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Beauty": 21753
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Foundation"
+      ]
+    ],
+    "price": 1.1,
+    "brand": "Maybelline"
+  }
+]

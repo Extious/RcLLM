@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Remington Ac2015 Tstudio Salon Collection Pearl Ceramic Hair Dryer",
+    "description": "",
+    "itemID": "B003V264WW",
+    "helpful": [
+      3,
+      4
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 504
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Hair Dryers"
+      ]
+    ],
+    "price": 28.69,
+    "brand": "Remington"
+  },
+  {
+    "title": "Remington D3710 Ceramic Fast Finish Dual Fan Turbo Hair Dryer, 1875 Watts",
+    "description": "",
+    "itemID": "B0050QLDGY",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 111441
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Hair Dryers"
+      ]
+    ],
+    "price": NaN,
+    "brand": NaN
+  },
+  {
+    "title": "Neutrogena Deep Clean Shine Control Blotting Sheets, 50 Count (Pack of 2)",
+    "description": "These silky, ultra-absorbent sheets are softer than paper and are uniquely designed to reduce shine by 95% and instantly remove excess surface oil that may clog pores without overdrying skin or disturbing makeup, controlling shine for up to four hours. Skin is left with a fresh, matte finish. See the oil on the sheet and not on your face. Perfect for touch-ups when you're on the go.",
+    "itemID": "B0067H6JCI",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 132522
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Cleansers",
+        "Cloths & Towelettes"
+      ]
+    ],
+    "price": 14.0,
+    "brand": "Neutrogena"
+  }
+]

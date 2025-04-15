@@ -1,0 +1,72 @@
+[
+  {
+    "title": "The Body Shop Body Butter, Satsuma, 6.75 Ounce",
+    "description": "This rich and creamy Body Butter is a feast for the skin. It melts straight in to leave skin feeling soft and smooth. It contains Community Fair Trade shea butter and smells of fresh satsuma. 24-hour hydration great for normal to dry skin -- Fresh satsuma scent.",
+    "itemID": "B000F0QCWA",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 66772
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Body Butter"
+      ]
+    ],
+    "price": 11.45,
+    "brand": "The Body Shop"
+  },
+  {
+    "title": "Color Oops Hair Color Remover Extra Strength 1 Application",
+    "description": "COLOR OOPS HR CLR REMOVER XTRA Size: 1",
+    "itemID": "B0012JY4G4",
+    "helpful": [
+      3,
+      6
+    ],
+    "overall": 1.0,
+    "salesRank": {
+      "Beauty": 9704
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Tools & Accessories",
+        "Hair Coloring Tools",
+        "Hair Color Removers"
+      ]
+    ],
+    "price": 13.1,
+    "brand": "Developlus"
+  },
+  {
+    "title": "Eminence Organic Skincare Stone Crop Hydrating Mist, 4 Ounce",
+    "description": "Stone crop hydrating mist, hydrating and soothing toner for normal to dry skin types (4 ounce) a revitalizing and healing mist which contains hydrating stone crop juice to improve skins tone. Skin appears clean, invigorated and evenly toned. Loaded with salicylic acid to eliminate surface impurities. Perfect for normal to dry skin.",
+    "itemID": "B0017DQGQ6",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 2864
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Toners & Astringents"
+      ]
+    ],
+    "price": 26.39,
+    "brand": "Eminence Organic Skin Care"
+  }
+]

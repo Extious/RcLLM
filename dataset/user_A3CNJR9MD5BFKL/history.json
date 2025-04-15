@@ -1,0 +1,69 @@
+[
+  {
+    "title": "Olay Regenerist Micro-Sculpting Serum 1.7 Fl Oz",
+    "description": "",
+    "itemID": "B0039NMCPG",
+    "helpful": [
+      0,
+      2
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 2136
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face"
+      ]
+    ],
+    "price": 10.2,
+    "brand": "Olay"
+  },
+  {
+    "title": "Dove Body Wash with NutriumMoisture, Sensitive Skin Nourishing, 24 Ounce",
+    "description": NaN,
+    "itemID": "B000AO2NXS",
+    "helpful": [
+      1,
+      3
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 18679
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Cleansers",
+        "Body Washes"
+      ]
+    ],
+    "price": 11.5,
+    "brand": "Dove"
+  },
+  {
+    "title": "Motions Salon Haircare Marula Natural Therapy Hair and Scalp Oil, 8 Ounce",
+    "description": "",
+    "itemID": "B001T8MN16",
+    "helpful": [
+      0,
+      1
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 80594
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Hair & Scalp Treatments"
+      ]
+    ],
+    "price": 9.86,
+    "brand": "Motions"
+  }
+]

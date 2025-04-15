@@ -1,0 +1,72 @@
+[
+  {
+    "title": "NARS Bronzing Powder, Casino",
+    "description": "Diffused powder with golden shimmer to create an all-over warmth and contour for the entire face. Bronzing Powder creates a natural looking glow which enhances or creates the look of tanned skin.",
+    "itemID": "B00021DPHW",
+    "helpful": [
+      0,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 23592
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Bronzers & Highlighters"
+      ]
+    ],
+    "price": 38.0,
+    "brand": "NARS"
+  },
+  {
+    "title": "Sedu Ionic Ceramic Tourmaline Flat Iron Hair Straightener 1.5 Inch",
+    "description": "Sedu SU-100A Ionic Ceramic Pro Flat Iron featuring Tourmaline technology generates more negative ions than just ceramic irons only. Negative ions eliminate frizz and renew hair with shine and softness. Adjustable heat temperature from 235&#xB0; F - 410&#xB0;F. Ultra-lightweight design made with composite materials used in aerospace.",
+    "itemID": "B000GFCRGO",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 1.0,
+    "salesRank": {
+      "Beauty": 5429
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Irons",
+        "Flattening Irons"
+      ]
+    ],
+    "price": 124.99,
+    "brand": "Sedu"
+  },
+  {
+    "title": "Jane Iredale Purepressed Base Mineral Powder, Golden Glow, .35 Ounce",
+    "description": "Purepressed base mineral powder SPF 20 UVB/UVA medium protection",
+    "itemID": "B001CENUPU",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 3221
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Powder"
+      ]
+    ],
+    "price": 41.53,
+    "brand": "Jane Iredale"
+  }
+]

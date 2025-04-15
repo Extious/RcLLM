@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Mixed Chicks Quad Pack",
+    "description": "A four pack filled with Mixed Chicks' bestsellers: Shampoo, Deep Conditioner, Leave-In Conditioner, and Hair Silk.",
+    "itemID": "B004L18FY2",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 8621
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoo & Conditioner Sets"
+      ]
+    ],
+    "price": 48.45,
+    "brand": "Mixed Chicks"
+  },
+  {
+    "title": "2 Pack - Nature's Blessing Hair Pomade",
+    "description": "Pure Mineral Jelly, Natural Fragrance and Good Intention.",
+    "itemID": "B002N6UH6Q",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 6165
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Scrubs & Body Treatments",
+        "Body Scrubs"
+      ]
+    ],
+    "price": 11.75,
+    "brand": "Nature&#39;s Blessings"
+  }
+]

@@ -1,0 +1,70 @@
+[
+  {
+    "title": "Dove go fresh Cool Moisture Beauty Bar, 14 Count",
+    "description": "",
+    "itemID": "B000R961M0",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 18132
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Cleansers",
+        "Soaps"
+      ]
+    ],
+    "price": 22.94,
+    "brand": "Dove"
+  },
+  {
+    "title": "Pantene Pro-V Curly Hair Series Moisture Renewal Shampoo 12.6 Fl Oz (Pack of 6) (packaging may vary)",
+    "description": "",
+    "itemID": "B003JA3KQE",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 18982
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 34.08,
+    "brand": "Pantene"
+  },
+  {
+    "title": "Motions Naturally You, Define My Curls Cr&egrave;me, 8 Ounce",
+    "description": "",
+    "itemID": "B007A592HU",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 18412
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Creams, Gels & Lotions"
+      ]
+    ],
+    "price": 7.99,
+    "brand": "Motions"
+  }
+]

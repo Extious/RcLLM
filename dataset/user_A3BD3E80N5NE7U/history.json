@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Bumble and Bumble Thickening Hair Spray (8 Ounces)",
+    "description": "It's pretty much what it says it is (only it's not just for fine hair). It's for blow-drying, setting, protecting from heat and adding volume, lift and control.",
+    "itemID": "B000BIUGV4",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 1318
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Hair Sprays"
+      ]
+    ],
+    "price": 32.0,
+    "brand": "Bumble and Bumble"
+  },
+  {
+    "title": "Ambi Skincare Fade Cream, Normal Skin, 2 Ounce",
+    "description": "Ambi Fade Creams are developed to visibly reduce the appearance of dark marks and skin discolorations for an even, natural skin tone. When used as directed,  you will begin to see results in as little as two weeks and results improve with continued use. Ambi Fade Creams are perfect for use on face or body and are available in two formulas to meet your unique skincare needs: For Oily Skin, and For Normal Skin.",
+    "itemID": "B000GO41X2",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Beauty": 2387
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Lotions"
+      ]
+    ],
+    "price": 7.75,
+    "brand": "AMBI"
+  },
+  {
+    "title": "Tolco Empty Spray Bottle 8 oz. Frosted Assorted Colors",
+    "description": "With Tolco's ergonomically correct comfort grip trigger head that fits the hand to make lifting and using easier, and to lessen the irritation of carpal tunnel syndrom Tolco. * With Tolco's ergonomically correct comfort grip trigger head that fits the",
+    "itemID": "B000H88PCU",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 1238
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Tools & Accessories",
+        "Hair Coloring Tools",
+        "Applicator Bottles"
+      ]
+    ],
+    "price": 5.87,
+    "brand": "Tolco"
+  }
+]

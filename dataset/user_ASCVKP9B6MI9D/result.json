@@ -1,0 +1,48 @@
+[
+  {
+    "title": "Caress Body Wash, Aqua Sparkle, 18 Ounce",
+    "description": "Experience freshness like never before with caress aqua sparkle, infused with lilac blossom and aquamarine essence. Sparkling scents surprise your senses while lush, invigorating lather envelops your skin leaving it delicately scented and beautifully fresh.",
+    "itemID": "B00HSNWXTI",
+    "helpful": [
+      0,
+      1
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 39424
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Cleansers",
+        "Body Washes"
+      ]
+    ],
+    "price": 6.0,
+    "brand": "Caress"
+  },
+  {
+    "title": "Caress Body Wash, Emerald Rush, 18 Ounce",
+    "description": "Experience freshness like never before with caress emerald rush, infused with lush gardenia and white tea essence. Sparkling scents surprise your senses while lush, revitalizing lather envelops your skin leaving it delicately scented and beautifully fresh.",
+    "itemID": "B00HSNWXZM",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 50342
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Cleansers",
+        "Body Washes"
+      ]
+    ],
+    "price": 10.89,
+    "brand": "Caress"
+  }
+]

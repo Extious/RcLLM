@@ -1,0 +1,70 @@
+[
+  {
+    "title": "Aveda Pure Abundance Volumizing Shampoo, 8.5-Ounce Bottle",
+    "description": "Aveda Pure Abundance Volumizing Shampoo helps create a fullness for fine hair. Builds body and volume, with certified organic acacia gum from Chad, and Africa for hair that looks fuller and feels thicker. People-tested. Made in USA.",
+    "itemID": "B000EMDK6K",
+    "helpful": [
+      7,
+      8
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 9313
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 19.25,
+    "brand": "Aveda"
+  },
+  {
+    "title": "LOREAL Collagen Filler Eye Treatment",
+    "description": "Fills wrinkles and minimizes dark circles\nwith Collagen Bio-Spheres & Chromatic Micro-Particles\nSometimes, a good night's sleep just isn't enough to refresh tired eyes and remove the signs of fatigue and aging. For crow's feet and expression lines, as well as dark circles and shadows caused by hollowed, tired eyes, typical eye treatments are not enough.",
+    "itemID": "B0014ZWHZ6",
+    "helpful": [
+      4,
+      4
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 35485
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Eyes",
+        "Fillers"
+      ]
+    ],
+    "price": 28.95,
+    "brand": "L&#39;Oreal Paris"
+  },
+  {
+    "title": "NARS Blush, Taj Mahal",
+    "description": "Made with transparent pigments for a soft and sheer look. Imparts a natural, healthy glow for any skin tone and may be worn alone or layered together for more depth and intensity.",
+    "itemID": "B00021DJ32",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 46941
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Blush"
+      ]
+    ],
+    "price": 49.99,
+    "brand": "NARS"
+  }
+]

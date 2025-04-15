@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Sally Hansen Complete Salon Manicure Nail Enamel-Clear'D For Takeoff-0.50 oz",
+    "description": "Sally Hansen complete salon manicure-5 steps of a manicure in 1 bottle. Sally knows you're busy, so skip the salon but get results. With patented vita-care technology for advanced wear more shine, and nourishing care. Dare to compare to your favorite salon brand. 42 salon-inspired shades. 2010 cosmopolitan beauty award winner, 2010 allure best of beauty award winner.",
+    "itemID": "B0037MQIT0",
+    "helpful": [
+      1,
+      2
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 138417
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Nails",
+        "Nail Polish"
+      ]
+    ],
+    "price": 7.5,
+    "brand": "Sally Hansen"
+  },
+  {
+    "title": "Garnier Nutrisse Level 3 Permanent Hair Creme, Extra, Light Ash Blonde 111 (White Chocolate)",
+    "description": "Garnier Nutrisse Level 3 Permanent Hair Creme, Extra, Light Ash Blonde 111 (White Chocolate)",
+    "itemID": "B001B54XL0",
+    "helpful": [
+      4,
+      6
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 37339
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Hair Color",
+        "Chemical Hair Dyes"
+      ]
+    ],
+    "price": 5.95,
+    "brand": "Garnier Nutrisse"
+  },
+  {
+    "title": "Blue Steel Sports Anti-Chafe Cream",
+    "description": "Reduces the chafing, blisters and saddle sores that occur with endurance sports. Protects your skin by forming a thin, silky llow-friction layer between skin and clothes as well as an effective moisture barrier to protect against sweat and water. Long lasting so reduces the need for inconvenient re-application. Most effective when used prior to activity, but also soothing to skin when used after endurance activites. Has natural Australian Tea Tree oil which has anti-septic and anti-fungal action to reduce the possibility of infection.",
+    "itemID": "B001JK6N3I",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Health & Personal Care": 7790
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Scrubs & Body Treatments",
+        "Body Scrubs"
+      ]
+    ],
+    "price": 14.99,
+    "brand": "Blue Steel Sports"
+  }
+]

@@ -1,0 +1,73 @@
+[
+  {
+    "title": "Neutrogena Ultra Gentle Daily Cleanser, 12 Ounce",
+    "description": "This foaming cleanser works in a new, skinfriendly way to leave you with clean yet naturally soft skin. The nonstripping formula thoroughly removes excess oil, dirt, and makeup without overdrying or irritating skin.",
+    "itemID": "B0081E6X1W",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Beauty": 20440
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Cleansers"
+      ]
+    ],
+    "price": 7.99,
+    "brand": "Neutrogena"
+  },
+  {
+    "title": "Garnier Olia Oil Powered Permanent Haircolor, 7.0 Dark Blonde",
+    "description": "Unlike traditional hair color, olia uses an exclusive 60% oil blend, with natural flower oils in the colorant. The unique oil-based formula propels colorants deep into the hair without ammonia, for pure, vivid, long-lasting color. Olia achieves maximum color performance while the oils help reverse roughness and dullness, visibly improving and restoring hair.",
+    "itemID": "B00BEWW7AO",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 83831
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Hair Color",
+        "Chemical Hair Dyes"
+      ]
+    ],
+    "price": 4.99,
+    "brand": "Garnier"
+  },
+  {
+    "title": "Yes to Grapefruit Even Skin Tone Moisturizer SPF 15, 1.4 Fluid Ounce",
+    "description": "Yes to Grapefruit formulations blend powerful fruit acids with ingredients proven to reduce hyper pigmentation,  correct skin damage and enhance radiance. Use the entire colleciton to help correct and repair acne scarring,  sun damage and age spots. We all have a few imperfections but that doesnt mean we have to keep em. Yes to moringa oil to boost radiance and natural sunscreens to protect skin.",
+    "itemID": "B00AACC02Y",
+    "helpful": [
+      2,
+      2
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 15369
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Creams & Moisturizers",
+        "Fluids & Lotions",
+        "Lotions"
+      ]
+    ],
+    "price": 10.35,
+    "brand": "Yes To Grapefruit"
+  }
+]

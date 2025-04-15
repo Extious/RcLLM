@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Mavala Stop - Helps Cure Nail Biting and Thumb Sucking, 0.3-Fluid Ounce",
+    "description": "A transparent formula with a distinct bitter taste to discourage from nail biting and putting fingers into mouth.",
+    "itemID": "B0000YUXI0",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 16
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Hands & Nails",
+        "Cuticle Care",
+        "Cuticle Creams & Oils"
+      ]
+    ],
+    "price": 10.59,
+    "brand": "MAVALA"
+  },
+  {
+    "title": "Boots No7 Intensive Moisture Face Mask by *",
+    "description": "Boots No7 Intensive Moisture Face Mask is an intensively quenching treat for softer, smoother skin. With caring vitamins A, C and E, plus invigorating apple extract to brighten your skin. This deliciously soft, lightly whipped gel-cream will leave your skin feeling softer, plumper and looking more youthful. We've created this hypo-allergenic product using only ingredients we know and trust. It has been tried and tested by guests with even the most sensitive skin, so you'll know it will be good to yours. Dermatologically tested.",
+    "itemID": "B001N5Q3Y8",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 227805
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Creams & Moisturizers"
+      ]
+    ],
+    "price": NaN,
+    "brand": NaN
+  },
+  {
+    "title": "Aquasentials Exfoliating Bath Gloves (2 pairs)",
+    "description": "AquaBella Bath Gloves remove dead skin cells and increase the lather of your body wash with exfoliating mitts. The textured mitts are elasticized to stretch to fit any size hands. Particularly for use on dry skin that needs intense exfoliation on a regular basis. Promotes healthy skin and activates blood circulation and makes the skin smooth. Comes with a lovely and attractive design. A good choice for gift and promotion.",
+    "itemID": "B001C1LBG8",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 2426
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Scrubs & Body Treatments",
+        "Body Scrubs"
+      ]
+    ],
+    "price": 2.3,
+    "brand": "Aquasentials"
+  }
+]

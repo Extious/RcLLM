@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Shea Moisture Shea Butter Leave in Conditioner 8oz",
+    "description": "Shea Moisture Shea Butter Leave in Conditioner with Pro-Vitamin B-5 complex is essential in protecting all types of hair from stretching and breaking during combing.",
+    "itemID": "B000BH92J2",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 1.0,
+    "salesRank": {
+      "Beauty": 5515
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Conditioners"
+      ]
+    ],
+    "price": 9.5,
+    "brand": "Shea Moisture"
+  },
+  {
+    "title": "Vidal Sasson VS505 1875W Fast Dry Turbo Dryer",
+    "description": "Vidal Sassoon 1875W Fast Dry Turbo Dryer with diffuser features 3 heat and 2 speed settings.  There is a rubberized handle and nozzle for easy holding.  It has separate heat/speed controls for added styling flexibility.  There is a cold shot button for setting style after drying.  The finger diffuser attachment disperses airflow for gentle drying.  There is an airflow concentrator for focused drying.",
+    "itemID": "B000PXYC6U",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 1.0,
+    "salesRank": {
+      "Beauty": 1631
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Hair Dryers"
+      ]
+    ],
+    "price": 17.99,
+    "brand": "Vidal Sassoon"
+  }
+]

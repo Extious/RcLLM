@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Styrofoam Wig Head (Female)",
+    "description": NaN,
+    "itemID": "B001BAN0FK",
+    "helpful": [
+      0,
+      1
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 2228
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Hair Extensions & Wigs",
+        "Wigs"
+      ]
+    ],
+    "price": 5.49,
+    "brand": "Lace Locs, Inc"
+  },
+  {
+    "title": "Aveeno Positively Radiant Skin Brightening Daily Scrub, 5 Ounce",
+    "description": "This daily facial scrub helps improve skin tone, texture and clarity to reveal brighter, more radiant skin. This unique formula combines moisturerich soy extract with smooth, round microbeads to gently exfoliate while you cleanse, leaving skin soft, smooth and evenlooking. Its soapfree, oilfree, hypoallergenic ingredients are good for everyday use and gentle enough for sensitive skin.",
+    "itemID": "B0000632EN",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": NaN,
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Creams & Moisturizers",
+        "Fluids & Lotions",
+        "Lotions"
+      ]
+    ],
+    "price": 6.63,
+    "brand": "Aveeno"
+  },
+  {
+    "title": "Naturtint Permanent Hair Colorant Sandy Blonde",
+    "description": "Green Technologies With Selected Certified Organic Ingredients No Ammonia ? No Resorcinol ? No Parabens 100% Grey Cover Intense and Radiant Color Dermatologically Tested Discover a new concept in hair coloration that gives you healthy and revitalized hair. Discover Naturtint Green Technologies, the first 100% permanent hair colorant without ammonia formulated with active vegetable ingredients. A unique and perfect union of color and care. Maximum Care Ammonia and Resorcinol Free Formulated without ammonia or resorcinol, colors your hair gently so you won't need to resort to repair treatments to keep your hair looking great. What's more, its ultra-mild formula allows you to use Naturtint as often as you need to touch-up roots. Revitalizes Your Hair Its active ingredients protect and regenerate hair fibers, bringing back lost vitality and shine, even in hair damaged by aggressive coloring processes and treatments. Hair 3 Times Stronger The Nutrideep Multiplier deep conditions and nourishes your hair giving it 3 times its normal strength and volume. Hair fibers appear smooth and soft, bringing back the healthy shine of young, unspoilt hair. Maximum Color 100% Coverage Its revolutionary formula provides 100% coverage, even of grey hair, permanently, from the first application. It's the first hair colorant that is both healthy and effective. Vibrant, Natural Color Ultra-intense micro-pigments penetrate to the deepest layers of your hair, giving it an intense and vibrant color that won't fade with washing. Long-Lasting Color The powerful vegetable-based, solar-enhanced filter provides increased protection against the elements, letting your hair maintain its intense color for up to 5 weeks. 100% grey cover. Lasting color for up to 5 weeks Green Technologies Phergal Laboratories has integrated the latest technology in hair to create Naturtint Green Technologies, the first 100% permanent hair color without ammonia formulated with active vegetable ingredients. Nutrideep Multi",
+    "itemID": "B00014WW38",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 245349
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Hair Color",
+        "Chemical Hair Dyes"
+      ]
+    ],
+    "price": 12.95,
+    "brand": "Naturtint"
+  }
+]

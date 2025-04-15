@@ -1,0 +1,73 @@
+[
+  {
+    "title": "Biosilk Silk Therapy Serum, Packaging May Vary, 5.64 Ounces",
+    "description": "Biosilk Silk Therapy Serum",
+    "itemID": "B0007CXX82",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 639
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Lotions"
+      ]
+    ],
+    "price": 13.43,
+    "brand": "BioSilk"
+  },
+  {
+    "title": "Color Brilliance Permanent Creme Hair Color",
+    "description": "Ion Color Brilliance Permanent Creme Hair Color utilizes pure ionic micro pigments for deeper, more intense color.",
+    "itemID": "B003Y5XDNO",
+    "helpful": [
+      2,
+      5
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 228168
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Hair Color",
+        "Chemical Hair Dyes"
+      ]
+    ],
+    "price": 5.49,
+    "brand": NaN
+  },
+  {
+    "title": "Sedu Revolution Tourmaline Ionic Styling Iron 1&quot; - Black",
+    "description": "Sedu Revolution Styling Iron features revolutionary technologies that allow you to create any hairstyle imaginable with half of the time and virtually no damage. Sedu Revolution's Ultra Smooth 1 inch plates leave your hair shiny and healthy.",
+    "itemID": "B003AJJTXM",
+    "helpful": [
+      1,
+      2
+    ],
+    "overall": 1.0,
+    "salesRank": {
+      "Beauty": 6021
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Irons",
+        "Flattening Irons"
+      ]
+    ],
+    "price": 159.99,
+    "brand": "Sedu"
+  }
+]

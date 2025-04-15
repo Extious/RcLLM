@@ -1,0 +1,48 @@
+[
+  {
+    "title": "KMS HairPlay Dry Wax Spray 4.6 oz",
+    "description": "Buy KMS Hair Styling Products - KMS HairPlay Dry Wax Spray 4.6 oz",
+    "itemID": "B005LXU3D0",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Health & Personal Care": 6779
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Pomades & Waxes"
+      ]
+    ],
+    "price": 13.65,
+    "brand": "KMS"
+  },
+  {
+    "title": "MDSolarSciences Mineral Cr&egrave;me Broad Spectrum SPF 50, 1.7 oz.",
+    "description": "Maximum SPF protection. Long lasting, water-resistant up to 80 minutes and won't clog pores. Naturally derived and safer mineral UV protection helps reduce the risk of photo aging and skin cancer. Provides antioxidant protection including green tea, cranberry fruit and pomegranate extracts and vitamin C. SPF 50 UVA-UVB.",
+    "itemID": "B00B4LKGIK",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 4342
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Sun",
+        "Skin Protection"
+      ]
+    ],
+    "price": 26.0,
+    "brand": "MDSolarSciences"
+  }
+]

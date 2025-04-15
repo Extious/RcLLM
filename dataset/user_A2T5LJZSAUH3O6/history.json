@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Too Faced Cosmetics, Shadow Insurance, 0.35 Ounce",
+    "description": "Your full-coverage insurance policy against all fading, creasing, melting, blurring, oil slicked andhard-to-blend eye-shadow accidents. Our silicone based eye-shadow primer transforms any eyeshadow into a perfectly blendable, color-drenched, intensified version of its self, then locks it downperfectly &#x2018;till you take it off. Our skin soothing formula evens out the skin tone on your lids andsmoothes out lines while it secures a barrier between the oils of your skin and your makeup, so noshadow catastrophes will ever happen again. \"Thank you Shadow Insurance, I can sleep better atnight knowing you're on my side!\"-",
+    "itemID": "B0013CSGBE",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 2975
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Eyes",
+        "Eye Shadow"
+      ]
+    ],
+    "price": 12.95,
+    "brand": "Too Faced"
+  },
+  {
+    "title": "e.l.f. Cosmetics 12 Piece Brush Set",
+    "description": "Set includes concealer brush blush/bronzer brush foundation brush blending eye brush smudge eye sponge eye liner brush total face brush defining eye brush eyelash and brow wand lip defining brush brow comb and brush eye shadow brush.",
+    "itemID": "B001HKR6WM",
+    "helpful": [
+      3,
+      5
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 177
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Tools & Accessories",
+        "Makeup Brushes & Tools",
+        "Brushes & Applicators"
+      ]
+    ],
+    "price": 12.99,
+    "brand": "e.l.f. Cosmetics"
+  },
+  {
+    "title": "Coastal Scents 88 Original Palette",
+    "description": "",
+    "itemID": "B002QANC2A",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 4120
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Eyes",
+        "Eye Shadow"
+      ]
+    ],
+    "price": 17.92,
+    "brand": "Coastal Scents"
+  }
+]

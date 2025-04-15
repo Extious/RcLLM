@@ -1,0 +1,48 @@
+[
+  {
+    "title": "OPI: Lacquer NLS86 Bubble Bath, 0.5 oz",
+    "description": "Nothing completes a look more beautifully than nails wearing the seasons most significant colors. Changing a Nail Lacquer shade can change a womans entire look _ and her outlook. With over 200 shades, you are sure to find what you're looking for.",
+    "itemID": "B000CECSAO",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 866
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Nails",
+        "Nail Polish"
+      ]
+    ],
+    "price": 4.35,
+    "brand": "OPI"
+  },
+  {
+    "title": "OPI RapiDry Spray Nail Polish Dryer",
+    "description": "OPI RapiDry Spray Nail Polish Dryer gives manicures a smooth, smudge-proof finish in just minutes.",
+    "itemID": "B000NGJO94",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 51350
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Nails",
+        "Nail Polish"
+      ]
+    ],
+    "price": 12.14,
+    "brand": "OPI"
+  }
+]

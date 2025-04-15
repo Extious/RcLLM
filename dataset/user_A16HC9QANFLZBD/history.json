@@ -1,0 +1,70 @@
+[
+  {
+    "title": "Pure Dkny Eau De Parfum Spray by Donna Karan, 3.4 Ounce",
+    "description": "Introduced by the design house of Donna Karan in 2010. This feminine scent posesses a blend of freesia, vanilla, sandalwood, lotus, rose, transparent jasmine, white amber, orCHId and dew-drop petal accord. It is recommended for casual wear.",
+    "itemID": "B00384TLQE",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 90066
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Fragrance",
+        "Women's",
+        "Eau de Parfum"
+      ]
+    ],
+    "price": 64.95,
+    "brand": "Donna Karan"
+  },
+  {
+    "title": "Neutrogena Shampoo, Anti-Residue Formula, 6 Ounce",
+    "description": "",
+    "itemID": "B00099E8ZA",
+    "helpful": [
+      1,
+      2
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 1527
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 7.85,
+    "brand": "Neutrogena"
+  },
+  {
+    "title": "NYX High HD Studio Primer , 1.16-Ounce",
+    "description": "Designed to be paired with our hd studio foundation, this silky makeup primer fills in pores, minimizes the appearance of fine lines and wrinkles and mattifies the complexion for a seamless finish. It also ensures the durability of your makeup, which will last for hours under even the harshest lighting.",
+    "itemID": "B004IC8WS8",
+    "helpful": [
+      1,
+      2
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 3197
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Foundation Primers"
+      ]
+    ],
+    "price": 11.46,
+    "brand": "NYX"
+  }
+]

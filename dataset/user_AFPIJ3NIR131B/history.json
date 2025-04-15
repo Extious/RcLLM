@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Garnier Fructis Conditioner, Fortifying, Triple Nutrition, 13 Ounce (Packaging May Vary)",
+    "description": "Transform Dry, Damaged Hair With The Power of Triple Restoring Action. Garnier Fructis Triple Nutrition Conditioner, With Nourishing Avocado, Olive, And Almond Oils, Penetrates Deep Into The Hair to Deeply Nourish And RESTORE For Strength, Smoothness And Shine.",
+    "itemID": "B004ZWH39A",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 8827
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Conditioners"
+      ]
+    ],
+    "price": 5.49,
+    "brand": "Garnier"
+  },
+  {
+    "title": "Dove Body Wash with NutriumMoisture, Sensitive Skin Nourishing, 24 Ounce",
+    "description": NaN,
+    "itemID": "B000AO2NXS",
+    "helpful": [
+      0,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 18679
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Cleansers",
+        "Body Washes"
+      ]
+    ],
+    "price": 11.5,
+    "brand": "Dove"
+  },
+  {
+    "title": "IMAK Eye Pillow, Black",
+    "description": "The Imak Eye Pillow / Pain Relief Mask conforms to your face and eyes, blocking out light. Breathable cotton Lycra is comfortable to wear, and the smooth ergoBeads inside create a gentle massaging effect around your eyes. Place the Eye Pillow over your eyes, relax and enjoy the relief. For added stress relief, place the IMAK Eye Pillow / Pain Relief Mask in the freezer to provide cool relief without the shock of ice or gel packs.",
+    "itemID": "B001HTYJLO",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Health & Personal Care": 757
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Eyes",
+        "Masks & Pillows",
+        "Pillows"
+      ]
+    ],
+    "price": 12.99,
+    "brand": "Brown Medical"
+  }
+]

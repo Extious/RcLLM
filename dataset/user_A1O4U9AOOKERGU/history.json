@@ -1,0 +1,69 @@
+[
+  {
+    "title": "L'Oreal Paris Sublime Bronze Tinted Lotion",
+    "description": "This ultra-lightweight gelee formula dries quickly to provide an even, streak-free tan and leaves skin with a smooth finish.  Formulated with Vitamin E and gentle AHAS for a natural-looking tan.",
+    "itemID": "B000YA3HVK",
+    "helpful": [
+      4,
+      6
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 14088
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Sun",
+        "Self-Tanners & Bronzers"
+      ]
+    ],
+    "price": 8.75,
+    "brand": "L&#39;Oreal Paris"
+  },
+  {
+    "title": "Fekkai Shea Butter Moisturizing Hair Conditioner 8 Fl Oz",
+    "description": "",
+    "itemID": "B002M50FQK",
+    "helpful": [
+      14,
+      14
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 86648
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Conditioners"
+      ]
+    ],
+    "price": 17.17,
+    "brand": NaN
+  },
+  {
+    "title": "Salerm Wheat Germ Conditioning Treatment (Mascarilla Capilar) 6.74 oz",
+    "description": "WHEAT GERM CONDITIONING TREAMTENT is specially recommeded as a beauty treatment for dry and damaged hair. Its nutritive components condition hair from the roots to the tips, adding softness and vitality to hair. The main ingredients of the HAIR MASK are WHEAT GERM OIL -rich in vitamins which provide essential nutrients- and tensioactive and lubricating components to restore the gloss and silkiness of healthy hair to dry and damaged hair. PROVITAMIN B5 nourishes hair to restore natural shine to hair-one of its most spectacular and effective results.",
+    "itemID": "B000TFQH5I",
+    "helpful": [
+      23,
+      25
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 10106
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Hair & Scalp Treatments"
+      ]
+    ],
+    "price": 13.3,
+    "brand": "Salerm"
+  }
+]

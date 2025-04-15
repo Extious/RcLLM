@@ -1,0 +1,70 @@
+[
+  {
+    "title": "Coastal Scents Contour and Blush Palette",
+    "description": "This palette contains 6 contouring, shading, concealing, and blush shades. The powders are all matte.",
+    "itemID": "B002QFGKUQ",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 845
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Blush"
+      ]
+    ],
+    "price": 11.75,
+    "brand": "Coastal Scents"
+  },
+  {
+    "title": "Coastal Scents 28 Color Eyeshadow Palette, Neutral",
+    "description": "This palette comes in an assortment of 28 neutral tones in shimmer and matte shades, many of the shadows can also double as a blush.",
+    "itemID": "B003DVNKU0",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Beauty": 3002
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Makeup Sets"
+      ]
+    ],
+    "price": 15.99,
+    "brand": "Coastal Scents"
+  },
+  {
+    "title": "NARS Bronzing Powder, Casino",
+    "description": "Diffused powder with golden shimmer to create an all-over warmth and contour for the entire face. Bronzing Powder creates a natural looking glow which enhances or creates the look of tanned skin.",
+    "itemID": "B00021DPHW",
+    "helpful": [
+      0,
+      1
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 23592
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Bronzers & Highlighters"
+      ]
+    ],
+    "price": 38.0,
+    "brand": "NARS"
+  }
+]

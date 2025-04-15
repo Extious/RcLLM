@@ -1,0 +1,96 @@
+[
+  {
+    "title": "The Body Shop Body Butter, Satsuma, 6.75 Ounce",
+    "description": "This rich and creamy Body Butter is a feast for the skin. It melts straight in to leave skin feeling soft and smooth. It contains Community Fair Trade shea butter and smells of fresh satsuma. 24-hour hydration great for normal to dry skin -- Fresh satsuma scent.",
+    "itemID": "B000F0QCWA",
+    "helpful": [
+      0,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 66772
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Body Butter"
+      ]
+    ],
+    "price": 11.45,
+    "brand": "The Body Shop"
+  },
+  {
+    "title": "The Body Shop Coconut Oil Hair Shine, 1.7 Ounce",
+    "description": "A moisturizing balm made with pure coconut oil to shine and define all hair types....",
+    "itemID": "B00378345U",
+    "helpful": [
+      1,
+      3
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 41541
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Pomades & Waxes"
+      ]
+    ],
+    "price": 16.88,
+    "brand": "The Body Shop"
+  },
+  {
+    "title": "MOROCCANOIL Gold Glimmer Shine 3.4oz",
+    "description": "Moroccanoil glimmer shine is a finishing spray that attracts and reflects light to give hair a gorgeous gloss. Infused with argan oil, vitamins and antioxidants, it creates an invisible veil of luminous shine and protects hair against environmental elements such as sun, salt water and chlorine. Glimmer shine can also be used to enhance color and highlights, adding the perfect touch to any style.",
+    "itemID": "B001QYBURQ",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Beauty": 2875
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Creams, Gels & Lotions"
+      ]
+    ],
+    "price": 21.99,
+    "brand": "Moroccanoil"
+  },
+  {
+    "title": "GLAMGLOW Youthmud Tinglexfoliate Treatment, 1.7 fl. oz.",
+    "description": "Designed for Hollywood&#x2019;s entertainment, music, fashion and award industries for camera ready soft glowing skin. A 10 minute professional quality mud mask for men and women. Dredged off the coast of southern France, home to glamorous Cannes, St. Tropez and Monaco. Glamglow is an amazing rapid gentle exfoliant mud mask for men and women, high in ancient volcanic pumice rock, super antioxidants and minerals.&#xA0;Glamglow activates moisturizing 'collagen synthesis', revitalizing complexion for illuminating, brighter radiant skin. Penetrates and softens wrinkles and fine lines leaving the skin smooth, supple, glamorous and glowing. Glamglow helps correct discoloration and improve skin's texture.",
+    "itemID": "B004TTXMQ2",
+    "helpful": [
+      11,
+      14
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 412
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Treatments & Masks",
+        "Masks"
+      ]
+    ],
+    "price": 38.49,
+    "brand": "Glamglow"
+  }
+]

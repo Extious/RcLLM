@@ -1,0 +1,117 @@
+[
+  {
+    "title": "Cetaphil Gentle Cleansing Bar, 4.5-Ounce Bar (Pack of 6)",
+    "description": "",
+    "itemID": "B001I45ZFC",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 170
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Cleansers",
+        "Soaps"
+      ]
+    ],
+    "price": 18.65,
+    "brand": "Cetaphil"
+  },
+  {
+    "title": "Pantene Pro-V Overnight Miracle Repair Serum 4.9 Fl Oz",
+    "description": "",
+    "itemID": "B00AZYF90C",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 50586
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Hair Styling Serums"
+      ]
+    ],
+    "price": 13.9,
+    "brand": "Pantene"
+  },
+  {
+    "title": "Neutrogena Rainbath Refreshing Shower and Bath Gel- 40 oz (Mega Size)",
+    "description": "Rainbath Shower & Bath Gel cleans, softens and conditions skin without a heavy leave-behind residue. Your skin is left in better condition - feeling smooth, soft and renewed. Its fragrance is a blend of spices, fruits and herbs, providing a clean-fresh burst that awakens your senses and refreshes your entire body.",
+    "itemID": "B00113HO90",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 530
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Cleansers",
+        "Body Washes"
+      ]
+    ],
+    "price": 25.49,
+    "brand": "Neutrogena"
+  },
+  {
+    "title": "Tanda Zap Acne Clearing Device, White",
+    "description": "Tanda zap is clinically proven to clear or fade blemishes within 24 hours. Tanda zap is the triple threat for pimples it uses powerful blue light to destroy acne causing bacteria while gentle vibration and warming help to open pores so bacteria has nowhere to hide. With 1000 uses, this device only costs 5 cents per treatment. With this device you'll get no pain, no dryness, no irritation and best of all no pimples. Starts clearing blemishes immediately. Eliminates acne causing bacteria. Can be used on all skin types and tones. This device comes with 3 aaa batteries.",
+    "itemID": "B004W8Z3IK",
+    "helpful": [
+      1,
+      2
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 6674
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Treatments & Masks"
+      ]
+    ],
+    "price": 15.99,
+    "brand": "Tanda"
+  },
+  {
+    "title": "CHI Silk Infusion, 12 Fluid Ounce",
+    "description": "CHI Infra is the first hair care line of its kind utilizing CHI 44 Ceramic and Cationic Hydration Interlink. It provides moisture and strength by interlocking it into the inner structure of the hair.",
+    "itemID": "B005I4QTJY",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 73407
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Hair Styling Serums"
+      ]
+    ],
+    "price": NaN,
+    "brand": NaN
+  }
+]

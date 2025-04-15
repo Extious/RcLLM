@@ -1,0 +1,70 @@
+[
+  {
+    "title": "Revlon ColorStay Makeup, Normal/Dry Skin, Natural Beige 220, 1 Ounce",
+    "description": "SoftFlex comfort technology. Looks fresh, feels great all day; Moisture-balanced, oil-free formula; Natural flawless look; Won't rub off with normal activity. Made in U.S.A.",
+    "itemID": "B000H3EOLG",
+    "helpful": [
+      1,
+      2
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Beauty": 80785
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Foundation"
+      ]
+    ],
+    "price": 10.43,
+    "brand": "Revlon"
+  },
+  {
+    "title": "F.A.S.T. Nisim FAST Shampoo &amp; Conditioner 12 oz. each For FAST Hair Growth!",
+    "description": "F.A.S.T is designed to supercharge your hair. F.A.S.T. will get your hair growing up to 45% faster. The shampoo and Conditioner have been made with the highest quality ingredients including our proprietary blend of vitamins and amino acids. Package: One shampoo, one conditioner, 12 Oz \n\n--------------------------------------------------------------------------------",
+    "itemID": "B000NLJFNY",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 9750
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoo & Conditioner Sets"
+      ]
+    ],
+    "price": 26.89,
+    "brand": "FAST"
+  },
+  {
+    "title": "Physician's Formula Gentle Cover Concealer Stick Cover Green 0.15 Oz",
+    "description": "Yellow hides blemishes, under-eye circles and other minor skin imperfections",
+    "itemID": "B001DVPQEA",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Beauty": 47784
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Concealers & Neutralizers"
+      ]
+    ],
+    "price": 9.99,
+    "brand": NaN
+  }
+]

@@ -1,0 +1,70 @@
+[
+  {
+    "title": "O'Keeffe's Working Hands Cream, 3.4 oz.",
+    "description": NaN,
+    "itemID": "B00121UVU0",
+    "helpful": [
+      49,
+      65
+    ],
+    "overall": 5.0,
+    "salesRank": NaN,
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Hands & Nails",
+        "Hand Creams & Lotions"
+      ]
+    ],
+    "price": 7.32,
+    "brand": "O&#39;Keeffe&#39;s Company"
+  },
+  {
+    "title": "Muguet Des Bois By Coty For Women. Cologne Spray 1.8 Oz",
+    "description": "Launched by the design house of Coty in 1941, MUGUET DES BOIS PERFUME is classified as a refreshing, flowery fragrance. This feminine scent possesses a blend of fresh lily of the valley. It is recommended for office wear.",
+    "itemID": "B000XE6336",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 6578
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Fragrance",
+        "Women's",
+        "Cologne"
+      ]
+    ],
+    "price": 11.72,
+    "brand": "Coty"
+  },
+  {
+    "title": "Nicki Minaj Pink Friday Eau de Parfum Spray for Women, 3.4 Ounce",
+    "description": "",
+    "itemID": "B009F5GIHK",
+    "helpful": [
+      3,
+      4
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 9453
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Lotions"
+      ]
+    ],
+    "price": 34.24,
+    "brand": "Nicki Minaj"
+  }
+]

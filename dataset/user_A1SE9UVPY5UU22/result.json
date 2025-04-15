@@ -1,0 +1,48 @@
+[
+  {
+    "title": "NYX Lip Gloss Palette, The Naturals, 0.26 Ounce",
+    "description": "The question on everyone&#x2019;s lips: what&#x2019;s on your pout? No need to kiss and tell with one of our dazzling lip gloss palettes stashed in your bag. Each offers five moisturizing and long-lasting lip gloss shades that can be blended to customize your own colors. Available in 10 sets with an applicator.",
+    "itemID": "B002S8S036",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 149120
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Lips",
+        "Lip Glosses"
+      ]
+    ],
+    "price": NaN,
+    "brand": NaN
+  },
+  {
+    "title": "Philosophy Hope in a Jar Daily Moisturizer, Dry Skin, 2 Ounce",
+    "description": "A creamy, soothing daily moisturizer that helps improve the natural moisture balance, while soothing and comforting the skin.",
+    "itemID": "B00021B8L2",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 12304
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Creams & Moisturizers"
+      ]
+    ],
+    "price": 25.38,
+    "brand": "Philosophy"
+  }
+]

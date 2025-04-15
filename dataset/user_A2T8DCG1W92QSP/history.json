@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Wen Sweet Almond Mint Replenishing Mist 2 Oz",
+    "description": "Wen Sweet Almond Replenishing Mist 2 Oz.",
+    "itemID": "B00478RILK",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Beauty": 40791
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Hair & Scalp Treatments"
+      ]
+    ],
+    "price": 1.94,
+    "brand": "WEN&reg; by Chaz Dean"
+  },
+  {
+    "title": "Jergens Skin Firming Daily Toning Moisturizer, 16.8 Ounce",
+    "description": "Jergens skin firming moisturizing lotion restores elasticity for a silky and smooth look. Daily toner moisturizer with natural extracts reduces the appearance of cellulite. Jergens skin firming daily toner moisturizer rules with a firm hand to tone and tighten the look of cellulite-prone skin. This body lotion instantly hydrates skin leaving it smooth, healthier-looking and supple.",
+    "itemID": "B000P9B3NY",
+    "helpful": [
+      1,
+      2
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Beauty": 15025
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Lotions"
+      ]
+    ],
+    "price": 11.55,
+    "brand": "Jergens"
+  },
+  {
+    "title": "Scunci Effortless Beauty Mini Slinky Black Twisters, 6-Count",
+    "description": "With scunci effortless beauty hair accessories a woman should never have a bad hair day. mini twisters are an essential for any woman with hair below chin length. keeps hair off the face while growing out or during sports. easily put hair up into a high ponytail or use low at the nape. wear one or mix for unique looks. good for quick casual style when you have to run out for errands. smooth black material won't damage hair. small enough for fine or thin hair. all in slinky black to quickly update from day looks to evening.",
+    "itemID": "B000VSYD4K",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Beauty": 9630
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Styling Accessories",
+        "Ponytail Holders"
+      ]
+    ],
+    "price": 1.5,
+    "brand": "Scunci"
+  }
+]

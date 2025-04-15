@@ -1,0 +1,68 @@
+[
+  {
+    "title": "Biolage by Matrix Color Care Shampoo 33.8 Ounces",
+    "description": "Biolage by Matrix Color Care Shampoo. A ultra-mild cleansing Systeme specifically formulated to preserve the longevity and radiance of color-treated hair",
+    "itemID": "B0007CXXDM",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 2549
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 22.0,
+    "brand": "Matrix"
+  },
+  {
+    "title": "Biolage by Matrix Conditioning Balm 16.9 Ounces",
+    "description": "Biolage Conditioning Balm by Matrix for Unisex - 16.9 oz Balm",
+    "itemID": "B0007CXXE6",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 583
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Hair & Scalp Treatments"
+      ]
+    ],
+    "price": 4.35,
+    "brand": "Matrix"
+  },
+  {
+    "title": "CLEAR SCALP &amp; HAIR BEAUTY Strong Lengths Nourishing Shampoo, 12.9 Fluid Ounce",
+    "description": "",
+    "itemID": "B007RTR8AM",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 14037
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 4.88,
+    "brand": "Clear"
+  }
+]

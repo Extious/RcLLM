@@ -1,0 +1,620 @@
+[
+  {
+    "title": "Neutrogena Ultra Gentle Daily Cleanser, 12 Ounce",
+    "description": "This foaming cleanser works in a new, skinfriendly way to leave you with clean yet naturally soft skin. The nonstripping formula thoroughly removes excess oil, dirt, and makeup without overdrying or irritating skin.",
+    "itemID": "B0081E6X1W",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 20440
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Cleansers"
+      ]
+    ],
+    "price": 7.99,
+    "brand": "Neutrogena"
+  },
+  {
+    "title": "CLEAR SCALP &amp; HAIR BEAUTY Total Care Nourishing Conditioner, 12.7 Fluid Ounce",
+    "description": "",
+    "itemID": "B007RTR8UC",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 9629
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Conditioners"
+      ]
+    ],
+    "price": 5.99,
+    "brand": "Clear"
+  },
+  {
+    "title": "Motions Naturally You, Hydrate My Curls Pudding 8 Ounce",
+    "description": "",
+    "itemID": "B0072XT8BA",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 14990
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Creams, Gels & Lotions"
+      ]
+    ],
+    "price": 5.49,
+    "brand": "Motions"
+  },
+  {
+    "title": "Pond's luminous clean daily exfoliating cleanser, 5oz",
+    "description": "",
+    "itemID": "B0089JVEPO",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 17619
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Exfoliators & Scrubs",
+        "Scrubs"
+      ]
+    ],
+    "price": 6.64,
+    "brand": "Pond&#39;s"
+  },
+  {
+    "title": "POND'S Luminous Clean Cream Cleanser, 6oz",
+    "description": "",
+    "itemID": "B0089JVEOK",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 5101
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Cleansers"
+      ]
+    ],
+    "price": 2.68,
+    "brand": "Pond&#39;s"
+  },
+  {
+    "title": "Dove Body Wash with NutriumMoisture, Sensitive Skin Nourishing, 24 Ounce",
+    "description": NaN,
+    "itemID": "B000AO2NXS",
+    "helpful": [
+      1,
+      3
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 18679
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Cleansers",
+        "Body Washes"
+      ]
+    ],
+    "price": 11.5,
+    "brand": "Dove"
+  },
+  {
+    "title": "Simple Refreshing Facial Wash Gel, 5 Ounce",
+    "description": "Our refreshing facial wash gel, a perfect blend of beneficial ingredients and vitamin goodness, leaves your skin thoroughly cleansed and revived. Perfect especially for sensitive skin. Our philosophy is: simple says-never use perfumes, dyes or harsh irritants that can upset your skin. Simple says-settle for only ingredients that meet simple's purity standard. Simple says-trust the natural goodness in all of our products especially for sensitive. Skin simple says-natural beauty comes from goodness.",
+    "itemID": "B005TI7NQW",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 26081
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Cleansers",
+        "Washes"
+      ]
+    ],
+    "price": 8.49,
+    "brand": "Simple"
+  },
+  {
+    "title": "Dove, Cr&egrave;me Mousse Body Wash, Rich and Creamy, Sensitive Skin, 18 ounce",
+    "description": "",
+    "itemID": "B00604MSSC",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 76889
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Cleansers"
+      ]
+    ],
+    "price": 11.0,
+    "brand": "Dove"
+  },
+  {
+    "title": "Pantene Pro-V Expert Collection Agedefy Conditioner 8.4 Fl Oz",
+    "description": "",
+    "itemID": "B0098JU8T2",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 5489
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Conditioners"
+      ]
+    ],
+    "price": 6.85,
+    "brand": "Pantene"
+  },
+  {
+    "title": "Motions At Home Oil Moisturizer Hair Lotion, 12-Ounce Bottles (Pack of 6)",
+    "description": "",
+    "itemID": "B000YZJMHS",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 128675
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Creams, Gels & Lotions"
+      ]
+    ],
+    "price": 20.94,
+    "brand": NaN
+  },
+  {
+    "title": "Biore Pore Unclogging Scrub - 5 oz",
+    "description": "Biore Pore Unclogging Scrub, with spherical beads, targets what clogs pores and clears away impurities leaving you with a healthy-looking complexion and noticeably softer, smoother skin after just one use.",
+    "itemID": "B006RFZ5ZM",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 1963
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Exfoliators & Scrubs",
+        "Scrubs"
+      ]
+    ],
+    "price": 6.38,
+    "brand": "Biore"
+  },
+  {
+    "title": "Motions At Home Foaming Wrap Lotion, 8.5-Ounce Pump Bottles (Pack of 6)",
+    "description": "",
+    "itemID": "B000YZGP4G",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 331591
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Mousses & Foams"
+      ]
+    ],
+    "price": 24.99,
+    "brand": NaN
+  },
+  {
+    "title": "Suave Suave Naturals Rainforest Fresh Conditioner, 22.5 Ounce",
+    "description": "",
+    "itemID": "B00A0IWT9C",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 202150
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Conditioners"
+      ]
+    ],
+    "price": 8.75,
+    "brand": "Suave"
+  },
+  {
+    "title": "Axe Shower Gel Apollo, 16 Ounce",
+    "description": "",
+    "itemID": "B00AO4E9L8",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 76582
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Cleansers"
+      ]
+    ],
+    "price": 5.49,
+    "brand": "AXE"
+  },
+  {
+    "title": "Axe Shower Gel Deep Space, 16 Ounce",
+    "description": "",
+    "itemID": "B00ARCQHBC",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 67233
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Cleansers",
+        "Body Washes"
+      ]
+    ],
+    "price": 5.89,
+    "brand": "AXE"
+  },
+  {
+    "title": "Clear Scalp and Hair Beauty Therapy Frizz Control Nourishing Shampoo, 12.9 Fluid Ounce",
+    "description": "",
+    "itemID": "B00AAIOP44",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 102397
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 8.74,
+    "brand": "Clear"
+  },
+  {
+    "title": "Simple Eye Make-Up Remover Pad, 30 Count",
+    "description": "",
+    "itemID": "B00AO4EKSU",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 939
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Makeup Remover",
+        "Eyes"
+      ]
+    ],
+    "price": 10.5,
+    "brand": "Simple"
+  },
+  {
+    "title": "Simple Oil Balancing Wipes, 25 Count",
+    "description": "",
+    "itemID": "B00AO4EL34",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 6023
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Scrubs & Body Treatments",
+        "Body Scrubs"
+      ]
+    ],
+    "price": 4.96,
+    "brand": "Simple"
+  },
+  {
+    "title": "Just For Me Hair Milk Shampoo, 13.5-Ounce Bottle",
+    "description": "",
+    "itemID": "B002MO780W",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 17243
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 6.95,
+    "brand": "Just For Me"
+  },
+  {
+    "title": "Eucerin Redness Relief Daily Perfecting Lotion Broad Spectrum SPF 15, 1.7 Ounce",
+    "description": "Eucerin Redness Relief is a revolutionary, clinically proven skin care system that provides immediate redness relief and improves the condition of visibly red skin in 4 weeks.  Eucerin Redness Relief Daily Perfecting Lotion SPF 15 provides daily moisturization and UV protection while immediately reducing visible redness and blotchiness, for an even-toned complexion.  The gentle, calming formula has a light texture and absorbs quickly.  All Eucerin Redness Relief products are safe and appropriate for sensitive skin, redness prone skin and Rosacea.  Use the entire Redness Relief system for optimal results.",
+    "itemID": "B000P1S0N8",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 1436
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Lotions"
+      ]
+    ],
+    "price": 11.33,
+    "brand": "Eucerin"
+  },
+  {
+    "title": "L'Oreal Paris EverSleek Sulfate-Free Smoothing System Super Sleek Intense Serum, 1.9 Fluid Ounce",
+    "description": "Say goodbye to stubborn, unmanageable frizz with EverSleek Sulfate-Free Smoothing System Super Sleek Intense Serum. This smoothing serum, infused with Argan, Sunflower and Olive oils, helps control rebellious and unruly hair without the weight of heavy silicones. Hair is left shiny and stunningly sleek. Silicone-free 48-hour frizz control",
+    "itemID": "B005HIHD2I",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 60523
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Hair Styling Serums"
+      ]
+    ],
+    "price": 5.75,
+    "brand": "L&#39;Oreal Paris"
+  },
+  {
+    "title": "Cristophe Professional Glossing Shampoo, 10 Ounce",
+    "description": "Cristophe Professional Glossing Shampoo provides instant shine and UV protection for luminous hair and helps you create soft, silky styles just like Cristophe. Exotic Argan and Monoi oils combine to soften hair and protect strands from styling damage and breakage. This lightweight salon formula smoothes the cuticle for glossy, shiny hair.",
+    "itemID": "B009G0E19Q",
+    "helpful": [
+      0,
+      5
+    ],
+    "overall": 1.0,
+    "salesRank": {
+      "Beauty": 246894
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": NaN,
+    "brand": NaN
+  },
+  {
+    "title": "Pantene Pro-V Heat Shield Heat Potion Serum 50 Ml, 1.7-Ounce",
+    "description": "With weigtless heat activated oils for guilt-free styling",
+    "itemID": "B00CP0R5LK",
+    "helpful": [
+      0,
+      2
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 23783
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 4.27,
+    "brand": "Pantene"
+  },
+  {
+    "title": "Axe Harmony Shower Gel, 16 Fluid Ounce",
+    "description": "",
+    "itemID": "B00GTC1JVM",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 7714
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Cleansers",
+        "Body Washes"
+      ]
+    ],
+    "price": 9.99,
+    "brand": "AXE"
+  },
+  {
+    "title": "Caress Body Wash, Juicy Escape, 18 Ounce",
+    "description": "Experience freshness like never before with caress juicy escape, infused with sun-kissed lily and pink grapefruit essence. Sparkling scents surprise your senses while lush, uplifting lather envelops your skin leaving it delicately scented and beautifully fresh.",
+    "itemID": "B00HSNWXV6",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 38548
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Cleansers",
+        "Body Washes"
+      ]
+    ],
+    "price": 10.59,
+    "brand": "Caress"
+  },
+  {
+    "title": "Caress Body Wash, Emerald Rush, 18 Ounce",
+    "description": "Experience freshness like never before with caress emerald rush, infused with lush gardenia and white tea essence. Sparkling scents surprise your senses while lush, revitalizing lather envelops your skin leaving it delicately scented and beautifully fresh.",
+    "itemID": "B00HSNWXZM",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 50342
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Cleansers",
+        "Body Washes"
+      ]
+    ],
+    "price": 10.89,
+    "brand": "Caress"
+  },
+  {
+    "title": "Irish Spring Gear Body Wash, Exfoliating, 15 Fl. Ounce",
+    "description": "",
+    "itemID": "B00I6CRX04",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 2101
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Cleansers",
+        "Body Washes"
+      ]
+    ],
+    "price": 5.49,
+    "brand": "Irish Spring"
+  }
+]

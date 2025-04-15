@@ -1,0 +1,71 @@
+[
+  {
+    "title": "L'Oreal Excellence Creme Haircolor, Medium Blonde 8",
+    "description": "For soft, luminous streaks of light discover excellence cr&#xE8;me lights. The gentle, non-drip formula lets you create creamy, beautifully blended highlights in a few simple steps.  The result: rich, radiant highlights and not a gray in sight.",
+    "itemID": "B000GCVZSI",
+    "helpful": [
+      1,
+      3
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 10500
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Hair Color",
+        "Chemical Hair Dyes"
+      ]
+    ],
+    "price": 7.18,
+    "brand": "L&#39;Oreal Paris"
+  },
+  {
+    "title": "L'Oreal Paris Colorist Secrets Brass Banisher",
+    "description": "Banish brassy, yellow or orange tones from your dream shade. Brass banisher reduces brassy tones in just 5 minutes. Hair is left looking natural and full of lustrous shine.",
+    "itemID": "B002PMLGVI",
+    "helpful": [
+      1,
+      5
+    ],
+    "overall": 1.0,
+    "salesRank": {
+      "Beauty": 5918
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Tools & Accessories",
+        "Hair Coloring Tools",
+        "Hair Color Removers"
+      ]
+    ],
+    "price": 12.97,
+    "brand": "L&#39;Oreal Paris"
+  },
+  {
+    "title": "Revlon Colorsilk Color Burgundy 48",
+    "description": "Revlon ColorSilk #48 Burgundy is formulated to penetrate every strand with its gentle, ammonia-free formula and after-color conditioner with nourishing silk proteins. Hair looks silkier, shinier and healthier than before you colored. 100% gray coverage. (2 Fl Oz)",
+    "itemID": "B000GCR6S6",
+    "helpful": [
+      0,
+      3
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 164964
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Hair Color",
+        "Chemical Hair Dyes"
+      ]
+    ],
+    "price": 2.76,
+    "brand": "Revlon"
+  }
+]

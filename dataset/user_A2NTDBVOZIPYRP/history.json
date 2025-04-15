@@ -1,0 +1,71 @@
+[
+  {
+    "title": "WALKER C-22 Citrus Solvent 4 OZ",
+    "description": "A great cleaner for the scalp and hair system without the harsh chemicals; this solvent is fast acting on most soft bonds adhesives and tapes while still being gentle to the skin.",
+    "itemID": "B001E2RGY6",
+    "helpful": [
+      0,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 2615
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Hair & Scalp Treatments"
+      ]
+    ],
+    "price": 2.99,
+    "brand": "Walker"
+  },
+  {
+    "title": "Joico Moisture Recovery Shampoo/Conditioner Duo 10.1 Oz. Bottles",
+    "description": "Joico's premier moisture line, Moisture Recovery, features Joico's breakthrough Hydramine Sea Complex, an exclusive blend of sea kelp, marine-derived amino acids and water-living marine botanicals and minerals that provides the ultimate in hair hydration. Joico Moisture Recovery Shampoo for dry hair is a thirst-quenching shampoo that provides gentle cleansing while restoring hair's moisture levels. Joico Moisture Recovery Conditioner for dry hair is a technologically-advanced conditioner the provides the ultimate in moisture replenishment.",
+    "itemID": "B002LHITWG",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 3559
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoo & Conditioner Sets"
+      ]
+    ],
+    "price": 17.0,
+    "brand": "Joico"
+  },
+  {
+    "title": "Perricone MD Cold Plasma, 1 fl. oz.",
+    "description": "A revolutionary anti-aging product represents Dr. Perricone's most comprehensive research to date and is the result of five years of development. Through Dr. Perricone's patented delivery system, Cold Plasma offers the skin all it needs for optimal health. Cold Plasma helps correct the ten most visible signs of aging: wrinkles, enlarged pores, dryness, redness, discoloration, uneven skin tone, impurities, loss of firmness, loss of smoothness, and loss of radiance. Whatever your age or skin type, Cold Plasma delivers extraordinary results.",
+    "itemID": "B003DQP0O4",
+    "helpful": [
+      1,
+      2
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 13084
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Creams & Moisturizers",
+        "Fluids & Lotions",
+        "Lotions"
+      ]
+    ],
+    "price": 119.0,
+    "brand": "Perricone MD"
+  }
+]

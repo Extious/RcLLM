@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Ardell Hair Color Bottle, Unred, 1 Ounce",
+    "description": "Eliminates unwanted red tones. Softens hi-lift tints. Decreases fading.",
+    "itemID": "B0018CW3IQ",
+    "helpful": [
+      0,
+      7
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Beauty": 44698
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Hair Color",
+        "Chemical Hair Dyes"
+      ]
+    ],
+    "price": 13.7,
+    "brand": "Ardell"
+  },
+  {
+    "title": "Smart Shade Anti Aging Makeup Light, 1.0-Fluid Ounce",
+    "description": "Women who want an easy way to find their foundation shade and defy the signs of aging.Almay's first anti aging makeup with skin tone matching technology.  Contains: A blend of Peptides that helps reduce appreance of fine lines and wrinkles. A blend of rice protein, sweet almond seed extract and seaweed extract that provides hydration and help firm skin and pea extract for skin lightening and evening of skin tone. Creamy liquid makeup with dual benefit. Transforms from white to the ideal shade and provides anti-agin skincare benefits.Breakthrough technology with skin-sensing anti-aging beads that helps reduce appreance of wrinkles, boost elasticity and brighten skin.Oil free, SPF 20, medium coverage, soft satin finish, fragrance free, talc-free and paraben free.",
+    "itemID": "B0033Z0KDG",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 38238
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Foundation"
+      ]
+    ],
+    "price": 5.99,
+    "brand": "Almay"
+  },
+  {
+    "title": "Wet 'n' Wild Mega Eyes Creme Eyeliner, 886 Black",
+    "description": "Line and define with eye-popping drama! Cruelty free. Not tested on animals. Versatile alternative to pencils and liquid liners; blendable formula lines, shades and contours eyes, precision of a liquid liner with a silkier, softer finish that lasts. Create beautifully defined lines with this rich, creamy formula. Applies effortlessly as it delivers long-lasting drama with a velvety finish. Comes with an easy to use, conveniently-sized brush. Cruelty-free. Not tested on animals. Made in China.",
+    "itemID": "B001T8QJSO",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 42913
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Eyes",
+        "Liner & Shadow Combinations"
+      ]
+    ],
+    "price": 4.84,
+    "brand": "Wet &#39;n Wild"
+  }
+]

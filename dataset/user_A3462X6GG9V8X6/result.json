@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Tinkle Hair Cutter",
+    "description": "Hair Cutter",
+    "itemID": "B001DYM62C",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Health & Personal Care": 1653
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Scissors"
+      ]
+    ],
+    "price": 4.6,
+    "brand": "Diane"
+  },
+  {
+    "title": "Allstar BIO21712 Bumpits Hair Volumizing Inserts- Dark Brown/Black",
+    "description": "The Bumpits Hair Volumizing Leave-In Inserts give you instant volume and let you enjoy feeling confident and beautiful, like you stepped out of a professional salon. Not only does this Set of 3 Bumpits give you additional volume in your hair, it will give you an entirely new look whether you are out dancing, working out, going to work, shopping, or at a formal event. The raised patented edging firmly grips any hair type. For those ladies with finer, thinner hair, you can do some light teasing at the base to ensure a firm hold. Included are three dark brown/black Bumpits in small, medium and large along with a teasing comb and styling guide.",
+    "itemID": "B002BABHZE",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Beauty": 8813
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Scrubs & Body Treatments",
+        "Body Scrubs"
+      ]
+    ],
+    "price": 4.0,
+    "brand": "Allstar"
+  },
+  {
+    "title": "Mac Ruby Woo Lipstick 3 G / 0.1 Us Oz",
+    "description": "I ONLY SHIP IN THE USA AND PUERTO RICO. NO INTERNATIONAL SHIPPING. I SHIP SAME DAY 6 DAYS A WEEK, Get it fast!!  within 3 to 5 days to get to your door steps. 95% of the time  in 3 days",
+    "itemID": "B004DKMJ7A",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 3456
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Bath & Body",
+        "Scrubs & Body Treatments",
+        "Body Scrubs"
+      ]
+    ],
+    "price": 16.0,
+    "brand": "M.A.C"
+  }
+]

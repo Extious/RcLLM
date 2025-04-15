@@ -1,0 +1,73 @@
+[
+  {
+    "title": "La Roche Posay Thermal Spring Water",
+    "description": "LAROCHE-POSAY THERMAL SPRING WATER      100% pure natural spring water. This soothing water tones and refreshes skin, preparing it for treatment. Also appropriate for anti-inflammatory care following in-office procedures like chemical peels, laser resurfacing and microdermabrasion.     Indications             Intolerant skin                             Eczema (atopic dermatitis)                                                                                             Rosacea                    All skin types                       Anti-inflammatory care following                              Chemical Peels                Laser resurfacing                Microdermabrasion                Environmental exposure (sun, wind, etc...)                              Benefits        Refreshes, soothes and tones on contact      Provides antioxidant protection                                Gentle, fine mist        Contains no additives        Perfect for use during work travel and play",
+    "itemID": "B000E4AR8C",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 186563
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Creams & Moisturizers",
+        "Fluids & Lotions",
+        "Lotions"
+      ]
+    ],
+    "price": 9.99,
+    "brand": NaN
+  },
+  {
+    "title": "Philosophy Purity Made Simple One-Step Facial Cleanser, 16 Ounces",
+    "description": "Our award-winning daily facial skin cleanser is formulated to gently cleanse, tone and melt away all face and eye makeup in one simple step, while lightly hydrating the skin.",
+    "itemID": "B00021C1LI",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 1055
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Cleansers",
+        "Washes"
+      ]
+    ],
+    "price": 31.0,
+    "brand": "Philosophy"
+  },
+  {
+    "title": "Moroccanoil Moisture Repair Shampoo &amp; Conditioner Combo Set (8.5 oz each)",
+    "description": "Moisture Repair Shampoo and Conditioner are for hair that has been weakened or damaged by color, chemical processing or heat styling. They restore hair by bathing it in a highly concentrated formula rich in antioxidant argan oil, reconstructive keratin and fatty acids. Both products restore elasticity, moisture and manageability. The formulas are free of sulfates, phosphates and parabens, so they're safer for the environment and won't dry, fade or strip color-treated hair.",
+    "itemID": "B002RGRJC2",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Beauty": 90
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoo & Conditioner Sets"
+      ]
+    ],
+    "price": 35.94,
+    "brand": "Moroccanoil"
+  }
+]

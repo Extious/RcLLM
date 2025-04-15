@@ -1,0 +1,48 @@
+[
+  {
+    "title": "Suave Professionals Natural Infusion Macadamia Oil and White Orchid Conditioner, 12.6 Ounce",
+    "description": "",
+    "itemID": "B00GTBZOVE",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 4823
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Conditioners"
+      ]
+    ],
+    "price": 1.88,
+    "brand": "Suave"
+  },
+  {
+    "title": "Jergens BB Body Cream for lighter Skin Tones, 7.5 Ounce",
+    "description": "",
+    "itemID": "B00GLS5DKM",
+    "helpful": [
+      4,
+      7
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Beauty": 1836
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Lotions"
+      ]
+    ],
+    "price": 11.45,
+    "brand": "Jergens"
+  }
+]

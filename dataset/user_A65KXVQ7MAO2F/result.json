@@ -1,0 +1,70 @@
+[
+  {
+    "title": "Butterfly Clamps 1-dozen * Size: Large 3&quot; * Assorted Colors",
+    "description": "* Perfect for sectioning long or short hair* 12 clips per package* 3\" Wide* Package contains assorted colors",
+    "itemID": "B000X20Y4C",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 3843
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Styling Accessories",
+        "Clips"
+      ]
+    ],
+    "price": 3.95,
+    "brand": "Soft &#39;N Style"
+  },
+  {
+    "title": "L'Oreal Paris EverPure Sulfate-Free Color Care System Moisture Restorative Hair Masque, 5.1 Fluid Ounce",
+    "description": "EverPure conditioners are creamy, protective formulas that help preserve and maintain color brilliance. Color-treated hair requires special care. The EverPure Sulfate-Free Color Care System protects and conditions hair for long-lasting color purity. The unique UV filters help protect color-treated hair against sun damage.",
+    "itemID": "B001P24STG",
+    "helpful": [
+      0,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 3000
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care"
+      ]
+    ],
+    "price": 11.99,
+    "brand": "L&#39;Oreal Paris"
+  },
+  {
+    "title": "Vidal Sassoon VS547 1875W Tourmaline Ceramic Hair Dryer",
+    "description": "The Vidal Sassoon 1875 Watt Tourmaline, Ceramic Hair Dryer helps condition, add shine and volume while reducing frizz. The Cold Shot button allows you to set your style. This unit also features a removable end cap for easy cleaning, protective anti-skid bumpers, an airflow concentrator attachment, and a volumizing finger diffuser attachment that dries hair gently. Style your hair exactly how you want.",
+    "itemID": "B000H0XV3G",
+    "helpful": [
+      3,
+      3
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 7372
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Hair Dryers"
+      ]
+    ],
+    "price": 17.99,
+    "brand": "Vidal Sassoon"
+  }
+]

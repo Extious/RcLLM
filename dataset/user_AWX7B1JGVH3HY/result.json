@@ -1,0 +1,49 @@
+[
+  {
+    "title": "Premier Dead Sea Ageless Future Cell-Renewal Cream, All Skin Types, 2.04Fl.oz",
+    "description": "The Ageless Future Cell Renewal Cream has a wonderful long-term effect: It enhances the skin cells&#x2019; ability to regenerate by reviving their cellular metabolism",
+    "itemID": "B001DXOWA2",
+    "helpful": [
+      0,
+      2
+    ],
+    "overall": 1.0,
+    "salesRank": {
+      "Beauty": 16618
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Cleansers"
+      ]
+    ],
+    "price": 41.0,
+    "brand": "Dead Sea Premier"
+  },
+  {
+    "title": "L'Oreal Paris Go 360 Clean Deep Exfoliating Scrub, 6.0 Fluid Ounce",
+    "description": "Go 360 Clean offers a complete range of four expertly formulated, high-foam cleansers that are perfectly calibrated to perform with the Scrublet. The Deep Exfoliating Scrub is a gentle yet effective scrub, which exfoliates skin with natural apricot seed powder and salicylic acid to reveal perfectly clean, smoother skin. With a rich lather and fruity, apricot fragrance, this exfoliating scrub is gentle enough for daily use.",
+    "itemID": "B002PBCAEQ",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 635
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Cleansers",
+        "Washes"
+      ]
+    ],
+    "price": 6.99,
+    "brand": "L&#39;Oreal Paris"
+  }
+]

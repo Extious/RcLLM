@@ -1,0 +1,70 @@
+[
+  {
+    "title": "F.A.S.T. Hair Growth Shampoo and Conditioner Combo Pack - 12 fl. oz. each",
+    "description": "Quick Hair Growth Scalp Therapy Shampoo For Men and Women is designed to supercharge your hair. Quick Hair Growth can potentially increase the rate of growth of your hair by as much as 45%.",
+    "itemID": "B000JNRIM6",
+    "helpful": [
+      0,
+      2
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 1615
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoo & Conditioner Sets"
+      ]
+    ],
+    "price": 19.49,
+    "brand": "Nisim"
+  },
+  {
+    "title": "OPI Nail Lacquer, Turquoise Shatter, 0.5 Fluid Ounce",
+    "description": "The OPI Shatter shades creates a two-texture finish when used over nail lacquer.",
+    "itemID": "B00521QSJY",
+    "helpful": [
+      1,
+      2
+    ],
+    "overall": 1.0,
+    "salesRank": {
+      "Beauty": 115892
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Nails",
+        "Nail Polish"
+      ]
+    ],
+    "price": 4.33,
+    "brand": "OPI"
+  },
+  {
+    "title": "Noxzema Deep Cleansing Cream Plus Moisturizer Unisex, 12 Ounce",
+    "description": "Deep Cleansing Cream Plus Moisturizers gives that trusted deep clean with added moisturizers to condition skin.  Feel Nozxema working as it tingles and refreshes, leaving skin feeling soft and moisturized.",
+    "itemID": "B003LA90RU",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 10072
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Cleansers"
+      ]
+    ],
+    "price": 6.7,
+    "brand": "Noxzema"
+  }
+]

@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Biore Combination Skin Balancing Cleanser, 6.77 Ounce",
+    "description": "Biore combination skin balancing sleanser removes all forms of impurities while leaving 90% of skin's natural moisture, giving your face an even, all over clean.",
+    "itemID": "B006RFZ8NG",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Beauty": 9815
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Cleansers"
+      ]
+    ],
+    "price": 5.87,
+    "brand": "Biore"
+  },
+  {
+    "title": "Clean &amp; Clear Clear Advantage Acne Spot Treatment, 0.75 Ounce",
+    "description": "Clean & clear advantage acne spot treatment. This treatment contains breakthrough technology that actually dissolves oil and allows the maximum strength acne medicine to penetrate into your pores. This formula works fast to reduce the visible signs of acne.",
+    "itemID": "B00027DDOQ",
+    "helpful": [
+      0,
+      3
+    ],
+    "overall": 3.0,
+    "salesRank": NaN,
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Oils"
+      ]
+    ],
+    "price": 1.99,
+    "brand": "Clean &amp; Clear"
+  },
+  {
+    "title": "Diane 2&quot; Bobby Pins, Black, 300-pack Tub",
+    "description": "2 inches bob pins for hair. Great for up-dos. Simulated rubber tips. Crimped style. Black. 300 per tub.",
+    "itemID": "B001A3ATP2",
+    "helpful": [
+      1,
+      2
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 2015
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Styling Accessories",
+        "Hair Pins"
+      ]
+    ],
+    "price": 5.37,
+    "brand": "Diane"
+  }
+]

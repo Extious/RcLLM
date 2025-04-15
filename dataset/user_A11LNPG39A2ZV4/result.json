@@ -1,0 +1,303 @@
+[
+  {
+    "title": "Bumble and Bumble Styling Creme, 8-Ounce Bottle",
+    "description": "Well, It's not mousse and it's not a gel - some call it magic. It gives straight or curly hair body, hold, and allows lots of styling options.",
+    "itemID": "B000BIXP4O",
+    "helpful": [
+      2,
+      2
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 1543
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Creams, Gels & Lotions"
+      ]
+    ],
+    "price": 24.56,
+    "brand": "Bumble and Bumble"
+  },
+  {
+    "title": "Infiniti Pro by Conair 1875 Watt Salon Performance Folding Handle Hair Dryer",
+    "description": "",
+    "itemID": "B004INUY06",
+    "helpful": [
+      0,
+      2
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 2968
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Hair Dryers"
+      ]
+    ],
+    "price": 24.5,
+    "brand": "Conair"
+  },
+  {
+    "title": "Egyptian Magic All Purpose Skin Cream Facial Treatment, 4 Ounce",
+    "description": "Kamitian folklore recalls the existence of a miraculous skin cream secretly used by the great sages, mystics, magicians and healers of ancient kamit (ancient egypt), used as an anti-aging skin rejuvenation to maintain radiant, healthy, smooth and glowing skin. This egyptian magic is our take on this legendary skin cream, designed to leave your skin feeling smooth.",
+    "itemID": "B000WNLFBI",
+    "helpful": [
+      1,
+      2
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 457
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Creams & Moisturizers"
+      ]
+    ],
+    "price": 25.45,
+    "brand": "Egyptian Magic"
+  },
+  {
+    "title": "Revlon RVSP3501B1 Moisturestay Quick Heat Paraffin Bath",
+    "description": "Revlon&#x2019;s moisture stay quick heat paraffin bath is useful in symptomatic relief of pain caused by arthritis, bursitis and chronic joint inflammation. it provides thermal relief using a full range of heat comfort levels. the heat softened wax removes dry surface skin and smoothes and softens skin on hands, elbows and feet. for faster relief and results the bath gently melts wax in 60 minutes and the indicator light gently glows when the unit is operating. included is 3 pounds of wax, 2 thermal mitts and 30 glove liners.",
+    "itemID": "B003ZWEW1S",
+    "helpful": [
+      33,
+      35
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 8533
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Hands & Nails",
+        "Paraffin Baths"
+      ]
+    ],
+    "price": 45.99,
+    "brand": "Revlon"
+  },
+  {
+    "title": "Case Pack of 4 Giell Styrofoam Foam Mannequin Wig Head Display No Facial Features",
+    "description": "Styrofoam mannequin head form to hold / display wigs, hats, caps and more.",
+    "itemID": "B004667UHA",
+    "helpful": [
+      3,
+      3
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 87228
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Hair Extensions & Wigs",
+        "Wigs"
+      ]
+    ],
+    "price": 20.99,
+    "brand": NaN
+  },
+  {
+    "title": "Nexxus Hydralight Weightless Moisture Shampoo, 13.5 Ounce",
+    "description": "",
+    "itemID": "B00ALV8EL0",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 36618
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 4.47,
+    "brand": "Nexxus"
+  },
+  {
+    "title": "Nexxus Hydralight Weightless Moisture Conditioner, 13.5 Ounce",
+    "description": "",
+    "itemID": "B00ALV8EJW",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 65831
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Conditioners"
+      ]
+    ],
+    "price": 18.3,
+    "brand": "Nexxus"
+  },
+  {
+    "title": "Cetaphil Gentle Skin Cleansing Cloths, 25 Count",
+    "description": "Thoroughly removes dirt and makeup without irritation. Ultra soft and gentle for even the most sensitive skin. Dermatologist developed and tested. Great for travel.",
+    "itemID": "B00GZ18LL8",
+    "helpful": [
+      4,
+      4
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 21965
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Cleansers",
+        "Cloths & Towelettes"
+      ]
+    ],
+    "price": 10.24,
+    "brand": "Cetaphil"
+  },
+  {
+    "title": "Infiniti Pro by Conair Curl Secret",
+    "description": "Get a perfect curl every time with the Conair curl secret. Loaded with features, this styling tool helps you effortlessly create voluminous curls with just the touch of a button. With the curl secret, your hair is automatically drawn into the Tourmaline ceramic curl chamber where it is gently held, timed, and heated from all directions to effortlessly form a perfect curl. Open to release a beautiful, free-flowing curl. Repeat to create curl after curl. It is suitable for all hair lengths and types so anyone can create gorgeous curls with ease. United States Patent 8,607,804; 8,651,118 and other U.S. patents pending.",
+    "itemID": "B00E68O4JU",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 35
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Irons",
+        "Curling Irons"
+      ]
+    ],
+    "price": 67.99,
+    "brand": "Conair"
+  },
+  {
+    "title": "John Frieda Precision Foam Hair Color, Glosser Warm Blonde, 6 Fluid Ounce",
+    "description": "An in-shower, non-damaging weekly color extending treatment that adds back lost color pigments for true to tone, salon-fresh color in-between colorings. Instantly restore vibrant salon-fresh color and shine. Adds golden tones to freshen blonde. An in-shower non-damaging weekly color extending treatment that adds back lost color pigments. Delivers true to tone salon-fresh color in-between colorings.",
+    "itemID": "B00GLS593S",
+    "helpful": [
+      12,
+      13
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 16105
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Hair Color",
+        "Highlights"
+      ]
+    ],
+    "price": 9.99,
+    "brand": "John Frieda"
+  },
+  {
+    "title": "Godefroy Instant Eyebrow Tint, Dark Brown",
+    "description": "Over 70 years of satisfied customers covering gray hair in eyebrows.",
+    "itemID": "B000S0CKRS",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 5184
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Eyes",
+        "Eyebrow Color"
+      ]
+    ],
+    "price": 8.09,
+    "brand": "Godefroy"
+  },
+  {
+    "title": "Travalo Travel Spray by Travalo Mini Travel Refillable Spray with Cap Refills from Any Fragrance Bottle (Sleek Silver) .135 oz for Women",
+    "description": "Travalo Travel Spray by Travalo Mini Travel Refillable Spray with Cap Refills from Any Fragrance Bottle (Sleek Silver) .135 oz for Women We all wish we could take our favorite colognes and perfumes wherever we go, but decanting is just too messy. Now Travalo, a company based in the U.K. offers smaller travel-size flacons that are refillable. This is the perfect size for a pocket, for airport travel or a handbag. This great item is available in a wide range of colors and hold up to 50 sprays of your favorite scent. So now you are scent to go...",
+    "itemID": "B002FQKKBQ",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 7703
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Fragrance",
+        "Women's",
+        "Eau de Parfum"
+      ]
+    ],
+    "price": 9.49,
+    "brand": "Travalo"
+  },
+  {
+    "title": "Black Croc Hair Styling Clips - 6 Pack",
+    "description": "Overview:Every stylist needs clips to section and separate their client's hair for many types of processing. These clips have a unique double-hinged design They have two springs that allow them to automatically adjust to hold any kind of hair regardless of amount, thickness, or type.Features:Unique double-hinged design.Holds large amounts of hair.Perfect for clipping foils up &amp; away during hair color applications.Great for sectioning hair.Works especially well for fine sections &amp; around the hairline.*NOTE: Actual product may differ slightly from the pictured clips.*",
+    "itemID": "B00CF7HBA8",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 5884
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Styling Accessories",
+        "Clips"
+      ]
+    ],
+    "price": 6.99,
+    "brand": NaN
+  }
+]

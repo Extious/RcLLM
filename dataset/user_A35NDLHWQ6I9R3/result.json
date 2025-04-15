@@ -1,0 +1,49 @@
+[
+  {
+    "title": "Michel Mercier Detangling Brush (Fine Hair)",
+    "description": "Gently detangle your hair in seconds without pain or hair loss. Designed by international hair designer, Michel Mercier, the revolutionary As Seen on TV Ultimate Detangling Brush has a unique patented brush surface. Its 428 perfectly placed, varying-length bristles glide through your hair to detangle in fewer strokes without pulling. Available in three styles to match all hair types - pink for fine hair; blue for thick hair; and green for normal hair. Specify style on order. 8 1/4\"L x 3 3/4\"W.",
+    "itemID": "B0087I6790",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 4952
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Brushes"
+      ]
+    ],
+    "price": 14.4,
+    "brand": "Michel Mercier"
+  },
+  {
+    "title": "Neutrogena Pore Refining Daily Cleanser, 6.7 Ounce",
+    "description": "Visibly Reduces the Appearance of Pores and Refines Skin Alpha and beta hydroxy formula with gentle microbeads.",
+    "itemID": "B00B2FXLSA",
+    "helpful": [
+      2,
+      3
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 6910
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Cleansers",
+        "Washes"
+      ]
+    ],
+    "price": 6.49,
+    "brand": "Neutrogena"
+  }
+]

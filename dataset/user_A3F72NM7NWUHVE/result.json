@@ -1,0 +1,48 @@
+[
+  {
+    "title": "Maybelline New York Color Sensational Vivids Lipcolor, Brazen Berry, 0.15 Ounce",
+    "description": "Be bright and gorgeous with color sensational lip color's vivid collection. Brighter color from exclusive vivid pigments. Creamier feel from nourishing honey nectar.",
+    "itemID": "B00B0GOSNI",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 15379
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Lips",
+        "Lipstick"
+      ]
+    ],
+    "price": 4.5,
+    "brand": "Maybelline"
+  },
+  {
+    "title": "CoverGirl Queen Collection Natural Hue Mineral Bronzer ebony bronze 120, 0.39 Ounce Pan",
+    "description": "",
+    "itemID": "B001KYRWG0",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 9170
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Bronzers & Highlighters"
+      ]
+    ],
+    "price": 6.39,
+    "brand": NaN
+  }
+]

@@ -1,0 +1,71 @@
+[
+  {
+    "title": "NARS Blush, Taj Mahal",
+    "description": "Made with transparent pigments for a soft and sheer look. Imparts a natural, healthy glow for any skin tone and may be worn alone or layered together for more depth and intensity.",
+    "itemID": "B00021DJ32",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 46941
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Blush"
+      ]
+    ],
+    "price": 49.99,
+    "brand": "NARS"
+  },
+  {
+    "title": "bareMinerals Well-Rested for Eyes",
+    "description": "When you're short on beauty sleep, it shows. Except when you use our Well-Rested. This eye-brightening shadow base is beloved for its magical ability to diminish the appearance of morning drowsiness. Sweep it on to counter dark shadows around the eyes or even the nose and lips. Size: Medium",
+    "itemID": "B003282VZE",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 10481
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Concealers & Neutralizers"
+      ]
+    ],
+    "price": 19.39,
+    "brand": "Bare Escentuals"
+  },
+  {
+    "title": "Bare Minerals Multi-Tasking Bisque 0.08 oz",
+    "description": "Get coverage you can count on. Our trusty Multi-Tasking Concealer works like magic, making undesirable details disappear and turning your skin invisible to the sun's harmful rays. Each creamy shade makes for a beautiful, soft shadow complement to your bareMinerals SPF 15 Foundation, expertly covering imperfections and stopping new ones from forming. So your skin looks naturally flawless and stays healthy.",
+    "itemID": "B003S5LWRO",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 5599
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Concealers & Neutralizers"
+      ]
+    ],
+    "price": 18.98,
+    "brand": "Bare Escentuals"
+  }
+]

@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Cellex-C High Potency Serum, 30 ml",
+    "description": "Cellex-C High Potency Serum is a unique, oil-free, patented Vitamin C formulation designed to help tone and firm sagging skin and reduce the visible signs of aging.",
+    "itemID": "B000HX4JWK",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 6796
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Oils & Serums"
+      ]
+    ],
+    "price": 62.05,
+    "brand": "Cellex C"
+  },
+  {
+    "title": "Carol's Daughter Monoi Repairing Sulfate-Free Shampoo, 8.5 Ounce",
+    "description": "Monoi repairing sulfate-free shampoo by carol's daughter for unisex - 8.5 ounces shampoo. It was launched by the design house of carol's daughter. It is recommended for normal hair.",
+    "itemID": "B004Y5M8QQ",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 2224
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 14.48,
+    "brand": "Carol&#39;s Daughter"
+  },
+  {
+    "title": "Natural Vitality Natural Calm, Lemon, 16 Ounce",
+    "description": "Natural&#xA0;Calm&#xA0;is the&#xA0;solution to&#xA0;both restoring a&#xA0;healthy magnesium level and&#xA0;balancing your calcium intake-the result of&#xA0;which is&#xA0;natural&#xA0;stress&#xA0;relief.",
+    "itemID": "B005VZA0KO",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Health & Personal Care": 2978
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Lotions"
+      ]
+    ],
+    "price": 24.57,
+    "brand": "Natural Vitality"
+  }
+]

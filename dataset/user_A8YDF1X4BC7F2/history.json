@@ -1,0 +1,69 @@
+[
+  {
+    "title": "Tigi S-factor Smoothing Shampoo and Conditioner DUO (25.36 Oz)",
+    "description": "Smoothing Shampoo is the first step in achieving soft, radiant hair. This gentle shampoo is enriched with a Pro Vitamin B5 Complex designed to absorb easily into the hair shaft to deeply moisturize and smooth dry, damaged hair. This daily conditioner is a lightweight moisturizer that seals the hair to help tame fly-a-ways and lock in moisture. Vitamin rich Avocado and Jojoba oils nourish the hair beyond the surface for truly brilliant hair. Ideal for coarse, dry hair that tends to frizz.",
+    "itemID": "B000PB271E",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 1229
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoo & Conditioner Sets"
+      ]
+    ],
+    "price": 28.25,
+    "brand": "Tigi"
+  },
+  {
+    "title": "Deva Curl Set it Free 6 oz.",
+    "description": "Put an end to frizz with this 24-48 hour moisture lock. Adds shine and defines curls with a long lasting hold. Scented with zesty lemon-lime. Not tested on animals. Made in USA.",
+    "itemID": "B000QE6U54",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 593
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Curl Enhancers"
+      ]
+    ],
+    "price": 15.95,
+    "brand": "DevaCurl"
+  },
+  {
+    "title": "Deva Curl Ultra Creamy Daily Conditioner, One Condition, 32-Ounces",
+    "description": "Calling all curls. Super Rich - with the invigorating scent of lemon grass. This ultra creamy instant conditioner keeps curls shiny and manageable. For maximum effectiveness use daily. Not tested on animals. Made In USA.",
+    "itemID": "B000TK99NU",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 1.0,
+    "salesRank": {
+      "Beauty": 55
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Conditioners"
+      ]
+    ],
+    "price": 26.23,
+    "brand": "Deva Concepts"
+  }
+]

@@ -1,0 +1,94 @@
+[
+  {
+    "title": "Seche Restore, 2 Ounce",
+    "description": "Seche Restore is the only thinner to thin a bottle of Seche Vite to its original consistency. Will not diminish shine or dull colors and only replaces those ingredients which have evaporated from the bottle. Includes dropper and holder.",
+    "itemID": "B0016A8DT8",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 6731
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Nails",
+        "Nail Polish"
+      ]
+    ],
+    "price": 9.45,
+    "brand": "Seche"
+  },
+  {
+    "title": "OPI: Lacquer M37 Boyfriend Scales Lacquer, 0.5 oz OOS!!",
+    "description": "OPI's Spiderman Collection - My Boyfriend Scales Walls is a crisp white creme. Surprisingly, this white wasn't too streaky or chalky looking. With fun, descriptive names and high quality performance, these classic colors will have your clients asking for OPI Nail Lacquer every time!",
+    "itemID": "B007XX4EYU",
+    "helpful": [
+      0,
+      2
+    ],
+    "overall": 1.0,
+    "salesRank": {
+      "Beauty": 26500
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Nails",
+        "Nail Polish"
+      ]
+    ],
+    "price": 7.6,
+    "brand": "OPI"
+  },
+  {
+    "title": "Essie Matte About You Matte Finisher .5 Oz",
+    "description": "use this top coat and turn every nail polish you like to a matte style",
+    "itemID": "B003O4BWV0",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Health & Personal Care": 18289
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Nails",
+        "Top & Base Coats"
+      ]
+    ],
+    "price": 6.1,
+    "brand": "Essie"
+  },
+  {
+    "title": "Urban Decay Naked Palette",
+    "description": "Far from a group of boring beige shadows, Naked Palette's long, lean, seductive case is packed with TWELVE gorgeous neutrals, including FIVE NEW shades, and includes  pro-quality Good Karma Shadow Brush.",
+    "itemID": "B004ITB3IW",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 47374
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Eyes",
+        "Eye Shadow"
+      ]
+    ],
+    "price": NaN,
+    "brand": NaN
+  }
+]

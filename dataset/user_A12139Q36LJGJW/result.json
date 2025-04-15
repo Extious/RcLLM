@@ -1,0 +1,92 @@
+[
+  {
+    "title": "Maybelline New York Expert Tools, Brush 'n Comb",
+    "description": "The brush side perfectly shapes and grooms brows. The comb side effectively separates lashes and eliminates mascara clumps.",
+    "itemID": "B00133HK3I",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 4043
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Tools & Accessories",
+        "Makeup Brushes & Tools",
+        "Eyelash Tools"
+      ]
+    ],
+    "price": 1.99,
+    "brand": "Maybelline"
+  },
+  {
+    "title": "Aquasentials Gentle Weave Facial Pad (6pk)",
+    "description": "Gentle weavy texture with soft sponge insideClean & ExfoliatePromote healthy skinWork with any facial wash or soapHang to dry after use",
+    "itemID": "B0027AJ106",
+    "helpful": [
+      1,
+      2
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 12106
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Cleansers"
+      ]
+    ],
+    "price": 6.49,
+    "brand": NaN
+  },
+  {
+    "title": "Clean &amp; Clear Continuous Control Acne Cleanser,  5 oz  (141g)",
+    "description": "Clean & Clear Continuous Control Acne Cleanser not only removes dirt and oil, it also features a porepenetrating technology that deposits acne medicine to help fight and help prevent breakouts long after you wash. Your skin is clean and becomes clearer with continued use.",
+    "itemID": "B0000534VO",
+    "helpful": [
+      0,
+      2
+    ],
+    "overall": 2.0,
+    "salesRank": NaN,
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Cleansers"
+      ]
+    ],
+    "price": 6.13,
+    "brand": "Clean &amp; Clear"
+  },
+  {
+    "title": "Splat Rebellious Colors Lusty Lavender 1 Kit",
+    "description": "Splat&#xAE; Rebellious Colors Lusty Lavender Complete Kit.Color, bleach & peroxide.One application.Long lasting color.",
+    "itemID": "B00153Z3I0",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 7147
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Hair Color",
+        "Chemical Hair Dyes"
+      ]
+    ],
+    "price": 9.38,
+    "brand": "Splat"
+  }
+]

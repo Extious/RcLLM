@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Oribe Dry Texturing Hair Spray, 8.5 Ounce",
+    "description": "Looking for big hair, then try this glamorous texture spray from Oribe. It provides volume and texture all elegant women are striving for.",
+    "itemID": "B003NXM9HS",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 258
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Hair Sprays"
+      ]
+    ],
+    "price": 43.98,
+    "brand": "Oribe"
+  },
+  {
+    "title": "Oribe Royal Blowout Heat Styling Spray 5.9oz",
+    "description": "For the ultimate blowout. This ultra-lightweight mist smoothes even the worst-behaved mop while speeding dry time. It also repairs split ends, nourishes, softens and strengthens the hair, giving it healthy body and shine. Spray on damp hair from mid-shaft to ends; go section by section to blow even straighter.",
+    "itemID": "B00203KPDC",
+    "helpful": [
+      1,
+      4
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 3841
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Hair Sprays"
+      ]
+    ],
+    "price": 49.0,
+    "brand": "Oribe"
+  },
+  {
+    "title": "Oribe Maximista Thickening Hair Spray 6.8 oz",
+    "description": "This thickening spray from Oribe is an update of technology. It provides a protective coating while lifting and holding the fullest hair. Gives great volume and can be used on color treated hair.",
+    "itemID": "B004UMYEIS",
+    "helpful": [
+      0,
+      2
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 2927
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Hair Sprays"
+      ]
+    ],
+    "price": 29.99,
+    "brand": "Oribe"
+  }
+]

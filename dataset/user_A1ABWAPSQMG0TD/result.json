@@ -1,0 +1,69 @@
+[
+  {
+    "title": "Deepshine Lustre Shine Enhancing Lusterizer by Rusk, 4.4 Ounce",
+    "description": "Transforms dull hair into healthy, shiny looking hair by infusing it with moisturizing marine extracts, natural lipids, strengthening proteins and protective uv inhibitors. Formulated with marine nutrient complex, a blend of nourishing sea botanicals, this lightweight cream provides instant reflective shine for all hair types.",
+    "itemID": "B000OYHN2K",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 2902
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Creams, Gels & Lotions"
+      ]
+    ],
+    "price": 10.09,
+    "brand": "Rusk"
+  },
+  {
+    "title": "L'Oreal Paris EverPure Sulfate-Free Color Care System Moisture Restorative Hair Masque, 5.1 Fluid Ounce",
+    "description": "EverPure conditioners are creamy, protective formulas that help preserve and maintain color brilliance. Color-treated hair requires special care. The EverPure Sulfate-Free Color Care System protects and conditions hair for long-lasting color purity. The unique UV filters help protect color-treated hair against sun damage.",
+    "itemID": "B001P24STG",
+    "helpful": [
+      1,
+      2
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 3000
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care"
+      ]
+    ],
+    "price": 11.99,
+    "brand": "L&#39;Oreal Paris"
+  },
+  {
+    "title": "Sexy Hair Big Sexy Blow Dry Volume Gel, 8.5-Ounces Bottle",
+    "description": "BigSexyHair Blow Dry Volumizing Gel 8.5oz. Helps swell and  thickens hair to enhance desired volume, contains Aloe Vera, Chamomile Extract & Whole Wheat Protein and sustains hair from roots to ends.",
+    "itemID": "B002RS6JPI",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 5619
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Mousses & Foams"
+      ]
+    ],
+    "price": 11.95,
+    "brand": "Sexy Hair"
+  }
+]

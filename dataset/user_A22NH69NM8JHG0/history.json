@@ -1,0 +1,70 @@
+[
+  {
+    "title": "Aveda  Be Curly Enhancer, 6.7-Ounce Tube",
+    "description": "For intensifying curls, taming frizz and heightening shine. Wheat protein blend expands when hair is wet - then retracts when hair is dry - to lock in curls or waves.",
+    "itemID": "B002CMLS8M",
+    "helpful": [
+      5,
+      6
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 4248
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Curl Enhancers"
+      ]
+    ],
+    "price": 26.9,
+    "brand": "Aveda"
+  },
+  {
+    "title": "Belson Pro Universal Tourmaline Ceramic Dual Diffuser",
+    "description": "Universal Tourmaline/Ceramic Dual Diffuser\n\n Fits most Hair Dryers Tourmaline Infused Two Styling Surfaces: Flat and Volume Fingers",
+    "itemID": "B003LUFMFO",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Health & Personal Care": 48629
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Diffusers"
+      ]
+    ],
+    "price": 11.64,
+    "brand": "Belson Pro"
+  },
+  {
+    "title": "L'Oreal Paris EverStrong Sulfate-Free Fortify System Reconstruct Conditioner, 8.5 Fluid Ounce",
+    "description": "Introducing formulas so gentle, yet so strengthening. Free of harsh sulfates, the EverStrong Sulfate-Free Fortify System contains our patented bio-ceramide complex, which strengthens the hair fiber after just one use, helping it resist breakage. A rich lather and natural aromatic properties from rosemary and mint help energize and invigorate the senses.",
+    "itemID": "B002PBC9Y2",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 4379
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Conditioners"
+      ]
+    ],
+    "price": 5.99,
+    "brand": "L&#39;Oreal Paris"
+  }
+]

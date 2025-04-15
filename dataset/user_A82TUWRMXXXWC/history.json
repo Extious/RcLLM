@@ -1,0 +1,69 @@
+[
+  {
+    "title": "Hair Salon 16oz Designer Water Spray Bottle by Soft 'N Style",
+    "description": "Hair Salon 16oz Designer Water Spray Bottle by Soft 'N Style\nprofessional quality",
+    "itemID": "B003SRBYP2",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 1560
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Hair Sprays"
+      ]
+    ],
+    "price": 4.09,
+    "brand": "Soft &#39;N Style"
+  },
+  {
+    "title": "John Frieda Radiant Red Colour Protecting Conditioner, 8.45 Ounces (Pack of 2)",
+    "description": "John Frieda radiant red color magnifying daily conditioner comes in 8.45 fluid ounce. This replenishing conditioner renews soft and supple texture to refluide count light and enhance color. This is a nourishing formula, with pomegranate and plum extra counts.",
+    "itemID": "B0050OAHY0",
+    "helpful": [
+      5,
+      5
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 13125
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Conditioners"
+      ]
+    ],
+    "price": 9.99,
+    "brand": "John Frieda"
+  },
+  {
+    "title": "John Frieda Radiant Red Colour Protecting Shampoo, 8.45 Ounces (Pack of 2)",
+    "description": "John Frieda radiant red color magnifying daily shampoo comes in 8.45 fluid ounce. It preserves and magnifies vibrant red color while rekindling intense shine. Formula, with anti-fading and intensifying extra counts such as pomegranate and plum. This item transforms red strands into vivid red color.",
+    "itemID": "B0050OM5GI",
+    "helpful": [
+      5,
+      5
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 11534
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 15.7,
+    "brand": "John Frieda"
+  }
+]

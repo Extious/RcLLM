@@ -1,0 +1,70 @@
+[
+  {
+    "title": "Conair BC171NCS Ceramic Ionic Hot Air Brush, Black, 1.25 Inch",
+    "description": "1 1/4\" Ceramic Ionic Hot Air Brush-1000 watt",
+    "itemID": "B0009PVV40",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 614
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Hot-Air Brushes"
+      ]
+    ],
+    "price": 23.95,
+    "brand": "Conair"
+  },
+  {
+    "title": "WEN Tea Tree Cleansing Conditioner 6 Oz.",
+    "description": "WEN Tea Tree Cleansing Conditioner 6 Oz.",
+    "itemID": "B0041PFUV4",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 11240
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Conditioners"
+      ]
+    ],
+    "price": 11.65,
+    "brand": "WEN&reg; by Chaz Dean"
+  },
+  {
+    "title": "WEN Cleansing Creme Shower Comb NEW By Chaz Dean",
+    "description": "Comb by Chaz Dean: Length 7 1/2\" maximum Width 2\"",
+    "itemID": "B00420M64W",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 1509
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Combs"
+      ]
+    ],
+    "price": 5.95,
+    "brand": "WEN&reg; by Chaz Dean"
+  }
+]

@@ -1,0 +1,70 @@
+[
+  {
+    "title": "Proactiv Solution 4pc Micro-Crystal 60 Day Acne Treatment Kit",
+    "description": "This acne treatment kit contains proven ingredients that address acne on the entire face with a combination therapy approach. Use it daily to help treat existing blemishes as well as prevent new ones from forming.",
+    "itemID": "B004BC9T9G",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 103
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Sets & Kits"
+      ]
+    ],
+    "price": 35.95,
+    "brand": "Proactiv"
+  },
+  {
+    "title": "Millenium Tanning New Solid Black Bronzer Tanning Bed Lotion, 100x, 13.5-Ounce",
+    "description": "100X Ultra Advanced Silicone Bronzer Auto-Darkening Tan Technology. Luxury meets Technology in Solid BlackTM. This advanced dark tanning lotion will surpass all others! Blended with extreme bronzers and ultra moisturizers to drive your tan into darkness immediately. There is no other competition...",
+    "itemID": "B0058E3XJI",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 98
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Sun",
+        "Self-Tanners & Bronzers"
+      ]
+    ],
+    "price": 14.49,
+    "brand": "Millennium Tanning Products"
+  },
+  {
+    "title": "Dove Oxygen Moisture Shampoo, 12 Ounce",
+    "description": "",
+    "itemID": "B00HM6IXH2",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 12001
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 3.02,
+    "brand": "Dove"
+  }
+]

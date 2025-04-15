@@ -1,0 +1,73 @@
+[
+  {
+    "title": "Neutrogena Ageless Essentials Continuous Hydration, Night, 1.7 Ounce",
+    "description": "Timereleased hydrators. Lasting, nourish, moisturize. Dermatologist recommended.",
+    "itemID": "B001OMI93S",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 2909
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Oils & Serums"
+      ]
+    ],
+    "price": 5.0,
+    "brand": "Neutrogena"
+  },
+  {
+    "title": "Vaseline Sheer Infusion Body Lotion, Vitamin Burst, 13.5-Ounce Bottles (Pack of 2)",
+    "description": "Some moisturizers only treat the top layers of your surface skin, leaving it feeling greasy. Others sink through quickly and your skin is not thoroughly moisturized. New Vaseline Sheer Infusion with Stratys-3 infuses and suspends superior* moisture across all layers of your skin**. Only Vaseline Sheer Infusion delivers superior moisture* and an unmatched silky feel.",
+    "itemID": "B0027CT5TG",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 405166
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Lotions"
+      ]
+    ],
+    "price": NaN,
+    "brand": NaN
+  },
+  {
+    "title": "Vaseline Sheer Infusion Body Lotion, Mineral Renewal, 13.5-Ounce Bottles (Pack of 2)",
+    "description": "Some moisturizers only treat the top layers of your surface skin, leaving it feeling greasy. Others sink through quickly and your skin is not thoroughly moisturized. New Vaseline Sheer Infusion with Stratys-3 infuses and suspends superior* moisture across all layers of your skin.** Only Vaseline Sheer Infusion delivers superior moisture* and an unmatched silky feel.",
+    "itemID": "B0027CT5VO",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 334668
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Lotions"
+      ]
+    ],
+    "price": NaN,
+    "brand": NaN
+  }
+]

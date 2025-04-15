@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Biotique Botanicals Bhringraj Hair Growth ThERApeutic Oil, 4.2-Fluid Ounce",
+    "description": "This Bio Bhringraj Fresh Growth Therapeutic Oil nourishes the scalp and strengthens hair strands to encourage fresh growth and help diminish greying.",
+    "itemID": "B004C1VIPY",
+    "helpful": [
+      1,
+      3
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Beauty": 7345
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Hair Loss Products",
+        "Hair Regrowth Treatments"
+      ]
+    ],
+    "price": 9.95,
+    "brand": "Biotique Botanicals"
+  },
+  {
+    "title": "4 Oz Hemp Seed Oil Pure Organic",
+    "description": "Exceptionally rich oil high in essential omega fatty acids and proteins. This oil has a pleasant nutty smell, deep green color, and absorbs well into the skin. It makes a marvelous cosmetic grade oil and because of its high nutritional value, it makes a superior quality dietary oil and one that can be used as a base ingredient for skin care recipes which require healing and regenerative ingredients\n\nHemp seed oil is highly emollient and can be used directly on the skin to nourish and regenerate. Hemp seed oil is capable of deeply penetrating the skin, rather than just sitting on top of the skin. This action works to prevent the aging of the skin, by allowing the essential fatty acids to fully penetrate the outer layer of skin, and encouraging a healthy moisture balance.",
+    "itemID": "B005F4EACU",
+    "helpful": [
+      16,
+      19
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 7330
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Oils"
+      ]
+    ],
+    "price": 4.9,
+    "brand": NaN
+  },
+  {
+    "title": "Fruit Of The Earth 100% Aloe Vera 24oz Gel Pump",
+    "description": "For Sunburnt, Dry Or Irritated Skin Contains No Alcohol Promotes Healing No Added Color Fragrance-Free",
+    "itemID": "B000ALDK1A",
+    "helpful": [
+      3,
+      6
+    ],
+    "overall": 1.0,
+    "salesRank": {
+      "Beauty": 150
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Sun",
+        "After Sun"
+      ]
+    ],
+    "price": 10.25,
+    "brand": "Fruit of the Earth"
+  }
+]

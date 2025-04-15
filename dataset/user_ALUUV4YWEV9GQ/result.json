@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Graftobian Professional Lipstick, Blue",
+    "description": "These cream lipsticks are smooth and rich and full of color.",
+    "itemID": "B002IRIGZO",
+    "helpful": [
+      0,
+      2
+    ],
+    "overall": 1.0,
+    "salesRank": {
+      "Beauty": 22767
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Lips",
+        "Lipstick"
+      ]
+    ],
+    "price": 10.95,
+    "brand": "Graftobian"
+  },
+  {
+    "title": "HD High-Definition Glamour Creme Palette, Neutral #1",
+    "description": "Size: .39oz., 11g",
+    "itemID": "B0044XXO84",
+    "helpful": [
+      1,
+      7
+    ],
+    "overall": 1.0,
+    "salesRank": {
+      "Beauty": 51013
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Foundation"
+      ]
+    ],
+    "price": 20.95,
+    "brand": "Graftobian"
+  },
+  {
+    "title": "It Cosmetics Bye Bye Under Eye Full Coverage Waterproof Concealer, Deep",
+    "description": "Working hand in hand with the leading plastic surgeons in Brazil, Bye Bye Under Eye was created as a full coverage, highly pigmented anti-aging concealer that utilizes truly innovative technology and ingredients - giving women the power to finally say &quot;bye &ndash;bye!&quot; to stubborn under-eye issues. Bye Bye Under Eye offers a waterproof, yet moisturizing, formula that stays put no matter what. The truly innovative formula contains high concentrations of Vitamins K, A, C, E and Collagen, which are clinically proven to reduce under eye puffiness and discoloration while strengthening the delicate skin of the under eye area. More than just full coverage for under the eyes, this formula was developed, tested and is now used to conceal facial bruising and swelling on the face and body of surgery patients in the offices of some of the leading plastic surgeons in Brazil. Hypo-allergenic and non-comedogenic. How to Use: Apply to bare skin, underneath foundation. Set with powder if preferred. Remove with facial cleanser or makeup remover.",
+    "itemID": "B0028P1S38",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 55199
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Concealers & Neutralizers"
+      ]
+    ],
+    "price": 12.94,
+    "brand": "It Cosmetics"
+  }
+]

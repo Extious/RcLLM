@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Toni&amp;Guy Nourish Conditioner for Damaged Hair, 8.5 Fluid Ounce",
+    "description": "",
+    "itemID": "B006L6A10G",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Beauty": 16835
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Conditioners"
+      ]
+    ],
+    "price": 6.75,
+    "brand": "Toni &amp; Guy"
+  },
+  {
+    "title": "Eucerin Baby Eczema Relief Body Creme, 5 Ounce",
+    "description": "Your skin is much more than your body's protective shield. For over 100 years Eucerin has pioneered skincare innovation and today we are recognized by dermatologists as one of the leading and most recommended brands. Our products are designated to protect, repair, and enhance the health of skin &#x2013; Giving the feeling of confidence that comes from radiant, healthy looking skin. This unique formula with Oatmeal, Ceramide-3 and Licochalcone intensively moisturizes and helps relieve dry, irritated skin and itching due to eczema. Clinically proven immediate and long-lasting relief of itchy, dry, irritated skin due to eczema.",
+    "itemID": "B00GMZUS2M",
+    "helpful": [
+      2,
+      4
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 4132
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Creams"
+      ]
+    ],
+    "price": 6.74,
+    "brand": "Eucerin"
+  },
+  {
+    "title": "Biore Self Heating One Minute Mask, 4 Count",
+    "description": "Don&#x2019;t let dirt take over your pores. BIORE deep cleansing products target deep-down impurities to defend against daily buildup &#x2013; like dirt, oil and make-up &#x2013; for a truly deep clean",
+    "itemID": "B00G7U29KQ",
+    "helpful": [
+      0,
+      1
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 4692
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Treatments & Masks",
+        "Masks"
+      ]
+    ],
+    "price": 6.23,
+    "brand": "Biore"
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "title": "Simple Replenishing Rich Moisturizer, 4.2 Ounce",
+    "description": "",
+    "itemID": "B005TI7L6O",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 6976
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Creams & Moisturizers",
+        "Fluids & Lotions",
+        "Lotions"
+      ]
+    ],
+    "price": 7.02,
+    "brand": "Simple"
+  },
+  {
+    "title": "TRESemme Flawless Curls Curl Hydrating Conditioner, 32 Ounce",
+    "description": "",
+    "itemID": "B00157DO4Q",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 15233
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Conditioners"
+      ]
+    ],
+    "price": 4.5,
+    "brand": "TRESemme"
+  }
+]

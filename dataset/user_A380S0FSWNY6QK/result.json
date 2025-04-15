@@ -1,0 +1,48 @@
+[
+  {
+    "title": "L'oreal Voluminous Mascara Custom Curved Brush, Black, 0.28-Fluid Ounce",
+    "description": "Voluminous curved brush volume building mascara is uniquely formulated to resist clumping, soften lashes, and build lashes to 5x their natural thickness. Volume maximizing curved brush matches the shape of your lashes and thickens lashes evenly and smoothens.",
+    "itemID": "B000R1RKVY",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 2064
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Eyes",
+        "Mascara"
+      ]
+    ],
+    "price": 9.19,
+    "brand": "L&#39;Oreal Paris"
+  },
+  {
+    "title": "L'Oreal Paris True Match Super-Blendable Blush, Apricot Kiss, 0.21 Ounce",
+    "description": "True match super-blendable makeup shades are now cleaner, truer and even more natural. with the new patented color technology, true match makeup precisely matches your skin&#x2019;s tone and texture and coordinates perfectly with true match powder, blush.",
+    "itemID": "B001ADQUWS",
+    "helpful": [
+      0,
+      1
+    ],
+    "overall": 1.0,
+    "salesRank": {
+      "Beauty": 11468
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Bronzers & Highlighters"
+      ]
+    ],
+    "price": 5.9,
+    "brand": "L&#39;Oreal Paris"
+  }
+]

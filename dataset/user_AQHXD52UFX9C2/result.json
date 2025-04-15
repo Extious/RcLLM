@@ -1,0 +1,95 @@
+[
+  {
+    "title": "e.l.f. Studio Mineral Infused Face Primer",
+    "description": "Transform your face into a flawless and smooth canvas with the Mineral Infused Face Primer. Developed to combat against excess oil, flaky dryness, enlarged pores and fine lines. This clear multipurpose skin primer will prepare your skin so makeup goes on evenly for a long lasting satin finish.",
+    "itemID": "B004DIXYWG",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 117
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Foundation Primers"
+      ]
+    ],
+    "price": 5.98,
+    "brand": "e.l.f. Cosmetics"
+  },
+  {
+    "title": "Bare Escentuals BareMinerals MATTE SPF 15 Foundation, Medium Beige",
+    "description": "The bareMinerals revolution continues with our latest breakthrough: Matte SPF 15 Foundation. This groundbreaking formula offers shine-free coverage and extraordinary skin-renewing properties for a flawless, natural matte finish all day long. Fall in love all over again with an active mineral foundation that minimizes pores and smoothes skin to let the most beautiful you shine through - all in a no-spill, no-mess package. Size: Large",
+    "itemID": "B000QE5GU4",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 2942
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Foundation"
+      ]
+    ],
+    "price": 18.95,
+    "brand": "Bare Escentuals"
+  },
+  {
+    "title": "bareMinerals Original Prime Time Foundation Primer",
+    "description": "Enlarged pores. Uneven texture. Flaky dryness. We've all had complexion problems. That's why we created Prime Time, which prepares your skin for seamless coverage with bareMinerals SPF 15 Foundation. Apply it first for the smooth, evenly textured complexion you've been waiting for.",
+    "itemID": "B0017U10SI",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 2499
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Foundation Primers"
+      ]
+    ],
+    "price": 20.94,
+    "brand": "Bare Escentuals"
+  },
+  {
+    "title": "Cetaphil Gentle Skin Cleansing Cloths, 25 Count",
+    "description": "Thoroughly removes dirt and makeup without irritation. Ultra soft and gentle for even the most sensitive skin. Dermatologist developed and tested. Great for travel.",
+    "itemID": "B00GZ18LL8",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 21965
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Cleansers",
+        "Cloths & Towelettes"
+      ]
+    ],
+    "price": 10.24,
+    "brand": "Cetaphil"
+  }
+]

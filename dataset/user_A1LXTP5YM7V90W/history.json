@@ -1,0 +1,70 @@
+[
+  {
+    "title": "L'Oreal Paris Couleur Experte Express Hair Color, 6.1 Light Ash Brown/French Eclair",
+    "description": "Couleur Experte is the only at-home dual-system coloring kit that combines in just one box permanent base color with harmonizing highlights. Thanks to perfectly coordinated shades, you can achieve a rich, elegant, salon-like look in just two easy steps.  Color + Highlights in One.  Fast Application.  Experte Highlights.",
+    "itemID": "B000KOHSQA",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 21963
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Hair Color",
+        "Chemical Hair Dyes"
+      ]
+    ],
+    "price": 12.34,
+    "brand": "L&#39;Oreal Paris"
+  },
+  {
+    "title": "Pantene Pro-V Expert Collection AgeDefy Advanced Thickening Treatment, 4.2 Fluid Ounce",
+    "description": "",
+    "itemID": "B0098JU8TC",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 1506
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Hair & Scalp Treatments"
+      ]
+    ],
+    "price": 13.63,
+    "brand": "Pantene"
+  },
+  {
+    "title": "John Frieda Precision Foam Colour, Dark Caramel Blonde",
+    "description": "John frieda precision foam colour will revolutionize at home hair colouring. Already the foam in the colouring catrgory,  precision foam colour now locks in rich,  salon quality colour longer. The non drip foam formula saturates the hair while spreading easily into the roots and hard to reach areas for exact,  all over 100% grey coverage. No drips,  no patchy colour just flawless looking colour from every angle. You can achieve gorgeous,  natural looking colour results at home. Locks in rich colour longer.",
+    "itemID": "B0073SBK4M",
+    "helpful": [
+      1,
+      2
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 76666
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Hair Color",
+        "Chemical Hair Dyes"
+      ]
+    ],
+    "price": 11.92,
+    "brand": "John Frieda"
+  }
+]

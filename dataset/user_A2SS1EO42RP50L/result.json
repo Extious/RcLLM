@@ -1,0 +1,49 @@
+[
+  {
+    "title": "Dr. CHRISTOPHER'S, Ointment Beauty Facial Cream - 2 oz",
+    "description": "Beauty Facial Cream by Dr. Christopher 2 oz Cream Beauty Facial Cream Olive Oil Aloe Vera Wheat germ oil Beeswax Oak bark Marshmallow root Mullein herb Wormwood Lobelia Scullcap Comfrey root Walnut bark Gravel root Lemon oil and Gardenia oil. Nourishing and reconditioning natural facial cream. Available in cream.",
+    "itemID": "B000XFFW64",
+    "helpful": [
+      5,
+      7
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 9317
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Lotions"
+      ]
+    ],
+    "price": 12.05,
+    "brand": "Dr. Christopher"
+  },
+  {
+    "title": "Nubian Heritage - Indian Hemp &amp; Tamanu Edge Taming Taffy, 6 oz cream",
+    "description": "Nubian Heritage - Indian Hemp & Tamanu Edge Taming Taffy For Hair 6 Oz",
+    "itemID": "B00A8I8AVA",
+    "helpful": [
+      5,
+      5
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Health & Personal Care": 41139
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Hands & Nails",
+        "Hand Creams & Lotions"
+      ]
+    ],
+    "price": 9.99,
+    "brand": "Nubian Heritage"
+  }
+]

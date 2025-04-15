@@ -1,0 +1,48 @@
+[
+  {
+    "title": "Andis RC-2 Ionic1875W Ceramic Hair Dryer with Folding Handle and Retractable Cord (80020)",
+    "description": "",
+    "itemID": "B0009XH6TG",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 542
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Hair Dryers"
+      ]
+    ],
+    "price": 27.29,
+    "brand": "Andis"
+  },
+  {
+    "title": "Neutrogena Healthy Skin Eye Cream, 0.5 Ounce (Pack of 2)",
+    "description": "This product is not eligible for priority shipping. Image may vary from the actual product.",
+    "itemID": "B000NSIG8M",
+    "helpful": [
+      23,
+      25
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 81648
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Eyes",
+        "Creams"
+      ]
+    ],
+    "price": 24.69,
+    "brand": "Neutrogena"
+  }
+]

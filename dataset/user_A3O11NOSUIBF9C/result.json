@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Caviar Anti-Aging Rapid Repair Hair Spray By Alterna for Unisex, 4 Ounce",
+    "description": "Caviar Anti-Aging Rapid Repair Hair Spray is by Alterna for Unisex. It is recommended for normal hair.",
+    "itemID": "B0019X5N54",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 19157
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Hair Sprays"
+      ]
+    ],
+    "price": 17.19,
+    "brand": "Alterna"
+  },
+  {
+    "title": "Agadir  Argan Oil Hair Treatment, 4-Ounce",
+    "description": "Leave in, daily hair treatment that's super enriched with vitamin E. Leaves hair with radiant shine!",
+    "itemID": "B001U9M2EW",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 140
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Hair & Scalp Treatments"
+      ]
+    ],
+    "price": 15.6,
+    "brand": "Agadir"
+  }
+]

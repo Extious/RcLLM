@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Salon Express Nail Stencil Kit",
+    "description": "The Salon Express Nail Art Stamping Kit lets you decorate your nails like a pro.",
+    "itemID": "B0062MAAAK",
+    "helpful": [
+      14,
+      15
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 335
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Tools & Accessories",
+        "Nail Tools",
+        "Nail Art Equipment"
+      ]
+    ],
+    "price": 3.4,
+    "brand": "Sparks Innovators"
+  },
+  {
+    "title": "CoverGirl Queen Collection Perfect Point Plus Eyeliner Black Onyx 200, 1 Count",
+    "description": "The pencil gives you control and versatility. Want a precise line? It glides on easily. Want to soften a bit? There's a soft smudger tip. Best of all? No sharpening necessary, it's got a specially designed self-sharpener inside. So you always get the point-perfectly.",
+    "itemID": "B001SYWTFG",
+    "helpful": [
+      4,
+      4
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 962
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Eyes",
+        "Liner & Shadow Combinations"
+      ]
+    ],
+    "price": 4.7,
+    "brand": "COVERGIRL"
+  },
+  {
+    "title": "Kleancolor Neon Nail Lacquer 6 Colors Set",
+    "description": "Kleancolor nail polish featuring long lasting pretty colors with new bottle design. It is pretty, it is good quality, yet affordable price.",
+    "itemID": "B003G0S7S8",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 20850
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Nails",
+        "Nail Polish"
+      ]
+    ],
+    "price": 7.68,
+    "brand": "Kleancolor"
+  }
+]

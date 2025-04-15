@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Andis RC-2 Ionic1875W Ceramic Hair Dryer with Folding Handle and Retractable Cord (80020)",
+    "description": "",
+    "itemID": "B0009XH6TG",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 542
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Hair Dryers"
+      ]
+    ],
+    "price": 27.29,
+    "brand": "Andis"
+  },
+  {
+    "title": "Vidal Sasson VS433C Tangle-Free Hot Air Brush Styler and Dryer, 1 Inch",
+    "description": "The Vidal Sassoon 1 Inch Tangle-Free Hot Air Brush Styler features a 1 Inch barrel and soft, tangle-free bristles that gently grip and hold to enhance body and volume. There are 2 heat settings and 2 speed settings. There are 250 watts to provide ample power. It also features a cool tip for easy styling. STYLING TIP:  Use the high setting on thick hard to curl hair and the low setting on thin hair.",
+    "itemID": "B000PY17PI",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 360
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Hot-Air Brushes"
+      ]
+    ],
+    "price": 19.88,
+    "brand": "Vidal Sassoon"
+  },
+  {
+    "title": "Bdellium Tools Professional Antibacterial Makeup Brush Studio Line - Precision Kabuki Airbrushed Effect 957",
+    "description": "This professional precision kabuki brush from Bdellium's studio line is hand-crafted with a yellow wood handle and an aluminum ferrule. Hand-crafted brushes. Professional anti-bacterial brushes. Eco-friendly products.",
+    "itemID": "B002UL10HO",
+    "helpful": [
+      2,
+      2
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 46445
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Tools & Accessories",
+        "Makeup Brushes & Tools",
+        "Brushes & Applicators"
+      ]
+    ],
+    "price": 14.99,
+    "brand": "Bdellium Tools"
+  }
+]

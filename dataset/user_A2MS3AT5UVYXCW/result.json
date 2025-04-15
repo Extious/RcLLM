@@ -1,0 +1,47 @@
+[
+  {
+    "title": "BaByliss Pro BABP2800 Porcelain Ceramic 2000-Watt Dryer, Black",
+    "description": "BaByliss PRO Super Turbo Professional Commercial Grade Porcelain Ceramic 2000 Watt Hair Dryer with ionic technology emits negative ions eliminate static, reduces drying time. Ceramic generates far infrared heat to protect hair's luster.",
+    "itemID": "B001UHN0I6",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 114
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Hair Dryers"
+      ]
+    ],
+    "price": 53.0,
+    "brand": "BaBylissPRO"
+  },
+  {
+    "title": "Keratin Coppola Complex Care Shampoo &amp; Conditioner 33.8 oz",
+    "description": "Keratin protein sodium chloride free formula wheat and soy protein oils protects the hair from the heat",
+    "itemID": "B003LS7EFC",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 6054
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoo & Conditioner Sets"
+      ]
+    ],
+    "price": 53.06,
+    "brand": "Keratin Coppola Complex"
+  }
+]

@@ -1,0 +1,120 @@
+[
+  {
+    "title": "Pantene Pro-V Smooth Conditioner 12.6 Fl Oz (Pack of 6) (packaging may vary)",
+    "description": "",
+    "itemID": "B003JA5OJA",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 277676
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Conditioners"
+      ]
+    ],
+    "price": 25.75,
+    "brand": "Pantene"
+  },
+  {
+    "title": "Vaseline, Total Moisture, Cocoa Radiant, Body Lotion, 20.3 oz Bottle (Pack of 3)",
+    "description": "",
+    "itemID": "B001ECQ5CA",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 52457
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Lotions"
+      ]
+    ],
+    "price": 17.96,
+    "brand": "Vaseline"
+  },
+  {
+    "title": "Remington D3020 Volume and Shine Hair Dryer",
+    "description": "Get more from your ionic, ceramic hair dryer with the Remington Extreme Volume and Shine Hair Dryer. The ionic generator creates 90% more conditioning ions, leaving you frizz-free. Take your hair to new heights with the 1875-watt motor while ceramic technology provides optimal shine. Diffuser and concentrator attachments along with 3 heat and 2 speed settings, give you the flexibility to create multiple styles while the cool shot feature holds your look in place.",
+    "itemID": "B00AILKE6G",
+    "helpful": [
+      0,
+      1
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 50766
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Hair Dryers"
+      ]
+    ],
+    "price": 24.03,
+    "brand": "Remington"
+  },
+  {
+    "title": "Jergens BB Body Cream for lighter Skin Tones, 7.5 Ounce",
+    "description": "",
+    "itemID": "B00GLS5DKM",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 1836
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Lotions"
+      ]
+    ],
+    "price": 11.45,
+    "brand": "Jergens"
+  },
+  {
+    "title": "Olay Total Effects 7 in one, Anti-Aging Moisturizer With SPF 30, 1.7 Fluid Ounce",
+    "description": "Count on Olay Total Effects 7-in-1 Anti-Aging SPF 30 Moisturizer, the only all-in-one, daily moisturizer that protects your skin with Total Effects highest level of SPF. Created with SolaSheer Technology, you can confidently begin your day protected from the suns harmful UVA/UVB rays, as well as their aging effects. Plus, with daily use, youll see a reduction in the appearance of fine lines, wrinkles, age spots and pores, all while smoothing and evening the texture of your skin. Start your day off beautifully with our dermatologist-tested moisturizer. Its oil-free and quick absorbing, so you can protect your skin against rays and signs of age with Olay Total Effects.",
+    "itemID": "B00HB2JQNM",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 5092
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Creams & Moisturizers",
+        "Fluids & Lotions",
+        "Lotions"
+      ]
+    ],
+    "price": 15.0,
+    "brand": "Olay"
+  }
+]

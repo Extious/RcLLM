@@ -1,0 +1,70 @@
+[
+  {
+    "title": "Infiniti Pro by Conair 3-in-1 Hair Styler",
+    "description": "Top technology and attachments that lock securely into place make this Infiniti by Conair 1875W hot-air styler perfect for all of today's hottest looks.  The swivel cord never gets in the way.  Salon results without the Salon from Infiniti by Conair.",
+    "itemID": "B001330XFA",
+    "helpful": [
+      14,
+      19
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 903
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Hot-Air Brushes"
+      ]
+    ],
+    "price": 28.75,
+    "brand": "Conair"
+  },
+  {
+    "title": "Nexxus ProMend Leavein Treatment Cr&egrave;me, 4.8 Ounce",
+    "description": "",
+    "itemID": "B004H4VQ4Y",
+    "helpful": [
+      2,
+      3
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 5788
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Hair & Scalp Treatments"
+      ]
+    ],
+    "price": 4.26,
+    "brand": "Nexxus"
+  },
+  {
+    "title": "John Frieda Frizz Ease 3-Day Straight Styling Spray, 3.5 Fluid Ounce",
+    "description": "Frizz ease 3-day straight semi-permanent styling spray 3.5 fluid ounce creates visibly straighter hair for up to 3 days.",
+    "itemID": "B004DKAYUE",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Beauty": 3394
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Hair Sprays"
+      ]
+    ],
+    "price": 7.77,
+    "brand": "John Frieda"
+  }
+]

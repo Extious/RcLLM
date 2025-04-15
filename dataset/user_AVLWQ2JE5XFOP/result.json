@@ -1,0 +1,93 @@
+[
+  {
+    "title": "O'Keeffe's Working Hands Cream, 3.4 oz.",
+    "description": NaN,
+    "itemID": "B00121UVU0",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": NaN,
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Hands & Nails",
+        "Hand Creams & Lotions"
+      ]
+    ],
+    "price": 7.32,
+    "brand": "O&#39;Keeffe&#39;s Company"
+  },
+  {
+    "title": "Remington S5500 Digital Anti Static 1 Inch Ceramic Hair Straightener",
+    "description": "Say goodbye to frizz and fly-aways while boosting style control with remingtons s-5500 one inch digital heat ceramic flat iron. infused anti-static technology reduces the amount of negatively charged particles during styling and allows for 50% more static control. the thirty second instant heat up will reach the salon high heat temperature of 410 degrees fahrenheit. one hour automatic shut off, 2 limited year warranty, and floating plates.",
+    "itemID": "B003S516XO",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 58
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Irons",
+        "Flattening Irons"
+      ]
+    ],
+    "price": 14.89,
+    "brand": "Remington"
+  },
+  {
+    "title": "Revlon RV544PKF 1875W Tourmaline Ionic Ceramic Dryer",
+    "description": "Revlon 1875 Watt Tourmaline Ionic Lightweight Dryer feature Tourmaline Ionic Technology for ultimate shine, volume, and healthier looking styles. This dryer features an ion indicator light, separate heat and speed rocker switches, 2 heat/2 speed settings, cold shot button, hinged endcap, anti-skid bumpers, and concentrator and finger diffuser attachments. This ultra lightweight design is 25% lighter than your average dryer and has a sleek and upscale spray finish. This unit is super quiet and fast drying.",
+    "itemID": "B000FS05VG",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 6
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Hair Dryers"
+      ]
+    ],
+    "price": 23.92,
+    "brand": "Revlon"
+  },
+  {
+    "title": "Conair Anti Static Thermal Round Brush, Large, Colors May Vary",
+    "description": "Conair anti-static vented thermal round brush is specially designed to control fly-away hair while blow dry styling. the ceramic-coated vented barrel is specially designed for blow drying and circulates air througout hair for faster styling without overdrying and frizz. thermal surface heats and provides drying inside and out. bristle spacing on the head is designed to provide more air circulation and create maximum lift. ribbed soft grip tapered handle gives better control and no slipping. smooth or straighten curly or wavy hair. create soft curls and add shape to straight hair.",
+    "itemID": "B001T8M9VA",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 14770
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Brushes"
+      ]
+    ],
+    "price": 7.99,
+    "brand": "Conair"
+  }
+]

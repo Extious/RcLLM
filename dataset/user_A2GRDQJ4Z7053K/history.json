@@ -1,0 +1,73 @@
+[
+  {
+    "title": "John Frieda Volume Curls 1&frac12; Inch  Curling Iron",
+    "description": "",
+    "itemID": "B004YZMKLE",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 24975
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Irons",
+        "Curling Irons"
+      ]
+    ],
+    "price": 15.99,
+    "brand": "John Frieda"
+  },
+  {
+    "title": "Infiniti Pro by Conair 1 Inch  Tourmaline Ceramic Flat Iron",
+    "description": "",
+    "itemID": "B004INQ65S",
+    "helpful": [
+      10,
+      16
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 2417
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Irons",
+        "Flattening Irons"
+      ]
+    ],
+    "price": 25.89,
+    "brand": "Conair"
+  },
+  {
+    "title": "Suave Suave Kids Cherry Vanilla Bop Mousse, 7 Ounce",
+    "description": "",
+    "itemID": "B00A0IWTBA",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 37257
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Products",
+        "Mousses & Foams"
+      ]
+    ],
+    "price": 7.48,
+    "brand": "Suave"
+  }
+]

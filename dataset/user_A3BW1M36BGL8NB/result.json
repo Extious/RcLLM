@@ -1,0 +1,168 @@
+[
+  {
+    "title": "Smoothies Bungee Bands-Brown 32322",
+    "description": "Great accessory to any hair wardrobe",
+    "itemID": "B003C1LYZO",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 22154
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools"
+      ]
+    ],
+    "price": 3.5,
+    "brand": "Smoothies"
+  },
+  {
+    "title": "Magic-Grip Hairpins",
+    "description": "Good Hair Days Magic-Grip Hairpins are a quality combination of superior, flexible plastic material and unique hairpin design that holds lots of hair.",
+    "itemID": "B003JN5ZEG",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 36383
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Styling Accessories",
+        "Hair Pins"
+      ]
+    ],
+    "price": 7.7,
+    "brand": "Good Hair Days"
+  },
+  {
+    "title": "L'Oreal Paris Sublime Bronze Self-Tanning Towelettes for Body, 6 CT",
+    "description": "Convenient and easy to use, these Sublime Bronze Towelettes for Body create a streak-free, natural looking tan. With enough self-tanner for one application, each towelette is perfect for at home or on the go. Made with Vitamin E and gentle Alpha Hydroxyl Acid (AHA) derivative to provide beautiful, 100% natural-looking tan and ultra-smooth skin.  Your tan will be two shades darker than your natural skin tone. Results may vary. Continue to use Sublime Bronze until you have reached your desired level of tan.",
+    "itemID": "B000GG2HOU",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 1105
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Sun",
+        "Self-Tanners & Bronzers"
+      ]
+    ],
+    "price": 4.51,
+    "brand": "L&#39;Oreal Paris"
+  },
+  {
+    "title": "Cetaphil Restoraderm Skin Restoring Moisturizer, 10-Fluid Ounces",
+    "description": "",
+    "itemID": "B003TQU1Q0",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 33
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Creams & Moisturizers",
+        "Fluids & Lotions",
+        "Fluids"
+      ]
+    ],
+    "price": 10.11,
+    "brand": "Cetaphil"
+  },
+  {
+    "title": "Ocean Potion Skincare Everglow Daily Moisturizer -- 20.5 fl oz",
+    "description": "Ocean Potion Ever Glow Daily Moisturizing Lotion is designed to maintain already developed color or create a subtle summer color for light and medium skin tones. Rich natural emollient improve the texture of the skin while enhancing shade retention. Also includes aloe vera, anti-oxidant vitamins A, C, and E to advance skin health. Now ever glowing, healthy skin is yours to keep 365 days a year, TRY IT... YOU'LL LOVE IT!",
+    "itemID": "B002T5OBO0",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 4838
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Body",
+        "Moisturizers",
+        "Lotions"
+      ]
+    ],
+    "price": 9.0,
+    "brand": "Ocean Potion"
+  },
+  {
+    "title": "Remington S7230 Wet 2 Straight Flat Iron with Soy Hydra Complex, 2 Inch",
+    "description": "",
+    "itemID": "B009HKAWFC",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 817
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Irons",
+        "Flattening Irons"
+      ]
+    ],
+    "price": 24.84,
+    "brand": "Remington"
+  },
+  {
+    "title": "Helen of Troy 1514 Brush Iron, White, 1 1/2 Inches Barrel",
+    "description": "Helen of Troy Professional Brush Iron features a patented ring system that sets curls quickly. 30 watts. Dual heat settings. 8&#x2019; cord. 1 1/2&#x201D;",
+    "itemID": "B00011QUDE",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Beauty": 4215
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Irons",
+        "Curling Irons"
+      ]
+    ],
+    "price": 16.95,
+    "brand": "Helen Of Troy"
+  }
+]

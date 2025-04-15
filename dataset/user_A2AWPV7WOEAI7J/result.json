@@ -1,0 +1,48 @@
+[
+  {
+    "title": "Redken All Soft Conditioner Unisex Conditioner, 8.5 Ounce",
+    "description": "ALL SOFT CONDITIONER FOR DRY BRITTLE HAIR 8.5 OZ Design House: Redken",
+    "itemID": "B0002JNRCC",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 101398
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Conditioners"
+      ]
+    ],
+    "price": 9.59,
+    "brand": "Redken"
+  },
+  {
+    "title": "OGX Flat Iron Spray, Ever Straight Brazilian Keratin Therapy, 6oz",
+    "description": "It's an amazing keratin therapy originating from the Amazon rainforest.",
+    "itemID": "B004KAVHG2",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 3.0,
+    "salesRank": {
+      "Beauty": 4380
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Irons",
+        "Flattening Irons"
+      ]
+    ],
+    "price": 7.59,
+    "brand": "OGX"
+  }
+]

@@ -1,0 +1,70 @@
+[
+  {
+    "title": "Shiseido FT Senganseka Hypoallergenic Perfect Oil Facial Cleansing Oil - 150ml",
+    "description": "Hypoallergenic facial cleanser penetrates deeply, dissolves dirt, makeup, even waterproof mascara. Works on wet or dry skin, leaves no greasy residue.Product Size:Net Volume: 150ml (about 5 US fl oz) in a convenient pump bottle.",
+    "itemID": "B000FQNOQG",
+    "helpful": [
+      2,
+      3
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Beauty": 12380
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Oils & Serums"
+      ]
+    ],
+    "price": 12.58,
+    "brand": "SENGANSENKA"
+  },
+  {
+    "title": "Kerastase Reflection Chroma Riche Luminous Softening Essence, 4.2 Ounce",
+    "description": "A lightening suppling essence. Developed with Aqua-Ionic System. Replenishes hair fiber with micro prisms light refractors. Loaded with UV filters vitamin E Shields from UV rays photo-oxidation related damage Strengthens hair color",
+    "itemID": "B0016L0VHE",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 56683
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 25.99,
+    "brand": "Kerastase"
+  },
+  {
+    "title": "e.l.f. Studio Eyeshadow &quot;C&quot; Brush",
+    "description": "Creates the perfect smokey eye. The medium size brush gives more control for more specific blending needs. Use with any powder eyeshadow product for color blending.",
+    "itemID": "B002B4JP90",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 49751
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Tools & Accessories",
+        "Makeup Brushes & Tools",
+        "Brushes & Applicators"
+      ]
+    ],
+    "price": 4.95,
+    "brand": "e.l.f. Cosmetics"
+  }
+]

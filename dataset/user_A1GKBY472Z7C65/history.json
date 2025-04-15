@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Burt's Bees Super Shiny Natural Lip Gloss, Sweet Pink",
+    "description": "100% Natural. Moisturizes like a balm, with a juicy fruit flavor and a sheer color gloss. Not tested on animals.",
+    "itemID": "B0018QNSUO",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 230462
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Lips",
+        "Lip Glosses"
+      ]
+    ],
+    "price": 6.93,
+    "brand": "Burt&#39;s Bees"
+  },
+  {
+    "title": "[Latest Edition] My Beauty Diary Mask (10pcs) - (Lemon Vit-C)",
+    "description": "My Beauty Diary Vit-C Mask contains Mediterranean lemon essence, luxury repair elements and nourished essence. It can activate the energy of skin, accelerate the regeneration and repair,improve the power of defense, and rebuild the skin texture and density.",
+    "itemID": "B008134WZ2",
+    "helpful": [
+      1,
+      2
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 53730
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Treatments & Masks",
+        "Masks"
+      ]
+    ],
+    "price": 11.0,
+    "brand": NaN
+  },
+  {
+    "title": "Phillips Light Touch 1 Cushion Hair Brush",
+    "description": "The Phillips Light Touch #1 Hairbrush is a full size brush that measures 8 1/2\" long. This lightweight model features an oval cushion and contour handle, single strands of ball tipped bristles, and hand glued cushions. Ivory colored. Made in France.",
+    "itemID": "B00015HBD8",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 6649
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Styling Tools",
+        "Brushes"
+      ]
+    ],
+    "price": 12.94,
+    "brand": "Philips"
+  }
+]

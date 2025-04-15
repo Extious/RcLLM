@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Mavala Stop - Helps Cure Nail Biting and Thumb Sucking, 0.3-Fluid Ounce",
+    "description": "A transparent formula with a distinct bitter taste to discourage from nail biting and putting fingers into mouth.",
+    "itemID": "B0000YUXI0",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 16
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Hands & Nails",
+        "Cuticle Care",
+        "Cuticle Creams & Oils"
+      ]
+    ],
+    "price": 10.59,
+    "brand": "MAVALA"
+  },
+  {
+    "title": "OPI Nail Polish, Top Coat, 0.5-Ounce",
+    "description": "Buy OPI Nail & Cuticle Treatments - OPI Top Coat 15ml/0.5oz",
+    "itemID": "B00178VX50",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 1142
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Nails",
+        "Nail Polish"
+      ]
+    ],
+    "price": 6.1,
+    "brand": "OPI"
+  },
+  {
+    "title": "OPI Dulce De Leche",
+    "description": "CLASSIC OPI NAIL LACQUERS Dulce de Leche NLA15",
+    "itemID": "B0017QKAFG",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 2293
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Nails",
+        "Nail Polish"
+      ]
+    ],
+    "price": 6.89,
+    "brand": "OPI"
+  }
+]

@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Nivea for Men Energy Face Scrub, 4.4 Ounce Tube",
+    "description": "",
+    "itemID": "B00006K14U",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": NaN,
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Exfoliators & Scrubs",
+        "Scrubs"
+      ]
+    ],
+    "price": 7.94,
+    "brand": "Nivea Men"
+  },
+  {
+    "title": "World Pride Nail Cuticle Nipper with Trimmers Pusher ** Pack of 3",
+    "description": "Package included:1 of Nail Cuticle Nipper2 of Nail Files With Plastic Packages",
+    "itemID": "B007CVLI9M",
+    "helpful": [
+      1,
+      2
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 7206
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Tools & Accessories",
+        "Nail Tools",
+        "Clippers & Trimmers"
+      ]
+    ],
+    "price": 1.33,
+    "brand": "World Pride"
+  },
+  {
+    "title": "Dove Men+Care Sensitive + Face Wash, 5 Ounces",
+    "description": "",
+    "itemID": "B00A0J09G6",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 6095
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Cleansers",
+        "Washes"
+      ]
+    ],
+    "price": 6.69,
+    "brand": "Dove"
+  }
+]

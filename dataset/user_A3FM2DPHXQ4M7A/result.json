@@ -1,0 +1,46 @@
+[
+  {
+    "title": NaN,
+    "description": NaN,
+    "itemID": "B001MP0T2Q",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 4.0,
+    "salesRank": NaN,
+    "categories": [
+      [
+        "Beauty",
+        "Tools & Accessories",
+        "Nail Tools",
+        "Nail Brushes"
+      ]
+    ],
+    "price": NaN,
+    "brand": NaN
+  },
+  {
+    "title": "American Classic Gelous Nail Gel Base Coat Nail Polish",
+    "description": "Gelous Nail Gel is a keratin-rich product that will fortify the nail naturally and add thickness. Nails will be protected by a barrier that this gel will create around the nail. Helps nails to be healthier and stronger.",
+    "itemID": "B00B8KWFJU",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Health & Personal Care": 1672
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Nails",
+        "Top & Base Coats"
+      ]
+    ],
+    "price": 5.95,
+    "brand": NaN
+  }
+]

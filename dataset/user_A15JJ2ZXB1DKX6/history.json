@@ -1,0 +1,74 @@
+[
+  {
+    "title": "The Body Shop Tea Tree Skin Clearing Facial Wash Regular, 8.4-Fluid Ounce",
+    "description": "Prevent blemishes and remove excess oil with our refreshing gel-based facial wash that won't over-dry your skin and is perfect for daily use. Our Tea tree range contains Lemon tea tree and Community Trade Tea tree oil which fight blemishes and help prevent new ones from forming. Tamanu oil has a soothing effect and helps to calm irritation and redness.",
+    "itemID": "B002K8W58K",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 1073
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Cleansers",
+        "Washes"
+      ]
+    ],
+    "price": 5.15,
+    "brand": "The Body Shop"
+  },
+  {
+    "title": "Garnier The Radiance Renewer Cleansing Gelee for Dull Skin, 8 Fluid Ounce",
+    "description": "Dermatologist tested for safety. Oil-free. Gentle on skin.",
+    "itemID": "B00BCRO55Q",
+    "helpful": [
+      2,
+      2
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 9529
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Cleansers",
+        "Gels"
+      ]
+    ],
+    "price": 13.95,
+    "brand": "Garnier"
+  },
+  {
+    "title": "Cetaphil Dermacontrol Moisturizer SPF 30, 4 Fluid Ounce",
+    "description": "",
+    "itemID": "B006L2137U",
+    "helpful": [
+      2,
+      2
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 265
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Sunscreens & Self Tanners",
+        "Sunscreens"
+      ]
+    ],
+    "price": 18.39,
+    "brand": "Cetaphil"
+  }
+]

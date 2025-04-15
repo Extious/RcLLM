@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Jan Marini Face C-esta Serum 1 Oz",
+    "description": "C-ESTA Line\nUnparalleled Skin Care Management\n\nMedical research has established that vitamin C plays an essential role in every aspect of the skin's functioning, including protection from UV damage and repair of cumulative sun-induced aging factors. It has also been proven that for vitamin C to be present in the skin in medically efficacious levels, it must be transported into cells through topical application.\n\nThe Power Behind C-ESTA: Ascorbyl Palmitate and DAE Complex\n\nC-ESTA is a complex technology that involves stabilization, optimum skin absorption, adequate activity levels, and documented studies on human tissue that substantiate actual physiological changes. The C-ESTA Fact Sheet presents an overview about C-ESTA methods of action, its effectiveness as compared to other forms of vitamin C, and its specific benefits. The Fact Sheet focuses on C-ESTA's two distinct modes of action: Ascorbyl Palmitate and DAE Complex. Read the C-ESTA Fact Sheet.",
+    "itemID": "B003WXJD28",
+    "helpful": [
+      14,
+      16
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 2541
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Oils & Serums"
+      ]
+    ],
+    "price": 38.38,
+    "brand": "Jan Marini"
+  },
+  {
+    "title": "Obagi Medical Clenziderm M.D. Pore Therapy Salicylic Acid 2% Acne Treatment, 4-Ounce Bottle",
+    "description": "Unclogs pores and clears dead skin cells while preparing skin to deeply absorb a liquified serum that targets acne at its source. 2% Salicylic Acid eliminates residue on the skin and minimizes blemishes.",
+    "itemID": "B001CJJ5XG",
+    "helpful": [
+      3,
+      4
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 2249
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Treatments & Masks"
+      ]
+    ],
+    "price": 22.92,
+    "brand": "Obagi Medical"
+  },
+  {
+    "title": "Clarisonic Gentle Hydro Cleanser, 6 Ounce",
+    "description": "A pH-balanced non-foamin cleanser enriched with antioxidants Japanese Green Tea and Vitamin E to leave skin feeling and looking smoother when used with the Clarisonic Skin Care Brush",
+    "itemID": "B0018C6V98",
+    "helpful": [
+      3,
+      3
+    ],
+    "overall": 4.0,
+    "salesRank": {
+      "Beauty": 81011
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Cleansers"
+      ]
+    ],
+    "price": 25.0,
+    "brand": NaN
+  }
+]

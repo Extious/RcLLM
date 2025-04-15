@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Maybelline New York Great Lash Clear Mascara for Lash and Brow 110, 0.44 Fluid Ounce",
+    "description": "Perfectly separates for a natural look. Use it on lashes or to set brows.",
+    "itemID": "B001KYQA1S",
+    "helpful": [
+      1,
+      1
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 482
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Eyes",
+        "Mascara"
+      ]
+    ],
+    "price": 12.95,
+    "brand": "Maybelline"
+  },
+  {
+    "title": "L'Oreal Paris EverSleek Sulfate-Free Smoothing System Reparative Smoothing Shampoo, 8.5 Fluid Ounce",
+    "description": "Repairative Smoothing Shampoo",
+    "itemID": "B0047ELN2O",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 960
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Hair Care",
+        "Shampoos"
+      ]
+    ],
+    "price": 7.99,
+    "brand": "L&#39;Oreal Paris"
+  },
+  {
+    "title": "Vivo Per Lei Moisturizing Day Cream, 1.7-Fluid Ounce",
+    "description": "Luxuriously light day cream provides immediate day-long moisture and replenishment, leaving skin looking and feeling softer and more radiant",
+    "itemID": "B003SSTKHU",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 2848
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Skin Care",
+        "Face",
+        "Creams & Moisturizers",
+        "Day Creams"
+      ]
+    ],
+    "price": 8.99,
+    "brand": "Vivo Per Lei"
+  }
+]

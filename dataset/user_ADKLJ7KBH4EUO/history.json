@@ -1,0 +1,70 @@
+[
+  {
+    "title": "Coastal Scents 10 Piece Professional Blush Palette",
+    "description": "This palette comes with 6 in a beautiful sheen of shimmer and 4 matte blushes.",
+    "itemID": "B002QFMY42",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 2.0,
+    "salesRank": {
+      "Beauty": 6568
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Blush"
+      ]
+    ],
+    "price": 12.29,
+    "brand": "Coastal Scents"
+  },
+  {
+    "title": "Coastal Scents 66 Color Lip Palette",
+    "description": "This lip palette comes with 66 colors in shimmer and matte. Each color is a little bit smaller than a dime.",
+    "itemID": "B002QFRFB4",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 62371
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Makeup Sets"
+      ]
+    ],
+    "price": 21.89,
+    "brand": "Coastal Scents"
+  },
+  {
+    "title": "Coastal Scents Eclipse Concealer Palette",
+    "description": "Finally! A perfect concealer palette that not only showcases 12 made to match shades, but also hosts 3 fantastic corrector concealers. This palette is designed for travel, but don't let it's size fool you. These 15 pans will give you a multitude of applications.",
+    "itemID": "B004M7WKKK",
+    "helpful": [
+      0,
+      0
+    ],
+    "overall": 5.0,
+    "salesRank": {
+      "Beauty": 889
+    },
+    "categories": [
+      [
+        "Beauty",
+        "Makeup",
+        "Face",
+        "Concealers & Neutralizers"
+      ]
+    ],
+    "price": 13.98,
+    "brand": "Coastal Scents"
+  }
+]
