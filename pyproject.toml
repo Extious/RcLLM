@@ -1,0 +1,38 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "rcllm"
+version = "1.0.0"
+description = "RcLLM+: Beyond-Prefix KV Caching with Depth-Bounded Selective Recomputation for Generative Recommendation"
+readme = "README.md"
+license = { text = "Apache-2.0" }
+requires-python = ">=3.10"
+authors = [
+    { name = "Zhan Zhao", email = "zhanzhao@comp.hkbu.edu.hk" },
+    { name = "Yuxin Wang", email = "yxwang@comp.hkbu.edu.hk" },
+    { name = "Long Zheng" },
+    { name = "Amelie Chi Zhou", email = "amelieczhou@comp.hkbu.edu.hk" },
+]
+dependencies = [
+    "numpy>=1.24",
+    "scipy>=1.10",
+    "pandas>=2.0",
+]
+
+[project.optional-dependencies]
+gpu = [
+    "torch>=2.4",
+    "transformers>=4.51",
+    "triton>=3.0",
+]
+dev = [
+    "pytest>=8.0",
+]
+
+[project.scripts]
+rcllm-sim = "simulator.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["rcllm*", "simulator*", "benchmarks*"]
